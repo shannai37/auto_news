@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>开发者资讯聚合</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            background: rgba(255,255,255,0.2);
+            padding: 10px 20px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+        }
+
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .filter-btn {
+            padding: 10px 20px;
+            border: none;
+            background: white;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.3s;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .filter-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }
+
+        .news-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .source-badge {
+            padding: 5px 12px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        .source-hn { background: #ff6600; }
+        .source-github { background: #24292e; }
+        .source-devto { background: #0a0a0a; }
+        .source-hf { background: #ff9d00; }
+        .source-v2ex { background: #778087; }
+        .source-juejin { background: #1e80ff; }
+
+        .card-time {
+            font-size: 0.8rem;
+            color: #999;
+        }
+
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #333;
+            line-height: 1.4;
+        }
+
+        .card-description {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 12px;
+            line-height: 1.5;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.85rem;
+            color: #999;
+            flex-wrap: wrap;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.2rem;
+            padding: 50px;
+        }
+
+        .error {
+            background: #ff4444;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 开发者资讯聚合</h1>
+            <p class="subtitle">一站式获取 AI、GitHub、技术文章等最新资讯</p>
+            <div class="stats">
+                <div class="stat-item">
+                    <strong id="totalCount">0</strong> 条资讯
+                </div>
+                <div class="stat-item">
+                    更新时间: <span id="updateTime">加载中...</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">全部</button>
+            <button class="filter-btn" data-filter="Hacker News">Hacker News</button>
+            <button class="filter-btn" data-filter="GitHub Trending">GitHub</button>
+            <button class="filter-btn" data-filter="Dev.to">Dev.to</button>
+            <button class="filter-btn" data-filter="Hugging Face">AI模型</button>
+            <button class="filter-btn" data-filter="V2EX">V2EX</button>
+        </div>
+
+        <div id="newsContainer">
+            <div class="loading">正在加载数据...</div>
+        </div>
+    </div>
+
+    <script>
+        let allNewsData = [];
+        let currentFilter = 'all';
+
+        // 加载数据
+        async function loadData() {
+            try {
+                const response = await fetch('./data/latest.json');
+                const result = await response.json();
+
+                allNewsData = result.data;
+
+                // 更新统计信息
+                document.getElementById('totalCount').textContent = result.totalCount;
+                document.getElementById('updateTime').textContent = result.updateTimeStr;
+
+                // 渲染新闻
+                renderNews(allNewsData);
+            } catch (error) {
+                document.getElementById('newsContainer').innerHTML =
+                    '<div class="error">加载数据失败，请确保已运行 npm run fetch 获取数据</div>';
+                console.error('加载数据失败:', error);
+            }
+        }
+
+        // 渲染新闻列表
+        function renderNews(newsData) {
+            const container = document.getElementById('newsContainer');
+
+            if (newsData.length === 0) {
+                container.innerHTML = '<div class="loading">暂无数据</div>';
+                return;
+            }
+
+            const html = newsData.map(item => {
+                const sourceClass = getSourceClass(item.source);
+                const timeStr = formatTime(item.time);
+
+                return `
+                    <div class="news-card" onclick="window.open('${item.url}', '_blank')">
+                        <div class="card-header">
+                            <span class="source-badge ${sourceClass}">${item.source}</span>
+                            <span class="card-time">${timeStr}</span>
+                        </div>
+                        <div class="card-title">${escapeHtml(item.title)}</div>
+                        ${item.description ? `<div class="card-description">${escapeHtml(item.description)}</div>` : ''}
+                        <div class="card-meta">
+                            ${item.author ? `<div class="meta-item">👤 ${escapeHtml(item.author)}</div>` : ''}
+                            ${item.score ? `<div class="meta-item">⭐ ${item.score}</div>` : ''}
+                            ${item.comments ? `<div class="meta-item">💬 ${item.comments}</div>` : ''}
+                            ${item.reactions ? `<div class="meta-item">❤️ ${item.reactions}</div>` : ''}
+                            ${item.language ? `<div class="meta-item">💻 ${item.language}</div>` : ''}
+                            ${item.node ? `<div class="meta-item">📁 ${escapeHtml(item.node)}</div>` : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            container.innerHTML = `<div class="news-grid">${html}</div>`;
+        }
+
+        // 获取数据源样式类
+        function getSourceClass(source) {
+            const map = {
+                'Hacker News': 'source-hn',
+                'GitHub Trending': 'source-github',
+                'Dev.to': 'source-devto',
+                'Hugging Face': 'source-hf',
+                'V2EX': 'source-v2ex',
+                '掘金': 'source-juejin'
+            };
+            return map[source] || 'source-hn';
+        }
+
+        // 格式化时间
+        function formatTime(timestamp) {
+            const now = Date.now();
+            const diff = now - timestamp;
+
+            const minutes = Math.floor(diff / 60000);
+            const hours = Math.floor(diff / 3600000);
+            const days = Math.floor(diff / 86400000);
+
+            if (minutes < 60) return `${minutes}分钟前`;
+            if (hours < 24) return `${hours}小时前`;
+            if (days < 7) return `${days}天前`;
+
+            return new Date(timestamp).toLocaleDateString('zh-CN');
+        }
+
+        // HTML转义
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // 筛选功能
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // 更新按钮状态
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                // 筛选数据
+                const filter = btn.dataset.filter;
+                currentFilter = filter;
+
+                const filteredData = filter === 'all'
+                    ? allNewsData
+                    : allNewsData.filter(item => item.source === filter);
+
+                renderNews(filteredData);
+            });
+        });
+
+        // 页面加载时获取数据
+        loadData();
+    </script>
+</body>
+</html>

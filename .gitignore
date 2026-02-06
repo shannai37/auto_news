@@ -1,0 +1,9 @@
+node_modules/
+data/*.json
+!data/.gitkeep
+.DS_Store
+*.log
+npm-debug.log*
+.env
+.vscode/
+.idea/

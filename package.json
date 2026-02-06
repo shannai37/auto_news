@@ -1,0 +1,19 @@
+{
+  "name": "dev-news-aggregator",
+  "version": "1.0.0",
+  "description": "程序员资讯聚合平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-sources.js",
+    "fetch": "node fetch-data.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["news", "developer", "aggregator"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "rss-parser": "^3.13.0"
+  }
+}
