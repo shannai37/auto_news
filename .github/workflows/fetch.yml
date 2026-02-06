@@ -1,39 +1,78 @@
-name: 自动抓取数据
+name: 数据抓取与部署
 
 on:
   schedule:
-    # 每小时运行一次（UTC时间）
-    - cron: '0 * * * *'
+    # 每天 UTC 0:00, 6:00, 12:00, 18:00 运行（北京时间 8:00, 14:00, 20:00, 2:00）
+    - cron: '0 0,6,12,18 * * *'
   workflow_dispatch: # 允许手动触发
 
+# 设置权限
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
-  fetch-data:
+  fetch-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
       - name: 检出代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: 设置 Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
+          cache: 'npm'
 
       - name: 安装依赖
         run: npm install
 
       - name: 抓取数据
+        env:
+          # AI 摘要配置（可选，在 GitHub Secrets 中设置）
+          AI_SUMMARY_ENABLED: ${{ secrets.AI_SUMMARY_ENABLED }}
+          AI_PROVIDER: ${{ secrets.AI_PROVIDER }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
         run: npm run fetch
 
-      - name: 提交数据
+      - name: 提交数据更新
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/latest.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "自动更新数据 $(date +'%Y-%m-%d %H:%M:%S')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "📊 数据更新 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
 
       - name: 推送更改
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+  # 部署到 GitHub Pages
+  deploy:
+    needs: fetch-and-deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: 拉取最新更改
+        run: git pull origin ${{ github.ref_name }}
+
+      - name: 设置 Pages
+        uses: actions/configure-pages@v4
+
+      - name: 上传 artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

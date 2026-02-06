@@ -1,81 +1,102 @@
-# 开发者资讯聚合平台
+# AI Dev Daily · 开发者情报台
 
-一个聚合程序员圈内最新资讯的平台，包括 AI 动态、GitHub 热点、技术文章等。
+面向年轻程序员的 AI×开发者情报聚合站，每天 10 分钟掌握 AI 开发动态。
 
-## 数据源
+## 特性
 
-- **Hacker News**: 技术讨论和创业资讯
-- **GitHub Trending**: 热门开源项目
-- **Dev.to**: 开发者技术博客
-- **Hugging Face**: AI 模型动态
-- **V2EX**: 国内技术社区讨论
-- **掘金**: 国内技术文章
+- **精选栏目**：今日必看 / 工具开源 / 工程实践 / 国内动态 / 论文速递 / 产品动态
+- **多源聚合**：GitHub Trending、Hacker News、arXiv、Dev.to、Hugging Face、机器之心、36氪、InfoQ
+- **AI 摘要**（可选）：英文内容自动生成中文摘要
+- **自动更新**：GitHub Actions 每 6 小时自动抓取
+- **零成本部署**：GitHub Pages 静态托管
 
 ## 快速开始
 
-### 1. 安装依赖
+### 本地运行
 
 ```bash
+# 安装依赖
 npm install
-```
 
-### 2. 测试数据源
-
-```bash
-npm test
-```
-
-这将测试所有6个数据源的可用性并显示示例数据。
-
-### 3. 获取数据
-
-```bash
+# 抓取数据
 npm run fetch
-```
 
-### 4. 启动本地预览
-
-```bash
+# 本地预览
 npm run dev
+# 或使用 http-server
+npx http-server -p 8080
 ```
 
-然后访问 http://localhost:3000
+然后访问 http://localhost:3000 或 http://localhost:8080
 
-## 部署方案
+### 部署到 GitHub Pages
 
-### 方案1: 全静态部署（推荐，零成本）
+1. Fork 本仓库
+2. 进入仓库 Settings → Pages
+3. Source 选择 "GitHub Actions"
+4. 手动触发一次 Actions 或等待自动运行
 
-- **数据抓取**: GitHub Actions 定时任务
-- **数据存储**: JSON 文件存储在仓库
-- **前端部署**: GitHub Pages 或 Vercel
-- **优点**: 完全免费，无需服务器
+## 配置 AI 摘要（可选）
 
-### 方案2: Serverless 部署
+如果你想启用英文内容的 AI 摘要功能：
 
-- **数据抓取**: Vercel Cron
-- **数据存储**: Vercel KV 或 Supabase
-- **前端部署**: Vercel
-- **优点**: 更灵活，支持实时更新
+1. 进入仓库 Settings → Secrets and variables → Actions
+2. 添加以下 Secrets：
+
+| Secret 名称 | 说明 | 示例值 |
+|------------|------|--------|
+| `AI_SUMMARY_ENABLED` | 是否启用 | `true` |
+| `AI_PROVIDER` | 提供商 | `openai` 或 `anthropic` |
+| `AI_API_KEY` | API 密钥 | `sk-xxx...` |
+| `AI_MODEL` | 模型名称 | `gpt-4o-mini` 或 `claude-3-haiku-20240307` |
+
+## 栏目说明
+
+| 栏目 | 内容 | 数据源 |
+|------|------|--------|
+| 今日必看 | AI 领域重要新闻 | Hacker News (AI 相关高分) |
+| 工具/开源 | 热门开源项目 | GitHub Trending, Hugging Face |
+| 工程实践 | 开发实战文章 | Dev.to, InfoQ |
+| 国内动态 | 国内 AI 资讯 | 机器之心, 36氪 |
+| 论文速递 | AI/ML 最新论文 | arXiv (cs.AI, cs.CL, cs.LG) |
+| 产品动态 | AI 新产品 | Product Hunt |
 
 ## 项目结构
 
 ```
 A_news/
+├── index.html            # 前端页面
+├── fetch-data.js         # 数据抓取脚本
+├── server.js             # 本地开发服务器
 ├── package.json          # 项目配置
-├── test-sources.js       # 数据源测试脚本
-├── fetch-data.js         # 数据抓取脚本（待创建）
-├── server.js             # 本地开发服务器（待创建）
-├── index.html            # 前端页面（待创建）
-├── data/                 # 数据存储目录
-│   └── latest.json       # 最新数据
+├── data/
+│   └── latest.json       # 抓取的数据
 └── .github/
     └── workflows/
-        └── fetch.yml     # GitHub Actions 配置
+        └── fetch.yml     # GitHub Actions 自动化
 ```
 
-## 下一步
+## 自定义
 
-1. 运行 `npm test` 查看数据源测试结果
-2. 根据测试结果调整数据源配置
-3. 创建前端展示页面
-4. 配置自动化部署
+### 修改抓取频率
+
+编辑 `.github/workflows/fetch.yml` 中的 cron 表达式：
+
+```yaml
+schedule:
+  - cron: '0 0,6,12,18 * * *'  # 每 6 小时
+```
+
+### 添加新数据源
+
+在 `fetch-data.js` 中添加新的抓取函数，参考现有的 `fetchXxx()` 函数格式。
+
+## 技术栈
+
+- 前端：纯 HTML/CSS/JS（无框架依赖）
+- 数据抓取：Node.js + axios + cheerio + rss-parser
+- 部署：GitHub Pages + GitHub Actions
+
+## License
+
+MIT
