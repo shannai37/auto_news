@@ -55,15 +55,35 @@ jobs:
   deploy:
     needs: fetch-and-deploy
     runs-on: ubuntu-latest
+    
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref }}
+          ref: main
 
       - name: 拉取最新更改
-        run: git pull origin ${{ github.ref_name }}
+        run: git pull origin main
+
+      - name: 验证数据文件
+        run: |
+          echo "检查数据文件..."
+          ls -la data/
+          if [ -f "data/latest.json" ]; then
+            echo "✓ 数据文件存在"
+            head -n 5 data/latest.json
+          else
+            echo "✗ 数据文件不存在"
+            exit 1
+          fi
 
       - name: 设置 Pages
         uses: actions/configure-pages@v4
