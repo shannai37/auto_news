@@ -1,0 +1,580 @@
+{
+  "updateTime": 1770371792904,
+  "updateTimeStr": "2026/2/6 17:56:32",
+  "totalCount": 154,
+  "daily": {
+    "mustRead": [],
+    "tools": [
+      {
+        "id": "gh-Polymarket-agents",
+        "title": "Polymarket/agents",
+        "url": "https://github.com/Polymarket/agents",
+        "description": "Trade autonomously on Polymarket using AI Agents",
+        "language": "Python",
+        "starsToday": "34 stars today",
+        "totalStars": "2,035",
+        "time": 1770371780119,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-JerBouma-FinanceDatabase",
+        "title": "JerBouma/FinanceDatabase",
+        "url": "https://github.com/JerBouma/FinanceDatabase",
+        "description": "This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.",
+        "language": "Python",
+        "starsToday": "27 stars today",
+        "totalStars": "6,898",
+        "time": 1770371780118,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-sgl-project-sglang",
+        "title": "sgl-project/sglang",
+        "url": "https://github.com/sgl-project/sglang",
+        "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+        "language": "Python",
+        "starsToday": "128 stars today",
+        "totalStars": "23,385",
+        "time": 1770371780118,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-qodo-ai-pr-agent",
+        "title": "qodo-ai/pr-agent",
+        "url": "https://github.com/qodo-ai/pr-agent",
+        "description": "🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.",
+        "language": "Python",
+        "starsToday": "18 stars today",
+        "totalStars": "10,077",
+        "time": 1770371780118,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-QwenLM-Qwen3-Coder",
+        "title": "QwenLM/Qwen3-Coder",
+        "url": "https://github.com/QwenLM/Qwen3-Coder",
+        "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
+        "language": "Python",
+        "starsToday": "78 stars today",
+        "totalStars": "15,335",
+        "time": 1770371780118,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-anthropics-skills",
+        "title": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "starsToday": "894 stars today",
+        "totalStars": "64,431",
+        "time": 1770371780117,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-GH05TCREW-pentestagent",
+        "title": "GH05TCREW/pentestagent",
+        "url": "https://github.com/GH05TCREW/pentestagent",
+        "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
+        "language": "Python",
+        "starsToday": "49 stars today",
+        "totalStars": "1,415",
+        "time": 1770371780117,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-CVHub520-X-AnyLabeling",
+        "title": "CVHub520/X-AnyLabeling",
+        "url": "https://github.com/CVHub520/X-AnyLabeling",
+        "description": "Effortless data labeling with AI support from Segment Anything and other awesome models.",
+        "language": "Python",
+        "starsToday": "15 stars today",
+        "totalStars": "8,096",
+        "time": 1770371780117,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-frappe-erpnext",
+        "title": "frappe/erpnext",
+        "url": "https://github.com/frappe/erpnext",
+        "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+        "language": "Python",
+        "starsToday": "45 stars today",
+        "totalStars": "31,556",
+        "time": 1770371780117,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-chenyme-grok2api",
+        "title": "chenyme/grok2api",
+        "url": "https://github.com/chenyme/grok2api",
+        "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
+        "language": "Python",
+        "starsToday": "71 stars today",
+        "totalStars": "1,075",
+        "time": 1770371780116,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-nvm-sh-nvm",
+        "title": "nvm-sh/nvm",
+        "url": "https://github.com/nvm-sh/nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "starsToday": "101 stars today",
+        "totalStars": "91,424",
+        "time": 1770371779614,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-linshenkx-prompt-optimizer",
+        "title": "linshenkx/prompt-optimizer",
+        "url": "https://github.com/linshenkx/prompt-optimizer",
+        "description": "一款提示词优化器，助力于编写高质量的提示词",
+        "language": "TypeScript",
+        "starsToday": "51 stars today",
+        "totalStars": "19,525",
+        "time": 1770371779614,
+        "source": "GitHub",
+        "category": "github"
+      }
+    ],
+    "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/tabai-2",
+        "title": "TabAI",
+        "url": "https://www.producthunt.com/products/tabai-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1769977311000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/rentahuman-ai",
+        "title": "RentAHuman.ai",
+        "url": "https://www.producthunt.com/products/rentahuman-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770287566000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/openai",
+        "title": "OpenAI Frontier",
+        "url": "https://www.producthunt.com/products/openai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770305447000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/chamber-autopilot-for-ai-infrastructure",
+        "title": "Chamber: Autopilot for AI Infrastructure",
+        "url": "https://www.producthunt.com/products/chamber-autopilot-for-ai-infrastructure",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770182340000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/webflow",
+        "title": "Webflow AI site builder",
+        "url": "https://www.producthunt.com/products/webflow",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1769198292000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/sylvian-excel-agent",
+        "title": "Sylvian AI Forms",
+        "url": "https://www.producthunt.com/products/sylvian-excel-agent",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770274540000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/popair-the-native-ai-copilot-for-macos",
+        "title": "PopAir",
+        "url": "https://www.producthunt.com/products/popair-the-native-ai-copilot-for-macos",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770228326000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/therapist-ai-time-for-what-matters",
+        "title": "Therapist AI",
+        "url": "https://www.producthunt.com/products/therapist-ai-time-for-what-matters",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1769662570000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      }
+    ],
+    "practice": [
+      {
+        "id": "devto-3216141",
+        "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
+        "url": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
+        "description": "Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...",
+        "author": "Art light",
+        "tags": [
+          "programming",
+          "webdev",
+          "javascript",
+          "beginners"
+        ],
+        "reactions": 162,
+        "comments": 165,
+        "time": 1769933764000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3228463",
+        "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+        "url": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
+        "description": "The web platform is way more powerful than most developers realize — and every year it quietly gains...",
+        "author": "Sylwia Laskowska",
+        "tags": [
+          "webdev",
+          "frontend",
+          "javascript"
+        ],
+        "reactions": 123,
+        "comments": 53,
+        "time": 1770203113000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3216965",
+        "title": "Do We Even Need Backend Developers Anymore?",
+        "url": "https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg",
+        "description": "Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...",
+        "author": "Art light",
+        "tags": [
+          "programming",
+          "backend",
+          "developer",
+          "discuss"
+        ],
+        "reactions": 72,
+        "comments": 10,
+        "time": 1769952645000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3233006",
+        "title": "Your Microservices Aren’t Scalable. Your Database Is Just Crying.",
+        "url": "https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd",
+        "description": "When we first split our monolith into microservices, it felt like a victory.  Smaller services....",
+        "author": "Art light",
+        "tags": [
+          "microservices",
+          "database",
+          "architecture",
+          "webdev"
+        ],
+        "reactions": 64,
+        "comments": 10,
+        "time": 1770240274000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3234944",
+        "title": "The Junior Developer is Extinct (And we are creating a disaster)",
+        "url": "https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2",
+        "description": "I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...",
+        "author": "NorthernDev",
+        "tags": [
+          "career",
+          "ai",
+          "discuss",
+          "future"
+        ],
+        "reactions": 49,
+        "comments": 49,
+        "time": 1770296727000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3230200",
+        "title": "Moltbook Is Not an AI Society",
+        "url": "https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d",
+        "description": "Moltbook has been circulating as an \"AI-only social network\" where autonomous agents post, argue,...",
+        "author": "Richard Pascoe",
+        "tags": [
+          "discuss",
+          "ai"
+        ],
+        "reactions": 47,
+        "comments": 29,
+        "time": 1770194713000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3227855",
+        "title": "Why do you write?",
+        "url": "https://dev.to/itsugo/why-do-you-write-5bkf",
+        "description": "A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....",
+        "author": "Aryan Choudhary",
+        "tags": [
+          "discuss",
+          "programming",
+          "learning",
+          "mentalhealth"
+        ],
+        "reactions": 47,
+        "comments": 26,
+        "time": 1770183676000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3204123",
+        "title": "Above the API: What Developers Contribute When AI Can Code",
+        "url": "https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025",
+        "description": "An AI researcher told me something that won't leave my head:   \"If a human cannot outperform or...",
+        "author": "Daniel Nwaneri",
+        "tags": [
+          "ai",
+          "webdev",
+          "career",
+          "discuss"
+        ],
+        "reactions": 43,
+        "comments": 27,
+        "time": 1770094129000,
+        "source": "Dev.to",
+        "category": "practice"
+      }
+    ],
+    "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1S?utm_source=rss&utm_medium=article",
+        "title": "“16个Agent组队，两周干翻37年GCC”？！最强编码模型Claude Opus 4.6首秀，10万行Rust版C编译器跑通Linux内核还能跑Doom",
+        "url": "https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1S?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770395596000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&utm_medium=article",
+        "title": "TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent",
+        "url": "https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770395000000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&utm_medium=article",
+        "title": "奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单",
+        "url": "https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770392700000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/RGiNVO8YPDgTfZtOBHxN?utm_source=rss&utm_medium=article",
+        "title": "Cloudera发布2026 AI与数据技术趋势预测：标准化、可控化趋势成企业主流选择",
+        "url": "https://www.infoq.cn/article/RGiNVO8YPDgTfZtOBHxN?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770389414000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/NQxcDYglyKW4rwv876wE?utm_source=rss&utm_medium=article",
+        "title": "Cloudflare自动化Salt配置管理调试，减少发布延迟",
+        "url": "https://www.infoq.cn/article/NQxcDYglyKW4rwv876wE?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770386568000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/ZzvIZlrHj7PqMKQSuaqT?utm_source=rss&utm_medium=article",
+        "title": "Astro发布了版本6 Beta版，重新设计了开发服务器和一流的Cloudflare Workers",
+        "url": "https://www.infoq.cn/article/ZzvIZlrHj7PqMKQSuaqT?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770386400000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/io7H7PDc3ka8dTKOEfQk?utm_source=rss&utm_medium=article",
+        "title": "别再手动拼凑 Data Pipeline 了！这个新平台想让你彻底告别 Iceberg 运维噩梦",
+        "url": "https://www.infoq.cn/article/io7H7PDc3ka8dTKOEfQk?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770382942000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article",
+        "title": "Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！",
+        "url": "https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1770373166000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      }
+    ],
+    "papers": [
+      {
+        "id": "arxiv-2602.03900",
+        "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
+        "url": "https://arxiv.org/abs/2602.03900",
+        "description": "arXiv:2602.03900v1 Announce Type: new \nAbstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM reasoning, notably Chain-of-Thought (CoT); however, these techniques, too, have come under scrutiny as",
+        "author": "Erik Goh, John Kos, Ashok Goel",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.03950",
+        "title": "Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation",
+        "url": "https://arxiv.org/abs/2602.03950",
+        "description": "arXiv:2602.03950v1 Announce Type: new \nAbstract: Mathematical problem solving is a fundamental benchmark for assessing the reasoning capabilities of artificial intelligence and a gateway to applications in education, science, and engineering where reliable symbolic reasoning is essential. Although r",
+        "author": "Aditya Basarkar (DK), Benyamin Tabarsi (DK), Tiffany Barnes (DK),  Dongkuan (DK),  Xu",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.03955",
+        "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
+        "url": "https://arxiv.org/abs/2602.03955",
+        "description": "arXiv:2602.03955v1 Announce Type: new \nAbstract: While large language model (LLM) multi-agent systems achieve superior reasoning performance through iterative debate, practical deployment is limited by their high computational cost and error propagation. This paper proposes AgentArk, a novel framewo",
+        "author": "Yinyi Luo, Yiqiao Jin, Weichen Yu, Mengqi Zhang, Srijan Kumar, Xiaoxiao Li, Weijie Xu, Xin Chen, Jindong Wang",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.03974",
+        "title": "Active Epistemic Control for Query-Efficient Verified Planning",
+        "url": "https://arxiv.org/abs/2602.03974",
+        "description": "arXiv:2602.03974v1 Announce Type: new \nAbstract: Planning in interactive environments is challenging under partial observability: task-critical preconditions (e.g., object locations or container states) may be unknown at decision time, yet grounding them through interaction is costly. Learned world ",
+        "author": "Shuhui Qu",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.03975",
+        "title": "Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure",
+        "url": "https://arxiv.org/abs/2602.03975",
+        "description": "arXiv:2602.03975v1 Announce Type: new \nAbstract: Test-time computation has become a primary driver of progress in large language model (LLM) reasoning, but it is increasingly bottlenecked by expensive verification. In many reasoning systems, a large fraction of verifier calls are spent on redundant ",
+        "author": "Shuhui Qu",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.03978",
+        "title": "Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning",
+        "url": "https://arxiv.org/abs/2602.03978",
+        "description": "arXiv:2602.03978v1 Announce Type: new \nAbstract: As Large Reasoning Models (LRMs) are increasingly deployed, auditing their chain-of-thought (CoT) traces for safety becomes critical. Recent work has reported that monitorability--the degree to which CoT faithfully and informatively reflects internal ",
+        "author": "Zidi Xiong, Shan Chen, Himabindu Lakkaraju",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.04003",
+        "title": "When AI Persuades: Adversarial Explanation Attacks on Human Trust in AI-Assisted Decision Making",
+        "url": "https://arxiv.org/abs/2602.04003",
+        "description": "arXiv:2602.04003v1 Announce Type: new \nAbstract: Most adversarial threats in artificial intelligence target the computational behavior of models rather than the humans who rely on them. Yet modern AI systems increasingly operate within human decision loops, where users interpret and act on model rec",
+        "author": "Shutong Fan, Lan Zhang, Xiaoyong Yuan",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.04028",
+        "title": "Axiomatic Foundations of Counterfactual Explanations",
+        "url": "https://arxiv.org/abs/2602.04028",
+        "description": "arXiv:2602.04028v1 Announce Type: new \nAbstract: Explaining autonomous and intelligent systems is critical in order to improve trust in their decisions. Counterfactuals have emerged as one of the most compelling forms of explanation. They address ``why not'' questions by revealing how decisions coul",
+        "author": "Leila Amgoud, Martin Cooper",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.04089",
+        "title": "Scaling In-Context Online Learning Capability of LLMs via Cross-Episode Meta-RL",
+        "url": "https://arxiv.org/abs/2602.04089",
+        "description": "arXiv:2602.04089v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve strong performance when all task-relevant information is available upfront, as in static prediction and instruction-following problems. However, many real-world decision-making tasks are inherently online: crucial ",
+        "author": "Xiaofeng Lin, Sirou Zhu, Yilei Chen, Mingyu Chen, Hejian Sang, Ioannis Paschalidis, Zhipeng Wang, Aldo Pacchiano, Xuezhou Zhang",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.04101",
+        "title": "Interfaze: The Future of AI is built on Task-Specific Small Models",
+        "url": "https://arxiv.org/abs/2602.04101",
+        "description": "arXiv:2602.04101v1 Announce Type: new \nAbstract: We present Interfaze, a system that treats modern LLM applications as a problem of building and acting over context, not just picking the right monolithic model. Instead of a single transformer, we combine (i) a stack of heterogeneous DNNs paired with",
+        "author": "Harsha Vardhan Khurdula, Vineet Agarwal, Yoeven D Khemlani",
+        "time": 1770354000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      }
+    ]
+  },
+  "extra": {
+    "techNews": []
+  },
+  "meta": {
+    "aiSummaryEnabled": false,
+    "sources": [
+      "GitHub",
+      "arXiv",
+      "Dev.to",
+      "机器之心",
+      "36氪",
+      "InfoQ",
+      "Product Hunt"
+    ]
+  }
+}
