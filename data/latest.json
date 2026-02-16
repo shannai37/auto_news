@@ -1,6 +1,6 @@
 {
-  "updateTime": 1771247851969,
-  "updateTimeStr": "2026/2/16 21:17:31",
+  "updateTime": 1771268027889,
+  "updateTimeStr": "2026/2/17 02:53:47",
   "totalCount": 203,
   "daily": {
     "mustRead": [
@@ -8,8 +8,8 @@
         "id": "hn-47028013",
         "title": "I’m joining OpenAI",
         "url": "https://steipete.me/posts/2026/openclaw",
-        "score": 1158,
-        "comments": 857,
+        "score": 1329,
+        "comments": 1007,
         "author": "mfiguiere",
         "time": 1771192455000,
         "source": "Hacker News",
@@ -17,25 +17,37 @@
         "isAI": true
       },
       {
-        "id": "hn-47020191",
-        "title": "I love the work of the ArchWiki maintainers",
-        "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-        "score": 914,
-        "comments": 160,
-        "author": "panic",
-        "time": 1771118458000,
+        "id": "hn-47034192",
+        "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+        "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+        "score": 293,
+        "comments": 245,
+        "author": "dClauzel",
+        "time": 1771244911000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
       },
       {
-        "id": "hn-47026071",
-        "title": "Editor's Note: Retraction of article containing fabricated quotations",
-        "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
-        "score": 270,
-        "comments": 184,
-        "author": "bikenaga",
-        "time": 1771180194000,
+        "id": "hn-47032876",
+        "title": "Qwen3.5: Towards Native Multimodal Agents",
+        "url": "https://qwen.ai/blog?id=qwen3.5",
+        "score": 288,
+        "comments": 125,
+        "author": "danielhanchen",
+        "time": 1771234341000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47033622",
+        "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+        "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+        "score": 285,
+        "comments": 165,
+        "author": "beardyw",
+        "time": 1771239988000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,22 +56,10 @@
         "id": "hn-47004384",
         "title": "I gave Claude access to my pen plotter",
         "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
-        "score": 222,
-        "comments": 141,
+        "score": 273,
+        "comments": 180,
         "author": "futurecat",
         "time": 1770999358000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47026186",
-        "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
-        "url": "https://microgpt.boratto.ca",
-        "score": 217,
-        "comments": 23,
-        "author": "b44",
-        "time": 1771180835000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,32 +73,8 @@
         "description": "Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.",
         "language": "Python",
         "starsToday": "14 stars today",
-        "totalStars": "9,626",
-        "time": 1771247849564,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-lllyasviel-Fooocus",
-        "title": "lllyasviel/Fooocus",
-        "url": "https://github.com/lllyasviel/Fooocus",
-        "description": "Focus on prompting and generating",
-        "language": "Python",
-        "starsToday": "8 stars today",
-        "totalStars": "47,705",
-        "time": 1771247849563,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-davila7-claude-code-templates",
-        "title": "davila7/claude-code-templates",
-        "url": "https://github.com/davila7/claude-code-templates",
-        "description": "CLI tool for configuring and monitoring Claude Code",
-        "language": "Python",
-        "starsToday": "215 stars today",
-        "totalStars": "20,505",
-        "time": 1771247849563,
+        "totalStars": "9,633",
+        "time": 1771268025261,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +85,8 @@
         "description": "Free, open source crypto trading bot",
         "language": "Python",
         "starsToday": "90 stars today",
-        "totalStars": "46,832",
-        "time": 1771247849563,
+        "totalStars": "46,860",
+        "time": 1771268025260,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +97,8 @@
         "description": "Open Source Algo Trading Platform for Everyone",
         "language": "Python",
         "starsToday": "10 stars today",
-        "totalStars": "1,300",
-        "time": 1771247849563,
+        "totalStars": "1,303",
+        "time": 1771268025260,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +109,8 @@
         "description": "The best ChatGPT that $100 can buy.",
         "language": "Python",
         "starsToday": "102 stars today",
-        "totalStars": "43,444",
-        "time": 1771247849562,
+        "totalStars": "43,467",
+        "time": 1771268025259,
         "source": "GitHub",
         "category": "github"
       },
@@ -144,9 +120,33 @@
         "url": "https://github.com/home-assistant/core",
         "description": "🏡 Open source home automation that puts local control and privacy first.",
         "language": "Python",
-        "starsToday": "19 stars today",
-        "totalStars": "84,839",
-        "time": 1771247849562,
+        "starsToday": "27 stars today",
+        "totalStars": "84,848",
+        "time": 1771268025259,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-lllyasviel-Fooocus",
+        "title": "lllyasviel/Fooocus",
+        "url": "https://github.com/lllyasviel/Fooocus",
+        "description": "Focus on prompting and generating",
+        "language": "Python",
+        "starsToday": "8 stars today",
+        "totalStars": "47,706",
+        "time": 1771268025259,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-davila7-claude-code-templates",
+        "title": "davila7/claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "starsToday": "215 stars today",
+        "totalStars": "20,530",
+        "time": 1771268025259,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,8 +157,8 @@
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "starsToday": "162 stars today",
-        "totalStars": "14,185",
-        "time": 1771247849561,
+        "totalStars": "14,212",
+        "time": 1771268025258,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +169,8 @@
         "description": "Fully automatic censorship removal for language models",
         "language": "Python",
         "starsToday": "852 stars today",
-        "totalStars": "6,086",
-        "time": 1771247849561,
+        "totalStars": "6,283",
+        "time": 1771268025258,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,20 +181,8 @@
         "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
         "language": "Python",
         "starsToday": "140 stars today",
-        "totalStars": "23,884",
-        "time": 1771247849561,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-hummingbot-hummingbot",
-        "title": "hummingbot/hummingbot",
-        "url": "https://github.com/hummingbot/hummingbot",
-        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-        "language": "Python",
-        "starsToday": "315 stars today",
-        "totalStars": "16,247",
-        "time": 1771247849159,
+        "totalStars": "23,910",
+        "time": 1771268025258,
         "source": "GitHub",
         "category": "github"
       },
@@ -204,23 +192,26 @@
         "url": "https://github.com/letta-ai/letta-code",
         "description": "The memory-first coding agent",
         "language": "TypeScript",
-        "starsToday": "192 stars today",
-        "totalStars": "1,335",
-        "time": 1771247849158,
+        "starsToday": "51 stars today",
+        "totalStars": "1,391",
+        "time": 1771268025155,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-ruvnet-wifi-densepose",
+        "title": "ruvnet/wifi-densepose",
+        "url": "https://github.com/ruvnet/wifi-densepose",
+        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+        "language": "Python",
+        "starsToday": "344 stars today",
+        "totalStars": "6,718",
+        "time": 1771268025155,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
-      {
-        "id": "ph-https://www.producthunt.com/products/penguinbot-ai",
-        "title": "PenguinBot AI",
-        "url": "https://www.producthunt.com/products/penguinbot-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1771142380000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
       {
         "id": "ph-https://www.producthunt.com/products/jdoodle-ai",
         "title": "JDoodle.ai MCP",
@@ -231,11 +222,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/lunair",
-        "title": "Lunair",
-        "url": "https://www.producthunt.com/products/lunair",
+        "id": "ph-https://www.producthunt.com/products/penguinbot-ai",
+        "title": "PenguinBot AI",
+        "url": "https://www.producthunt.com/products/penguinbot-ai",
         "description": "Discussion\n            |\n            Link",
-        "time": 1770155653000,
+        "time": 1771142380000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -249,6 +240,15 @@
         "category": "ai-product"
       },
       {
+        "id": "ph-https://www.producthunt.com/products/lunair",
+        "title": "Lunair",
+        "url": "https://www.producthunt.com/products/lunair",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770155653000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
         "id": "ph-https://www.producthunt.com/products/mailmolt",
         "title": "MailMolt",
         "url": "https://www.producthunt.com/products/mailmolt",
@@ -258,20 +258,20 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/openai",
-        "title": "GPT‑5.3‑Codex‑Spark",
-        "url": "https://www.producthunt.com/products/openai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1770924395000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/lovon",
         "title": "Lovon AI Therapy",
         "url": "https://www.producthunt.com/products/lovon",
         "description": "Discussion\n            |\n            Link",
         "time": 1770676637000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/openai",
+        "title": "GPT‑5.3‑Codex‑Spark",
+        "url": "https://www.producthunt.com/products/openai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770924395000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -289,7 +289,7 @@
           "frontend",
           "webdev"
         ],
-        "reactions": 83,
+        "reactions": 84,
         "comments": 72,
         "time": 1770720187000,
         "source": "Dev.to",
@@ -307,8 +307,8 @@
           "ai",
           "webdev"
         ],
-        "reactions": 66,
-        "comments": 16,
+        "reactions": 70,
+        "comments": 17,
         "time": 1770987600000,
         "source": "Dev.to",
         "category": "practice"
@@ -325,7 +325,7 @@
           "webdev",
           "startup"
         ],
-        "reactions": 59,
+        "reactions": 60,
         "comments": 11,
         "time": 1770863400000,
         "source": "Dev.to",
@@ -350,6 +350,24 @@
         "category": "practice"
       },
       {
+        "id": "devto-3256702",
+        "title": "How a DEV Friend and I Brought Two Avatars to Life",
+        "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
+        "description": "I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...",
+        "author": "Aryan Choudhary",
+        "tags": [
+          "webdev",
+          "sideprojects",
+          "animation",
+          "react"
+        ],
+        "reactions": 51,
+        "comments": 28,
+        "time": 1771223502000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-3250444",
         "title": "Becoming 1% better each day.",
         "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
@@ -361,8 +379,8 @@
           "learning",
           "webdev"
         ],
-        "reactions": 36,
-        "comments": 20,
+        "reactions": 38,
+        "comments": 21,
         "time": 1770874759000,
         "source": "Dev.to",
         "category": "practice"
@@ -386,28 +404,10 @@
         "category": "practice"
       },
       {
-        "id": "devto-3256702",
-        "title": "How a DEV Friend and I Brought Two Avatars to Life",
-        "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
-        "description": "I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...",
-        "author": "Aryan Choudhary",
-        "tags": [
-          "webdev",
-          "sideprojects",
-          "animation",
-          "react"
-        ],
-        "reactions": 35,
-        "comments": 13,
-        "time": 1771223502000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3241235",
-        "title": "Build a Checkout Page",
-        "url": "https://dev.to/richardpascoe/build-a-checkout-page-43nj",
-        "description": "After a relaxed Sunday spent working through four theory lessons on Working with Accessible Media...",
+        "id": "devto-3250867",
+        "title": "HTML Accessibility Review",
+        "url": "https://dev.to/richardpascoe/html-accessibility-review-3md8",
+        "description": "The HTML Accessibility review on freeCodeCamp offered a valuable opportunity to revisit concepts from...",
         "author": "Richard Pascoe",
         "tags": [
           "community",
@@ -415,14 +415,34 @@
           "programming",
           "webdev"
         ],
-        "reactions": 34,
-        "comments": 8,
-        "time": 1770645619000,
+        "reactions": 35,
+        "comments": 9,
+        "time": 1770904813000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-16-6",
+        "title": "春晚极限验证，魔法原子秀出中国智造新高度",
+        "url": "https://www.jiqizhixin.com/articles/2026-02-16-6",
+        "description": "",
+        "time": 1771252056000,
+        "source": "机器之心",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-16-5",
+        "title": "魔法原子亮相《智造未来》 人机共舞秀出“中国智造”实力",
+        "url": "https://www.jiqizhixin.com/articles/2026-02-16-5",
+        "description": "",
+        "time": 1771248005000,
+        "source": "机器之心",
+        "category": "china-ai",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/hIHSjxraqSi1kJL2a7uQ?utm_source=rss&utm_medium=article",
         "title": "使用 AI 生成了 MVP，这对软件架构来说意味着什么",
@@ -481,26 +501,6 @@
         "time": 1771228800000,
         "source": "InfoQ",
         "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-16-2",
-        "title": "刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-16-2",
-        "description": "",
-        "time": 1771208017000,
-        "source": "机器之心",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-16",
-        "title": "单个LLM已不够？华盛顿大学开源多模型协同框架MoCo",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-16",
-        "description": "",
-        "time": 1771207817000,
-        "source": "机器之心",
-        "category": "china-ai",
         "isChina": true
       }
     ],
@@ -620,11 +620,23 @@
   "extra": {
     "techNews": [
       {
+        "id": "hn-47031580",
+        "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+        "url": "https://mastodon.world/@knowmadd/116072773118828295",
+        "score": 1214,
+        "comments": 753,
+        "author": "novemp",
+        "time": 1771223508000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
         "id": "hn-47025378",
         "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
         "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-        "score": 1067,
-        "comments": 716,
+        "score": 1166,
+        "comments": 770,
         "author": "giuliomagnifico",
         "time": 1771175418000,
         "source": "Hacker News",
@@ -635,8 +647,8 @@
         "id": "hn-47023238",
         "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
         "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-        "score": 871,
-        "comments": 598,
+        "score": 913,
+        "comments": 626,
         "author": "mikece",
         "time": 1771159337000,
         "source": "Hacker News",
@@ -647,22 +659,10 @@
         "id": "hn-47022891",
         "title": "I fixed Windows native development",
         "url": "https://marler8997.github.io/blog/fixed-windows/",
-        "score": 766,
-        "comments": 366,
+        "score": 782,
+        "comments": 373,
         "author": "deevus",
         "time": 1771154726000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47031580",
-        "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-        "url": "https://mastodon.world/@knowmadd/116072773118828295",
-        "score": 737,
-        "comments": 478,
-        "author": "novemp",
-        "time": 1771223508000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -671,22 +671,10 @@
         "id": "hn-47025851",
         "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
         "url": "https://modern-css.com",
-        "score": 524,
-        "comments": 209,
+        "score": 636,
+        "comments": 269,
         "author": "eustoria",
         "time": 1771178650000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47024907",
-        "title": "Hideki Sato, designer of all Sega's consoles, has died",
-        "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-        "score": 405,
-        "comments": 38,
-        "author": "magoghm",
-        "time": 1771172391000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -695,10 +683,22 @@
         "id": "hn-47025399",
         "title": "LT6502: A 6502-based homebrew laptop",
         "url": "https://github.com/TechPaula/LT6502",
-        "score": 371,
-        "comments": 178,
+        "score": 398,
+        "comments": 207,
         "author": "classichasclass",
         "time": 1771175555000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47034713",
+        "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+        "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+        "score": 377,
+        "comments": 250,
+        "author": "harel",
+        "time": 1771248607000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -707,22 +707,10 @@
         "id": "hn-47028227",
         "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
         "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-        "score": 314,
-        "comments": 206,
+        "score": 351,
+        "comments": 237,
         "author": "prophylaxis",
         "time": 1771193830000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47024506",
-        "title": "Gwtar: A static efficient single-file HTML format",
-        "url": "https://gwern.net/gwtar",
-        "score": 251,
-        "comments": 78,
-        "author": "theblazehen",
-        "time": 1771169826000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -731,10 +719,22 @@
         "id": "hn-46999285",
         "title": "Audio is the one area small labs are winning",
         "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
-        "score": 228,
-        "comments": 61,
+        "score": 294,
+        "comments": 90,
         "author": "rocauc",
         "time": 1770961185000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47024506",
+        "title": "Gwtar: A static efficient single-file HTML format",
+        "url": "https://gwern.net/gwtar",
+        "score": 280,
+        "comments": 83,
+        "author": "theblazehen",
+        "time": 1771169826000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
