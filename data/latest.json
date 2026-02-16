@@ -1,15 +1,15 @@
 {
-  "updateTime": 1771181150446,
-  "updateTimeStr": "2026/2/16 02:45:50",
-  "totalCount": 174,
+  "updateTime": 1771209837712,
+  "updateTimeStr": "2026/2/16 10:43:57",
+  "totalCount": 175,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47020191",
         "title": "I love the work of the ArchWiki maintainers",
         "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-        "score": 796,
-        "comments": 139,
+        "score": 879,
+        "comments": 158,
         "author": "panic",
         "time": 1771118458000,
         "source": "Hacker News",
@@ -17,37 +17,13 @@
         "isAI": true
       },
       {
-        "id": "hn-47015294",
-        "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-        "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-        "score": 560,
-        "comments": 237,
-        "author": "minimalthinker",
-        "time": 1771083347000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47017138",
-        "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-        "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-        "score": 542,
-        "comments": 347,
-        "author": "ninjagoo",
-        "time": 1771094792000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47012553",
-        "title": "OpenAI should build Slack",
-        "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-        "score": 230,
-        "comments": 283,
-        "author": "swyx",
-        "time": 1771055413000,
+        "id": "hn-47028013",
+        "title": "I’m joining OpenAI",
+        "url": "https://steipete.me/posts/2026/openclaw",
+        "score": 580,
+        "comments": 435,
+        "author": "mfiguiere",
+        "time": 1771192455000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,10 +32,34 @@
         "id": "hn-47022329",
         "title": "Two different tricks for fast LLM inference",
         "url": "https://www.seangoedecke.com/fast-llm-inference/",
-        "score": 133,
-        "comments": 61,
+        "score": 172,
+        "comments": 64,
         "author": "swah",
         "time": 1771147653000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47026071",
+        "title": "Editor's Note: Retraction of article containing fabricated quotations",
+        "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+        "score": 157,
+        "comments": 130,
+        "author": "bikenaga",
+        "time": 1771180194000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47026186",
+        "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+        "url": "https://microgpt.boratto.ca",
+        "score": 116,
+        "comments": 8,
+        "author": "b44",
+        "time": 1771180835000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,26 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-shiyu-coder-Kronos",
-        "title": "shiyu-coder/Kronos",
-        "url": "https://github.com/shiyu-coder/Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "starsToday": "33 stars today",
-        "totalStars": "10,535",
-        "time": 1771181148056,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-cheahjs-free-llm-api-resources",
         "title": "cheahjs/free-llm-api-resources",
         "url": "https://github.com/cheahjs/free-llm-api-resources",
         "description": "A list of free LLM inference resources accessible via API.",
         "language": "Python",
-        "starsToday": "219 stars today",
-        "totalStars": "11,164",
-        "time": 1771181148056,
+        "starsToday": "215 stars today",
+        "totalStars": "11,202",
+        "time": 1771209835319,
         "source": "GitHub",
         "category": "github"
       },
@@ -96,9 +84,9 @@
         "url": "https://github.com/karpathy/nanoGPT",
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
         "language": "Python",
-        "starsToday": "72 stars today",
-        "totalStars": "53,245",
-        "time": 1771181148056,
+        "starsToday": "68 stars today",
+        "totalStars": "53,266",
+        "time": 1771209835319,
         "source": "GitHub",
         "category": "github"
       },
@@ -108,21 +96,9 @@
         "url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
         "language": "Python",
-        "starsToday": "114 stars today",
-        "totalStars": "123,997",
-        "time": 1771181148056,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-plotly-dash",
-        "title": "plotly/dash",
-        "url": "https://github.com/plotly/dash",
-        "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
-        "language": "Python",
-        "starsToday": "6 stars today",
-        "totalStars": "24,479",
-        "time": 1771181148055,
+        "starsToday": "117 stars today",
+        "totalStars": "124,034",
+        "time": 1771209835319,
         "source": "GitHub",
         "category": "github"
       },
@@ -132,9 +108,9 @@
         "url": "https://github.com/mistralai/mistral-vibe",
         "description": "Minimal CLI coding agent by Mistral",
         "language": "Python",
-        "starsToday": "17 stars today",
-        "totalStars": "3,081",
-        "time": 1771181148055,
+        "starsToday": "18 stars today",
+        "totalStars": "3,092",
+        "time": 1771209835318,
         "source": "GitHub",
         "category": "github"
       },
@@ -144,9 +120,9 @@
         "url": "https://github.com/home-assistant/core",
         "description": "🏡 Open source home automation that puts local control and privacy first.",
         "language": "Python",
-        "starsToday": "21 stars today",
-        "totalStars": "84,825",
-        "time": 1771181148055,
+        "starsToday": "19 stars today",
+        "totalStars": "84,830",
+        "time": 1771209835318,
         "source": "GitHub",
         "category": "github"
       },
@@ -156,33 +132,21 @@
         "url": "https://github.com/The-Pocket/PocketFlow",
         "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
         "language": "Python",
-        "starsToday": "85 stars today",
-        "totalStars": "9,992",
-        "time": 1771181148055,
+        "starsToday": "74 stars today",
+        "totalStars": "10,002",
+        "time": 1771209835318,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-Jeffallan-claude-skills",
-        "title": "Jeffallan/claude-skills",
-        "url": "https://github.com/Jeffallan/claude-skills",
-        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "id": "gh-shiyu-coder-Kronos",
+        "title": "shiyu-coder/Kronos",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
-        "starsToday": "253 stars today",
-        "totalStars": "2,656",
-        "time": 1771181148054,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-resemble-ai-chatterbox",
-        "title": "resemble-ai/chatterbox",
-        "url": "https://github.com/resemble-ai/chatterbox",
-        "description": "SoTA open-source TTS",
-        "language": "Python",
-        "starsToday": "65 stars today",
-        "totalStars": "22,656",
-        "time": 1771181148054,
+        "starsToday": "34 stars today",
+        "totalStars": "10,548",
+        "time": 1771209835318,
         "source": "GitHub",
         "category": "github"
       },
@@ -192,9 +156,9 @@
         "url": "https://github.com/Zipstack/unstract",
         "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
         "language": "Python",
-        "starsToday": "224 stars today",
-        "totalStars": "6,399",
-        "time": 1771181148054,
+        "starsToday": "215 stars today",
+        "totalStars": "6,408",
+        "time": 1771209835317,
         "source": "GitHub",
         "category": "github"
       },
@@ -204,29 +168,65 @@
         "url": "https://github.com/yt-dlp/yt-dlp",
         "description": "A feature-rich command-line audio/video downloader",
         "language": "Python",
-        "starsToday": "143 stars today",
-        "totalStars": "147,248",
-        "time": 1771181148054,
+        "starsToday": "161 stars today",
+        "totalStars": "147,291",
+        "time": 1771209835317,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-plotly-dash",
+        "title": "plotly/dash",
+        "url": "https://github.com/plotly/dash",
+        "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+        "language": "Python",
+        "starsToday": "7 stars today",
+        "totalStars": "24,488",
+        "time": 1771209835317,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Jeffallan-claude-skills",
+        "title": "Jeffallan/claude-skills",
+        "url": "https://github.com/Jeffallan/claude-skills",
+        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "language": "Python",
+        "starsToday": "245 stars today",
+        "totalStars": "2,710",
+        "time": 1771209835316,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-resemble-ai-chatterbox",
+        "title": "resemble-ai/chatterbox",
+        "url": "https://github.com/resemble-ai/chatterbox",
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "starsToday": "74 stars today",
+        "totalStars": "22,670",
+        "time": 1771209835316,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
-        "id": "ph-https://www.producthunt.com/products/lunair",
-        "title": "Lunair",
-        "url": "https://www.producthunt.com/products/lunair",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1770155653000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/plus-ai-presentation-agent",
         "title": "Plus AI Presentation Agent",
         "url": "https://www.producthunt.com/products/plus-ai-presentation-agent",
         "description": "Discussion\n            |\n            Link",
         "time": 1770856705000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/lunair",
+        "title": "Lunair",
+        "url": "https://www.producthunt.com/products/lunair",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770155653000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -256,15 +256,6 @@
         "time": 1770922536000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/visla",
-        "title": "Visla AI Director Mode",
-        "url": "https://www.producthunt.com/products/visla",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1769026533000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
@@ -281,8 +272,26 @@
           "webdev"
         ],
         "reactions": 83,
-        "comments": 71,
+        "comments": 72,
         "time": 1770720187000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3252542",
+        "title": "Claude Code for Fullstack Development: The 3 Things You Actually Need",
+        "url": "https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p",
+        "description": "How Can I Use Claude Code Effectively?   There's a lot of hype around vibe coding with...",
+        "author": "vincanger",
+        "tags": [
+          "vibecoding",
+          "fullstack",
+          "ai",
+          "webdev"
+        ],
+        "reactions": 60,
+        "comments": 15,
+        "time": 1770987600000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -305,24 +314,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-3252542",
-        "title": "Claude Code for Fullstack Development: The 3 Things You Actually Need",
-        "url": "https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p",
-        "description": "How Can I Use Claude Code Effectively?   There's a lot of hype around vibe coding with...",
-        "author": "vincanger",
-        "tags": [
-          "vibecoding",
-          "fullstack",
-          "ai",
-          "webdev"
-        ],
-        "reactions": 58,
-        "comments": 14,
-        "time": 1770987600000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-3236581",
         "title": "Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI",
         "url": "https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh",
@@ -337,6 +328,24 @@
         "reactions": 54,
         "comments": 33,
         "time": 1770730861000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3258078",
+        "title": "Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.",
+        "url": "https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705",
+        "description": "I have been writing software long enough to remember when deploying meant FTP.  I have worked...",
+        "author": "Art light",
+        "tags": [
+          "programming",
+          "architecture",
+          "career",
+          "performance"
+        ],
+        "reactions": 51,
+        "comments": 7,
+        "time": 1771175392000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -370,7 +379,7 @@
           "learning",
           "webdev"
         ],
-        "reactions": 34,
+        "reactions": 35,
         "comments": 20,
         "time": 1770874759000,
         "source": "Dev.to",
@@ -388,32 +397,64 @@
           "programming",
           "webdev"
         ],
-        "reactions": 34,
+        "reactions": 35,
         "comments": 6,
         "time": 1770742804000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3241235",
-        "title": "Build a Checkout Page",
-        "url": "https://dev.to/richardpascoe/build-a-checkout-page-43nj",
-        "description": "After a relaxed Sunday spent working through four theory lessons on Working with Accessible Media...",
-        "author": "Richard Pascoe",
-        "tags": [
-          "community",
-          "learning",
-          "programming",
-          "webdev"
-        ],
-        "reactions": 33,
-        "comments": 8,
-        "time": 1770645619000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&utm_medium=article",
+        "title": "刚刚，OpenClaw “之父”正式加入OpenAI，项目仍保持开源并成立基金会",
+        "url": "https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1771237560000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&utm_medium=article",
+        "title": "Pandas 3.0推出默认的字符串数据类型和Copy-on-Write语义",
+        "url": "https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1771228800000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3685326555279238?f=rss",
+        "title": "人工智能热潮引发存储芯片抢购 芯片短缺愈演愈烈",
+        "url": "https://36kr.com/newsflashes/3685326555279238?f=rss",
+        "description": "包括埃隆·马斯克、蒂姆·库克在内的科技行业领袖纷纷警告一场全球性危机正在酝酿：存储芯片短缺开始冲击利润、打乱企业规划，推高从笔记本电脑、智能手机到汽车和数据中心等各类产品的价格，而且供应紧张只会愈演愈烈。今年初以来，特斯拉、苹果等十多家大型企业暗示DRAM这种几乎所有科技产品都要用到的存储芯片严重短缺，势将制约生产。库克表示，这将压缩iPhone的利润率。美光科技称短缺程度“前所未见”。马斯克甚至",
+        "time": 1771209822000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-16-2",
+        "title": "刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了",
+        "url": "https://www.jiqizhixin.com/articles/2026-02-16-2",
+        "description": "",
+        "time": 1771208017000,
+        "source": "机器之心",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-16",
+        "title": "单个LLM已不够？华盛顿大学开源多模型协同框架MoCo",
+        "url": "https://www.jiqizhixin.com/articles/2026-02-16",
+        "description": "",
+        "time": 1771207817000,
+        "source": "机器之心",
+        "category": "china-ai",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&utm_medium=article",
         "title": "CloudFront添加源站mTLS认证，实现端到端零信任",
@@ -443,56 +484,6 @@
         "source": "机器之心",
         "category": "china-ai",
         "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-15-5",
-        "title": "AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-15-5",
-        "description": "",
-        "time": 1771153825000,
-        "source": "机器之心",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-15-4",
-        "title": "ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-15-4",
-        "description": "",
-        "time": 1771153566000,
-        "source": "机器之心",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-15-3",
-        "title": "离谱：Claude Code让地铁变工位，早高峰发版，打工人还笑得出来？",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-15-3",
-        "description": "",
-        "time": 1771152895000,
-        "source": "机器之心",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-15-2",
-        "title": "「我是Agent#847291」Moltbook迎来人类自首",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-15-2",
-        "description": "",
-        "time": 1771152622000,
-        "source": "机器之心",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-15",
-        "title": "ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-15",
-        "description": "",
-        "time": 1771151523000,
-        "source": "机器之心",
-        "category": "china-ai",
-        "isChina": true
       }
     ],
     "papers": []
@@ -500,35 +491,23 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-47016443",
-        "title": "uBlock filter list to hide all YouTube Shorts",
-        "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-        "score": 1068,
-        "comments": 315,
-        "author": "i5heu",
-        "time": 1771090605000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47014449",
-        "title": "Ooh.directory: a place to find good blogs that interest you",
-        "url": "https://ooh.directory/",
-        "score": 568,
-        "comments": 135,
-        "author": "hisamafahri",
-        "time": 1771076420000,
+        "id": "hn-47025378",
+        "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+        "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+        "score": 791,
+        "comments": 541,
+        "author": "giuliomagnifico",
+        "time": 1771175418000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
       },
       {
         "id": "hn-47023238",
-        "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
+        "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
         "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-        "score": 465,
-        "comments": 317,
+        "score": 707,
+        "comments": 528,
         "author": "mikece",
         "time": 1771159337000,
         "source": "Hacker News",
@@ -537,10 +516,10 @@
       },
       {
         "id": "hn-47022891",
-        "title": "I Fixed Windows Native Development",
+        "title": "I fixed Windows native development",
         "url": "https://marler8997.github.io/blog/fixed-windows/",
-        "score": 448,
-        "comments": 226,
+        "score": 677,
+        "comments": 328,
         "author": "deevus",
         "time": 1771154726000,
         "source": "Hacker News",
@@ -548,23 +527,11 @@
         "isAI": false
       },
       {
-        "id": "hn-47006615",
-        "title": "Breaking the spell of vibe coding",
-        "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-        "score": 380,
-        "comments": 310,
-        "author": "arjunbanker",
-        "time": 1771010538000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-47021980",
-        "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+        "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
         "url": "https://oat.ink/",
-        "score": 321,
-        "comments": 89,
+        "score": 473,
+        "comments": 122,
         "author": "twapi",
         "time": 1771143425000,
         "source": "Hacker News",
@@ -572,25 +539,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47017545",
-        "title": "Descent, ported to the web",
-        "url": "https://mrdoob.github.io/three-descent/",
-        "score": 293,
-        "comments": 57,
-        "author": "memalign",
-        "time": 1771097604000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47004689",
-        "title": "Instagram's URL Blackhole",
-        "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-        "score": 281,
-        "comments": 44,
-        "author": "tkp-415",
-        "time": 1771000924000,
+        "id": "hn-47024907",
+        "title": "Hideki Sato, designer of all Sega's consoles, has died",
+        "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+        "score": 356,
+        "comments": 35,
+        "author": "magoghm",
+        "time": 1771172391000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -599,8 +554,8 @@
         "id": "hn-47021354",
         "title": "Flashpoint Archive – Over 200k web games and animations preserved",
         "url": "https://flashpointarchive.org",
-        "score": 276,
-        "comments": 66,
+        "score": 324,
+        "comments": 80,
         "author": "helloplanets",
         "time": 1771134239000,
         "source": "Hacker News",
@@ -608,13 +563,49 @@
         "isAI": false
       },
       {
-        "id": "hn-47025378",
-        "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-        "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-        "score": 231,
-        "comments": 160,
-        "author": "giuliomagnifico",
-        "time": 1771175418000,
+        "id": "hn-47025399",
+        "title": "LT6502: A 6502-based homebrew laptop",
+        "url": "https://github.com/TechPaula/LT6502",
+        "score": 315,
+        "comments": 138,
+        "author": "classichasclass",
+        "time": 1771175555000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47025624",
+        "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
+        "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+        "score": 258,
+        "comments": 97,
+        "author": "cdrnsf",
+        "time": 1771177030000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47025851",
+        "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+        "url": "https://modern-css.com",
+        "score": 240,
+        "comments": 94,
+        "author": "eustoria",
+        "time": 1771178650000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47025188",
+        "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
+        "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
+        "score": 200,
+        "comments": 60,
+        "author": "cdrnsf",
+        "time": 1771174277000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
