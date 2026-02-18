@@ -1,41 +1,17 @@
 {
-  "updateTime": 1771355117953,
-  "updateTimeStr": "2026/2/18 03:05:17",
-  "totalCount": 205,
+  "updateTime": 1771382615981,
+  "updateTimeStr": "2026/2/18 10:43:35",
+  "totalCount": 206,
   "daily": {
     "mustRead": [
-      {
-        "id": "hn-47049426",
-        "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
-        "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
-        "score": 332,
-        "comments": 145,
-        "author": "theahura",
-        "time": 1771346261000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
       {
         "id": "hn-47050488",
         "title": "Claude Sonnet 4.6",
         "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-        "score": 242,
-        "comments": 151,
+        "score": 894,
+        "comments": 812,
         "author": "adocomplete",
         "time": 1771350532000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47038731",
-        "title": "Neurons outside the brain",
-        "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
-        "score": 146,
-        "comments": 76,
-        "author": "yichab0d",
-        "time": 1771268077000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +20,8 @@
         "id": "hn-47049088",
         "title": "Semantic ablation: Why AI writing is generic and boring",
         "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-        "score": 136,
-        "comments": 125,
+        "score": 221,
+        "comments": 183,
         "author": "benji8000",
         "time": 1771344749000,
         "source": "Hacker News",
@@ -56,10 +32,34 @@
         "id": "hn-47049628",
         "title": "Async/Await on the GPU",
         "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-        "score": 66,
-        "comments": 11,
+        "score": 158,
+        "comments": 46,
         "author": "Philpax",
         "time": 1771347185000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47049227",
+        "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+        "url": "https://mage-bench.com/",
+        "score": 94,
+        "comments": 73,
+        "author": "GregorStocks",
+        "time": 1771345369000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47055979",
+        "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+        "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+        "score": 78,
+        "comments": 38,
+        "author": "virgildotcodes",
+        "time": 1771378852000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,38 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-OpenCTI-Platform-opencti",
-        "title": "OpenCTI-Platform/opencti",
-        "url": "https://github.com/OpenCTI-Platform/opencti",
-        "description": "Open Cyber Threat Intelligence Platform",
-        "language": "TypeScript",
-        "starsToday": "13 stars today",
-        "totalStars": "8,342",
-        "time": 1771355114266,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-hummingbot-hummingbot",
-        "title": "hummingbot/hummingbot",
-        "url": "https://github.com/hummingbot/hummingbot",
-        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-        "language": "Python",
-        "starsToday": "565 stars today",
-        "totalStars": "16,918",
-        "time": 1771355114265,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-anthropics-claude-quickstarts",
         "title": "anthropics/claude-quickstarts",
         "url": "https://github.com/anthropics/claude-quickstarts",
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
-        "starsToday": "102 stars today",
-        "totalStars": "14,389",
-        "time": 1771355114265,
+        "starsToday": "87 stars today",
+        "totalStars": "14,510",
+        "time": 1771382613260,
         "source": "GitHub",
         "category": "github"
       },
@@ -108,69 +84,21 @@
         "url": "https://github.com/davila7/claude-code-templates",
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "Python",
-        "starsToday": "110 stars today",
-        "totalStars": "20,663",
-        "time": 1771355114265,
+        "starsToday": "111 stars today",
+        "totalStars": "20,737",
+        "time": 1771382613260,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-ashishps1-awesome-system-design-resources",
-        "title": "ashishps1/awesome-system-design-resources",
-        "url": "https://github.com/ashishps1/awesome-system-design-resources",
-        "description": "Learn System Design concepts and prepare for interviews using free resources.",
-        "language": "Java",
-        "starsToday": "457 stars today",
-        "totalStars": "32,734",
-        "time": 1771355114264,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-steipete-summarize",
-        "title": "steipete/summarize",
-        "url": "https://github.com/steipete/summarize",
-        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "id": "gh-OpenCTI-Platform-opencti",
+        "title": "OpenCTI-Platform/opencti",
+        "url": "https://github.com/OpenCTI-Platform/opencti",
+        "description": "Open Cyber Threat Intelligence Platform",
         "language": "TypeScript",
-        "starsToday": "117 stars today",
-        "totalStars": "3,356",
-        "time": 1771355114264,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-steipete-gogcli",
-        "title": "steipete/gogcli",
-        "url": "https://github.com/steipete/gogcli",
-        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-        "language": "Go",
-        "starsToday": "469 stars today",
-        "totalStars": "3,795",
-        "time": 1771355114263,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-alibaba-zvec",
-        "title": "alibaba/zvec",
-        "url": "https://github.com/alibaba/zvec",
-        "description": "A lightweight, lightning-fast, in-process vector database",
-        "language": "C++",
-        "starsToday": "1,473 stars today",
-        "totalStars": "4,371",
-        "time": 1771355114263,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-openclaw-openclaw",
-        "title": "openclaw/openclaw",
-        "url": "https://github.com/openclaw/openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "starsToday": "4,201 stars today",
-        "totalStars": "204,611",
-        "time": 1771355114263,
+        "starsToday": "16 stars today",
+        "totalStars": "8,426",
+        "time": 1771382613260,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +109,92 @@
         "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
         "language": "JavaScript",
         "starsToday": "194 stars today",
-        "totalStars": "1,125",
-        "time": 1771355114263,
+        "totalStars": "1,212",
+        "time": 1771382613259,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-ashishps1-awesome-system-design-resources",
+        "title": "ashishps1/awesome-system-design-resources",
+        "url": "https://github.com/ashishps1/awesome-system-design-resources",
+        "description": "Learn System Design concepts and prepare for interviews using free resources.",
+        "language": "Java",
+        "starsToday": "510 stars today",
+        "totalStars": "32,844",
+        "time": 1771382613259,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-steipete-summarize",
+        "title": "steipete/summarize",
+        "url": "https://github.com/steipete/summarize",
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "language": "TypeScript",
+        "starsToday": "119 stars today",
+        "totalStars": "3,471",
+        "time": 1771382613259,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-hummingbot-hummingbot",
+        "title": "hummingbot/hummingbot",
+        "url": "https://github.com/hummingbot/hummingbot",
+        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+        "language": "Python",
+        "starsToday": "568 stars today",
+        "totalStars": "17,072",
+        "time": 1771382613259,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-obra-superpowers",
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "starsToday": "569 stars today",
+        "totalStars": "53,655",
+        "time": 1771382613258,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-steipete-gogcli",
+        "title": "steipete/gogcli",
+        "url": "https://github.com/steipete/gogcli",
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "starsToday": "469 stars today",
+        "totalStars": "3,891",
+        "time": 1771382613258,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-alibaba-zvec",
+        "title": "alibaba/zvec",
+        "url": "https://github.com/alibaba/zvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "starsToday": "1,473 stars today",
+        "totalStars": "4,517",
+        "time": 1771382613258,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-openclaw-openclaw",
+        "title": "openclaw/openclaw",
+        "url": "https://github.com/openclaw/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "starsToday": "4,201 stars today",
+        "totalStars": "205,641",
+        "time": 1771382613258,
         "source": "GitHub",
         "category": "github"
       },
@@ -192,41 +204,29 @@
         "url": "https://github.com/p-e-w/heretic",
         "description": "Fully automatic censorship removal for language models",
         "language": "Python",
-        "starsToday": "666 stars today",
-        "totalStars": "6,979",
-        "time": 1771355114262,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-seerr-team-seerr",
-        "title": "seerr-team/seerr",
-        "url": "https://github.com/seerr-team/seerr",
-        "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-        "language": "TypeScript",
-        "starsToday": "283 stars today",
-        "totalStars": "9,256",
-        "time": 1771355114262,
+        "starsToday": "656 stars today",
+        "totalStars": "7,290",
+        "time": 1771382613257,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
-        "id": "ph-https://www.producthunt.com/products/figr-design-research-simplified",
-        "title": "Figr AI",
-        "url": "https://www.producthunt.com/products/figr-design-research-simplified",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1771250792000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/brainstream",
         "title": "Brainstream",
         "url": "https://www.producthunt.com/products/brainstream",
         "description": "Discussion\n            |\n            Link",
         "time": 1770723459000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/figr-design-research-simplified",
+        "title": "Figr AI",
+        "url": "https://www.producthunt.com/products/figr-design-research-simplified",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1771250792000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -249,20 +249,20 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/jdoodle-ai",
-        "title": "JDoodle.ai MCP",
-        "url": "https://www.producthunt.com/products/jdoodle-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1770981994000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/penguinbot-ai",
         "title": "PenguinBot AI",
         "url": "https://www.producthunt.com/products/penguinbot-ai",
         "description": "Discussion\n            |\n            Link",
         "time": 1771142380000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/jdoodle-ai",
+        "title": "JDoodle.ai MCP",
+        "url": "https://www.producthunt.com/products/jdoodle-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1770981994000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -286,6 +286,24 @@
       }
     ],
     "practice": [
+      {
+        "id": "devto-3252512",
+        "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
+        "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
+        "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
+        "author": "Jess Lee",
+        "tags": [
+          "agents",
+          "gemini",
+          "ai",
+          "buildmultiagents"
+        ],
+        "reactions": 71,
+        "comments": 2,
+        "time": 1771352876000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
       {
         "id": "devto-3252542",
         "title": "Claude Code for Fullstack Development: The 3 Things You Actually Need",
@@ -323,6 +341,24 @@
         "category": "practice"
       },
       {
+        "id": "devto-3260191",
+        "title": "Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)",
+        "url": "https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc",
+        "description": "For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...",
+        "author": "Hadil Ben Abdallah",
+        "tags": [
+          "programming",
+          "webdev",
+          "codenewbie",
+          "node"
+        ],
+        "reactions": 63,
+        "comments": 23,
+        "time": 1771310948000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-3250014",
         "title": "I Built a SaaS in 30 Days. Here’s Exactly What Happened.",
         "url": "https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8",
@@ -341,24 +377,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-3260191",
-        "title": "Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)",
-        "url": "https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc",
-        "description": "For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...",
-        "author": "Hadil Ben Abdallah",
-        "tags": [
-          "programming",
-          "webdev",
-          "codenewbie",
-          "node"
-        ],
-        "reactions": 55,
-        "comments": 22,
-        "time": 1771310948000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-3254117",
         "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
         "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
@@ -370,9 +388,26 @@
           "productivity",
           "codenewbie"
         ],
-        "reactions": 48,
-        "comments": 40,
+        "reactions": 55,
+        "comments": 45,
         "time": 1771171981000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3253541",
+        "title": "Vouch: Mitchell Hashimoto’s Experiment in Restoring Trust to Open Source",
+        "url": "https://dev.to/richardpascoe/vouch-mitchell-hashimotos-experiment-in-restoring-trust-to-open-source-7l8",
+        "description": "Open source has always operated on an implicit social contract:   If you care enough to contribute,...",
+        "author": "Richard Pascoe",
+        "tags": [
+          "discuss",
+          "ai",
+          "opensource"
+        ],
+        "reactions": 53,
+        "comments": 34,
+        "time": 1771232428000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -393,45 +428,39 @@
         "time": 1770874759000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-3250867",
-        "title": "HTML Accessibility Review",
-        "url": "https://dev.to/richardpascoe/html-accessibility-review-3md8",
-        "description": "The HTML Accessibility review on freeCodeCamp offered a valuable opportunity to revisit concepts from...",
-        "author": "Richard Pascoe",
-        "tags": [
-          "community",
-          "learning",
-          "programming",
-          "webdev"
-        ],
-        "reactions": 35,
-        "comments": 9,
-        "time": 1770904813000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3244484",
-        "title": "Get **** done. I hate what Trello has become",
-        "url": "https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05",
-        "description": "I hate productivity tools. Not in a cute, ironic way. I mean I genuinely hate how they look, how they...",
-        "author": "Karsten Biedermann",
-        "tags": [
-          "programming",
-          "productivity",
-          "discuss",
-          "startup"
-        ],
-        "reactions": 32,
-        "comments": 19,
-        "time": 1770823932000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&utm_medium=article",
+        "title": "Teleport 推出智能体身份框架，为企业基础设施中的 AI 智能体提供安全保障",
+        "url": "https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1771401600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3688139033571203?f=rss",
+        "title": "美国加州成立人工智能监督部门 推进xAI调查",
+        "url": "https://36kr.com/newsflashes/3688139033571203?f=rss",
+        "description": "美国加利福尼亚州总检察长罗布-邦塔周二在接受媒体采访时说，他的办公室正在建立一项人工智能问责计划，同时也在调查埃隆-马斯克的xAI在未经同意的情况下生成色情露骨图像的问题。邦塔说，加利福尼亚州总检察长办公室上个月迅速采取行动，向xAI公司发出了一封禁止令，因为全球监管机构正在调查该公司的人工智能聊天机器人Grok制作的成人和可能未成年人的性化内容。邦塔说，他的办公室正在寻求确认该行为已经停止，并仍",
+        "time": 1771380650000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/p/3688162369908611?f=rss",
+        "title": "豆包千问疯狂撒钱，月之暗面疯狂搞钱 | 智能涌现独家",
+        "url": "https://36kr.com/p/3688162369908611?f=rss",
+        "description": "文｜周鑫雨\n编辑｜苏建勋\n春节，热钱涌动在中国大模型赛道上。\n一端，是狂撒几十亿元发红包、请奶茶，替当家AI应用拉流量的大厂们；另一端，则是股价飞涨、融资迅猛的大模型六小虎们。\n在搞钱的战场上，开年最大的一笔融资，来自月之暗面。\n此前彭博社等媒体报道称，近期月之暗面即将完成的超7亿美元融资，由阿里、腾讯、五源资本、九安医疗等老股东领投，并且已经超募。与此同时，月之暗面已经以100亿-120亿美金的",
+        "time": 1771379671000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
       {
         "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-17-4",
         "title": "沈腾：春晚谁家机器人？除夕夜就扒拉活来了",
@@ -480,36 +509,6 @@
         "time": 1771329600000,
         "source": "InfoQ",
         "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "jqzx-https://www.jiqizhixin.com/articles/2026-02-17",
-        "title": "豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
-        "url": "https://www.jiqizhixin.com/articles/2026-02-17",
-        "description": "",
-        "time": 1771325579000,
-        "source": "机器之心",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3687187972238982?f=rss",
-        "title": "阿达尼计划投资千亿美元建数据中心",
-        "url": "https://36kr.com/newsflashes/3687187972238982?f=rss",
-        "description": "阿达尼集团计划至2035年投资1000亿美元，开发由绿色能源驱动的人工智能数据中心，显示亿万富翁Gautam Adani旨在抓住印度作为人工智能与云计算中心崛起的机遇。集团旗舰企业阿达尼企业有限公司在周二的公告中表示，这笔投资可能在未来十年“催化”额外1500亿美元投入，涵盖服务器制造、先进电力基础设施及相关行业。（新浪财经）",
-        "time": 1771320094000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3687105642737545?f=rss",
-        "title": "对话王兴兴：搜遍全世界武术招式，宇树如何超越宇树",
-        "url": "https://36kr.com/p/3687105642737545?f=rss",
-        "description": "文｜邱晓芬 \n编辑｜苏建勋 \n除夕之夜，2026年马年春晚还没结束，我们在北京大兴星光影视园的机器人训练基地里，见到了刚从总台录制现场匆匆赶回的宇树科技创始人王兴兴。\n时间已接近午夜，但王兴兴依旧兴奋，他对宇树当晚的节目《武术BOT》的演出效果很满意——交流中，当王兴兴聊到技术细节时，平时内向的他，不断用肢体动作演示机器人打斗，语气也亢奋了许多。\n\n宇树科技创始人王兴兴 ；“智能涌现”拍摄\n“演出",
-        "time": 1771315174000,
-        "source": "36氪",
-        "category": "china-ai",
         "isChina": true
       }
     ],
@@ -629,23 +628,11 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-47038546",
-        "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-        "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-        "score": 873,
-        "comments": 185,
-        "author": "bookofjoe",
-        "time": 1771267310000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-47045612",
         "title": "GrapheneOS – Break Free from Google and Apple",
         "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-        "score": 860,
-        "comments": 559,
+        "score": 1077,
+        "comments": 771,
         "author": "to3k",
         "time": 1771322556000,
         "source": "Hacker News",
@@ -653,37 +640,25 @@
         "isAI": false
       },
       {
-        "id": "hn-47040524",
-        "title": "Rise of the Triforce",
-        "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-        "score": 397,
-        "comments": 61,
-        "author": "max-m",
-        "time": 1771277044000,
+        "id": "hn-47038546",
+        "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+        "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+        "score": 894,
+        "comments": 196,
+        "author": "bookofjoe",
+        "time": 1771267310000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
       },
       {
-        "id": "hn-47002231",
-        "title": "Visual introduction to PyTorch",
-        "url": "https://0byte.io/articles/pytorch_introduction.html",
-        "score": 376,
-        "comments": 25,
-        "author": "0bytematt",
-        "time": 1770987573000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47022270",
-        "title": "Four Column ASCII (2017)",
-        "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
-        "score": 304,
-        "comments": 71,
-        "author": "tempodox",
-        "time": 1771146916000,
+        "id": "hn-47049824",
+        "title": "Thank HN: You helped save 33k lives",
+        "url": "https://news.ycombinator.com/item?id=47049824",
+        "score": 470,
+        "comments": 59,
+        "author": "chaseadam17",
+        "time": 1771347978000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -692,8 +667,8 @@
         "id": "hn-47045804",
         "title": "Is Show HN dead? No, but it's drowning",
         "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-        "score": 264,
-        "comments": 230,
+        "score": 410,
+        "comments": 353,
         "author": "acnops",
         "time": 1771324154000,
         "source": "Hacker News",
@@ -701,49 +676,73 @@
         "isAI": false
       },
       {
-        "id": "hn-47040375",
-        "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
-        "url": "https://github.com/zachlatta/freeflow",
-        "score": 251,
-        "comments": 116,
-        "author": "zachlatta",
-        "time": 1771276244000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47038318",
-        "title": "\"Token anxiety\", a slot machine by any other name",
-        "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
-        "score": 232,
-        "comments": 214,
-        "author": "presbyterian",
-        "time": 1771266216000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47015342",
-        "title": "A Programmer's Loss of Identity",
-        "url": "https://ratfactor.com/tech-nope2",
-        "score": 200,
-        "comments": 133,
-        "author": "zdw",
-        "time": 1771083719000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47042895",
-        "title": "Poor Deming never stood a chance",
-        "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
-        "score": 182,
-        "comments": 114,
+        "id": "hn-47049479",
+        "title": "Using go fix to modernize Go code",
+        "url": "https://go.dev/blog/gofix",
+        "score": 290,
+        "comments": 66,
         "author": "todsacerdoti",
-        "time": 1771294417000,
+        "time": 1771346555000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47051852",
+        "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+        "url": "https://asteroidos.org/news/2-0-release/index.html",
+        "score": 288,
+        "comments": 34,
+        "author": "moWerk",
+        "time": 1771356295000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47050067",
+        "title": "Gentoo on Codeberg",
+        "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+        "score": 258,
+        "comments": 91,
+        "author": "todsacerdoti",
+        "time": 1771348864000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47049573",
+        "title": "HackMyClaw",
+        "url": "https://hackmyclaw.com/",
+        "score": 258,
+        "comments": 135,
+        "author": "hentrep",
+        "time": 1771346923000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47048004",
+        "title": "I converted 2D conventional flight tracking into 3D",
+        "url": "https://aeris.edbn.me/?city=SFO",
+        "score": 220,
+        "comments": 45,
+        "author": "kewonit",
+        "time": 1771339394000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47050376",
+        "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
+        "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
+        "score": 214,
+        "comments": 114,
+        "author": "thunderbong",
+        "time": 1771350050000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
