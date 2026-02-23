@@ -1,15 +1,15 @@
 {
-  "updateTime": 1771814647033,
-  "updateTimeStr": "2026/2/23 10:44:07",
-  "totalCount": 172,
+  "updateTime": 1771830814195,
+  "updateTimeStr": "2026/2/23 15:13:34",
+  "totalCount": 203,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47115805",
         "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
         "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-        "score": 306,
-        "comments": 244,
+        "score": 512,
+        "comments": 421,
         "author": "srigi",
         "time": 1771801675000,
         "source": "Hacker News",
@@ -20,22 +20,10 @@
         "id": "hn-47111400",
         "title": "Man accidentally gains control of 7k robot vacuums",
         "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-        "score": 209,
-        "comments": 123,
+        "score": 256,
+        "comments": 147,
         "author": "Brajeshwar",
         "time": 1771771482000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47111440",
-        "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-        "url": "https://quesma.com/blog/introducing-binaryaudit/",
-        "score": 209,
-        "comments": 92,
-        "author": "jakozaur",
-        "time": 1771771844000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +32,8 @@
         "id": "hn-47114235",
         "title": "Spain has blocked access to freedom.gov",
         "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
-        "score": 124,
-        "comments": 116,
+        "score": 171,
+        "comments": 158,
         "author": "akyuu",
         "time": 1771791432000,
         "source": "Hacker News",
@@ -56,10 +44,22 @@
         "id": "hn-47113731",
         "title": "NanoClaw moved from Apple Containers to Docker",
         "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-        "score": 112,
-        "comments": 85,
+        "score": 141,
+        "comments": 107,
         "author": "simplesort",
         "time": 1771787570000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47116866",
+        "title": "The power of daily rituals (2021)",
+        "url": "https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress",
+        "score": 47,
+        "comments": 28,
+        "author": "andsoitis",
+        "time": 1771809798000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,14 +67,122 @@
     ],
     "tools": [
       {
+        "id": "gh-stan-smith-FossFLOW",
+        "title": "stan-smith/FossFLOW",
+        "url": "https://github.com/stan-smith/FossFLOW",
+        "description": "Make beautiful isometric infrastructure diagrams",
+        "language": "TypeScript",
+        "starsToday": "340 stars today",
+        "totalStars": "18,278",
+        "time": 1771830810626,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-OpenBB-finance-OpenBB",
+        "title": "OpenBB-finance/OpenBB",
+        "url": "https://github.com/OpenBB-finance/OpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "language": "Python",
+        "starsToday": "188 stars today",
+        "totalStars": "61,108",
+        "time": 1771830810625,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-cloudflare-agents",
+        "title": "cloudflare/agents",
+        "url": "https://github.com/cloudflare/agents",
+        "description": "Build and deploy AI Agents on Cloudflare",
+        "language": "TypeScript",
+        "starsToday": "257 stars today",
+        "totalStars": "3,822",
+        "time": 1771830810625,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-abhigyanpatwari-GitNexus",
+        "title": "abhigyanpatwari/GitNexus",
+        "url": "https://github.com/abhigyanpatwari/GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "starsToday": "424 stars today",
+        "totalStars": "1,620",
+        "time": 1771830810625,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-anthropics-claude-code",
+        "title": "anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "starsToday": "503 stars today",
+        "totalStars": "69,121",
+        "time": 1771830810624,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-x1xhlol-system-prompts-and-models-of-ai-tools",
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "Unknown",
+        "starsToday": "1,134 stars today",
+        "totalStars": "118,291",
+        "time": 1771830810624,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Stremio-stremio-web",
+        "title": "Stremio/stremio-web",
+        "url": "https://github.com/Stremio/stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "starsToday": "247 stars today",
+        "totalStars": "9,776",
+        "time": 1771830810624,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-huggingface-skills",
+        "title": "huggingface/skills",
+        "url": "https://github.com/huggingface/skills",
+        "description": "",
+        "language": "Python",
+        "starsToday": "364 stars today",
+        "totalStars": "3,024",
+        "time": 1771830810623,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-vxcontrol-pentagi",
+        "title": "vxcontrol/pentagi",
+        "url": "https://github.com/vxcontrol/pentagi",
+        "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "starsToday": "1,579 stars today",
+        "totalStars": "7,388",
+        "time": 1771830810623,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-Anjok07-ultimatevocalremovergui",
         "title": "Anjok07/ultimatevocalremovergui",
         "url": "https://github.com/Anjok07/ultimatevocalremovergui",
         "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
         "language": "Python",
         "starsToday": "15 stars today",
-        "totalStars": "23,705",
-        "time": 1771814643722,
+        "totalStars": "23,706",
+        "time": 1771830810496,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,32 +193,8 @@
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "starsToday": "74 stars today",
-        "totalStars": "87,524",
-        "time": 1771814643722,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Netflix-metaflow",
-        "title": "Netflix/metaflow",
-        "url": "https://github.com/Netflix/metaflow",
-        "description": "Build, Manage and Deploy AI/ML Systems",
-        "language": "Python",
-        "starsToday": "8 stars today",
-        "totalStars": "9,802",
-        "time": 1771814643721,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-PostHog-posthog",
-        "title": "PostHog/posthog",
-        "url": "https://github.com/PostHog/posthog",
-        "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-        "language": "Python",
-        "starsToday": "25 stars today",
-        "totalStars": "31,728",
-        "time": 1771814643721,
+        "totalStars": "87,526",
+        "time": 1771830810496,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,92 +205,8 @@
         "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
         "language": "Python",
         "starsToday": "24 stars today",
-        "totalStars": "2,826",
-        "time": 1771814643721,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-OpenBMB-UltraRAG",
-        "title": "OpenBMB/UltraRAG",
-        "url": "https://github.com/OpenBMB/UltraRAG",
-        "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
-        "language": "Python",
-        "starsToday": "67 stars today",
-        "totalStars": "5,310",
-        "time": 1771814643721,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-opengeos-geoai",
-        "title": "opengeos/geoai",
-        "url": "https://github.com/opengeos/geoai",
-        "description": "GeoAI: Artificial Intelligence for Geospatial Data",
-        "language": "Python",
-        "starsToday": "28 stars today",
-        "totalStars": "2,584",
-        "time": 1771814643720,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Zie619-n8n-workflows",
-        "title": "Zie619/n8n-workflows",
-        "url": "https://github.com/Zie619/n8n-workflows",
-        "description": "all of the workflows of n8n i could find (also from the site itself)",
-        "language": "Python",
-        "starsToday": "146 stars today",
-        "totalStars": "51,978",
-        "time": 1771814643720,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-agno-agi-agno",
-        "title": "agno-agi/agno",
-        "url": "https://github.com/agno-agi/agno",
-        "description": "The programming language for agentic software. Build, run, and manage multi-agent systems at scale.",
-        "language": "Python",
-        "starsToday": "43 stars today",
-        "totalStars": "38,098",
-        "time": 1771814643720,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-RichardAtCT-claude-code-telegram",
-        "title": "RichardAtCT/claude-code-telegram",
-        "url": "https://github.com/RichardAtCT/claude-code-telegram",
-        "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-        "language": "Python",
-        "starsToday": "229 stars today",
-        "totalStars": "1,536",
-        "time": 1771814643720,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-mihail911-modern-software-dev-assignments",
-        "title": "mihail911/modern-software-dev-assignments",
-        "url": "https://github.com/mihail911/modern-software-dev-assignments",
-        "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)",
-        "language": "Python",
-        "starsToday": "61 stars today",
-        "totalStars": "1,996",
-        "time": 1771814643719,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-yt-dlp-yt-dlp",
-        "title": "yt-dlp/yt-dlp",
-        "url": "https://github.com/yt-dlp/yt-dlp",
-        "description": "A feature-rich command-line audio/video downloader",
-        "language": "Python",
-        "starsToday": "153 stars today",
-        "totalStars": "148,101",
-        "time": 1771814643719,
+        "totalStars": "2,830",
+        "time": 1771830810495,
         "source": "GitHub",
         "category": "github"
       }
@@ -265,6 +265,15 @@
         "time": 1771362789000,
         "source": "Product Hunt",
         "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/design-rails-ai-native-brand-in-mins",
+        "title": "Design Rails",
+        "url": "https://www.producthunt.com/products/design-rails-ai-native-brand-in-mins",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1771284405000,
+        "source": "Product Hunt",
+        "category": "ai-product"
       }
     ],
     "practice": [
@@ -281,7 +290,7 @@
           "node"
         ],
         "reactions": 158,
-        "comments": 47,
+        "comments": 48,
         "time": 1771310948000,
         "source": "Dev.to",
         "category": "practice"
@@ -296,7 +305,7 @@
           "webdev",
           "discuss"
         ],
-        "reactions": 133,
+        "reactions": 140,
         "comments": 85,
         "time": 1771412057000,
         "source": "Dev.to",
@@ -321,6 +330,24 @@
         "category": "practice"
       },
       {
+        "id": "devto-3263647",
+        "title": "I’ve Seen This Architecture Before. It Ends in Tears.",
+        "url": "https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld",
+        "description": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...",
+        "author": "Art light",
+        "tags": [
+          "career",
+          "programming",
+          "software",
+          "discuss"
+        ],
+        "reactions": 90,
+        "comments": 14,
+        "time": 1771365400000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-3265508",
         "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
         "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
@@ -339,42 +366,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-3256702",
-        "title": "How a DEV Friend and I Brought Two Avatars to Life",
-        "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
-        "description": "I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...",
-        "author": "Aryan Choudhary",
-        "tags": [
-          "webdev",
-          "sideprojects",
-          "animation",
-          "react"
-        ],
-        "reactions": 86,
-        "comments": 61,
-        "time": 1771223502000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3263647",
-        "title": "I’ve Seen This Architecture Before. It Ends in Tears.",
-        "url": "https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld",
-        "description": "I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...",
-        "author": "Art light",
-        "tags": [
-          "career",
-          "programming",
-          "software",
-          "discuss"
-        ],
-        "reactions": 85,
-        "comments": 14,
-        "time": 1771365400000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-3270026",
         "title": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
         "url": "https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn",
@@ -386,7 +377,7 @@
           "discuss",
           "beginners"
         ],
-        "reactions": 75,
+        "reactions": 82,
         "comments": 45,
         "time": 1771574623000,
         "source": "Dev.to",
@@ -409,6 +400,24 @@
         "time": 1771597325000,
         "source": "Dev.to",
         "category": "practice"
+      },
+      {
+        "id": "devto-3268980",
+        "title": "Why did you become a Developer?",
+        "url": "https://dev.to/francistrdev/why-did-you-become-a-developer-57ea",
+        "description": "We all have our origin stories. Maybe you were born to become a programmer or you started off when...",
+        "author": "👾 FrancisTRᴅᴇᴠ 👾",
+        "tags": [
+          "discuss",
+          "community",
+          "programming",
+          "mentalhealth"
+        ],
+        "reactions": 50,
+        "comments": 51,
+        "time": 1771530231000,
+        "source": "Dev.to",
+        "category": "practice"
       }
     ],
     "china": [
@@ -420,6 +429,16 @@
         "time": 1771833600000,
         "source": "InfoQ",
         "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3695301430308737?f=rss",
+        "title": "支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
+        "url": "https://36kr.com/newsflashes/3695301430308737?f=rss",
+        "description": "36氪获悉，马年大年初七，蚂蚁集团披露春节假期实战数据：支付宝“AI付”用户数突破1亿，蚂蚁阿福APP的总用户数也突破1亿大关，春节新增用户中52%来自三线及以下城市。",
+        "time": 1771815300000,
+        "source": "36氪",
+        "category": "china-ai",
         "isChina": true
       },
       {
@@ -438,16 +457,6 @@
         "url": "https://36kr.com/newsflashes/3695259448815235?f=rss",
         "description": "港股大模型概念股走弱，智谱跌超20%，MINIMAX跌13%。",
         "time": 1771812737000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3695202879795076?f=rss",
-        "title": "智平方完成B轮系列超10亿元人民币融资，公司估值正式超过百亿",
-        "url": "https://36kr.com/newsflashes/3695202879795076?f=rss",
-        "description": "通用智能机器人公司智平方近期完成B轮系列融资，融资规模超10亿元人民币，公司估值正式超过百亿，投资方包括百度战投、中车资本、特斯拉生态链上市龙头企业、沄柏资本、国泰海通以及地方基金等。这是智平方继2025年半年内连续完成7轮数亿级融资后，再完成的5轮融资，一年累计完成12轮融资，成为全球融资节奏最快的具身智能企业。（界面新闻）",
-        "time": 1771809285000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
@@ -493,7 +502,118 @@
         "isChina": true
       }
     ],
-    "papers": []
+    "papers": [
+      {
+        "id": "arxiv-2602.17676",
+        "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
+        "url": "https://arxiv.org/abs/2602.17676",
+        "description": "arXiv:2602.17676v1 Announce Type: new \nAbstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral pathologies including sycophancy, hallucination, and strategic deception that resist mitigation via reinfor",
+        "author": "Xingcheng Xu, Jingjing Qu, Qiaosheng Zhang, Chaochao Lu, Yanqing Yang, Na Zou, Xia Hu",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.17826",
+        "title": "Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge",
+        "url": "https://arxiv.org/abs/2602.17826",
+        "description": "arXiv:2602.17826v1 Announce Type: new \nAbstract: Language models exhibit fundamental limitations -- hallucination, brittleness, and lack of formal grounding -- that are particularly problematic in high-stakes specialist fields requiring verifiable reasoning. I investigate whether formal domain ontol",
+        "author": "Marcelo Labre",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.17831",
+        "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
+        "url": "https://arxiv.org/abs/2602.17831",
+        "description": "arXiv:2602.17831v1 Announce Type: new \nAbstract: Evaluating the reasoning capabilities of Large Language Models is increasingly challenging as models improve. Human curation of hard questions is highly expensive, especially in recent benchmarks using PhD-level domain knowledge to challenge the most ",
+        "author": "Simon Henniger, Gabriel Poesia",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.17902",
+        "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
+        "url": "https://arxiv.org/abs/2602.17902",
+        "description": "arXiv:2602.17902v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remains ad hoc and fragile. Current agentic approaches often rely on unstructured text to manage context ",
+        "author": "Jiaru Bai, Abdulrahman Aldossary, Thomas Swanick, Marcel M\\\"uller, Yeonghun Kang, Zijian Zhang, Jin Won Lee, Tsz Wai Ko, Mohammad Ghazi Vakili, Varinia Bernales, Al\\'an Aspuru-Guzik",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.17910",
+        "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
+        "url": "https://arxiv.org/abs/2602.17910",
+        "description": "arXiv:2602.17910v1 Announce Type: new \nAbstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliability across entire interaction trajectories. We introduce APEMO (Affect-aware Peak-End Modulation for",
+        "author": "Hanjing Shi, Dominic DiFranzo",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.17990",
+        "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
+        "url": "https://arxiv.org/abs/2602.17990",
+        "description": "arXiv:2602.17990v1 Announce Type: new \nAbstract: LLM-based systems increasingly generate structured workflows for complex tasks. In practice, automatic evaluation of these workflows is difficult, because metric scores are often not calibrated, and score changes do not directly communicate the severi",
+        "author": "Madhav Kanda, Pedro Las-Casas, Alok Gautam Kumbhare, Rodrigo Fonseca, Sharad Agarwal",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.18025",
+        "title": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets",
+        "url": "https://arxiv.org/abs/2602.18025",
+        "description": "arXiv:2602.18025v1 Announce Type: new \nAbstract: Scalable robot policy pre-training has been hindered by the high cost of collecting high-quality demonstrations for each platform. In this study, we address this issue by uniting offline reinforcement learning (offline RL) with cross-embodiment learni",
+        "author": "Haruki Abe, Takayuki Osa, Yusuke Mukuta, Tatsuya Harada",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.18095",
+        "title": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory",
+        "url": "https://arxiv.org/abs/2602.18095",
+        "description": "arXiv:2602.18095v1 Announce Type: new \nAbstract: Natural language understanding requires interleaving textual and logical reasoning, yet large language models often fail to perform such reasoning reliably. Existing neurosymbolic systems combine LLMs with solvers but remain limited to fully formaliza",
+        "author": "Hyunseok Oh, Sam Stern, Youngki Lee, Matthai Philipose",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.18201",
+        "title": "SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps",
+        "url": "https://arxiv.org/abs/2602.18201",
+        "description": "arXiv:2602.18201v1 Announce Type: new \nAbstract: Unsupervised representations are widely assumed to be neutral with respect to sensitive attributes when those attributes are withheld from training. We show that this assumption is false. Using SOMtime, a topology-preserving representation method base",
+        "author": "Joseph Bingham, Netanel Arussy, Dvir Aran",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2602.18291",
+        "title": "Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies",
+        "url": "https://arxiv.org/abs/2602.18291",
+        "description": "arXiv:2602.18291v1 Announce Type: new \nAbstract: Online Multi-Agent Reinforcement Learning (MARL) is a prominent framework for efficient agent coordination. Crucially, enhancing policy expressiveness is pivotal for achieving superior performance. Diffusion-based generative models are well-positioned",
+        "author": "Zhuoran Li, Hai Zhong, Xun Wang, Qingxin Xia, Lihua Zhang, Longbo Huang",
+        "time": 1771822800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      }
+    ]
   },
   "extra": {
     "techNews": [
@@ -501,22 +621,10 @@
         "id": "hn-47091419",
         "title": "Keep Android Open",
         "url": "https://f-droid.org/2026/02/20/twif.html",
-        "score": 2175,
-        "comments": 717,
+        "score": 2184,
+        "comments": 718,
         "author": "LorenDB",
         "time": 1771610331000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47098245",
-        "title": "I verified my LinkedIn identity. Here's what I handed over",
-        "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-        "score": 1412,
-        "comments": 478,
-        "author": "ColinWright",
-        "time": 1771657578000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -525,8 +633,8 @@
         "id": "hn-47113728",
         "title": "I built Timeframe, our family e-paper dashboard",
         "url": "https://hawksley.org/2026/02/17/timeframe.html",
-        "score": 655,
-        "comments": 182,
+        "score": 922,
+        "comments": 228,
         "author": "saeedesmaili",
         "time": 1771787551000,
         "source": "Hacker News",
@@ -537,8 +645,8 @@
         "id": "hn-47110515",
         "title": "Attention Media ≠ Social Networks",
         "url": "https://susam.net/attention-media-vs-social-networks.html",
-        "score": 558,
-        "comments": 238,
+        "score": 586,
+        "comments": 250,
         "author": "susam",
         "time": 1771763806000,
         "source": "Hacker News",
@@ -549,46 +657,10 @@
         "id": "hn-47113618",
         "title": "Loops is a federated, open-source TikTok",
         "url": "https://joinloops.org/",
-        "score": 257,
-        "comments": 150,
+        "score": 358,
+        "comments": 213,
         "author": "Gooblebrai",
         "time": 1771786600000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47110473",
-        "title": "What is a database transaction?",
-        "url": "https://planetscale.com/blog/database-transactions",
-        "score": 211,
-        "comments": 56,
-        "author": "0x54MUR41",
-        "time": 1771763321000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47108989",
-        "title": "Back to FreeBSD: Part 1",
-        "url": "https://hypha.pub/back-to-freebsd-part-1",
-        "score": 202,
-        "comments": 101,
-        "author": "enz",
-        "time": 1771744587000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47112174",
-        "title": "Fix your tools",
-        "url": "https://ochagavia.nl/blog/fix-your-tools/",
-        "score": 195,
-        "comments": 68,
-        "author": "vinhnx",
-        "time": 1771776751000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -597,8 +669,8 @@
         "id": "hn-47114530",
         "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
         "url": "https://cia-factbook-archive.fly.dev/",
-        "score": 140,
-        "comments": 32,
+        "score": 268,
+        "comments": 68,
         "author": "MilkMp",
         "time": 1771793423000,
         "source": "Hacker News",
@@ -606,13 +678,61 @@
         "isAI": false
       },
       {
-        "id": "hn-47111626",
-        "title": "Xweather Live – Interactive global vector weather map",
-        "url": "https://live.xweather.com/",
-        "score": 136,
-        "comments": 34,
-        "author": "unstyledcontent",
-        "time": 1771773135000,
+        "id": "hn-47110473",
+        "title": "What is a database transaction?",
+        "url": "https://planetscale.com/blog/database-transactions",
+        "score": 229,
+        "comments": 60,
+        "author": "0x54MUR41",
+        "time": 1771763321000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47112174",
+        "title": "Fix your tools",
+        "url": "https://ochagavia.nl/blog/fix-your-tools/",
+        "score": 222,
+        "comments": 77,
+        "author": "vinhnx",
+        "time": 1771776751000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47113796",
+        "title": "Six Math Essentials",
+        "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+        "score": 184,
+        "comments": 36,
+        "author": "digital55",
+        "time": 1771788081000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47067031",
+        "title": "My journey to the microwave alternate timeline",
+        "url": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
+        "score": 171,
+        "comments": 33,
+        "author": "jstanley",
+        "time": 1771451946000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47117087",
+        "title": "$30B for laptops yielded a generation less cognitively capable than parents",
+        "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
+        "score": 170,
+        "comments": 158,
+        "author": "walterbell",
+        "time": 1771811656000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -624,6 +744,7 @@
     "sources": [
       "GitHub",
       "Hacker News",
+      "arXiv",
       "Dev.to",
       "机器之心",
       "36氪",
