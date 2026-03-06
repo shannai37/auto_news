@@ -1,41 +1,17 @@
 {
-  "updateTime": 1772802570785,
-  "updateTimeStr": "2026/3/6 21:09:30",
-  "totalCount": 189,
+  "updateTime": 1772823342799,
+  "updateTimeStr": "2026/3/7 02:55:42",
+  "totalCount": 191,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47265045",
         "title": "GPT-5.4",
         "url": "https://openai.com/index/introducing-gpt-5-4/",
-        "score": 883,
-        "comments": 697,
+        "score": 960,
+        "comments": 754,
         "author": "mudkipdev",
         "time": 1772734090000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47267628",
-        "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
-        "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
-        "score": 374,
-        "comments": 181,
-        "author": "sedatk",
-        "time": 1772746540000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47263036",
-        "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-        "url": "https://jido.run/blog/jido-2-0-is-here",
-        "score": 299,
-        "comments": 62,
-        "author": "mikehostetler",
-        "time": 1772725732000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,10 +20,22 @@
         "id": "hn-47268391",
         "title": "Labor market impacts of AI: A new measure and early evidence",
         "url": "https://www.anthropic.com/research/labor-market-impacts",
-        "score": 234,
-        "comments": 352,
+        "score": 300,
+        "comments": 491,
         "author": "jjwiseman",
         "time": 1772751301000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47273854",
+        "title": "Hardening Firefox with Anthropic's Red Team",
+        "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
+        "score": 289,
+        "comments": 93,
+        "author": "todsacerdoti",
+        "time": 1772797998000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,10 +44,22 @@
         "id": "hn-47267947",
         "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
         "url": "https://406.fail/",
-        "score": 218,
-        "comments": 74,
+        "score": 278,
+        "comments": 100,
         "author": "Muhammad523",
         "time": 1772748299000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47272734",
+        "title": "We might all be AI engineers now",
+        "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+        "score": 90,
+        "comments": 119,
+        "author": "sn0wflak3s",
+        "time": 1772788410000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,20 +73,8 @@
         "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
         "language": "Python",
         "starsToday": "151 stars today",
-        "totalStars": "38,040",
-        "time": 1772802566242,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-p-e-w-heretic",
-        "title": "p-e-w/heretic",
-        "url": "https://github.com/p-e-w/heretic",
-        "description": "Fully automatic censorship removal for language models",
-        "language": "Python",
-        "starsToday": "293 stars today",
-        "totalStars": "10,492",
-        "time": 1772802566241,
+        "totalStars": "38,063",
+        "time": 1772823336723,
         "source": "GitHub",
         "category": "github"
       },
@@ -96,9 +84,9 @@
         "url": "https://github.com/apache/airflow",
         "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
         "language": "Python",
-        "starsToday": "16 stars today",
-        "totalStars": "44,512",
-        "time": 1772802566241,
+        "starsToday": "21 stars today",
+        "totalStars": "44,518",
+        "time": 1772823336722,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +97,8 @@
         "description": "Automate the process of making money online.",
         "language": "Python",
         "starsToday": "412 stars today",
-        "totalStars": "14,878",
-        "time": 1772802566241,
+        "totalStars": "14,890",
+        "time": 1772823336722,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +109,20 @@
         "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
         "language": "Python",
         "starsToday": "191 stars today",
-        "totalStars": "23,901",
-        "time": 1772802566241,
+        "totalStars": "23,936",
+        "time": 1772823336722,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-p-e-w-heretic",
+        "title": "p-e-w/heretic",
+        "url": "https://github.com/p-e-w/heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "starsToday": "293 stars today",
+        "totalStars": "10,538",
+        "time": 1772823336721,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,56 +133,8 @@
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
         "language": "Unknown",
         "starsToday": "2,857 stars today",
-        "totalStars": "9,067",
-        "time": 1772802566098,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-virattt-ai-hedge-fund",
-        "title": "virattt/ai-hedge-fund",
-        "url": "https://github.com/virattt/ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "starsToday": "82 stars today",
-        "totalStars": "46,221",
-        "time": 1772802566097,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-aidenybai-react-grab",
-        "title": "aidenybai/react-grab",
-        "url": "https://github.com/aidenybai/react-grab",
-        "description": "Select context for coding agents directly from your website",
-        "language": "TypeScript",
-        "starsToday": "442 stars today",
-        "totalStars": "5,777",
-        "time": 1772802566097,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-lingfengQAQ-webnovel-writer",
-        "title": "lingfengQAQ/webnovel-writer",
-        "url": "https://github.com/lingfengQAQ/webnovel-writer",
-        "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
-        "language": "Python",
-        "starsToday": "84 stars today",
-        "totalStars": "666",
-        "time": 1772802566096,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-openai-skills",
-        "title": "openai/skills",
-        "url": "https://github.com/openai/skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "starsToday": "582 stars today",
-        "totalStars": "11,490",
-        "time": 1772802566096,
+        "totalStars": "9,598",
+        "time": 1772823336553,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +145,56 @@
         "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
         "language": "Python",
         "starsToday": "675 stars today",
-        "totalStars": "1,969",
-        "time": 1772802566096,
+        "totalStars": "2,057",
+        "time": 1772823336552,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-virattt-ai-hedge-fund",
+        "title": "virattt/ai-hedge-fund",
+        "url": "https://github.com/virattt/ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "starsToday": "82 stars today",
+        "totalStars": "46,291",
+        "time": 1772823336552,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-aidenybai-react-grab",
+        "title": "aidenybai/react-grab",
+        "url": "https://github.com/aidenybai/react-grab",
+        "description": "Select context for coding agents directly from your website",
+        "language": "TypeScript",
+        "starsToday": "442 stars today",
+        "totalStars": "5,913",
+        "time": 1772823336552,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-lingfengQAQ-webnovel-writer",
+        "title": "lingfengQAQ/webnovel-writer",
+        "url": "https://github.com/lingfengQAQ/webnovel-writer",
+        "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+        "language": "Python",
+        "starsToday": "84 stars today",
+        "totalStars": "744",
+        "time": 1772823336551,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-openai-skills",
+        "title": "openai/skills",
+        "url": "https://github.com/openai/skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "starsToday": "582 stars today",
+        "totalStars": "11,771",
+        "time": 1772823336551,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,22 +205,13 @@
         "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
         "language": "Go",
         "starsToday": "138 stars today",
-        "totalStars": "1,418",
-        "time": 1772802566095,
+        "totalStars": "1,525",
+        "time": 1772823336550,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
-      {
-        "id": "ph-https://www.producthunt.com/products/chatgpt-for-excel-3",
-        "title": "ChatGPT for Excel",
-        "url": "https://www.producthunt.com/products/chatgpt-for-excel-3",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1772754665000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
       {
         "id": "ph-https://www.producthunt.com/products/openai",
         "title": "GPT‑5.4",
@@ -240,6 +231,15 @@
         "category": "ai-product"
       },
       {
+        "id": "ph-https://www.producthunt.com/products/chatgpt",
+        "title": "ChatGPT for Excel",
+        "url": "https://www.producthunt.com/products/chatgpt",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1772754665000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
         "id": "ph-https://www.producthunt.com/products/aident-ai",
         "title": "Aident AI Beta 2",
         "url": "https://www.producthunt.com/products/aident-ai",
@@ -249,11 +249,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/locally-ai-for-mac",
-        "title": "Locally AI + Qwen",
-        "url": "https://www.producthunt.com/products/locally-ai-for-mac",
+        "id": "ph-https://www.producthunt.com/products/assemblyai",
+        "title": "AssemblyAI: Universal-3 Pro Streaming",
+        "url": "https://www.producthunt.com/products/assemblyai",
         "description": "Discussion\n            |\n            Link",
-        "time": 1772579330000,
+        "time": 1772578530000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -263,15 +263,6 @@
         "url": "https://www.producthunt.com/products/personal-ai-memory",
         "description": "Discussion\n            |\n            Link",
         "time": 1772572841000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/assemblyai",
-        "title": "AssemblyAI: Universal-3 Pro Streaming",
-        "url": "https://www.producthunt.com/products/assemblyai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1772578530000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -289,7 +280,7 @@
           "webdev",
           "career"
         ],
-        "reactions": 145,
+        "reactions": 147,
         "comments": 96,
         "time": 1772257731000,
         "source": "Dev.to",
@@ -314,6 +305,23 @@
         "category": "practice"
       },
       {
+        "id": "devto-3309631",
+        "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
+        "url": "https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39",
+        "description": "I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...",
+        "author": "Sylwia Laskowska",
+        "tags": [
+          "webdev",
+          "discuss",
+          "programming"
+        ],
+        "reactions": 96,
+        "comments": 69,
+        "time": 1772698643000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-3301870",
         "title": "Missing My Coworker Jason Today",
         "url": "https://dev.to/art_light/missing-my-coworker-jason-today-23h3",
@@ -325,26 +333,9 @@
           "webdev",
           "beginners"
         ],
-        "reactions": 95,
+        "reactions": 96,
         "comments": 12,
         "time": 1772446645000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3309631",
-        "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
-        "url": "https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39",
-        "description": "I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...",
-        "author": "Sylwia Laskowska",
-        "tags": [
-          "webdev",
-          "discuss",
-          "programming"
-        ],
-        "reactions": 85,
-        "comments": 53,
-        "time": 1772698643000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -360,8 +351,8 @@
           "webdev",
           "typescript"
         ],
-        "reactions": 70,
-        "comments": 41,
+        "reactions": 86,
+        "comments": 47,
         "time": 1772513090000,
         "source": "Dev.to",
         "category": "practice"
@@ -401,20 +392,20 @@
         "category": "practice"
       },
       {
-        "id": "devto-3292331",
-        "title": "I vibe-coded an internal tool that slashed my content workflow by 4 hours",
-        "url": "https://dev.to/dumebii/i-vibe-coded-an-internal-tool-that-slashed-my-content-workflow-by-4-hours-310f",
-        "description": "One of the biggest challenges I face as a content expert is repurposing my written blogs for social...",
-        "author": "Dumebi Okolo",
+        "id": "devto-3308729",
+        "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
+        "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
+        "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
+        "author": "Jon Gottfried",
         "tags": [
-          "webdev",
           "ai",
-          "nextjs",
-          "tooling"
+          "forem",
+          "devto",
+          "gemini"
         ],
-        "reactions": 55,
-        "comments": 26,
-        "time": 1772203937000,
+        "reactions": 58,
+        "comments": 17,
+        "time": 1772655567000,
         "source": "Dev.to",
         "category": "practice"
       }
@@ -617,37 +608,13 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-47247645",
-        "title": "MacBook Neo",
-        "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-        "score": 1937,
-        "comments": 2263,
-        "author": "dm",
-        "time": 1772633801000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-47263323",
         "title": "Wikipedia was in read-only mode following mass admin account compromise",
         "url": "https://www.wikimediastatus.net",
-        "score": 992,
-        "comments": 355,
+        "score": 1023,
+        "comments": 373,
         "author": "greyface-",
         "time": 1772726694000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47261688",
-        "title": "Judge orders government to begin refunding more than $130B in tariffs",
-        "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
-        "score": 985,
-        "comments": 703,
-        "author": "JumpCrisscross",
-        "time": 1772719546000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -656,8 +623,8 @@
         "id": "hn-47252971",
         "title": "10% of Firefox crashes are caused by bitflips",
         "url": "https://mas.to/@gabrielesvelto/116171750653898304",
-        "score": 722,
-        "comments": 354,
+        "score": 852,
+        "comments": 440,
         "author": "marvinborner",
         "time": 1772654304000,
         "source": "Hacker News",
@@ -668,8 +635,8 @@
         "id": "hn-47270784",
         "title": "System76 on Age Verification Laws",
         "url": "https://blog.system76.com/post/system76-on-age-verification/",
-        "score": 510,
-        "comments": 336,
+        "score": 735,
+        "comments": 532,
         "author": "LorenDB",
         "time": 1772770346000,
         "source": "Hacker News",
@@ -677,13 +644,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47269263",
-        "title": "Where things stand with the Department of War",
-        "url": "https://www.anthropic.com/news/where-stand-department-war",
-        "score": 504,
-        "comments": 538,
-        "author": "surprisetalk",
-        "time": 1772757641000,
+        "id": "hn-47275088",
+        "title": "Global warming has accelerated significantly",
+        "url": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
+        "score": 705,
+        "comments": 670,
+        "author": "morsch",
+        "time": 1772806203000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -692,8 +659,8 @@
         "id": "hn-47263595",
         "title": "A GitHub Issue Title Compromised 4k Developer Machines",
         "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-        "score": 496,
-        "comments": 148,
+        "score": 588,
+        "comments": 181,
         "author": "edf13",
         "time": 1772727721000,
         "source": "Hacker News",
@@ -701,13 +668,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47249387",
-        "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
-        "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
-        "score": 480,
-        "comments": 189,
-        "author": "ece",
-        "time": 1772639849000,
+        "id": "hn-47269263",
+        "title": "Where things stand with the Department of War",
+        "url": "https://www.anthropic.com/news/where-stand-department-war",
+        "score": 587,
+        "comments": 712,
+        "author": "surprisetalk",
+        "time": 1772757641000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -716,8 +683,8 @@
         "id": "hn-47261561",
         "title": "Good software knows when to stop",
         "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-        "score": 472,
-        "comments": 238,
+        "score": 524,
+        "comments": 262,
         "author": "ssaboum",
         "time": 1772718763000,
         "source": "Hacker News",
@@ -728,10 +695,34 @@
         "id": "hn-47264756",
         "title": "The Brand Age",
         "url": "https://paulgraham.com/brandage.html",
-        "score": 383,
-        "comments": 302,
+        "score": 439,
+        "comments": 343,
         "author": "bigwheels",
         "time": 1772732650000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47275035",
+        "title": "US economy unexpectedly sheds 92k jobs in February",
+        "url": "https://www.bbc.com/news/articles/cjd98091g28o",
+        "score": 436,
+        "comments": 566,
+        "author": "smartbit",
+        "time": 1772805858000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47274676",
+        "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+        "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+        "score": 385,
+        "comments": 213,
+        "author": "Anon84",
+        "time": 1772803854000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
