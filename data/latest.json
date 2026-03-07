@@ -1,15 +1,15 @@
 {
-  "updateTime": 1772850491335,
-  "updateTimeStr": "2026/3/7 10:28:11",
-  "totalCount": 191,
+  "updateTime": 1772866293619,
+  "updateTimeStr": "2026/3/7 14:51:33",
+  "totalCount": 158,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47265045",
         "title": "GPT-5.4",
         "url": "https://openai.com/index/introducing-gpt-5-4/",
-        "score": 983,
-        "comments": 780,
+        "score": 991,
+        "comments": 784,
         "author": "mudkipdev",
         "time": 1772734090000,
         "source": "Hacker News",
@@ -20,10 +20,22 @@
         "id": "hn-47273854",
         "title": "Hardening Firefox with Anthropic's Red Team",
         "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-        "score": 497,
-        "comments": 141,
+        "score": 548,
+        "comments": 153,
         "author": "todsacerdoti",
         "time": 1772797998000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47282777",
+        "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+        "url": "https://news.ycombinator.com/item?id=47282777",
+        "score": 349,
+        "comments": 219,
+        "author": "shannoncc",
+        "time": 1772841906000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -32,8 +44,8 @@
         "id": "hn-47280200",
         "title": "Anthropic, please make a new Slack",
         "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
-        "score": 204,
-        "comments": 186,
+        "score": 230,
+        "comments": 211,
         "author": "georgewfraser",
         "time": 1772826728000,
         "source": "Hacker News",
@@ -41,25 +53,13 @@
         "isAI": true
       },
       {
-        "id": "hn-47272734",
-        "title": "We might all be AI engineers now",
-        "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-        "score": 181,
-        "comments": 288,
-        "author": "sn0wflak3s",
-        "time": 1772788410000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47264138",
-        "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-        "url": "https://alibaba.github.io/page-agent/",
-        "score": 139,
-        "comments": 71,
-        "author": "simon_luv_pho",
-        "time": 1772730107000,
+        "id": "hn-47283337",
+        "title": "LLMs work best when the user defines their acceptance criteria first",
+        "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+        "score": 149,
+        "comments": 109,
+        "author": "dnw",
+        "time": 1772846277000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-FujiwaraChoki-MoneyPrinterV2",
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+        "description": "Automate the process of making money online.",
+        "language": "Python",
+        "starsToday": "342 stars today",
+        "totalStars": "14,904",
+        "time": 1772866290494,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-github-awesome-copilot",
         "title": "github/awesome-copilot",
         "url": "https://github.com/github/awesome-copilot",
         "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
         "language": "Python",
         "starsToday": "171 stars today",
-        "totalStars": "23,966",
-        "time": 1772850485878,
+        "totalStars": "23,986",
+        "time": 1772866290494,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +97,8 @@
         "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
         "language": "Python",
         "starsToday": "135 stars today",
-        "totalStars": "38,089",
-        "time": 1772850485878,
+        "totalStars": "38,111",
+        "time": 1772866290494,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +109,8 @@
         "description": "Fully automatic censorship removal for language models",
         "language": "Python",
         "starsToday": "240 stars today",
-        "totalStars": "10,602",
-        "time": 1772850485877,
+        "totalStars": "10,634",
+        "time": 1772866290493,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,20 +121,8 @@
         "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
         "language": "Python",
         "starsToday": "21 stars today",
-        "totalStars": "44,522",
-        "time": 1772850485877,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-FujiwaraChoki-MoneyPrinterV2",
-        "title": "FujiwaraChoki/MoneyPrinterV2",
-        "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-        "description": "Automate the process of making money online.",
-        "language": "Python",
-        "starsToday": "342 stars today",
-        "totalStars": "14,904",
-        "time": 1772850485877,
+        "totalStars": "44,527",
+        "time": 1772866290493,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,44 +133,8 @@
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
         "language": "Unknown",
         "starsToday": "2,846 stars today",
-        "totalStars": "9,917",
-        "time": 1772850485744,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-aidenybai-react-grab",
-        "title": "aidenybai/react-grab",
-        "url": "https://github.com/aidenybai/react-grab",
-        "description": "Select context for coding agents directly from your website",
-        "language": "TypeScript",
-        "starsToday": "450 stars today",
-        "totalStars": "6,029",
-        "time": 1772850485743,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-openai-skills",
-        "title": "openai/skills",
-        "url": "https://github.com/openai/skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "starsToday": "595 stars today",
-        "totalStars": "12,052",
-        "time": 1772850485742,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-TheCraigHewitt-seomachine",
-        "title": "TheCraigHewitt/seomachine",
-        "url": "https://github.com/TheCraigHewitt/seomachine",
-        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-        "language": "Python",
-        "starsToday": "690 stars today",
-        "totalStars": "2,179",
-        "time": 1772850485742,
+        "totalStars": "10,149",
+        "time": 1772866290393,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,20 +145,20 @@
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "starsToday": "81 stars today",
-        "totalStars": "46,345",
-        "time": 1772850485742,
+        "totalStars": "46,396",
+        "time": 1772866290392,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-inclusionAI-AReaL",
-        "title": "inclusionAI/AReaL",
-        "url": "https://github.com/inclusionAI/AReaL",
-        "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-        "language": "Python",
-        "starsToday": "347 stars today",
-        "totalStars": "4,413",
-        "time": 1772850485741,
+        "id": "gh-aidenybai-react-grab",
+        "title": "aidenybai/react-grab",
+        "url": "https://github.com/aidenybai/react-grab",
+        "description": "Select context for coding agents directly from your website",
+        "language": "TypeScript",
+        "starsToday": "450 stars today",
+        "totalStars": "6,091",
+        "time": 1772866290392,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,19 +169,55 @@
         "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
         "language": "Python",
         "starsToday": "90 stars today",
-        "totalStars": "797",
-        "time": 1772850485741,
+        "totalStars": "863",
+        "time": 1772866290391,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-openai-skills",
+        "title": "openai/skills",
+        "url": "https://github.com/openai/skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "starsToday": "595 stars today",
+        "totalStars": "12,191",
+        "time": 1772866290391,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-TheCraigHewitt-seomachine",
+        "title": "TheCraigHewitt/seomachine",
+        "url": "https://github.com/TheCraigHewitt/seomachine",
+        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "language": "Python",
+        "starsToday": "690 stars today",
+        "totalStars": "2,241",
+        "time": 1772866290391,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Ed1s0nZ-CyberStrikeAI",
+        "title": "Ed1s0nZ/CyberStrikeAI",
+        "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+        "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+        "language": "Go",
+        "starsToday": "106 stars today",
+        "totalStars": "1,718",
+        "time": 1772866290390,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
-        "id": "ph-https://www.producthunt.com/products/superpowers-ai-2",
-        "title": "SuperPowers AI",
-        "url": "https://www.producthunt.com/products/superpowers-ai-2",
+        "id": "ph-https://www.producthunt.com/products/chatgpt",
+        "title": "ChatGPT for Excel",
+        "url": "https://www.producthunt.com/products/chatgpt",
         "description": "Discussion\n            |\n            Link",
-        "time": 1772417488000,
+        "time": 1772754665000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -231,11 +231,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/chatgpt",
-        "title": "ChatGPT for Excel",
-        "url": "https://www.producthunt.com/products/chatgpt",
+        "id": "ph-https://www.producthunt.com/products/superpowers-ai-2",
+        "title": "SuperPowers AI",
+        "url": "https://www.producthunt.com/products/superpowers-ai-2",
         "description": "Discussion\n            |\n            Link",
-        "time": 1772754665000,
+        "time": 1772417488000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -245,24 +245,6 @@
         "url": "https://www.producthunt.com/products/aident-ai",
         "description": "Discussion\n            |\n            Link",
         "time": 1772596489000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/locally-ai-for-mac",
-        "title": "Locally AI + Qwen",
-        "url": "https://www.producthunt.com/products/locally-ai-for-mac",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1772579330000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/assemblyai",
-        "title": "AssemblyAI: Universal-3 Pro Streaming",
-        "url": "https://www.producthunt.com/products/assemblyai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1772578530000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -278,24 +260,6 @@
     ],
     "practice": [
       {
-        "id": "devto-3294921",
-        "title": "The Hardest Part of Being a Developer Isn’t Coding. It’s Disappearing Quietly.",
-        "url": "https://dev.to/the_nortern_dev/the-hardest-part-of-being-a-developer-isnt-coding-its-disappearing-quietly-52l",
-        "description": "A weird thing happens when you become a developer. You can go days without anyone needing you in a...",
-        "author": "NorthernDev",
-        "tags": [
-          "discuss",
-          "mentalhealth",
-          "webdev",
-          "career"
-        ],
-        "reactions": 152,
-        "comments": 96,
-        "time": 1772257731000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-3309631",
         "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
         "url": "https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39",
@@ -306,8 +270,8 @@
           "discuss",
           "programming"
         ],
-        "reactions": 120,
-        "comments": 79,
+        "reactions": 128,
+        "comments": 81,
         "time": 1772698643000,
         "source": "Dev.to",
         "category": "practice"
@@ -331,24 +295,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-3301870",
-        "title": "Missing My Coworker Jason Today",
-        "url": "https://dev.to/art_light/missing-my-coworker-jason-today-23h3",
-        "description": "I was going to write something technical this week. Maybe about architecture patterns. Or why most...",
-        "author": "Art light",
-        "tags": [
-          "career",
-          "discuss",
-          "webdev",
-          "beginners"
-        ],
-        "reactions": 96,
-        "comments": 12,
-        "time": 1772446645000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-3304003",
         "title": "i built a social platform where everything vanishes after 24 hours",
         "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
@@ -360,9 +306,27 @@
           "webdev",
           "typescript"
         ],
-        "reactions": 89,
-        "comments": 47,
+        "reactions": 99,
+        "comments": 49,
         "time": 1772513090000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3301870",
+        "title": "Missing My Coworker Jason Today",
+        "url": "https://dev.to/art_light/missing-my-coworker-jason-today-23h3",
+        "description": "I was going to write something technical this week. Maybe about architecture patterns. Or why most...",
+        "author": "Art light",
+        "tags": [
+          "career",
+          "discuss",
+          "webdev",
+          "beginners"
+        ],
+        "reactions": 97,
+        "comments": 12,
+        "time": 1772446645000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -419,9 +383,37 @@
         "time": 1772451451000,
         "source": "Dev.to",
         "category": "practice"
+      },
+      {
+        "id": "devto-3304981",
+        "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
+        "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
+        "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+        "author": "Daniel Balcarek",
+        "tags": [
+          "discuss",
+          "ai",
+          "chatgpt",
+          "security"
+        ],
+        "reactions": 40,
+        "comments": 27,
+        "time": 1772636528000,
+        "source": "Dev.to",
+        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/cYD3g1jMkc6D4RTuDfOc?utm_source=rss&utm_medium=article",
+        "title": "Argo CD 3.3 带来更安全的 GitOps 删除操作与更顺畅的日常运维体验",
+        "url": "https://www.infoq.cn/article/cYD3g1jMkc6D4RTuDfOc?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1772881200000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article",
         "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京",
@@ -443,11 +435,11 @@
         "isChina": true
       },
       {
-        "id": "36kr-https://36kr.com/newsflashes/3712198940324229?f=rss",
-        "title": "微软、谷歌和亚马逊确认继续提供Anthropic技术",
-        "url": "https://36kr.com/newsflashes/3712198940324229?f=rss",
-        "description": "在美国国防部近期将人工智能新贵 Anthropic 技术正式认定为供应链风险之后，谷歌周五宣布将继续向客户提供Anthropic的人工智能技术，但国防相关用途除外。随后亚马逊跟进，宣布将继续向其云服务客户提供Anthropic相关技术。此前一天，微软已向客户发布了类似声明。\n\n上周，Anthropic拒绝接受国防部提出的使用条款后，美国总统特朗普下令联邦机构停止使用该公司技术；国防部长皮特・赫格塞",
-        "time": 1772848333000,
+        "id": "36kr-https://36kr.com/newsflashes/3712320657453192?f=rss",
+        "title": "西井科技更新IPO辅导备案",
+        "url": "https://36kr.com/newsflashes/3712320657453192?f=rss",
+        "description": "证监会官网信息显示，上海西井科技股份有限公司（简称“西井科技”）已于近日更新A股IPO辅导备案，辅导机构为申万宏源证券。西井科技成立于2015年，是一家正向自研无人驾驶商用车的中国科技企业，致力于通过AI智能化能力为大物流行业客户提供数字化升级和绿色转型解决方案。西井科技2025年底完成F+轮融资，由申万投资领投，建投投资、中银资产等机构联合参投。（财联社）",
+        "time": 1772862102000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
@@ -491,130 +483,9 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article",
-        "title": "软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌",
-        "url": "https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1772812800000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2603.04448",
-        "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
-        "url": "https://arxiv.org/abs/2603.04448",
-        "description": "arXiv:2603.04448v1 Announce Type: new \nAbstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mechanism for skill consolidation, agents frequently ``",
-        "author": "Yuan Liang, Ruobin Zhong, Haoming Xu, Chen Jiang, Yi Zhong, Runnan Fang, Jia-Chen Gu, Shumin Deng, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Xin Xu, Tongtong Wu, Kun Wang, Yang Liu, Zhen Bi, Jungang Lou, Yuchen Eleanor Jiang, Hangcheng Zhu, Gang Yu, Haiwen Hong, Longtao Huang, Hui Xue, Chenxi Wang, Yijun Wang, Zifei Shan, Xi Chen, Zhaopeng Tu, Feiyu Xiong, Xin Xie, Peng Zhang, Zhengke Gui, Lei Liang, Jun Zhou, Chiyu Wu, Jin Shang, Yu Gong, Junyu Lin, Changliang Xu, Hongjie Deng, Wen Zhang, Keyan Ding, Qiang Zhang, Fei Huang, Ningyu Zhang, Jeff Z. Pan, Guilin Qi, Haofen Wang, Huajun Chen",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04457",
-        "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
-        "url": "https://arxiv.org/abs/2603.04457",
-        "description": "arXiv:2603.04457v1 Announce Type: new \nAbstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every major innovation of the past century, from the Toyota Production System to Industry 4.0, has optimized w",
-        "author": "Xinmin Fang, Lingfeng Tao, Zhengxiong Li",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04514",
-        "title": "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding",
-        "url": "https://arxiv.org/abs/2603.04514",
-        "description": "arXiv:2603.04514v1 Announce Type: new \nAbstract: Diffusion language models generate text through iterative denoising under a uniform refinement rule applied to all tokens. However, tokens stabilize at different rates in practice, leading to substantial redundant refinement and motivating refinement ",
-        "author": "Lipeng Wan, Jianhui Gu, Junjie Ma, Jianguo Huang, Shiguang Sun, Siyuan Li, Xuguang Lan",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04528",
-        "title": "Discovering mathematical concepts through a multi-agent system",
-        "url": "https://arxiv.org/abs/2603.04528",
-        "description": "arXiv:2603.04528v1 Announce Type: new \nAbstract: Mathematical concepts emerge through an interplay of processes, including experimentation, efforts at proof, and counterexamples. In this paper, we present a new multi-agent model for computational mathematical discovery based on this observation. Our",
-        "author": "Daattavya Aggarwal, Oisin Kim, Carl Henrik Ek, Challenger Mishra",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04549",
-        "title": "Adaptive Memory Admission Control for LLM Agents",
-        "url": "https://arxiv.org/abs/2603.04549",
-        "description": "arXiv:2603.04549v1 Announce Type: new \nAbstract: LLM-based agents increasingly rely on long-term memory to support multi-session reasoning and interaction, yet current systems provide little control over what information is retained. In practice, agents either accumulate large volumes of conversatio",
-        "author": "Guilin Zhang, Wei Jiang, Xiejiashan Wang, Aisha Behr, Kai Zhao, Jeffrey Friedman, Xu Chu, Amine Anoun",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04582",
-        "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
-        "url": "https://arxiv.org/abs/2603.04582",
-        "description": "arXiv:2603.04582v1 Announce Type: new \nAbstract: Agentic systems increasingly rely on language models to monitor their own behavior. For example, coding agents may self critique generated code for pull request approval or assess the safety of tool-use actions. We show that this design pattern can fa",
-        "author": "Dipika Khullar, Jack Hopkins, Rowan Wang, Fabien Roger",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04589",
-        "title": "ECG-MoE: Mixture-of-Expert Electrocardiogram Foundation Model",
-        "url": "https://arxiv.org/abs/2603.04589",
-        "description": "arXiv:2603.04589v1 Announce Type: new \nAbstract: Electrocardiography (ECG) analysis is crucial for cardiac diagnosis, yet existing foundation models often fail to capture the periodicity and diverse features required for varied clinical tasks. We propose ECG-MoE, a hybrid architecture that integrate",
-        "author": "Yuhao Xu, Xiaoda Wang, Yi Wu, Wei Jin, Xiao Hu, Carl Yang",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04631",
-        "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
-        "url": "https://arxiv.org/abs/2603.04631",
-        "description": "arXiv:2603.04631v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly integrated into critical decision-making pipelines, a trend that raises the demand for robust and automated data analysis. Current approaches to dataset risk analysis are limited to manual auditing methods",
-        "author": "Panteleimon Rodis",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04636",
-        "title": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
-        "url": "https://arxiv.org/abs/2603.04636",
-        "description": "arXiv:2603.04636v1 Announce Type: new \nAbstract: Despite their wide-ranging benefits, LLM-based agents deployed in open environments can be exploited to produce manipulative material. In this study, we task LLMs with propaganda objectives and analyze their outputs using two domain-specific models: o",
-        "author": "Julia Jose, Ritik Roongta, Rachel Greenstadt",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2603.04670",
-        "title": "Using Vision + Language Models to Predict Item Difficulty",
-        "url": "https://arxiv.org/abs/2603.04670",
-        "description": "arXiv:2603.04670v1 Announce Type: new \nAbstract: This project investigates the capabilities of large language models (LLMs) to determine the difficulty of data visualization literacy test items. We explore whether features derived from item text (question and answer options), the visualization image",
-        "author": "Samin Khan",
-        "time": 1772773200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
@@ -622,34 +493,10 @@
         "id": "hn-47275088",
         "title": "Global warming has accelerated significantly",
         "url": "https://www.researchsquare.com/article/rs-6079807/v1",
-        "score": 983,
-        "comments": 970,
+        "score": 1031,
+        "comments": 1029,
         "author": "morsch",
         "time": 1772806203000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47252971",
-        "title": "10% of Firefox crashes are caused by bitflips",
-        "url": "https://mas.to/@gabrielesvelto/116171750653898304",
-        "score": 874,
-        "comments": 457,
-        "author": "marvinborner",
-        "time": 1772654304000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47270784",
-        "title": "System76 on Age Verification Laws",
-        "url": "https://blog.system76.com/post/system76-on-age-verification/",
-        "score": 809,
-        "comments": 570,
-        "author": "LorenDB",
-        "time": 1772770346000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -658,8 +505,8 @@
         "id": "hn-47278426",
         "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
         "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-        "score": 742,
-        "comments": 501,
+        "score": 826,
+        "comments": 559,
         "author": "enraged_camel",
         "time": 1772819205000,
         "source": "Hacker News",
@@ -670,10 +517,22 @@
         "id": "hn-47274676",
         "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
         "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-        "score": 516,
-        "comments": 289,
+        "score": 537,
+        "comments": 304,
         "author": "Anon84",
         "time": 1772803854000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47282736",
+        "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+        "url": "https://plasma-bigscreen.org",
+        "score": 304,
+        "comments": 97,
+        "author": "PaulHoule",
+        "time": 1772841556000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -682,8 +541,8 @@
         "id": "hn-47272799",
         "title": "LibreSprite – open-source pixel art editor",
         "url": "https://libresprite.github.io/",
-        "score": 263,
-        "comments": 85,
+        "score": 272,
+        "comments": 86,
         "author": "nicoloren",
         "time": 1772788920000,
         "source": "Hacker News",
@@ -694,34 +553,10 @@
         "id": "hn-47275236",
         "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
         "url": "https://github.com/moongate-community/moongatev2",
-        "score": 229,
-        "comments": 132,
+        "score": 242,
+        "comments": 136,
         "author": "squidleon",
         "time": 1772806979000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47275152",
-        "title": "CT Scans of Health Wearables",
-        "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-        "score": 189,
-        "comments": 40,
-        "author": "radeeyate",
-        "time": 1772806566000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47270807",
-        "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-        "url": "https://dev.moment.com/",
-        "score": 182,
-        "comments": 61,
-        "author": "armandhammer10",
-        "time": 1772770540000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -730,10 +565,46 @@
         "id": "hn-47281593",
         "title": "this css proves me human",
         "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-        "score": 168,
-        "comments": 59,
+        "score": 223,
+        "comments": 77,
         "author": "todsacerdoti",
         "time": 1772833964000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47275152",
+        "title": "CT Scans of Health Wearables",
+        "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+        "score": 203,
+        "comments": 43,
+        "author": "radeeyate",
+        "time": 1772806566000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47272338",
+        "title": "It took four years until 2011’s iOS 5 gave everyone an emoji keyboard",
+        "url": "https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/",
+        "score": 133,
+        "comments": 80,
+        "author": "tobr",
+        "time": 1772784808000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47280352",
+        "title": "Ada 2022",
+        "url": "https://www.adaic.org/ada-resources/standards/ada22/",
+        "score": 127,
+        "comments": 26,
+        "author": "tosh",
+        "time": 1772827428000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -745,7 +616,6 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
       "36氪",
       "InfoQ",
