@@ -1,17 +1,29 @@
 {
-  "updateTime": 1773024138990,
-  "updateTimeStr": "2026/3/9 10:42:18",
-  "totalCount": 160,
+  "updateTime": 1773040231625,
+  "updateTimeStr": "2026/3/9 15:10:31",
+  "totalCount": 190,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47301085",
         "title": "Agent Safehouse – macOS-native sandboxing for local agents",
         "url": "https://agent-safehouse.dev/",
-        "score": 346,
-        "comments": 82,
+        "score": 520,
+        "comments": 119,
         "author": "atombender",
         "time": 1773001818000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47291513",
+        "title": "LLM Writing Tropes.md",
+        "url": "https://tropes.fyi/tropes-md",
+        "score": 330,
+        "comments": 155,
+        "author": "walterbell",
+        "time": 1772917720000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -20,7 +32,7 @@
         "id": "hn-47293415",
         "title": "Warn about PyPy being unmaintained",
         "url": "https://github.com/astral-sh/uv/pull/17643",
-        "score": 296,
+        "score": 301,
         "comments": 160,
         "author": "networked",
         "time": 1772933721000,
@@ -29,23 +41,11 @@
         "isAI": true
       },
       {
-        "id": "hn-47297919",
-        "title": "Living human brain cells play DOOM on a CL1 [video]",
-        "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-        "score": 148,
-        "comments": 132,
-        "author": "kevinak",
-        "time": 1772982448000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
         "id": "hn-47300747",
         "title": "We should revisit literate programming in the agent era",
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-        "score": 140,
-        "comments": 75,
+        "score": 212,
+        "comments": 119,
         "author": "horseradish",
         "time": 1772999895000,
         "source": "Hacker News",
@@ -53,13 +53,13 @@
         "isAI": true
       },
       {
-        "id": "hn-47249139",
-        "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-        "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-        "score": 136,
-        "comments": 31,
-        "author": "ohjeez",
-        "time": 1772638969000,
+        "id": "hn-47297919",
+        "title": "Living human brain cells play DOOM on a CL1 [video]",
+        "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+        "score": 172,
+        "comments": 160,
+        "author": "kevinak",
+        "time": 1772982448000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-virattt-ai-hedge-fund",
+        "title": "virattt/ai-hedge-fund",
+        "url": "https://github.com/virattt/ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "starsToday": "275 stars today",
+        "totalStars": "46,927",
+        "time": 1773040225626,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-is-a-dev-register",
         "title": "is-a-dev/register",
         "url": "https://github.com/is-a-dev/register",
         "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
         "language": "JavaScript",
         "starsToday": "10 stars today",
-        "totalStars": "9,816",
-        "time": 1773024131891,
+        "totalStars": "9,874",
+        "time": 1773040225626,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +97,8 @@
         "description": "Unofficial Python API for Google NotebookLM",
         "language": "Python",
         "starsToday": "196 stars today",
-        "totalStars": "3,777",
-        "time": 1773024131891,
+        "totalStars": "3,868",
+        "time": 1773040225626,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,32 +109,8 @@
         "description": "The design language that makes your AI harness better at design.",
         "language": "JavaScript",
         "starsToday": "443 stars today",
-        "totalStars": "1,885",
-        "time": 1773024131891,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-openai-skills",
-        "title": "openai/skills",
-        "url": "https://github.com/openai/skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "starsToday": "612 stars today",
-        "totalStars": "13,295",
-        "time": 1773024131890,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-virattt-ai-hedge-fund",
-        "title": "virattt/ai-hedge-fund",
-        "url": "https://github.com/virattt/ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "starsToday": "275 stars today",
-        "totalStars": "46,855",
-        "time": 1773024131890,
+        "totalStars": "2,183",
+        "time": 1773040225626,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +121,8 @@
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
         "language": "TypeScript",
         "starsToday": "4,603 stars today",
-        "totalStars": "281,873",
-        "time": 1773024131889,
+        "totalStars": "284,447",
+        "time": 1773040225625,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,8 +133,8 @@
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
         "language": "TypeScript",
         "starsToday": "533 stars today",
-        "totalStars": "65,265",
-        "time": 1773024131889,
+        "totalStars": "65,392",
+        "time": 1773040225625,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,8 +145,8 @@
         "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
         "language": "Go",
         "starsToday": "244 stars today",
-        "totalStars": "2,303",
-        "time": 1773024131889,
+        "totalStars": "2,424",
+        "time": 1773040225625,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +157,20 @@
         "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
         "language": "TypeScript",
         "starsToday": "566 stars today",
-        "totalStars": "23,975",
-        "time": 1773024131889,
+        "totalStars": "24,177",
+        "time": 1773040225625,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-openai-skills",
+        "title": "openai/skills",
+        "url": "https://github.com/openai/skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "starsToday": "612 stars today",
+        "totalStars": "13,426",
+        "time": 1773040225625,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +181,8 @@
         "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
         "language": "Jupyter Notebook",
         "starsToday": "522 stars today",
-        "totalStars": "14,504",
-        "time": 1773024131888,
+        "totalStars": "14,753",
+        "time": 1773040225624,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +193,8 @@
         "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
         "language": "Python",
         "starsToday": "1,104 stars today",
-        "totalStars": "7,315",
-        "time": 1773024131888,
+        "totalStars": "7,920",
+        "time": 1773040225624,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,13 +205,22 @@
         "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
         "language": "TypeScript",
         "starsToday": "488 stars today",
-        "totalStars": "108,745",
-        "time": 1773024131888,
+        "totalStars": "108,861",
+        "time": 1773040225624,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/brandingstudio-ai",
+        "title": "BrandingStudio.ai",
+        "url": "https://www.producthunt.com/products/brandingstudio-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1772641114000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/sheet-monkey",
         "title": "Tailwind Form Builder",
@@ -247,15 +256,6 @@
         "time": 1772754665000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/aident-ai",
-        "title": "Aident AI Beta 2",
-        "url": "https://www.producthunt.com/products/aident-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1772596489000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
@@ -270,8 +270,8 @@
           "discuss",
           "programming"
         ],
-        "reactions": 173,
-        "comments": 102,
+        "reactions": 178,
+        "comments": 104,
         "time": 1772698643000,
         "source": "Dev.to",
         "category": "practice"
@@ -306,7 +306,7 @@
           "mcp",
           "webdev"
         ],
-        "reactions": 109,
+        "reactions": 110,
         "comments": 11,
         "time": 1772574743000,
         "source": "Dev.to",
@@ -405,6 +405,26 @@
     ],
     "china": [
       {
+        "id": "infoq-https://www.infoq.cn/article/yB0DZ1c5uLDdkVsJvgWY?utm_source=rss&utm_medium=article",
+        "title": "Uforwarder：优步的可扩展Kafka消费者代理，助力高效的事件驱动微服务",
+        "url": "https://www.infoq.cn/article/yB0DZ1c5uLDdkVsJvgWY?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1773064800000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article",
+        "title": "从上下文到长期记忆：大模型记忆工程的架构设计与实践",
+        "url": "https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1773057944000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
         "id": "infoq-https://www.infoq.cn/article/rLVi30GAlEd0bX8VxTBZ?utm_source=rss&utm_medium=article",
         "title": "GlassFish 8.0发布，兼容Jakarta EE 11，增强安全性并改进数据访问",
         "url": "https://www.infoq.cn/article/rLVi30GAlEd0bX8VxTBZ?utm_source=rss&utm_medium=article",
@@ -463,29 +483,120 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/IHiheIrpN1lo0jJJlqhD?utm_source=rss&utm_medium=article",
-        "title": "Leapwork研究显示，测试中的AI仍然依赖于可靠性，而不仅仅是创新",
-        "url": "https://www.infoq.cn/article/IHiheIrpN1lo0jJJlqhD?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1773049200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/e2DdycRSttfZvU2ZkauH?utm_source=rss&utm_medium=article",
-        "title": "Java近期资讯：延迟常量、TornadoVM 3.0、NetBeans 29、Quarkus、JReleaser和Open Liberty",
-        "url": "https://www.infoq.cn/article/e2DdycRSttfZvU2ZkauH?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1773048423000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": []
+    "papers": [
+      {
+        "id": "arxiv-2603.05522",
+        "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
+        "url": "https://arxiv.org/abs/2603.05522",
+        "description": "arXiv:2603.05522v1 Announce Type: new \nAbstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended language instructions. However, generating layouts that are not only semantically coherent but also feasi",
+        "author": "Ali Shamsaddinlou",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.05614",
+        "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+        "url": "https://arxiv.org/abs/2603.05614",
+        "description": "arXiv:2603.05614v1 Announce Type: new \nAbstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and compete for shared resources under policy and governa",
+        "author": "Lauri Lov\\'en, Alaa Saleh, Reza Farahani, Ilir Murturi, Miguel Bordallo L\\'opez, Praveen Kumar Donta, Schahram Dustdar",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.05706",
+        "title": "Reasoning Models Struggle to Control their Chains of Thought",
+        "url": "https://arxiv.org/abs/2603.05706",
+        "description": "arXiv:2603.05706v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, if models can control what they verbalize in their CoT, it could undermine CoT monitorability. To m",
+        "author": "Chen Yueh-Han, Robert McCarthy, Bruce W. Lee, He He, Ian Kivlichan, Bowen Baker, Micah Carroll, Tomek Korbak",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.05860",
+        "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
+        "url": "https://arxiv.org/abs/2603.05860",
+        "description": "arXiv:2603.05860v1 Announce Type: new \nAbstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify findings, and refine their decisions through a sequence of specialized procedures. While LLM-based a",
+        "author": "Lin Fan, Pengyu Dai, Zhipeng Deng, Haolin Wang, Xun Gong, Yefeng Zheng, Yafei Ou",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.05910",
+        "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
+        "url": "https://arxiv.org/abs/2603.05910",
+        "description": "arXiv:2603.05910v1 Announce Type: new \nAbstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing benchmarks assume static environments with fixed schemas and toolsets, neglecting the evolutionary",
+        "author": "Guangrui Li, Yaochen Xie, Yi Liu, Ziwei Dong, Xingyuan Pan, Tianqi Zheng, Jason Choi, Michael J. Morais, Binit Jha, Shaunak Mishra, Bingrou Zhou, Chen Luo, Monica Xiao Cheng, Dawn Song",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.05912",
+        "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
+        "url": "https://arxiv.org/abs/2603.05912",
+        "description": "arXiv:2603.05912v1 Announce Type: new \nAbstract: Search-augmented LLM agents can produce deep research reports (DRRs), but verifying claim-level factuality remains challenging. Existing fact-checkers are primarily designed for general-domain, factoid-style atomic claims, and there is no benchmark to",
+        "author": "Yukun Huang, Leonardo F. R. Ribeiro, Momchil Hardalov, Bhuwan Dhingra, Markus Dreyer, Venkatesh Saligrama",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.05980",
+        "title": "An Interactive Multi-Agent System for Evaluation of New Product Concepts",
+        "url": "https://arxiv.org/abs/2603.05980",
+        "description": "arXiv:2603.05980v1 Announce Type: new \nAbstract: Product concept evaluation is a critical stage that determines strategic resource allocation and project success in enterprises. However, traditional expert-led approaches face limitations such as subjective bias and high time and cost requirements. T",
+        "author": "Bin Xuan, Ruo Ai, Hakyeon Lee",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.06064",
+        "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
+        "url": "https://arxiv.org/abs/2603.06064",
+        "description": "arXiv:2603.06064v1 Announce Type: new \nAbstract: Task planning, the problem of sequencing actions to reach a goal from an initial state, is a core capability requirement for autonomous robotic systems. Whether large language models (LLMs) can serve as viable planners alongside classical symbolic met",
+        "author": "Kai G\\\"obel, Pierrick Lorang, Patrik Zips, Tobias Gl\\\"uck",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.06067",
+        "title": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks",
+        "url": "https://arxiv.org/abs/2603.06067",
+        "description": "arXiv:2603.06067v1 Announce Type: new \nAbstract: Formal argumentation is being used increasingly in artificial intelligence as an effective and understandable way to model potentially conflicting pieces of information, called arguments, and identify so-called acceptable arguments depending on a chos",
+        "author": "Yann Munro, Isabelle Bloch, Marie-Jeanne Lesot",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.06082",
+        "title": "Offline Materials Optimization with CliqueFlowmer",
+        "url": "https://arxiv.org/abs/2603.06082",
+        "description": "arXiv:2603.06082v1 Announce Type: new \nAbstract: Recent advances in deep learning inspired neural network-based approaches to computational materials discovery (CMD). A plethora of problems in this field involve finding materials that optimize a target property. Nevertheless, the increasingly popula",
+        "author": "Jakub Grudzien Kuba, Benjamin Kurt Miller, Sergey Levine, Pieter Abbeel",
+        "time": 1773028800000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      }
+    ]
   },
   "extra": {
     "techNews": [
@@ -493,10 +604,22 @@
         "id": "hn-47300329",
         "title": "Ask HN: Please restrict new accounts from posting",
         "url": "https://news.ycombinator.com/item?id=47300329",
-        "score": 469,
-        "comments": 348,
+        "score": 548,
+        "comments": 414,
         "author": "Oras",
         "time": 1772998019000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47296547",
+        "title": "Ask HN: How to be alone?",
+        "url": "https://news.ycombinator.com/item?id=47296547",
+        "score": 400,
+        "comments": 278,
+        "author": "sillysaurusx",
+        "time": 1772970077000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -505,10 +628,22 @@
         "id": "hn-47298044",
         "title": "FrameBook",
         "url": "https://fb.edoo.gg",
-        "score": 360,
-        "comments": 64,
+        "score": 397,
+        "comments": 68,
         "author": "todsacerdoti",
         "time": 1772983269000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47291876",
+        "title": "Microscopes can see video on a laserdisc",
+        "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+        "score": 376,
+        "comments": 39,
+        "author": "zdw",
+        "time": 1772921017000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -517,8 +652,8 @@
         "id": "hn-47296302",
         "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
         "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-        "score": 355,
-        "comments": 221,
+        "score": 365,
+        "comments": 226,
         "author": "rbanffy",
         "time": 1772967272000,
         "source": "Hacker News",
@@ -529,8 +664,8 @@
         "id": "hn-47299009",
         "title": "The changing goalposts of AGI and timelines",
         "url": "https://mlumiste.com/general/openai-charter/",
-        "score": 347,
-        "comments": 283,
+        "score": 363,
+        "comments": 308,
         "author": "skandium",
         "time": 1772990198000,
         "source": "Hacker News",
@@ -541,22 +676,10 @@
         "id": "hn-47296849",
         "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
         "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-        "score": 315,
-        "comments": 139,
+        "score": 325,
+        "comments": 142,
         "author": "doener",
         "time": 1772973614000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47296547",
-        "title": "Ask HN: How to be alone?",
-        "url": "https://news.ycombinator.com/item?id=47296547",
-        "score": 295,
-        "comments": 223,
-        "author": "sillysaurusx",
-        "time": 1772970077000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -565,8 +688,8 @@
         "id": "hn-47298885",
         "title": "LibreOffice Writer now supports Markdown",
         "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-        "score": 285,
-        "comments": 51,
+        "score": 324,
+        "comments": 60,
         "author": "todsacerdoti",
         "time": 1772989310000,
         "source": "Hacker News",
@@ -577,8 +700,8 @@
         "id": "hn-47297453",
         "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
         "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-        "score": 268,
-        "comments": 45,
+        "score": 286,
+        "comments": 46,
         "author": "maxloh",
         "time": 1772978949000,
         "source": "Hacker News",
@@ -586,25 +709,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47291876",
-        "title": "Microscopes can see video on a laserdisc",
-        "url": "https://www.youtube.com/watch?v=qZuR-772cks",
-        "score": 260,
-        "comments": 20,
-        "author": "zdw",
-        "time": 1772921017000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47295837",
-        "title": "Notes on writing Rust-based Wasm",
-        "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-        "score": 206,
-        "comments": 90,
-        "author": "vinhnx",
-        "time": 1772961894000,
+        "id": "hn-47300102",
+        "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+        "url": "https://github.com/BigBodyCobain/Shadowbroker",
+        "score": 214,
+        "comments": 93,
+        "author": "vancecookcobxin",
+        "time": 1772996853000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -616,6 +727,7 @@
     "sources": [
       "GitHub",
       "Hacker News",
+      "arXiv",
       "Dev.to",
       "36氪",
       "InfoQ",
