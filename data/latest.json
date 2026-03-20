@@ -1,15 +1,15 @@
 {
-  "updateTime": 1774012381350,
-  "updateTimeStr": "2026/3/20 21:13:01",
-  "totalCount": 193,
+  "updateTime": 1774033121784,
+  "updateTimeStr": "2026/3/21 02:58:41",
+  "totalCount": 194,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47438723",
         "title": "Astral to Join OpenAI",
         "url": "https://astral.sh/blog/openai",
-        "score": 1399,
-        "comments": 855,
+        "score": 1427,
+        "comments": 870,
         "author": "ibraheemdev",
         "time": 1773925550000,
         "source": "Hacker News",
@@ -20,10 +20,22 @@
         "id": "hn-47442690",
         "title": "Google details new 24-hour process to sideload unverified Android apps",
         "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-        "score": 949,
-        "comments": 1018,
+        "score": 1103,
+        "comments": 1172,
         "author": "0xedb",
         "time": 1773940564000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47454164",
+        "title": "HP trialed mandatory 15-minute support call wait times (2025)",
+        "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
+        "score": 248,
+        "comments": 159,
+        "author": "felineflock",
+        "time": 1774013036000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -32,8 +44,8 @@
         "id": "hn-47442435",
         "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
         "url": "https://blog.skypilot.co/scaling-autoresearch/",
-        "score": 201,
-        "comments": 86,
+        "score": 217,
+        "comments": 91,
         "author": "hopechong",
         "time": 1773939345000,
         "source": "Hacker News",
@@ -41,25 +53,13 @@
         "isAI": true
       },
       {
-        "id": "hn-47444072",
-        "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
-        "url": "https://qlabs.sh/10x",
-        "score": 157,
-        "comments": 38,
-        "author": "sdpmas",
-        "time": 1773946285000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47403905",
-        "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
-        "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-        "score": 147,
-        "comments": 69,
-        "author": "m463",
-        "time": 1773690560000,
+        "id": "hn-47453942",
+        "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+        "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+        "score": 214,
+        "comments": 220,
+        "author": "MrDresden",
+        "time": 1774011716000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,8 +73,8 @@
         "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
         "language": "Python",
         "starsToday": "41 stars today",
-        "totalStars": "76,217",
-        "time": 1774012375603,
+        "totalStars": "76,225",
+        "time": 1774033117301,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +85,8 @@
         "description": "基于本地代理的方式，绕过 IDE 的固定模型服务商限制",
         "language": "Python",
         "starsToday": "11 stars today",
-        "totalStars": "786",
-        "time": 1774012375603,
+        "totalStars": "789",
+        "time": 1774033117301,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +97,20 @@
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "starsToday": "918 stars today",
-        "totalStars": "98,387",
-        "time": 1774012375603,
+        "totalStars": "98,548",
+        "time": 1774033117301,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-github-spec-kit",
+        "title": "github/spec-kit",
+        "url": "https://github.com/github/spec-kit",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "language": "Python",
+        "starsToday": "339 stars today",
+        "totalStars": "78,901",
+        "time": 1774033117300,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +121,8 @@
         "description": "A framework for efficient model inference with omni-modality models",
         "language": "Python",
         "starsToday": "109 stars today",
-        "totalStars": "3,312",
-        "time": 1774012375602,
+        "totalStars": "3,345",
+        "time": 1774033117300,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,44 +133,8 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "language": "Python",
         "starsToday": "31 stars today",
-        "totalStars": "18,491",
-        "time": 1774012375602,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-datalab-to-chandra",
-        "title": "datalab-to/chandra",
-        "url": "https://github.com/datalab-to/chandra",
-        "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-        "language": "Python",
-        "starsToday": "29 stars today",
-        "totalStars": "5,041",
-        "time": 1774012375601,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-github-spec-kit",
-        "title": "github/spec-kit",
-        "url": "https://github.com/github/spec-kit",
-        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "language": "Python",
-        "starsToday": "398 stars today",
-        "totalStars": "78,822",
-        "time": 1774012375601,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-unslothai-unsloth",
-        "title": "unslothai/unsloth",
-        "url": "https://github.com/unslothai/unsloth",
-        "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-        "language": "Python",
-        "starsToday": "699 stars today",
-        "totalStars": "57,011",
-        "time": 1774012375600,
+        "totalStars": "18,502",
+        "time": 1774033117300,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +145,20 @@
         "description": "Agent Package Manager",
         "language": "Python",
         "starsToday": "102 stars today",
-        "totalStars": "609",
-        "time": 1774012375600,
+        "totalStars": "629",
+        "time": 1774033117299,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-datalab-to-chandra",
+        "title": "datalab-to/chandra",
+        "url": "https://github.com/datalab-to/chandra",
+        "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+        "language": "Python",
+        "starsToday": "29 stars today",
+        "totalStars": "5,049",
+        "time": 1774033117299,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +169,8 @@
         "description": "Automate the process of making money online.",
         "language": "Python",
         "starsToday": "787 stars today",
-        "totalStars": "16,485",
-        "time": 1774012375599,
+        "totalStars": "16,551",
+        "time": 1774033117298,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +181,8 @@
         "description": "Give your agents the power of the Hugging Face ecosystem",
         "language": "Python",
         "starsToday": "92 stars today",
-        "totalStars": "9,483",
-        "time": 1774012375599,
+        "totalStars": "9,500",
+        "time": 1774033117298,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,13 +193,34 @@
         "description": "An extremely fast Python type checker and language server, written in Rust.",
         "language": "Python",
         "starsToday": "141 stars today",
-        "totalStars": "17,897",
-        "time": 1774012375599,
+        "totalStars": "17,915",
+        "time": 1774033117298,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-unslothai-unsloth",
+        "title": "unslothai/unsloth",
+        "url": "https://github.com/unslothai/unsloth",
+        "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+        "language": "Python",
+        "starsToday": "699 stars today",
+        "totalStars": "57,096",
+        "time": 1774033117298,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/ai-skills-manager",
+        "title": "AI Skills Manager",
+        "url": "https://www.producthunt.com/products/ai-skills-manager",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1773926557000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/google-ai-studio-8",
         "title": "Google AI Studio 2.0",
@@ -227,33 +236,6 @@
         "url": "https://www.producthunt.com/products/joy-for-gmail",
         "description": "Discussion\n            |\n            Link",
         "time": 1773925777000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup",
-        "title": "Cacheless - AI-powered Mac disk cleanup.",
-        "url": "https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1773898133000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/ai-skills-manager",
-        "title": "AI Skills Manager",
-        "url": "https://www.producthunt.com/products/ai-skills-manager",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1773926557000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/link-ai",
-        "title": "Link AI",
-        "url": "https://www.producthunt.com/products/link-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1773881724000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -274,6 +256,24 @@
         "time": 1773829243000,
         "source": "Product Hunt",
         "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/gb1",
+        "title": "GB1: The AI from the UK",
+        "url": "https://www.producthunt.com/products/gb1",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1773878944000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/link-ai",
+        "title": "Link AI",
+        "url": "https://www.producthunt.com/products/link-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1773881724000,
+        "source": "Product Hunt",
+        "category": "ai-product"
       }
     ],
     "practice": [
@@ -289,8 +289,8 @@
           "programming",
           "culture"
         ],
-        "reactions": 204,
-        "comments": 132,
+        "reactions": 216,
+        "comments": 138,
         "time": 1773642916000,
         "source": "Dev.to",
         "category": "practice"
@@ -307,7 +307,7 @@
           "webdev",
           "javascript"
         ],
-        "reactions": 117,
+        "reactions": 118,
         "comments": 103,
         "time": 1773506674000,
         "source": "Dev.to",
@@ -325,27 +325,9 @@
           "javascript",
           "career"
         ],
-        "reactions": 89,
-        "comments": 64,
+        "reactions": 93,
+        "comments": 68,
         "time": 1773837064000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3344810",
-        "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-        "url": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-        "description": "Developers have never been shy about disliking certain React APIs. They feel awkward, restrictive, or...",
-        "author": "Ryan Carniato",
-        "tags": [
-          "javascript",
-          "webdev",
-          "solidjs",
-          "react"
-        ],
-        "reactions": 67,
-        "comments": 35,
-        "time": 1773416394000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -361,8 +343,8 @@
           "ai",
           "devchallenge"
         ],
-        "reactions": 64,
-        "comments": 16,
+        "reactions": 65,
+        "comments": 18,
         "time": 1773948718000,
         "source": "Dev.to",
         "category": "practice"
@@ -379,8 +361,8 @@
           "weekendchallenge",
           "webdev"
         ],
-        "reactions": 57,
-        "comments": 15,
+        "reactions": 64,
+        "comments": 17,
         "time": 1773952017000,
         "source": "Dev.to",
         "category": "practice"
@@ -398,8 +380,26 @@
           "ai"
         ],
         "reactions": 55,
-        "comments": 15,
+        "comments": 16,
         "time": 1773772377000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3369331",
+        "title": "Anki On My Wrist",
+        "url": "https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6",
+        "description": "I've long been interested in \"learning how to learn\" and have long been annoyed by how I have grown...",
+        "author": "Matheus Kunzler Maldaner",
+        "tags": [
+          "learning",
+          "productivity",
+          "showdev",
+          "ai"
+        ],
+        "reactions": 52,
+        "comments": 6,
+        "time": 1773876523000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -620,47 +620,11 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-47436950",
-        "title": "Afroman found not liable in defamation case",
-        "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-        "score": 1177,
-        "comments": 684,
-        "author": "antonymoose",
-        "time": 1773913916000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47437655",
-        "title": "“Your frustration is the product”",
-        "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-        "score": 546,
-        "comments": 317,
-        "author": "llm_nerd",
-        "time": 1773920064000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47441546",
-        "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-        "url": "https://github.com/KittenML/KittenTTS",
-        "score": 471,
-        "comments": 163,
-        "author": "rohan_joshi",
-        "time": 1773935766000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-47450478",
-        "title": "ArXiv Declares Independence from Cornell",
+        "title": "ArXiv declares independence from Cornell",
         "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-        "score": 427,
-        "comments": 134,
+        "score": 641,
+        "comments": 217,
         "author": "bookstore-romeo",
         "time": 1773980651000,
         "source": "Hacker News",
@@ -668,37 +632,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47406160",
-        "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
-        "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-        "score": 413,
-        "comments": 52,
-        "author": "PaulHoule",
-        "time": 1773701773000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47440430",
-        "title": "4Chan mocks £520k fine for UK online safety breaches",
-        "url": "https://www.bbc.com/news/articles/c624330lg1ko",
-        "score": 411,
-        "comments": 741,
-        "author": "mosura",
-        "time": 1773931585000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47440759",
-        "title": "macOS 26 breaks custom DNS settings including .internal",
-        "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
-        "score": 362,
-        "comments": 194,
-        "author": "adamamyl",
-        "time": 1773932818000,
+        "id": "hn-47454782",
+        "title": "Chuck Norris has died",
+        "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
+        "score": 527,
+        "comments": 331,
+        "author": "mp3il",
+        "time": 1774015798000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -707,8 +647,8 @@
         "id": "hn-47448524",
         "title": "Push events into a running session with channels",
         "url": "https://code.claude.com/docs/en/channels",
-        "score": 360,
-        "comments": 211,
+        "score": 386,
+        "comments": 229,
         "author": "jasonjmcghee",
         "time": 1773966128000,
         "source": "Hacker News",
@@ -716,13 +656,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47445246",
-        "title": "Waymo Safety Impact",
-        "url": "https://waymo.com/safety/impact/",
-        "score": 327,
-        "comments": 343,
-        "author": "xnx",
-        "time": 1773951215000,
+        "id": "hn-47416972",
+        "title": "How the Turner twins are mythbusting modern technical apparel",
+        "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+        "score": 319,
+        "comments": 164,
+        "author": "greedo",
+        "time": 1773775184000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -731,10 +671,70 @@
         "id": "hn-47445599",
         "title": "Cockpit is a web-based graphical interface for servers",
         "url": "https://github.com/cockpit-project/cockpit",
-        "score": 284,
-        "comments": 162,
+        "score": 309,
+        "comments": 173,
         "author": "modinfo",
         "time": 1773952382000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47448994",
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "score": 266,
+        "comments": 80,
+        "author": "nyxgeek",
+        "time": 1773968985000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47448566",
+        "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+        "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "score": 250,
+        "comments": 72,
+        "author": "robotnikman",
+        "time": 1773966407000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47443588",
+        "title": "Noq: n0's new QUIC implementation in Rust",
+        "url": "https://www.iroh.computer/blog/noq-announcement",
+        "score": 238,
+        "comments": 36,
+        "author": "od0",
+        "time": 1773944235000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47456153",
+        "title": "Oregon school cell phone ban: 'Engaged students, joyful teachers'",
+        "url": "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/",
+        "score": 227,
+        "comments": 163,
+        "author": "nxobject",
+        "time": 1774021159000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47444319",
+        "title": "Delve – Fake Compliance as a Service",
+        "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+        "score": 212,
+        "comments": 84,
+        "author": "freddykruger",
+        "time": 1773947282000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
