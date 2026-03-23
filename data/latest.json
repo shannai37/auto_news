@@ -1,53 +1,17 @@
 {
-  "updateTime": 1774234044258,
-  "updateTimeStr": "2026/3/23 10:47:24",
-  "totalCount": 163,
+  "updateTime": 1774250406998,
+  "updateTimeStr": "2026/3/23 15:20:06",
+  "totalCount": 189,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47482217",
         "title": "GrapheneOS will remain usable by anyone without requiring personal information",
         "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-        "score": 250,
-        "comments": 68,
+        "score": 345,
+        "comments": 93,
         "author": "nothrowaways",
         "time": 1774214051000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47482825",
-        "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-        "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-        "score": 123,
-        "comments": 67,
-        "author": "weinzierl",
-        "time": 1774217943000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47477090",
-        "title": "A case against currying",
-        "url": "https://emi-h.com/articles/a-case-against-currying.html",
-        "score": 96,
-        "comments": 116,
-        "author": "emih",
-        "time": 1774184635000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47471271",
-        "title": "How to Attract AI Bots to Your Open Source Project",
-        "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-        "score": 83,
-        "comments": 13,
-        "author": "zdw",
-        "time": 1774126681000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,10 +20,46 @@
         "id": "hn-47480447",
         "title": "What Young Workers Are Doing to AI-Proof Themselves",
         "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
-        "score": 80,
-        "comments": 100,
+        "score": 119,
+        "comments": 190,
         "author": "wallflower",
         "time": 1774203481000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47471271",
+        "title": "How to Attract AI Bots to Your Open Source Project",
+        "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+        "score": 118,
+        "comments": 18,
+        "author": "zdw",
+        "time": 1774126681000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47425874",
+        "title": "LLMs predict my coffee",
+        "url": "https://dynomight.net/coffee/",
+        "score": 109,
+        "comments": 46,
+        "author": "surprisetalk",
+        "time": 1773842197000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47477090",
+        "title": "A case against currying",
+        "url": "https://emi-h.com/articles/a-case-against-currying.html",
+        "score": 99,
+        "comments": 119,
+        "author": "emih",
+        "time": 1774184635000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,8 +73,8 @@
         "description": "📚 Freely available programming books",
         "language": "Python",
         "starsToday": "62 stars today",
-        "totalStars": "384,448",
-        "time": 1774234037791,
+        "totalStars": "384,458",
+        "time": 1774250403781,
         "source": "GitHub",
         "category": "github"
       },
@@ -86,7 +86,7 @@
         "language": "Python",
         "starsToday": "28 stars today",
         "totalStars": "8,845",
-        "time": 1774234037791,
+        "time": 1774250403781,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +97,8 @@
         "description": "🏡 Open source home automation that puts local control and privacy first.",
         "language": "Python",
         "starsToday": "92 stars today",
-        "totalStars": "85,696",
-        "time": 1774234037790,
+        "totalStars": "85,730",
+        "time": 1774250403780,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +109,8 @@
         "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
         "language": "Python",
         "starsToday": "54 stars today",
-        "totalStars": "14,184",
-        "time": 1774234037790,
+        "totalStars": "14,199",
+        "time": 1774250403780,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +121,8 @@
         "description": "Memory library for building stateful agents",
         "language": "Python",
         "starsToday": "129 stars today",
-        "totalStars": "869",
-        "time": 1774234037790,
+        "totalStars": "883",
+        "time": 1774250403780,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +133,8 @@
         "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
         "language": "Python",
         "starsToday": "259 stars today",
-        "totalStars": "7,020",
-        "time": 1774234037789,
+        "totalStars": "7,076",
+        "time": 1774250403779,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,32 +145,8 @@
         "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
         "language": "Python",
         "starsToday": "43 stars today",
-        "totalStars": "7,040",
-        "time": 1774234037789,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-bytedance-deer-flow",
-        "title": "bytedance/deer-flow",
-        "url": "https://github.com/bytedance/deer-flow",
-        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-        "language": "Python",
-        "starsToday": "1,690 stars today",
-        "totalStars": "35,704",
-        "time": 1774234037626,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-harry0703-MoneyPrinterTurbo",
-        "title": "harry0703/MoneyPrinterTurbo",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "language": "Python",
-        "starsToday": "189 stars today",
-        "totalStars": "51,066",
-        "time": 1774234037626,
+        "totalStars": "7,052",
+        "time": 1774250403779,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +157,32 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "language": "Go",
         "starsToday": "251 stars today",
-        "totalStars": "33,686",
-        "time": 1774234037625,
+        "totalStars": "33,748",
+        "time": 1774250403086,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-bytedance-deer-flow",
+        "title": "bytedance/deer-flow",
+        "url": "https://github.com/bytedance/deer-flow",
+        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "starsToday": "1,690 stars today",
+        "totalStars": "36,408",
+        "time": 1774250403086,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-harry0703-MoneyPrinterTurbo",
+        "title": "harry0703/MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "starsToday": "189 stars today",
+        "totalStars": "51,353",
+        "time": 1774250403086,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +193,8 @@
         "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
         "language": "Python",
         "starsToday": "230 stars today",
-        "totalStars": "19,866",
-        "time": 1774234037624,
+        "totalStars": "20,023",
+        "time": 1774250403085,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,13 +205,31 @@
         "description": "Generate any location from the real world in Minecraft with a high level of detail.",
         "language": "Rust",
         "starsToday": "582 stars today",
-        "totalStars": "12,781",
-        "time": 1774234037624,
+        "totalStars": "12,881",
+        "time": 1774250403085,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/zoer-ai-2",
+        "title": "Zoer.ai",
+        "url": "https://www.producthunt.com/products/zoer-ai-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1773293038000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/tobira-ai",
+        "title": "Tobira.ai",
+        "url": "https://www.producthunt.com/products/tobira-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1773753895000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/everest-ai",
         "title": "Everest AI",
@@ -222,47 +240,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/ai-skills-manager",
-        "title": "AI Skills Manager",
-        "url": "https://www.producthunt.com/products/ai-skills-manager",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1773926557000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/google-ai-studio-8",
         "title": "Google AI Studio 2.0",
         "url": "https://www.producthunt.com/products/google-ai-studio-8",
         "description": "Discussion\n            |\n            Link",
         "time": 1773935973000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/joy-for-gmail",
-        "title": "Joy for Gmail",
-        "url": "https://www.producthunt.com/products/joy-for-gmail",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1773925777000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/budibase",
-        "title": "Budibase AI Agents",
-        "url": "https://www.producthunt.com/products/budibase",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1773845910000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/tracium-ai",
-        "title": "Tracium.ai",
-        "url": "https://www.producthunt.com/products/tracium-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1773829243000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -298,8 +280,8 @@
           "javascript",
           "career"
         ],
-        "reactions": 111,
-        "comments": 88,
+        "reactions": 115,
+        "comments": 89,
         "time": 1773837064000,
         "source": "Dev.to",
         "category": "practice"
@@ -316,7 +298,7 @@
           "weekendchallenge",
           "webdev"
         ],
-        "reactions": 73,
+        "reactions": 74,
         "comments": 20,
         "time": 1773952017000,
         "source": "Dev.to",
@@ -415,6 +397,36 @@
     ],
     "china": [
       {
+        "id": "infoq-https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
+        "title": "DoorDash 构建大模型对话模拟与评估闭环，实现客服机器人规模化测试",
+        "url": "https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1774278000000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
+        "title": "Netflix发现了在现代CPU上扩展容器时的内核级瓶颈",
+        "url": "https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1774274400000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article",
+        "title": "基于AI的机器人攻陷微软、DataDog和CNCF项目中的GitHub Actions工作流",
+        "url": "https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1774263600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
         "id": "infoq-https://www.infoq.cn/article/ugASUiY5dmLERPkwoKVw?utm_source=rss&utm_medium=article",
         "title": "微软发布MCP C# SDK 1.0版本，全面支持最新的协议规范",
         "url": "https://www.infoq.cn/article/ugASUiY5dmLERPkwoKVw?utm_source=rss&utm_medium=article",
@@ -435,11 +447,21 @@
         "isChina": true
       },
       {
-        "id": "36kr-https://36kr.com/newsflashes/3734919899430917?f=rss",
-        "title": "2026人形机器人半程马拉松4月开跑 共有300余台人形机器人参赛",
-        "url": "https://36kr.com/newsflashes/3734919899430917?f=rss",
-        "description": "3月23日，由北京市人民政府、中央广播电视总台、中国电子学会、世界机器人合作组织共同主办的2026北京亦庄半程马拉松暨人形机器人半程马拉松赛事相关信息正式发布，比赛将于4月19日鸣枪开跑，人类选手与机器人选手同场竞技。至3月10日24时报名截止，组委会共收到来自全国13个省、直辖市及自治区的76家主体超百支参赛队伍的报名申请，包括80余支企业赛队、20余支高校及训练营队伍；汇聚了26个品牌、300",
-        "time": 1774233734000,
+        "id": "36kr-https://36kr.com/newsflashes/3735191129145606?f=rss",
+        "title": "茅台旗下基金等入股具身智能公司智身科技",
+        "url": "https://36kr.com/newsflashes/3735191129145606?f=rss",
+        "description": "36氪获悉，爱企查App显示，近日，智身科技（北京）有限公司发生工商变更，新增茅台（贵州）高质量成长股权投资合伙企业（有限合伙）、豪鹏科技等为股东，同时，注册资本由约2192.9万元人民币增至约2501.6万元人民币。",
+        "time": 1774249974000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3735189732360196?f=rss",
+        "title": "微博推出首个AI社区",
+        "url": "https://36kr.com/newsflashes/3735189732360196?f=rss",
+        "description": "36氪获悉，近日，微博推出超话“硅基茶水间”，成为国内首个上线AI社区的社交媒体平台，目前该超话已上线。据介绍，“硅基茶水间”是一个为包括龙虾、评论机器人等在内的各类AI创建的，支持其入驻、生活并进行互动的平行宇宙。AI作为社区的“居民”，能够发布动态、评论互动等，完成完整的社交行为。用户将超话链接发送给自己的AI，即可启动其入驻流程。",
+        "time": 1774249888000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
@@ -453,58 +475,141 @@
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3734101643706371?f=rss",
-        "title": "月薪3000的职校生，正在「干掉」北影导演",
-        "url": "https://36kr.com/p/3734101643706371?f=rss",
-        "description": "文｜兰杰\n编辑｜乔芊\n“如果你在出生的时候没有劳斯莱斯，那么这辈子大概率都不会有了。”这是酱油动漫创始人黄浩南熟记于心的一句话。\n他中专毕业，没有父母帮衬，只坚信一条信念，打工是不可能发财的，一定要抓住风口。所以在网文、短剧这些昔日风口中，都有过黄浩南的身影。做短剧后，他终于实现了阶层跨越，但那时酱油动漫仍籍籍无名，直到他又一头扎进漫剧的巨浪。\n去年11月，酱油动漫的月收入超5000万元，已经是名",
-        "time": 1774233000000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3734889097805828?f=rss",
-        "title": "“星灿智能”完成千万级天使轮融资",
-        "url": "https://36kr.com/newsflashes/3734889097805828?f=rss",
-        "description": "36氪获悉，近日，深圳星灿智能宣布完成千万级天使+轮融资。本轮融资由山东亚华电子、浙江亚特电器及其他社会资本共同完成，资金将重点用于出行陪护机器人的核心技术研发、产品量产落地与核心团队扩张。云悦资本担任长期财务顾问。",
-        "time": 1774231539000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3734855815184390?f=rss",
-        "title": "36氪首发丨峰瑞资本投了家智能硬件公司，做空间三维重建，创始人为前群核科技副总裁",
-        "url": "https://36kr.com/p/3734855815184390?f=rss",
-        "description": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，三维重建与空间智能公司——杭州竹马创新科技有限公司（下称“竹马创新”）近日完成数千万天使轮融资。本轮融资由峰瑞资本领投，洪泰基金跟投，光智资本担任本轮独家财务顾问。资金将主要用于研发团队招聘、产品量产筹备及初期营销推广。\n竹马创新成立于2025年11月，专注于消费级三维重建与空间智能产品。公司创始人兼CEO张吉，毕业于西安交通大学计算机系，拥有20余年3D图形行",
-        "time": 1774229536000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3734094940504073?f=rss",
-        "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
-        "url": "https://36kr.com/p/3734094940504073?f=rss",
-        "description": "图为轻舟智航\n文｜肖漫\n编辑｜李勤\n36氪获悉，轻舟智航（QCraft，以下简称“轻舟”）宣布完成D轮新一轮融资1亿美元。本轮融资由某国内头部主机厂、宁波宁海兴泰合基金、梁溪科创产业母基金（博华资本管理）、华德科创、某头部汽车电子零部件公司等重磅产业投资方及投资机构联合投资。\n本次资金将主要用于两大方向：一是加大“世界模型+强化学习”等前沿物理AI技术的研发投入；二是加强组织人才建设，为公司的长远",
-        "time": 1774227600000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
       }
     ],
-    "papers": []
+    "papers": [
+      {
+        "id": "arxiv-2603.19429",
+        "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
+        "url": "https://arxiv.org/abs/2603.19429",
+        "description": "arXiv:2603.19429v1 Announce Type: new \nAbstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ground these representations to simplify reasoning, this can cause an exponential blowup in size. R",
+        "author": "Jo\\~ao Filipe, Gregor Behnke",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19461",
+        "title": "Hyperagents",
+        "url": "https://arxiv.org/abs/2603.19461",
+        "description": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, handcrafted meta-level mechanisms, fundamentally limi",
+        "author": "Jenny Zhang, Bingchen Zhao, Wannan Yang, Jakob Foerster, Jeff Clune, Minqi Jiang, Sam Devlin, Tatiana Shavrina",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19500",
+        "title": "Teaching an Agent to Sketch One Part at a Time",
+        "url": "https://arxiv.org/abs/2603.19500",
+        "description": "arXiv:2603.19500v1 Announce Type: new \nAbstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-turn process-reward reinforcement learning following supervised fine-tuning. Our approach is enable",
+        "author": "Xiaodan Du, Ruize Xu, David Yunis, Yael Vinker, Greg Shakhnarovich",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19514",
+        "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+        "url": "https://arxiv.org/abs/2603.19514",
+        "description": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that disprove false ones. However, current AI efforts in mathematics focus almost exclusively on proof ",
+        "author": "Zenan Li, Zhaoyu Li, Kaiyu Yang, Xiaoxing Ma, Zhendong Su",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19515",
+        "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+        "url": "https://arxiv.org/abs/2603.19515",
+        "description": "arXiv:2603.19515v1 Announce Type: new \nAbstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluations often focus on specific reasoning or planning questions within controlled environments. Recent s",
+        "author": "Tianlong Wang, Pinqiao Wang, Weili Shi, Sheng li",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19579",
+        "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2603.19579",
+        "description": "arXiv:2603.19579v1 Announce Type: new \nAbstract: Multi-objective reinforcement learning (MORL) provides an effective solution for decision-making problems involving conflicting objectives. However, achieving high-quality approximations to the Pareto policy set remains challenging, especially in comp",
+        "author": "Tianmeng Hu, Biao Luo",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19584",
+        "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+        "url": "https://arxiv.org/abs/2603.19584",
+        "description": "arXiv:2603.19584v1 Announce Type: new \nAbstract: Battery life remains a critical challenge for mobile devices, yet existing power management mechanisms rely on static rules or coarse-grained heuristics that ignore user activities and personal preferences. We present PowerLens, a system that tames th",
+        "author": "Xingyu Feng, Chang Sun, Yuzhu Wang, Zhangbing Zhou, Chengwen Luo, Zhuangzhuang Chen, Xiaomin Ouyang, Huanqi Yang",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19639",
+        "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+        "url": "https://arxiv.org/abs/2603.19639",
+        "description": "arXiv:2603.19639v1 Announce Type: new \nAbstract: Although agentic workflows have demonstrated strong potential for solving complex tasks, existing automated generation methods remain inefficient and underperform, as they rely on predefined operator libraries and homogeneous LLM-only workflows in whi",
+        "author": "Beibei Xu, Yutong Ye, Chuyun Shen, Yingbo Zhou, Cheng Chen, Mingsong Chen",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19685",
+        "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+        "url": "https://arxiv.org/abs/2603.19685",
+        "description": "arXiv:2603.19685v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating systems, and web browsers. Web navigation, for example, requires handling dynamic content and long",
+        "author": "Taiyi Wang, Sian Gooding, Florian Hartmann, Oriana Riva, Edward Grefenstette",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2603.19715",
+        "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
+        "url": "https://arxiv.org/abs/2603.19715",
+        "description": "arXiv:2603.19715v1 Announce Type: new \nAbstract: Formal verification via interactive theorem proving is increasingly used to ensure the correctness of critical systems, yet constructing large proof scripts remains highly manual and limits scalability. Advances in large language models (LLMs), especi",
+        "author": "Baoding He, Zenan Li, Wei Sun, Yuan Yao, Taolue Chen, Xiaoxing Ma, Zhendong Su",
+        "time": 1774238400000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      }
+    ]
   },
   "extra": {
     "techNews": [
       {
+        "id": "hn-47480507",
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+        "score": 514,
+        "comments": 252,
+        "author": "JumpCrisscross",
+        "time": 1774203820000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
         "id": "hn-47478401",
         "title": "The future of version control",
         "url": "https://bramcohen.com/p/manyana",
-        "score": 430,
-        "comments": 245,
+        "score": 496,
+        "comments": 276,
         "author": "c17r",
         "time": 1774192588000,
         "source": "Hacker News",
@@ -515,22 +620,10 @@
         "id": "hn-47476821",
         "title": "Project Nomad – Knowledge That Never Goes Offline",
         "url": "https://www.projectnomad.us",
-        "score": 372,
-        "comments": 113,
+        "score": 415,
+        "comments": 141,
         "author": "jensgk",
         "time": 1774182518000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47480507",
-        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-        "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-        "score": 359,
-        "comments": 167,
-        "author": "JumpCrisscross",
-        "time": 1774203820000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -539,10 +632,22 @@
         "id": "hn-47475938",
         "title": "Windows native app development is a mess",
         "url": "https://domenic.me/windows-native-dev/",
-        "score": 345,
-        "comments": 355,
+        "score": 401,
+        "comments": 382,
         "author": "domenicd",
         "time": 1774173451000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47476315",
+        "title": "Reports of code's death are greatly exaggerated",
+        "url": "https://stevekrouse.com/precision",
+        "score": 366,
+        "comments": 272,
+        "author": "stevekrouse",
+        "time": 1774177774000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -551,10 +656,22 @@
         "id": "hn-47476422",
         "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
         "url": "https://github.com/danveloper/flash-moe",
-        "score": 312,
-        "comments": 107,
+        "score": 339,
+        "comments": 113,
         "author": "mft_",
         "time": 1774179003000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47480886",
+        "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+        "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+        "score": 332,
+        "comments": 97,
+        "author": "mariuz",
+        "time": 1774206163000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -563,8 +680,8 @@
         "id": "hn-47479962",
         "title": "OpenClaw is a security nightmare dressed up as a daydream",
         "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
-        "score": 305,
-        "comments": 216,
+        "score": 326,
+        "comments": 227,
         "author": "fs_software",
         "time": 1774200928000,
         "source": "Hacker News",
@@ -575,8 +692,8 @@
         "id": "hn-47477158",
         "title": "Bored of eating your own dogfood? Try smelling your own farts",
         "url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
-        "score": 302,
-        "comments": 186,
+        "score": 315,
+        "comments": 193,
         "author": "ColinWright",
         "time": 1774185151000,
         "source": "Hacker News",
@@ -584,37 +701,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47476315",
-        "title": "Reports of code's death are greatly exaggerated",
-        "url": "https://stevekrouse.com/precision",
-        "score": 275,
-        "comments": 222,
-        "author": "stevekrouse",
-        "time": 1774177774000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47427224",
-        "title": "25 Years of Eggs",
-        "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-        "score": 255,
-        "comments": 73,
-        "author": "avyfain",
-        "time": 1773848648000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47480886",
-        "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-        "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-        "score": 224,
-        "comments": 77,
-        "author": "mariuz",
-        "time": 1774206163000,
+        "id": "hn-47479751",
+        "title": "Why I love NixOS",
+        "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+        "score": 281,
+        "comments": 196,
+        "author": "birkey",
+        "time": 1774199826000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -626,6 +719,7 @@
     "sources": [
       "GitHub",
       "Hacker News",
+      "arXiv",
       "Dev.to",
       "36氪",
       "InfoQ",
