@@ -1,15 +1,15 @@
 {
-  "updateTime": 1775359066400,
-  "updateTimeStr": "2026/4/5 11:17:46",
-  "totalCount": 155,
+  "updateTime": 1775373355077,
+  "updateTimeStr": "2026/4/5 15:15:55",
+  "totalCount": 144,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47633396",
         "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
         "url": "https://news.ycombinator.com/item?id=47633396",
-        "score": 1040,
-        "comments": 787,
+        "score": 1047,
+        "comments": 790,
         "author": "firloop",
         "time": 1775256924000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-47633855",
         "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
         "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-        "score": 370,
-        "comments": 239,
+        "score": 388,
+        "comments": 244,
         "author": "eichin",
         "time": 1775260011000,
         "source": "Hacker News",
@@ -32,10 +32,22 @@
         "id": "hn-47638810",
         "title": "Components of a Coding Agent",
         "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-        "score": 177,
-        "comments": 65,
+        "score": 214,
+        "comments": 69,
         "author": "MindGods",
         "time": 1775308593000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47640875",
+        "title": "LLM Wiki – example of an \"idea file\"",
+        "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+        "score": 150,
+        "comments": 41,
+        "author": "tamnd",
+        "time": 1775321865000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,22 +56,10 @@
         "id": "hn-47639779",
         "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
         "url": "https://sllm.cloud",
-        "score": 130,
-        "comments": 65,
+        "score": 149,
+        "comments": 74,
         "author": "jrandolf",
         "time": 1775315938000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47606244",
-        "title": "Training mRNA Language Models Across 25 Species for $165",
-        "url": "https://news.ycombinator.com/item?id=47606244",
-        "score": 129,
-        "comments": 28,
-        "author": "maziyar",
-        "time": 1775075904000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,50 +67,26 @@
     ],
     "tools": [
       {
-        "id": "gh-sherlock-project-sherlock",
-        "title": "sherlock-project/sherlock",
-        "url": "https://github.com/sherlock-project/sherlock",
-        "description": "Hunt down social media accounts by username across social networks",
-        "language": "Python",
-        "starsToday": "994 stars today",
-        "totalStars": "79,427",
-        "time": 1775359063436,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-block-goose",
-        "title": "block/goose",
-        "url": "https://github.com/block/goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "starsToday": "935 stars today",
-        "totalStars": "35,749",
-        "time": 1775359063435,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-microsoft-agent-framework",
         "title": "microsoft/agent-framework",
         "url": "https://github.com/microsoft/agent-framework",
         "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
         "language": "Python",
         "starsToday": "72 stars today",
-        "totalStars": "8,737",
-        "time": 1775359063435,
+        "totalStars": "8,798",
+        "time": 1775373351595,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-Yeachan-Heo-oh-my-codex",
-        "title": "Yeachan-Heo/oh-my-codex",
-        "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-        "language": "TypeScript",
-        "starsToday": "1,789 stars today",
-        "totalStars": "15,756",
-        "time": 1775359063434,
+        "id": "gh-sherlock-project-sherlock",
+        "title": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "starsToday": "994 stars today",
+        "totalStars": "79,571",
+        "time": 1775373351595,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +97,8 @@
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "language": "TypeScript",
         "starsToday": "1,591 stars today",
-        "totalStars": "20,238",
-        "time": 1775359063434,
+        "totalStars": "20,811",
+        "time": 1775373351594,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +109,20 @@
         "description": "Telegram Desktop messaging app",
         "language": "C++",
         "starsToday": "249 stars today",
-        "totalStars": "30,851",
-        "time": 1775359063434,
+        "totalStars": "30,882",
+        "time": 1775373351594,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-block-goose",
+        "title": "block/goose",
+        "url": "https://github.com/block/goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "starsToday": "935 stars today",
+        "totalStars": "35,850",
+        "time": 1775373351594,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,8 +133,20 @@
         "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
         "language": "Python",
         "starsToday": "1,197 stars today",
-        "totalStars": "24,339",
-        "time": 1775359063433,
+        "totalStars": "24,482",
+        "time": 1775373351593,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Yeachan-Heo-oh-my-codex",
+        "title": "Yeachan-Heo/oh-my-codex",
+        "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+        "language": "TypeScript",
+        "starsToday": "1,789 stars today",
+        "totalStars": "15,967",
+        "time": 1775373351593,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,20 +157,8 @@
         "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
         "language": "Python",
         "starsToday": "343 stars today",
-        "totalStars": "3,639",
-        "time": 1775359063432,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-imbue-ai-mngr",
-        "title": "imbue-ai/mngr",
-        "url": "https://github.com/imbue-ai/mngr",
-        "description": "CLI for managing agents",
-        "language": "Python",
-        "starsToday": "34 stars today",
-        "totalStars": "176",
-        "time": 1775359063339,
+        "totalStars": "3,701",
+        "time": 1775373351592,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +169,8 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
         "language": "Python",
         "starsToday": "32 stars today",
-        "totalStars": "30,972",
-        "time": 1775359063339,
+        "totalStars": "30,977",
+        "time": 1775373351493,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +181,8 @@
         "description": "Run LLMs with MLX",
         "language": "Python",
         "starsToday": "28 stars today",
-        "totalStars": "4,436",
-        "time": 1775359063339,
+        "totalStars": "4,439",
+        "time": 1775373351493,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,8 +193,20 @@
         "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
         "language": "Python",
         "starsToday": "263 stars today",
-        "totalStars": "32,119",
-        "time": 1775359063338,
+        "totalStars": "32,154",
+        "time": 1775373351492,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-imbue-ai-mngr",
+        "title": "imbue-ai/mngr",
+        "url": "https://github.com/imbue-ai/mngr",
+        "description": "CLI for managing agents",
+        "language": "Python",
+        "starsToday": "34 stars today",
+        "totalStars": "195",
+        "time": 1775373351492,
         "source": "GitHub",
         "category": "github"
       }
@@ -231,15 +231,6 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/openai",
-        "title": "ChatGPT on CarPlay",
-        "url": "https://www.producthunt.com/products/openai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1775150443000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/mai-image-2-3",
         "title": "MAI-Transcribe-1",
         "url": "https://www.producthunt.com/products/mai-image-2-3",
@@ -249,20 +240,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/wp-copilot",
-        "title": "WP Copilot",
-        "url": "https://www.producthunt.com/products/wp-copilot",
+        "id": "ph-https://www.producthunt.com/products/openai",
+        "title": "ChatGPT on CarPlay",
+        "url": "https://www.producthunt.com/products/openai",
         "description": "Discussion\n            |\n            Link",
-        "time": 1775094148000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/daily-wisdom-raise-your-vibe",
-        "title": "Raise Your Vibe: Daily Wisdom",
-        "url": "https://www.producthunt.com/products/daily-wisdom-raise-your-vibe",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1774991284000,
+        "time": 1775150443000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -280,8 +262,8 @@
           "programming",
           "productivity"
         ],
-        "reactions": 165,
-        "comments": 54,
+        "reactions": 172,
+        "comments": 55,
         "time": 1775010558000,
         "source": "Dev.to",
         "category": "practice"
@@ -298,8 +280,8 @@
           "css",
           "browser"
         ],
-        "reactions": 126,
-        "comments": 66,
+        "reactions": 132,
+        "comments": 67,
         "time": 1775116391000,
         "source": "Dev.to",
         "category": "practice"
@@ -316,8 +298,8 @@
           "career",
           "webdev"
         ],
-        "reactions": 83,
-        "comments": 54,
+        "reactions": 85,
+        "comments": 55,
         "time": 1775022319000,
         "source": "Dev.to",
         "category": "practice"
@@ -335,7 +317,7 @@
           "wecoded"
         ],
         "reactions": 76,
-        "comments": 33,
+        "comments": 34,
         "time": 1774925017000,
         "source": "Dev.to",
         "category": "practice"
@@ -371,7 +353,7 @@
           "webdev"
         ],
         "reactions": 45,
-        "comments": 87,
+        "comments": 90,
         "time": 1774881236000,
         "source": "Dev.to",
         "category": "practice"
@@ -435,6 +417,46 @@
         "isChina": true
       },
       {
+        "id": "36kr-https://36kr.com/newsflashes/3753578181214721?f=rss",
+        "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
+        "url": "https://36kr.com/newsflashes/3753578181214721?f=rss",
+        "description": "4月5日凌晨，艺人易烊千玺工作室发布声明称，近日，工作室发现部分网络平台传播擅自使用易烊千玺肖像等生成的AI剧集，易烊千玺未曾参演相关剧集，也未授权第三方将其肖像等进行AI合成。截至发稿，《午夜公车》《骗我投个好胎？》在红果短剧上已被下架。但同样上架相关作品的百度暂未进行人物形象调整或下架处理。红果短剧人工客服回应称：为积极响应治理要求，相关短剧已下架。红果短剧官方对记者回应称：相关内容已完成修改",
+        "time": 1775372230000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3753563457831433?f=rss",
+        "title": "新型AI模型可通过血检识别多种神经退行性疾病",
+        "url": "https://36kr.com/newsflashes/3753563457831433?f=rss",
+        "description": "斯德哥尔摩消息：瑞典隆德大学日前宣布，该校参与研发出一种新型人工智能（AI）模型，可通过单次血液检测辅助识别多种神经退行性疾病，为相关疾病早期筛查和辅助诊断提供新思路。隆德大学发布的新闻公报说，不同神经退行性疾病在早期往往表现出相似症状，与年龄相关的认知功能下降成因也较为复杂，患者大脑中还可能同时存在多种相互重叠的病理过程，进一步增加了临床诊断难度。（新华社）",
+        "time": 1775371332000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/p/3753526848897792?f=rss",
+        "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
+        "url": "https://36kr.com/p/3753526848897792?f=rss",
+        "description": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。\n霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精",
+        "time": 1775369109000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3753419658806022?f=rss",
+        "title": "香港财政司司长陈茂波：目前轮候来港上市申请个案已超过500宗",
+        "url": "https://36kr.com/newsflashes/3753419658806022?f=rss",
+        "description": "香港特区政府财政司司长陈茂波发表网志称，新股上市方面，香港今年首季IPO市场延续去年强势，截至3月27日，集资额已超过1030亿港元，全球排行第一；连同后续融资等，筹资总规模约2370亿港元。更重要的是，来港上市企业愈来愈多属新兴产业——人工智能、半导体、机械人、自动驾驶、生物科技等。目前轮候来港上市的申请个案已超过500宗。可以说，当外围环境愈不明朗，更多企业视香港为融资与“出海”发展的重要窗口",
+        "time": 1775362555000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
         "id": "36kr-https://36kr.com/p/3752260051616512?f=rss",
         "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
         "url": "https://36kr.com/p/3752260051616512?f=rss",
@@ -453,160 +475,9 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/QhTdGxCujzqx3oBHRszM?utm_source=rss&utm_medium=article",
-        "title": "TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
-        "url": "https://www.infoq.cn/article/QhTdGxCujzqx3oBHRszM?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1775300400000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article",
-        "title": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1775296800000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
-        "title": "Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具",
-        "url": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1775296800000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3752115857638145?f=rss",
-        "title": "一群00后极客和这家机器人公司共处72小时",
-        "url": "https://36kr.com/p/3752115857638145?f=rss",
-        "description": "2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。\n现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。\n\n图片由智能涌现拍摄\n和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见",
-        "time": 1775283070000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2604.01268",
-        "title": "The Overlooked Repetitive Lengthening Form in Sentiment Analysis",
-        "url": "https://arxiv.org/abs/2604.01268",
-        "description": "arXiv:2604.01268v1 Announce Type: new \nAbstract: Individuals engaging in online communication frequently express personal opinions with informal styles (e.g., memes and emojis). While Language Models (LMs) with informal communications have been widely discussed, a unique and emphatic style, the Repe",
-        "author": "Lei Wang, Eduard Dragut",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01302",
-        "title": "Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming",
-        "url": "https://arxiv.org/abs/2604.01302",
-        "description": "arXiv:2604.01302v1 Announce Type: new \nAbstract: We study how to scale reasoning token budgets for competitive programming through two complementary approaches: training-time reinforcement learning (RL) and test-time parallel thinking. During RL training, we observe an approximately log-linear relat",
-        "author": "Qianfan Zhang, Tianyu Guo, Xuandi Ren, Jiale Chen, Ming Ding, Ran Xin, Xia Xiao",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01306",
-        "title": "M2-Verify: A Large-Scale Multidomain Benchmark for Checking Multimodal Claim Consistency",
-        "url": "https://arxiv.org/abs/2604.01306",
-        "description": "arXiv:2604.01306v1 Announce Type: new \nAbstract: Evaluating scientific arguments requires assessing the strict consistency between a claim and its underlying multimodal evidence. However, existing benchmarks lack the scale, domain diversity, and visual complexity needed to evaluate this alignment re",
-        "author": "Abolfazl Ansari, Delvin Ce Zhang, Zhuoyang Zou, Wenpeng Yin, Dongwon Lee",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01312",
-        "title": "Preference learning in shades of gray: Interpretable and bias-aware reward modeling for human preferences",
-        "url": "https://arxiv.org/abs/2604.01312",
-        "description": "arXiv:2604.01312v1 Announce Type: new \nAbstract: Learning human preferences in language models remains fundamentally challenging, as reward modeling relies on subtle, subjective comparisons or shades of gray rather than clear-cut labels. This study investigates the limits of current approaches and p",
-        "author": "Simona-Vasilica Oprea, Adela B\\^ara",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01348",
-        "title": "Procedural Knowledge at Scale Improves Reasoning",
-        "url": "https://arxiv.org/abs/2604.01348",
-        "description": "arXiv:2604.01348v1 Announce Type: new \nAbstract: Test-time scaling has emerged as an effective way to improve language models on challenging reasoning tasks. However, most existing methods treat each problem in isolation and do not systematically reuse knowledge from prior reasoning trajectories. In",
-        "author": "Di Wu, Devendra Singh Sachan, Wen-tau Yih, Mingda Chen",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01350",
-        "title": "No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LLM Agents",
-        "url": "https://arxiv.org/abs/2604.01350",
-        "description": "arXiv:2604.01350v1 Announce Type: new \nAbstract: LLM-based agents increasingly operate across repeated sessions, maintaining task states to ensure continuity. In many deployments, a single agent serves multiple users within a team or organization, reusing a shared knowledge layer across user identit",
-        "author": "Tiankai Yang, Jiate Li, Yi Nian, Shen Dong, Ruiyao Xu, Ryan Rossi, Kaize Ding, Yue Zhao",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01354",
-        "title": "Open-Domain Safety Policy Construction",
-        "url": "https://arxiv.org/abs/2604.01354",
-        "description": "arXiv:2604.01354v1 Announce Type: new \nAbstract: Moderation layers are increasingly a core component of many products built on user- or model-generated content. However, drafting and maintaining domain-specific safety policies remains costly. We present Deep Policy Research (DPR), a minimal agentic ",
-        "author": "Di Wu, Siyue Liu, Zixiang Ji, Ya-Liang Chang, Zhe-Yu Liu, Andrew Pleffer, Kai-Wei Chang",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01404",
-        "title": "Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models",
-        "url": "https://arxiv.org/abs/2604.01404",
-        "description": "arXiv:2604.01404v1 Announce Type: new \nAbstract: Language models can answer many entity-centric factual questions, but it remains unclear which internal mechanisms are involved in this process. We study this question across multiple language models. We localize entity-selective MLP neurons using tem",
-        "author": "Itay Yona, Dan Barzilay, Michael Karasik, Mor Geva",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01410",
-        "title": "Assessing Pause Thresholds for empirical Translation Process Research",
-        "url": "https://arxiv.org/abs/2604.01410",
-        "description": "arXiv:2604.01410v1 Announce Type: new \nAbstract: Text production (and translations) proceeds in the form of stretches of typing, interrupted by keystroke pauses. It is often assumed that fast typing reflects unchallenged/automated translation production while long(er) typing pauses are indicative of",
-        "author": "Devi Sri Bandaru, Michael Carl, Xinyue Ren",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      },
-      {
-        "id": "arxiv-2604.01413",
-        "title": "Adaptive Stopping for Multi-Turn LLM Reasoning",
-        "url": "https://arxiv.org/abs/2604.01413",
-        "description": "arXiv:2604.01413v1 Announce Type: new \nAbstract: Large Language Models (LLMs) increasingly rely on multi-turn reasoning and interaction, such as adaptive retrieval-augmented generation (RAG) and ReAct-style agents, to answer difficult questions. These methods improve accuracy by iteratively retrievi",
-        "author": "Xiaofan Zhou, Huy Nguyen, Bo Yu, Chenxi Liu, Lu Cheng",
-        "time": 1775275200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.CL"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
@@ -614,8 +485,8 @@
         "id": "hn-47631118",
         "title": "Artemis II crew take “spectacular” image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-        "score": 1024,
-        "comments": 353,
+        "score": 1034,
+        "comments": 354,
         "author": "andsoitis",
         "time": 1775244902000,
         "source": "Hacker News",
@@ -626,22 +497,10 @@
         "id": "hn-47639524",
         "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
         "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-        "score": 747,
-        "comments": 494,
+        "score": 774,
+        "comments": 504,
         "author": "macleginn",
         "time": 1775314106000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47637757",
-        "title": "Embarrassingly simple self-distillation improves code generation",
-        "url": "https://arxiv.org/abs/2604.01193",
-        "score": 563,
-        "comments": 169,
-        "author": "Anon84",
-        "time": 1775298381000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -650,10 +509,22 @@
         "id": "hn-47640728",
         "title": "Show HN: A game where you build a GPU",
         "url": "https://jaso1024.com/mvidia/",
-        "score": 542,
-        "comments": 143,
+        "score": 640,
+        "comments": 147,
         "author": "Jaso1024",
         "time": 1775321154000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47637757",
+        "title": "Embarrassingly simple self-distillation improves code generation",
+        "url": "https://arxiv.org/abs/2604.01193",
+        "score": 585,
+        "comments": 172,
+        "author": "Anon84",
+        "time": 1775298381000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -662,8 +533,8 @@
         "id": "hn-47642569",
         "title": "How many products does Microsoft have named 'Copilot'?",
         "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-        "score": 456,
-        "comments": 231,
+        "score": 561,
+        "comments": 274,
         "author": "gpi",
         "time": 1775331583000,
         "source": "Hacker News",
@@ -674,8 +545,8 @@
         "id": "hn-47640380",
         "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
         "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-        "score": 382,
-        "comments": 167,
+        "score": 415,
+        "comments": 178,
         "author": "naves",
         "time": 1775319370000,
         "source": "Hacker News",
@@ -686,8 +557,8 @@
         "id": "hn-47637287",
         "title": "Some Unusual Trees",
         "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-        "score": 257,
-        "comments": 75,
+        "score": 271,
+        "comments": 80,
         "author": "simplegeek",
         "time": 1775293459000,
         "source": "Hacker News",
@@ -695,25 +566,13 @@
         "isAI": false
       },
       {
-        "id": "hn-47597159",
-        "title": "Improving my focus by giving up my big monitor",
-        "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
-        "score": 182,
-        "comments": 172,
-        "author": "Fudgel",
-        "time": 1775021339000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47601194",
-        "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
-        "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
-        "score": 176,
-        "comments": 61,
-        "author": "dbreunig",
-        "time": 1775052814000,
+        "id": "hn-47644864",
+        "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+        "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+        "score": 232,
+        "comments": 55,
+        "author": "crcastle",
+        "time": 1775348035000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -722,10 +581,22 @@
         "id": "hn-47639727",
         "title": "When legal sports betting surges, so do Americans' financial problems",
         "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
-        "score": 172,
-        "comments": 116,
+        "score": 188,
+        "comments": 126,
         "author": "pseudolus",
         "time": 1775315646000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47636435",
+        "title": "Emotion concepts and their function in a large language model",
+        "url": "https://www.anthropic.com/research/emotion-concepts-function",
+        "score": 169,
+        "comments": 166,
+        "author": "dnw",
+        "time": 1775284225000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -737,7 +608,6 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
       "36氪",
       "InfoQ",
