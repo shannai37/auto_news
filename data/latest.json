@@ -1,17 +1,29 @@
 {
-  "updateTime": 1775445649831,
-  "updateTimeStr": "2026/4/6 11:20:49",
-  "totalCount": 146,
+  "updateTime": 1775462021008,
+  "updateTimeStr": "2026/4/6 15:53:41",
+  "totalCount": 182,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47648828",
         "title": "Eight years of wanting, three months of building with AI",
         "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-        "score": 661,
-        "comments": 208,
+        "score": 757,
+        "comments": 228,
         "author": "brilee",
         "time": 1775393027000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47655408",
+        "title": "Show HN: I built a tiny LLM to demystify how language models work",
+        "url": "https://github.com/arman-bd/guppylm",
+        "score": 356,
+        "comments": 31,
+        "author": "armanified",
+        "time": 1775434812000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -20,8 +32,8 @@
         "id": "hn-47651540",
         "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
         "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-        "score": 208,
-        "comments": 54,
+        "score": 254,
+        "comments": 60,
         "author": "vbtechguy",
         "time": 1775409231000,
         "source": "Hacker News",
@@ -32,7 +44,7 @@
         "id": "hn-47649742",
         "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
         "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-        "score": 168,
+        "score": 183,
         "comments": 24,
         "author": "desideratum",
         "time": 1775398877000,
@@ -44,22 +56,10 @@
         "id": "hn-47650312",
         "title": "A tail-call interpreter in (nightly) Rust",
         "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-        "score": 134,
-        "comments": 22,
+        "score": 154,
+        "comments": 35,
         "author": "g0xA52A2A",
         "time": 1775402281000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47655058",
-        "title": "OpenAI's fall from grace as investors race to Anthropic",
-        "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-        "score": 102,
-        "comments": 59,
-        "author": "1vuio0pswjnm7",
-        "time": 1775431981000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,8 +73,8 @@
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "language": "TypeScript",
         "starsToday": "335 stars today",
-        "totalStars": "441,573",
-        "time": 1775445644981,
+        "totalStars": "441,736",
+        "time": 1775462018116,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +85,8 @@
         "description": "",
         "language": "C++",
         "starsToday": "124 stars today",
-        "totalStars": "1,606",
-        "time": 1775445644980,
+        "totalStars": "1,702",
+        "time": 1775462018115,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +97,8 @@
         "description": "Telegram Desktop messaging app",
         "language": "C++",
         "starsToday": "287 stars today",
-        "totalStars": "31,094",
-        "time": 1775445644980,
+        "totalStars": "31,142",
+        "time": 1775462018115,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +109,8 @@
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "starsToday": "355 stars today",
-        "totalStars": "31,971",
-        "time": 1775445644979,
+        "totalStars": "32,075",
+        "time": 1775462018114,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +121,8 @@
         "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
         "language": "Rust",
         "starsToday": "76 stars today",
-        "totalStars": "3,724",
-        "time": 1775445644979,
+        "totalStars": "3,774",
+        "time": 1775462018114,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +133,8 @@
         "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "language": "Rust",
         "starsToday": "882 stars today",
-        "totalStars": "37,145",
-        "time": 1775445644978,
+        "totalStars": "37,385",
+        "time": 1775462018113,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,8 +145,8 @@
         "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
         "language": "Python",
         "starsToday": "998 stars today",
-        "totalStars": "25,102",
-        "time": 1775445644978,
+        "totalStars": "25,242",
+        "time": 1775462018113,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,8 +157,8 @@
         "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
         "language": "Python",
         "starsToday": "416 stars today",
-        "totalStars": "3,964",
-        "time": 1775445644977,
+        "totalStars": "4,025",
+        "time": 1775462018112,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +169,8 @@
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "language": "TypeScript",
         "starsToday": "2,749 stars today",
-        "totalStars": "22,683",
-        "time": 1775445644977,
+        "totalStars": "23,028",
+        "time": 1775462018112,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +181,20 @@
         "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
         "language": "Kotlin",
         "starsToday": "389 stars today",
-        "totalStars": "17,074",
-        "time": 1775445644976,
+        "totalStars": "17,305",
+        "time": 1775462018111,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-atilaahmettaner-tradingview-mcp",
+        "title": "atilaahmettaner/tradingview-mcp",
+        "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+        "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.",
+        "language": "Python",
+        "starsToday": "39 stars today",
+        "totalStars": "689",
+        "time": 1775462017429,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,25 +205,40 @@
         "description": "\"RAG-Anything: All-in-One RAG Framework\"",
         "language": "Python",
         "starsToday": "99 stars today",
-        "totalStars": "15,233",
-        "time": 1775445644696,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-google-deepmind-gemma",
-        "title": "google-deepmind/gemma",
-        "url": "https://github.com/google-deepmind/gemma",
-        "description": "Gemma open-weight LLM library, from Google DeepMind",
-        "language": "Python",
-        "starsToday": "50 stars today",
-        "totalStars": "4,423",
-        "time": 1775445644696,
+        "totalStars": "15,254",
+        "time": 1775462017428,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/glassbrain",
+        "title": "Glassbrain",
+        "url": "https://www.producthunt.com/products/glassbrain",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1775446433000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/mailero",
+        "title": "Mailero",
+        "url": "https://www.producthunt.com/products/mailero",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1775435585000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/predflow-2",
+        "title": "Predflow AI",
+        "url": "https://www.producthunt.com/products/predflow-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1774337064000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/klick-1-ai-camera-assistant",
         "title": "Klick AI Camera Assistant",
@@ -238,24 +265,6 @@
         "time": 1775150443000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/mesh-llm",
-        "title": "Mesh LLM",
-        "url": "https://www.producthunt.com/products/mesh-llm",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1775175417000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/daily-wisdom-raise-your-vibe",
-        "title": "Raise Your Vibe: Daily Wisdom",
-        "url": "https://www.producthunt.com/products/daily-wisdom-raise-your-vibe",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1774991284000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
@@ -271,7 +280,7 @@
           "programming",
           "productivity"
         ],
-        "reactions": 182,
+        "reactions": 183,
         "comments": 56,
         "time": 1775010558000,
         "source": "Dev.to",
@@ -289,8 +298,8 @@
           "css",
           "browser"
         ],
-        "reactions": 143,
-        "comments": 71,
+        "reactions": 153,
+        "comments": 74,
         "time": 1775116391000,
         "source": "Dev.to",
         "category": "practice"
@@ -307,8 +316,8 @@
           "career",
           "webdev"
         ],
-        "reactions": 103,
-        "comments": 59,
+        "reactions": 105,
+        "comments": 60,
         "time": 1775022319000,
         "source": "Dev.to",
         "category": "practice"
@@ -406,6 +415,16 @@
     ],
     "china": [
       {
+        "id": "infoq-https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
+        "title": "自动驾驶优化：从复杂性到实时工程",
+        "url": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1775487600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
         "id": "infoq-https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
         "title": "AI 时代的架构治理",
         "url": "https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
@@ -426,11 +445,41 @@
         "isChina": true
       },
       {
-        "id": "36kr-https://36kr.com/newsflashes/3754713105957637?f=rss",
-        "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
-        "url": "https://36kr.com/newsflashes/3754713105957637?f=rss",
-        "description": "据商务部网站，商务部等6部门发布关于更好服务实体经济、推进电子商务高质量发展的指导意见。意见提出，加快技术创新应用。支持头部电商企业加大研发投入，加强重点领域核心技术攻关，构建“产研协同、学用转化”创新生态。发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用，优化消费体验、降低运营成本、提升流通效能。鼓励电商企业科技向善，统筹各方利益优化算法规则。加强电商领域技术成果司法保护，探",
-        "time": 1775441501000,
+        "id": "36kr-https://36kr.com/newsflashes/3754964348830470?f=rss",
+        "title": "OpenAI状态页显示：ChatGPT 网页版当前出现故障",
+        "url": "https://36kr.com/newsflashes/3754964348830470?f=rss",
+        "description": "OpenAI状态页显示：ChatGPT 网页版当前出现故障。（新浪财经）",
+        "time": 1775456835000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3754835385614848?f=rss",
+        "title": "红果短剧：针对近期AI短剧素材违规使用问题频发的情况，已处置作品670部",
+        "url": "https://36kr.com/newsflashes/3754835385614848?f=rss",
+        "description": "36氪获悉，红果短剧官方账号4月6日发布《关于持续治理AI短剧素材违规使用行为的公告》：今年第一季度，平台已累计下架违反平台治理规范的漫剧1718部。其中针对近期AI短剧素材违规使用问题频发的情况，平台专项开展集中治理。目前已完成1.5万部作品的全面核查，依规处置违规作品670部。",
+        "time": 1775449498000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/p/3754812277998083?f=rss",
+        "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+        "url": "https://36kr.com/p/3754812277998083?f=rss",
+        "description": "作者 | 张子怡\n编辑 | 袁斯来\nAI硬件赛道，似乎一夜之间跨入新世界。\n上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。\n狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。\n此前更多在极客圈子里风行的Ag",
+        "time": 1775447623000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3754746077921799?f=rss",
+        "title": "中国AI大模型周调用量增31.48%，连续五周超美国",
+        "url": "https://36kr.com/newsflashes/3754746077921799?f=rss",
+        "description": "根据OpenRouter最新数据测算，上周（3月30日至4月5日）全球AI大模型总调用量为27万亿Token，环比增长18.9%。其中，上榜的AI大模型中，中国AI大模型的周调用量上升至12.96万亿Token，较此前一周上涨31.48%；美国AI大模型周调用量为3.03万亿Token，环比增长0.76%。中国AI大模型周调用量连续五周增长，且连续五周超越美国。（每日经济新闻）",
+        "time": 1775446146000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
@@ -444,70 +493,129 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
-        "title": "Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排",
-        "url": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1775425787000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article",
-        "title": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
-        "url": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1775383200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
-        "title": "Evomap如何让Agent从单体智能到群体进化｜QCon北京",
-        "url": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1775383200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3753526848897792?f=rss",
-        "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
-        "url": "https://36kr.com/p/3753526848897792?f=rss",
-        "description": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。\n霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精",
-        "time": 1775369109000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
       }
     ],
-    "papers": []
+    "papers": [
+      {
+        "id": "arxiv-2604.02334",
+        "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+        "url": "https://arxiv.org/abs/2604.02334",
+        "description": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift tow",
+        "author": "Xiaohang Nie, Zihan Guo, Zicai Cui, Jiachi Yang, Zeyi Chen, Leheyi De, Yu Zhang, Junwei Liao, Bo Huang, Yingxuan Yang, Zhi Han, Zimian Peng, Linyao Chen, Wenzheng Tom Tang, Zongkai Liu, Tao Zhou, Botao Amber Hu, Shuyang Tang, Jianghao Lin, Weiwen Liu, Muning Wen, Yuanjian Zhou, Weinan Zhang",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02368",
+        "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+        "url": "https://arxiv.org/abs/2604.02368",
+        "description": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffe",
+        "author": "Xue Liu, Xin Ma, Yuxin Ma, Yongchang Peng, Duo Wang, Zhoufutu Wen, Ge Zhang, Kaiyuan Zhang, Xinyu Chen, Tianci He, Jiani Hou, Liang Hu, Ziyun Huang, Yongzhe Hui, Jianpeng Jiao, Chennan Ju, Yingru Kong, Yiran Li, Mengyun Liu, Luyao Ma, Fei Ni, Yiqing Ni, Yueyan Qiu, Yanle Ren, Zilin Shi, Zaiyuan Wang, Wenjie Yue, Shiyu Zhang, Xinyi Zhang, Kaiwen Zhao, Zhenwei Zhu",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02434",
+        "title": "Compositional Neuro-Symbolic Reasoning",
+        "url": "https://arxiv.org/abs/2604.02434",
+        "description": "arXiv:2604.02434v1 Announce Type: new \nAbstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic syst",
+        "author": "Anugyan Das, Omkar Ghugarkar, Vishvesh Bhat, Asad Aali",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02476",
+        "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+        "url": "https://arxiv.org/abs/2604.02476",
+        "description": "arXiv:2604.02476v1 Announce Type: new \nAbstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a w",
+        "author": "Ilya Levin",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02478",
+        "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+        "url": "https://arxiv.org/abs/2604.02478",
+        "description": "arXiv:2604.02478v1 Announce Type: new \nAbstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and scalability across diverse control systems, frequently failing to distinguish genuine faults from nu",
+        "author": "Jiyong Kwon, Ujin Jeon, Sooji Lee, Guang Lin",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02500",
+        "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
+        "url": "https://arxiv.org/abs/2604.02500",
+        "description": "arXiv:2604.02500v1 Announce Type: new \nAbstract: As ongoing research explores the ability of AI agents to be insider threats and act against company interests, we showcase the abilities of such agents to act against human well being in service of corporate authority. Building on Agentic Misalignment",
+        "author": "Thomas Rivasseau, Benjamin Fung",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02504",
+        "title": "A Comprehensive Framework for Long-Term Resiliency Investment Planning under Extreme Weather Uncertainty for Electric Utilities",
+        "url": "https://arxiv.org/abs/2604.02504",
+        "description": "arXiv:2604.02504v1 Announce Type: new \nAbstract: Electric utilities must make massive capital investments in the coming years to respond to explosive growth in demand, aging assets and rising threats from extreme weather. Utilities today already have rigorous frameworks for capital planning, and the",
+        "author": "Emma Benjaminson",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02528",
+        "title": "Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization",
+        "url": "https://arxiv.org/abs/2604.02528",
+        "description": "arXiv:2604.02528v1 Announce Type: new \nAbstract: The new Specifications for the National Bridge Inventory (SNBI), in effect from 2022, emphasize the use of element-level condition states (CS) for risk-based bridge management. Instead of a general component rating, element-level condition data use an",
+        "author": "Seyyed Amirhossein Moayyedi, David Y. Yang",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02545",
+        "title": "Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling",
+        "url": "https://arxiv.org/abs/2604.02545",
+        "description": "arXiv:2604.02545v1 Announce Type: new \nAbstract: The preservation of intangible cultural heritage is a critical challenge as collective memory fades over time. While Large Language Models (LLMs) offer a promising avenue for generating engaging narratives, their propensity for factual inaccuracies or",
+        "author": "Naga Sowjanya Barla, Jacopo de Berardinis",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2604.02585",
+        "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
+        "url": "https://arxiv.org/abs/2604.02585",
+        "description": "arXiv:2604.02585v1 Announce Type: new \nAbstract: LLMs are increasingly used for high-stakes decision-making, yet their sensitivity to spurious contextual information can introduce harmful biases. This is a critical concern when models are deployed for tasks like evaluating teachers' instructional qu",
+        "author": "Hyunji Nam, Dorottya Demszky",
+        "time": 1775448000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      }
+    ]
   },
   "extra": {
     "techNews": [
       {
-        "id": "hn-47640728",
-        "title": "Show HN: A game where you build a GPU",
-        "url": "https://jaso1024.com/mvidia/",
-        "score": 900,
-        "comments": 179,
-        "author": "Jaso1024",
-        "time": 1775321154000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-47647788",
         "title": "The threat is comfortable drift toward not understanding what you're doing",
         "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-        "score": 837,
-        "comments": 564,
+        "score": 861,
+        "comments": 572,
         "author": "zaikunzhang",
         "time": 1775383045000,
         "source": "Hacker News",
@@ -518,8 +626,8 @@
         "id": "hn-47647455",
         "title": "Caveman: Why use many token when few token do trick",
         "url": "https://github.com/JuliusBrussee/caveman",
-        "score": 716,
-        "comments": 313,
+        "score": 756,
+        "comments": 329,
         "author": "tosh",
         "time": 1775379378000,
         "source": "Hacker News",
@@ -530,8 +638,8 @@
         "id": "hn-47652561",
         "title": "Gemma 4 on iPhone",
         "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-        "score": 458,
-        "comments": 124,
+        "score": 584,
+        "comments": 155,
         "author": "janandonly",
         "time": 1775414753000,
         "source": "Hacker News",
@@ -542,22 +650,10 @@
         "id": "hn-47649721",
         "title": "Artemis II crew see first glimpse of far side of Moon [video]",
         "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-        "score": 434,
-        "comments": 329,
+        "score": 472,
+        "comments": 363,
         "author": "mooreds",
         "time": 1775398692000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47649113",
-        "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-        "score": 342,
-        "comments": 222,
-        "author": "Growtika",
-        "time": 1775394876000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -566,8 +662,8 @@
         "id": "hn-47652400",
         "title": "Why Switzerland has 25 Gbit internet and America doesn't",
         "url": "https://sschueller.github.io/posts/the-free-market-lie/",
-        "score": 278,
-        "comments": 222,
+        "score": 423,
+        "comments": 322,
         "author": "sschueller",
         "time": 1775413787000,
         "source": "Hacker News",
@@ -578,10 +674,22 @@
         "id": "hn-47651703",
         "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
         "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-        "score": 251,
-        "comments": 141,
+        "score": 385,
+        "comments": 225,
         "author": "naves",
         "time": 1775410061000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47649113",
+        "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+        "score": 355,
+        "comments": 232,
+        "author": "Growtika",
+        "time": 1775394876000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -590,8 +698,8 @@
         "id": "hn-47637377",
         "title": "LÖVE: 2D Game Framework for Lua",
         "url": "https://github.com/love2d/love",
-        "score": 221,
-        "comments": 91,
+        "score": 282,
+        "comments": 111,
         "author": "cl3misch",
         "time": 1775294434000,
         "source": "Hacker News",
@@ -599,13 +707,25 @@
         "isAI": false
       },
       {
-        "id": "hn-47652324",
-        "title": "LibreOffice – Let's put an end to the speculation",
-        "url": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
-        "score": 162,
-        "comments": 101,
-        "author": "eisa01",
-        "time": 1775413394000,
+        "id": "hn-47655392",
+        "title": "Show HN: I made a YouTube search form with advanced filters",
+        "url": "https://playlists.at/youtube/search/",
+        "score": 205,
+        "comments": 129,
+        "author": "nevernothing",
+        "time": 1775434706000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47655466",
+        "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+        "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+        "score": 182,
+        "comments": 94,
+        "author": "thisislife2",
+        "time": 1775435348000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -617,6 +737,7 @@
     "sources": [
       "GitHub",
       "Hacker News",
+      "arXiv",
       "Dev.to",
       "36氪",
       "InfoQ",
