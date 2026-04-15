@@ -1,29 +1,17 @@
 {
-  "updateTime": 1776261144988,
-  "updateTimeStr": "2026/4/15 21:52:24",
-  "totalCount": 188,
+  "updateTime": 1776281181677,
+  "updateTimeStr": "2026/4/16 03:26:21",
+  "totalCount": 187,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47768133",
         "title": "Claude Code Routines",
         "url": "https://code.claude.com/docs/en/routines",
-        "score": 671,
-        "comments": 377,
+        "score": 691,
+        "comments": 392,
         "author": "matthieu_bl",
         "time": 1776185673000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47768339",
-        "title": "Turn your best AI prompts into one-click tools in Chrome",
-        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-        "score": 181,
-        "comments": 100,
-        "author": "xnx",
-        "time": 1776186583000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -32,8 +20,8 @@
         "id": "hn-47774971",
         "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
         "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-        "score": 124,
-        "comments": 89,
+        "score": 243,
+        "comments": 159,
         "author": "takumi123",
         "time": 1776230346000,
         "source": "Hacker News",
@@ -41,25 +29,37 @@
         "isAI": true
       },
       {
-        "id": "hn-47775633",
-        "title": "Claude may require identity verification in some cases",
-        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "score": 82,
-        "comments": 67,
-        "author": "zxilly",
-        "time": 1776236713000,
+        "id": "hn-47779730",
+        "title": "Elevated errors on Claude.ai, API, Claude Code",
+        "url": "https://claudestatus.com/",
+        "score": 230,
+        "comments": 209,
+        "author": "redm",
+        "time": 1776264240000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
       },
       {
-        "id": "hn-47738962",
-        "title": "Troubleshooting Email Delivery to Microsoft Users",
-        "url": "https://rozumem.xyz/posts/14",
-        "score": 78,
-        "comments": 21,
-        "author": "rozumem",
-        "time": 1775997634000,
+        "id": "hn-47768339",
+        "title": "Turn your best AI prompts into one-click tools in Chrome",
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+        "score": 187,
+        "comments": 104,
+        "author": "xnx",
+        "time": 1776186583000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47779094",
+        "title": "Gemini Robotics-ER 1.6",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+        "score": 167,
+        "comments": 53,
+        "author": "markerbrod",
+        "time": 1776261751000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-sgl-project-sglang",
+        "title": "sgl-project/sglang",
+        "url": "https://github.com/sgl-project/sglang",
+        "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+        "language": "Python",
+        "starsToday": "101 stars today",
+        "totalStars": "25,853",
+        "time": 1776281178137,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-iam-veeramalla-aws-devops-zero-to-hero",
         "title": "iam-veeramalla/aws-devops-zero-to-hero",
         "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
         "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
         "language": "Python",
         "starsToday": "20 stars today",
-        "totalStars": "10,758",
-        "time": 1776261132614,
+        "totalStars": "10,764",
+        "time": 1776281178137,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,80 +97,8 @@
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
         "language": "Python",
         "starsToday": "210 stars today",
-        "totalStars": "131,991",
-        "time": 1776261132614,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Tracer-Cloud-opensre",
-        "title": "Tracer-Cloud/opensre",
-        "url": "https://github.com/Tracer-Cloud/opensre",
-        "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-        "language": "Python",
-        "starsToday": "137 stars today",
-        "totalStars": "803",
-        "time": 1776261132613,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-donnemartin-system-design-primer",
-        "title": "donnemartin/system-design-primer",
-        "url": "https://github.com/donnemartin/system-design-primer",
-        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-        "language": "Python",
-        "starsToday": "156 stars today",
-        "totalStars": "342,868",
-        "time": 1776261132613,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-sgl-project-sglang",
-        "title": "sgl-project/sglang",
-        "url": "https://github.com/sgl-project/sglang",
-        "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
-        "language": "Python",
-        "starsToday": "101 stars today",
-        "totalStars": "25,852",
-        "time": 1776261132613,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-NousResearch-hermes-agent",
-        "title": "NousResearch/hermes-agent",
-        "url": "https://github.com/NousResearch/hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "starsToday": "5,751 stars today",
-        "totalStars": "88,237",
-        "time": 1776261132612,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-agentscope-ai-agentscope",
-        "title": "agentscope-ai/agentscope",
-        "url": "https://github.com/agentscope-ai/agentscope",
-        "description": "Build and run agents you can see, understand and trust.",
-        "language": "Python",
-        "starsToday": "150 stars today",
-        "totalStars": "23,780",
-        "time": 1776261132612,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-zhayujie-CowAgent",
-        "title": "zhayujie/CowAgent",
-        "url": "https://github.com/zhayujie/CowAgent",
-        "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
-        "language": "Python",
-        "starsToday": "87 stars today",
-        "totalStars": "43,246",
-        "time": 1776261132612,
+        "totalStars": "132,035",
+        "time": 1776281178137,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +109,80 @@
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "language": "Python",
         "starsToday": "114 stars today",
-        "totalStars": "4,056",
-        "time": 1776261132612,
+        "totalStars": "4,068",
+        "time": 1776281178136,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Tracer-Cloud-opensre",
+        "title": "Tracer-Cloud/opensre",
+        "url": "https://github.com/Tracer-Cloud/opensre",
+        "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+        "language": "Python",
+        "starsToday": "143 stars today",
+        "totalStars": "841",
+        "time": 1776281178136,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-donnemartin-system-design-primer",
+        "title": "donnemartin/system-design-primer",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "language": "Python",
+        "starsToday": "156 stars today",
+        "totalStars": "342,903",
+        "time": 1776281178136,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-NousResearch-hermes-agent",
+        "title": "NousResearch/hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "starsToday": "5,751 stars today",
+        "totalStars": "89,079",
+        "time": 1776281178135,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-agentscope-ai-agentscope",
+        "title": "agentscope-ai/agentscope",
+        "url": "https://github.com/agentscope-ai/agentscope",
+        "description": "Build and run agents you can see, understand and trust.",
+        "language": "Python",
+        "starsToday": "150 stars today",
+        "totalStars": "23,798",
+        "time": 1776281178135,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-zhayujie-CowAgent",
+        "title": "zhayujie/CowAgent",
+        "url": "https://github.com/zhayujie/CowAgent",
+        "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+        "language": "Python",
+        "starsToday": "100 stars today",
+        "totalStars": "43,263",
+        "time": 1776281178135,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Donchitos-Claude-Code-Game-Studios",
+        "title": "Donchitos/Claude-Code-Game-Studios",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "language": "Shell",
+        "starsToday": "737 stars today",
+        "totalStars": "10,209",
+        "time": 1776281178037,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +193,8 @@
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "starsToday": "413 stars today",
-        "totalStars": "1,630",
-        "time": 1776261132518,
+        "totalStars": "1,818",
+        "time": 1776281178036,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,49 +205,28 @@
         "description": "Fast and accurate AI powered file content types detection",
         "language": "Python",
         "starsToday": "833 stars today",
-        "totalStars": "13,438",
-        "time": 1776261132518,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Donchitos-Claude-Code-Game-Studios",
-        "title": "Donchitos/Claude-Code-Game-Studios",
-        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "language": "Shell",
-        "starsToday": "523 stars today",
-        "totalStars": "9,961",
-        "time": 1776261132518,
+        "totalStars": "13,641",
+        "time": 1776281178036,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
-        "id": "ph-https://www.producthunt.com/products/miniai",
-        "title": "MiniAi",
-        "url": "https://www.producthunt.com/products/miniai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1776213876000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/datagrout-ai",
-        "title": "DataGrout AI",
-        "url": "https://www.producthunt.com/products/datagrout-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1776174771000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/layergen-ai",
         "title": "LayerGen AI",
         "url": "https://www.producthunt.com/products/layergen-ai",
         "description": "Discussion\n            |\n            Link",
         "time": 1776033704000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/miniai",
+        "title": "MiniAi",
+        "url": "https://www.producthunt.com/products/miniai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1776213876000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -251,24 +242,6 @@
     ],
     "practice": [
       {
-        "id": "devto-3470559",
-        "title": "AIMock: One Mock Server For Your Entire AI Stack",
-        "url": "https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp",
-        "description": "TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...",
-        "author": "Anmol Baranwal",
-        "tags": [
-          "ai",
-          "opensource",
-          "testing",
-          "programming"
-        ],
-        "reactions": 102,
-        "comments": 30,
-        "time": 1775668441000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-3493213",
         "title": "The Emotional Terror of Closing a Browser Tab",
         "url": "https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k",
@@ -280,8 +253,8 @@
           "humor",
           "developerlife"
         ],
-        "reactions": 67,
-        "comments": 69,
+        "reactions": 70,
+        "comments": 71,
         "time": 1776066570000,
         "source": "Dev.to",
         "category": "practice"
@@ -323,6 +296,24 @@
         "category": "practice"
       },
       {
+        "id": "devto-3487110",
+        "title": "I Couldn’t Afford Earth, So I Built Something Better",
+        "url": "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
+        "description": "This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...",
+        "author": "Konark Sharma",
+        "tags": [
+          "devchallenge",
+          "showdev",
+          "418challenge",
+          "ai"
+        ],
+        "reactions": 45,
+        "comments": 38,
+        "time": 1775913605000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-3460504",
         "title": "Experimenting with AI subagents",
         "url": "https://dev.to/nfrankel/experimenting-with-ai-subagents-pc7",
@@ -341,24 +332,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-3487110",
-        "title": "I Couldn’t Afford Earth, So I Built Something Better",
-        "url": "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
-        "description": "This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...",
-        "author": "Konark Sharma",
-        "tags": [
-          "devchallenge",
-          "showdev",
-          "418challenge",
-          "ai"
-        ],
-        "reactions": 44,
-        "comments": 38,
-        "time": 1775913605000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-3477336",
         "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
         "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
@@ -371,8 +344,26 @@
           "opensource"
         ],
         "reactions": 44,
-        "comments": 3,
+        "comments": 4,
         "time": 1776092423000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3501735",
+        "title": "Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)",
+        "url": "https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln",
+        "description": "So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...",
+        "author": "Morgan Willis",
+        "tags": [
+          "ai",
+          "aws",
+          "agents",
+          "bedrock"
+        ],
+        "reactions": 43,
+        "comments": 7,
+        "time": 1776201257000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -388,8 +379,8 @@
           "productivity",
           "llm"
         ],
-        "reactions": 39,
-        "comments": 4,
+        "reactions": 40,
+        "comments": 7,
         "time": 1776071513000,
         "source": "Dev.to",
         "category": "practice"
@@ -447,6 +438,16 @@
         "isChina": true
       },
       {
+        "id": "36kr-https://36kr.com/p/3767970803221251?f=rss",
+        "title": "氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克",
+        "url": "https://36kr.com/p/3767970803221251?f=rss",
+        "description": "大公司：\nSnap宣布将裁员约1000人\n4月15日，社交媒体公司Snap宣布一系列调整，这些调整将影响Snap约1000名团队成员，包括16%的全职员工，此外，公司还将关闭300多个空缺职位。通过调整，公司预计到2026年下半年，年度成本将减少超过5亿美元。Snap表示，对即将离职的美国团队成员，公司将提供四个月的遣散费、医疗保险和股权激励，以及职业转型支持。在美国以外地区，公司将遵循当地流程，",
+        "time": 1776261191000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
         "id": "infoq-https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article",
         "title": "Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess",
         "url": "https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article",
@@ -464,16 +465,6 @@
         "time": 1776257999000,
         "source": "36氪",
         "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&utm_medium=article",
-        "title": "Agent 下一战，决胜“记忆”之巅——AICon 深度专题前瞻",
-        "url": "https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1776251509000,
-        "source": "InfoQ",
-        "category": "practice",
         "isChina": true
       }
     ],
@@ -593,61 +584,13 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-47755629",
-        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-        "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-        "score": 1168,
-        "comments": 326,
-        "author": "speckx",
-        "time": 1776102879000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47760529",
-        "title": "DaVinci Resolve – Photo",
-        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-        "score": 1109,
-        "comments": 284,
-        "author": "thebiblelover7",
-        "time": 1776133515000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47760764",
-        "title": "A new spam policy for “back button hijacking”",
-        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-        "score": 887,
-        "comments": 496,
-        "author": "zdw",
-        "time": 1776135987000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-47772012",
         "title": "Stop Flock",
         "url": "https://stopflock.com",
-        "score": 813,
-        "comments": 211,
+        "score": 920,
+        "comments": 272,
         "author": "cdrnsf",
         "time": 1776203765000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47769796",
-        "title": "Tell HN: Fiverr left customer files public and searchable",
-        "url": "https://news.ycombinator.com/item?id=47769796",
-        "score": 754,
-        "comments": 193,
-        "author": "morpheuskafka",
-        "time": 1776193000000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -656,46 +599,10 @@
         "id": "hn-47765604",
         "title": "Rare concert recordings are landing on the Internet Archive",
         "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-        "score": 675,
-        "comments": 196,
+        "score": 685,
+        "comments": 200,
         "author": "jrm-veris",
         "time": 1776174391000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47768813",
-        "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-        "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-        "score": 629,
-        "comments": 243,
-        "author": "speckx",
-        "time": 1776188820000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47763759",
-        "title": "jj – the CLI for Jujutsu",
-        "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-        "score": 530,
-        "comments": 465,
-        "author": "tigerlily",
-        "time": 1776162819000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47759420",
-        "title": "The dangers of California's legislation to censor 3D printing",
-        "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-        "score": 456,
-        "comments": 396,
-        "author": "salkahfi",
-        "time": 1776123864000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -704,10 +611,94 @@
         "id": "hn-47776796",
         "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
         "url": "https://prog21.dadgum.com/30.html",
-        "score": 226,
-        "comments": 64,
+        "score": 386,
+        "comments": 120,
         "author": "downbad_",
         "time": 1776246079000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47782570",
+        "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
+        "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+        "score": 384,
+        "comments": 147,
+        "author": "Brajeshwar",
+        "time": 1776275066000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47778475",
+        "title": "God Sleeps in the Minerals",
+        "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+        "score": 352,
+        "comments": 77,
+        "author": "speckx",
+        "time": 1776258490000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47776557",
+        "title": "Good Sleep, Good Learning (2012)",
+        "url": "https://super-memory.com/articles/sleep.htm",
+        "score": 299,
+        "comments": 139,
+        "author": "downbad_",
+        "time": 1776244278000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47774789",
+        "title": "Fixing a 20-year-old bug in Enlightenment E16",
+        "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+        "score": 240,
+        "comments": 142,
+        "author": "snoofydude",
+        "time": 1776228420000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47780712",
+        "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+        "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+        "score": 229,
+        "comments": 136,
+        "author": "bearsyankees",
+        "time": 1776267817000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47724571",
+        "title": "A communist Apple II and fourteen years of not knowing what you're testing",
+        "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
+        "score": 223,
+        "comments": 110,
+        "author": "major4x",
+        "time": 1775860584000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47775628",
+        "title": "Wacli – WhatsApp CLI",
+        "url": "https://github.com/steipete/wacli",
+        "score": 210,
+        "comments": 142,
+        "author": "dinakars777",
+        "time": 1776236685000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
