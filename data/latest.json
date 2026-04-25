@@ -1,15 +1,15 @@
 {
-  "updateTime": 1777085755769,
-  "updateTimeStr": "2026/4/25 10:55:55",
-  "totalCount": 196,
+  "updateTime": 1777102001902,
+  "updateTimeStr": "2026/4/25 15:26:41",
+  "totalCount": 167,
   "daily": {
     "mustRead": [
       {
         "id": "hn-47879092",
         "title": "GPT-5.5",
         "url": "https://openai.com/index/introducing-gpt-5-5/",
-        "score": 1529,
-        "comments": 1020,
+        "score": 1540,
+        "comments": 1026,
         "author": "rd",
         "time": 1776967299000,
         "source": "Hacker News",
@@ -20,22 +20,10 @@
         "id": "hn-47892019",
         "title": "I cancelled Claude: Token issues, declining quality, and poor support",
         "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-        "score": 796,
-        "comments": 481,
+        "score": 860,
+        "comments": 504,
         "author": "y42",
         "time": 1777046359000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-47882645",
-        "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-        "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-        "score": 644,
-        "comments": 699,
-        "author": "nkrisc",
-        "time": 1776981375000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +32,8 @@
         "id": "hn-47892074",
         "title": "Google plans to invest up to $40B in Anthropic",
         "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-        "score": 372,
-        "comments": 410,
+        "score": 523,
+        "comments": 513,
         "author": "elffjs",
         "time": 1777046681000,
         "source": "Hacker News",
@@ -56,10 +44,22 @@
         "id": "hn-47894000",
         "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
         "url": "https://developers.openai.com/api/docs/changelog",
-        "score": 219,
-        "comments": 123,
+        "score": 233,
+        "comments": 126,
         "author": "arabicalories",
         "time": 1777055012000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-47893779",
+        "title": "There Will Be a Scientific Theory of Deep Learning",
+        "url": "https://arxiv.org/abs/2604.21691",
+        "score": 205,
+        "comments": 81,
+        "author": "jamie-simon",
+        "time": 1777053965000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,166 +67,166 @@
     ],
     "tools": [
       {
-        "id": "gh-ZhuLinsen-daily_stock_analysis",
-        "title": "ZhuLinsen/daily_stock_analysis",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-        "language": "Python",
-        "starsToday": "173 stars today",
-        "totalStars": "31,298",
-        "time": 1777085751821,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Azure-Azure-Sentinel",
-        "title": "Azure/Azure-Sentinel",
-        "url": "https://github.com/Azure/Azure-Sentinel",
-        "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
-        "language": "Python",
-        "starsToday": "37 stars today",
-        "totalStars": "5,693",
-        "time": 1777085751821,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-521xueweihan-HelloGitHub",
-        "title": "521xueweihan/HelloGitHub",
-        "url": "https://github.com/521xueweihan/HelloGitHub",
-        "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-        "language": "Python",
-        "starsToday": "172 stars today",
-        "totalStars": "152,903",
-        "time": 1777085751820,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-mlflow-mlflow",
-        "title": "mlflow/mlflow",
-        "url": "https://github.com/mlflow/mlflow",
-        "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
-        "language": "Python",
-        "starsToday": "19 stars today",
-        "totalStars": "25,548",
-        "time": 1777085751820,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-microsoft-presidio",
-        "title": "microsoft/presidio",
-        "url": "https://github.com/microsoft/presidio",
-        "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
-        "language": "Python",
-        "starsToday": "50 stars today",
-        "totalStars": "7,779",
-        "time": 1777085751820,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Tracer-Cloud-opensre",
-        "title": "Tracer-Cloud/opensre",
-        "url": "https://github.com/Tracer-Cloud/opensre",
-        "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-        "language": "Python",
-        "starsToday": "247 stars today",
-        "totalStars": "2,929",
-        "time": 1777085751820,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Shubhamsaboo-awesome-llm-apps",
-        "title": "Shubhamsaboo/awesome-llm-apps",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-        "language": "Python",
-        "starsToday": "183 stars today",
-        "totalStars": "107,346",
-        "time": 1777085751819,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-openai-skills",
-        "title": "openai/skills",
-        "url": "https://github.com/openai/skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "starsToday": "72 stars today",
-        "totalStars": "17,434",
-        "time": 1777085751819,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-google-adk-samples",
-        "title": "google/adk-samples",
-        "url": "https://github.com/google/adk-samples",
-        "description": "A collection of sample agents built with Agent Development Kit (ADK)",
-        "language": "Python",
-        "starsToday": "20 stars today",
-        "totalStars": "8,971",
-        "time": 1777085751819,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-AIDC-AI-Pixelle-Video",
-        "title": "AIDC-AI/Pixelle-Video",
-        "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-        "language": "Python",
-        "starsToday": "352 stars today",
-        "totalStars": "6,640",
-        "time": 1777085751818,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-unslothai-unsloth",
-        "title": "unslothai/unsloth",
-        "url": "https://github.com/unslothai/unsloth",
-        "description": "Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
-        "language": "Python",
-        "starsToday": "207 stars today",
-        "totalStars": "62,877",
-        "time": 1777085751818,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-microsoft-typescript-go",
         "title": "microsoft/typescript-go",
         "url": "https://github.com/microsoft/typescript-go",
         "description": "Staging repo for development of native port of TypeScript",
         "language": "Go",
         "starsToday": "38 stars today",
-        "totalStars": "25,030",
-        "time": 1777085751733,
+        "totalStars": "25,057",
+        "time": 1777101999546,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Anil-matcha-Open-Generative-AI",
+        "title": "Anil-matcha/Open-Generative-AI",
+        "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+        "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "language": "JavaScript",
+        "starsToday": "842 stars today",
+        "totalStars": "7,856",
+        "time": 1777101999545,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-codecrafters-io-build-your-own-x",
+        "title": "codecrafters-io/build-your-own-x",
+        "url": "https://github.com/codecrafters-io/build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "starsToday": "991 stars today",
+        "totalStars": "495,163",
+        "time": 1777101999545,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-deepseek-ai-DeepEP",
+        "title": "deepseek-ai/DeepEP",
+        "url": "https://github.com/deepseek-ai/DeepEP",
+        "description": "DeepEP: an efficient expert-parallel communication library",
+        "language": "Cuda",
+        "starsToday": "52 stars today",
+        "totalStars": "9,380",
+        "time": 1777101999545,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-PostHog-posthog",
+        "title": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+        "language": "Python",
+        "starsToday": "85 stars today",
+        "totalStars": "33,219",
+        "time": 1777101999544,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-dani-garcia-vaultwarden",
+        "title": "dani-garcia/vaultwarden",
+        "url": "https://github.com/dani-garcia/vaultwarden",
+        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "language": "Rust",
+        "starsToday": "268 stars today",
+        "totalStars": "59,216",
+        "time": 1777101999544,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-google-osv-scanner",
+        "title": "google/osv-scanner",
+        "url": "https://github.com/google/osv-scanner",
+        "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+        "language": "Go",
+        "starsToday": "141 stars today",
+        "totalStars": "9,624",
+        "time": 1777101999543,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Z4nzu-hackingtool",
+        "title": "Z4nzu/hackingtool",
+        "url": "https://github.com/Z4nzu/hackingtool",
+        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "language": "Python",
+        "starsToday": "1,378 stars today",
+        "totalStars": "62,661",
+        "time": 1777101999543,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-zilliztech-claude-context",
+        "title": "zilliztech/claude-context",
+        "url": "https://github.com/zilliztech/claude-context",
+        "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+        "language": "TypeScript",
+        "starsToday": "706 stars today",
+        "totalStars": "9,130",
+        "time": 1777101999543,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-open-metadata-OpenMetadata",
+        "title": "open-metadata/OpenMetadata",
+        "url": "https://github.com/open-metadata/OpenMetadata",
+        "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+        "language": "TypeScript",
+        "starsToday": "530 stars today",
+        "totalStars": "13,456",
+        "time": 1777101999543,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Alishahryar1-free-claude-code",
+        "title": "Alishahryar1/free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+        "language": "Python",
+        "starsToday": "2,638 stars today",
+        "totalStars": "9,886",
+        "time": 1777101999542,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-huggingface-ml-intern",
+        "title": "huggingface/ml-intern",
+        "url": "https://github.com/huggingface/ml-intern",
+        "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+        "language": "Python",
+        "starsToday": "2,985 stars today",
+        "totalStars": "5,658",
+        "time": 1777101999542,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
+        "id": "ph-https://www.producthunt.com/products/inro",
+        "title": "Inrō AI",
+        "url": "https://www.producthunt.com/products/inro",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1776797554000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
         "id": "ph-https://www.producthunt.com/products/haiker",
         "title": "Haiker",
         "url": "https://www.producthunt.com/products/haiker",
         "description": "Discussion\n            |\n            Link",
         "time": 1776955419000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
-        "title": "MailCue",
-        "url": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1776965767000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -240,29 +240,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
-        "title": "Emotional intelligence AI for live calls",
-        "url": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
+        "id": "ph-https://www.producthunt.com/products/codex-3-0-by-openai",
+        "title": "Codex 3.0 by OpenAI",
+        "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
         "description": "Discussion\n            |\n            Link",
-        "time": 1775858868000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/spira-ai",
-        "title": "Spira AI",
-        "url": "https://www.producthunt.com/products/spira-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1776932157000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/beezi-ai",
-        "title": "Beezi AI",
-        "url": "https://www.producthunt.com/products/beezi-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1774901798000,
+        "time": 1776970101000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -276,11 +258,29 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/codex-3-0-by-openai",
-        "title": "Codex 3.0 by OpenAI",
-        "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+        "id": "ph-https://www.producthunt.com/products/beezi-ai",
+        "title": "Beezi AI",
+        "url": "https://www.producthunt.com/products/beezi-ai",
         "description": "Discussion\n            |\n            Link",
-        "time": 1776970101000,
+        "time": 1774901798000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/spira-ai",
+        "title": "Spira AI",
+        "url": "https://www.producthunt.com/products/spira-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1776932157000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
+        "title": "Emotional intelligence AI for live calls",
+        "url": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1775858868000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -298,8 +298,8 @@
           "discuss",
           "programming"
         ],
-        "reactions": 136,
-        "comments": 90,
+        "reactions": 142,
+        "comments": 91,
         "time": 1776845086000,
         "source": "Dev.to",
         "category": "practice"
@@ -353,7 +353,7 @@
           "mcp"
         ],
         "reactions": 71,
-        "comments": 7,
+        "comments": 8,
         "time": 1776704294000,
         "source": "Dev.to",
         "category": "practice"
@@ -389,8 +389,26 @@
           "discuss"
         ],
         "reactions": 63,
-        "comments": 28,
+        "comments": 29,
         "time": 1776742612000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3533908",
+        "title": "Anthropic's Most Dangerous Model Just Got Accessed by People Who Weren't Supposed to Have It",
+        "url": "https://dev.to/om_shree_0709/anthropics-most-dangerous-model-just-got-accessed-by-people-who-werent-supposed-to-have-it-14dn",
+        "description": "Anthropic built a model so dangerous they refused to release it publicly. Then a Discord group got in...",
+        "author": "Om Shree",
+        "tags": [
+          "ai",
+          "security",
+          "discuss",
+          "claude"
+        ],
+        "reactions": 62,
+        "comments": 16,
+        "time": 1776821297000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -411,27 +429,19 @@
         "time": 1776607607000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-3533908",
-        "title": "Anthropic's Most Dangerous Model Just Got Accessed by People Who Weren't Supposed to Have It",
-        "url": "https://dev.to/om_shree_0709/anthropics-most-dangerous-model-just-got-accessed-by-people-who-werent-supposed-to-have-it-14dn",
-        "description": "Anthropic built a model so dangerous they refused to release it publicly. Then a Discord group got in...",
-        "author": "Om Shree",
-        "tags": [
-          "ai",
-          "security",
-          "discuss",
-          "claude"
-        ],
-        "reactions": 57,
-        "comments": 16,
-        "time": 1776821297000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article",
+        "title": "Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1777125600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article",
         "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
@@ -443,11 +453,11 @@
         "isChina": true
       },
       {
-        "id": "36kr-https://36kr.com/newsflashes/3781601726586119?f=rss",
-        "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
-        "url": "https://36kr.com/newsflashes/3781601726586119?f=rss",
-        "description": "今年一季度，中国进出口银行新发放外贸领域贷款超3000亿元，其中40%投向稳外贸主体和稳外贸产业链领域，35%投向直接进出口贸易环节。重点支持人工智能、绿电装备等产品出口，助力跨境电商、海外仓等外贸新业态新模式专业化、规模化发展。（央视新闻）",
-        "time": 1777085703000,
+        "id": "36kr-https://36kr.com/newsflashes/3781844281007361?f=rss",
+        "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
+        "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
+        "description": "AI算力需求持续爆发之际，CPU（中央处理器）行业或掀起新一轮涨价潮。据媒体报道，近日，有ODM厂商（原始设计制造厂商）表示，自今年3月起，消费电子及服务器CPU价格涨幅分别达5%~10％及10％~20％。供应链透露，国际大厂酝酿三季度再进行新一轮涨价。据数据宝统计，A股市场涉及CPU相关业务的上市公司数量不到20家。截至4月24日收盘，概念股合计A股市值达到1.29万亿元。海光信息、澜起科技、龙",
+        "time": 1777098111000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
@@ -501,130 +511,9 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
-        "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
-        "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1777056403000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2604.20862",
-        "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-        "url": "https://arxiv.org/abs/2604.20862",
-        "description": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA pla",
-        "author": "Ji-il Park, Inwook Shim, Chong Hui Kim",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.20972",
-        "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-        "url": "https://arxiv.org/abs/2604.20972",
-        "description": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize ",
-        "author": "Michael O'Herlihy, Rosa Catal\\`a",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.20987",
-        "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-        "url": "https://arxiv.org/abs/2604.20987",
-        "description": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and ",
-        "author": "Xiyang Wu, Zongxia Li, Guangyao Shi, Alexander Duffy, Tyler Marques, Matthew Lyle Olson, Tianyi Zhou, Dinesh Manocha",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.20995",
-        "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
-        "url": "https://arxiv.org/abs/2604.20995",
-        "description": "arXiv:2604.20995v1 Announce Type: new \nAbstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part because current diagnostic tools remain limited. Prior d",
-        "author": "Inderjeet Nair, Jie Ruan, Lu Wang",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.21003",
-        "title": "The Last Harness You'll Ever Build",
-        "url": "https://arxiv.org/abs/2604.21003",
-        "description": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, ",
-        "author": "Haebin Seong, Li Yin, Haoran Zhang",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.21006",
-        "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-        "url": "https://arxiv.org/abs/2604.21006",
-        "description": "arXiv:2604.21006v1 Announce Type: new \nAbstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecast",
-        "author": "Mirazul Haque, Antony Papadimitriou, Samuel Mensah, Zhiqiang Ma, Zhijin Guo, Joy Prakash Sain, Simerjot Kaur, Charese Smiley, Xiaomo Liu",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.21018",
-        "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
-        "url": "https://arxiv.org/abs/2604.21018",
-        "description": "arXiv:2604.21018v1 Announce Type: new \nAbstract: While scaling test-time compute can substantially improve model performance, existing approaches either rely on static compute allocation or sample from fixed generation distributions. In this work, we introduce a test-time compute allocation framewor",
-        "author": "Bowen Zuo, Dongruo Zhou, Yinglun Zhu",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.21027",
-        "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
-        "url": "https://arxiv.org/abs/2604.21027",
-        "description": "arXiv:2604.21027v1 Announce Type: new \nAbstract: Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not explicitly leverage the hierarchical structure of clinical data. Motivated by evidence that medical ontologies and patient t",
-        "author": "Yuyu Liu, Sarang Rajendra Patil, Mengjia Xu, Tengfei Ma",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.21036",
-        "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
-        "url": "https://arxiv.org/abs/2604.21036",
-        "description": "arXiv:2604.21036v1 Announce Type: new \nAbstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how they depict demographic groups across professions. ",
-        "author": "Marzia Binta Nizam, James Davis",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2604.21044",
-        "title": "Active Data",
-        "url": "https://arxiv.org/abs/2604.21044",
-        "description": "arXiv:2604.21044v1 Announce Type: new \nAbstract: In some complex domains, certain problem-specific decompositions can provide advantages over monolithic designs by enabling comprehension and specification of the design. In this paper we present an intuitive and tractable approach to reasoning over l",
-        "author": "Richard Arthur, Virginia DiDomizio, Louis Hoebel",
-        "time": 1777003200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
@@ -632,8 +521,8 @@
         "id": "hn-47884971",
         "title": "DeepSeek v4",
         "url": "https://api-docs.deepseek.com/news/news260424",
-        "score": 1825,
-        "comments": 1426,
+        "score": 1880,
+        "comments": 1466,
         "author": "impact_sy",
         "time": 1776999681000,
         "source": "Hacker News",
@@ -644,22 +533,10 @@
         "id": "hn-47890799",
         "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
         "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-        "score": 367,
-        "comments": 93,
+        "score": 410,
+        "comments": 105,
         "author": "alcazar",
         "time": 1777040932000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47887334",
-        "title": "Spinel: Ruby AOT Native Compiler",
-        "url": "https://github.com/matz/spinel",
-        "score": 318,
-        "comments": 86,
-        "author": "dluan",
-        "time": 1777019327000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -668,34 +545,10 @@
         "id": "hn-47888372",
         "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
         "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-        "score": 315,
-        "comments": 294,
+        "score": 341,
+        "comments": 314,
         "author": "calcifer",
         "time": 1777027694000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47884768",
-        "title": "Why I Write (1946)",
-        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-        "score": 271,
-        "comments": 75,
-        "author": "RyanShook",
-        "time": 1776997583000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-47892291",
-        "title": "SDL Now Supports DOS",
-        "url": "https://github.com/libsdl-org/SDL/pull/15377",
-        "score": 229,
-        "comments": 83,
-        "author": "Jayschwa",
-        "time": 1777047615000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -704,10 +557,22 @@
         "id": "hn-47872306",
         "title": "MacBook Neo and how the iPad should be",
         "url": "https://craigmod.com/essays/ipad_neo/",
-        "score": 215,
-        "comments": 122,
+        "score": 253,
+        "comments": 141,
         "author": "jen729w",
         "time": 1776919231000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47892291",
+        "title": "SDL Now Supports DOS",
+        "url": "https://github.com/libsdl-org/SDL/pull/15377",
+        "score": 248,
+        "comments": 100,
+        "author": "Jayschwa",
+        "time": 1777047615000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -716,8 +581,8 @@
         "id": "hn-47894747",
         "title": "My audio interface has SSH enabled by default",
         "url": "https://hhh.hn/rodecaster-duo-fw/",
-        "score": 172,
-        "comments": 46,
+        "score": 223,
+        "comments": 73,
         "author": "hhh",
         "time": 1777059046000,
         "source": "Hacker News",
@@ -728,10 +593,22 @@
         "id": "hn-47894435",
         "title": "The Classic American Diner",
         "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-        "score": 163,
-        "comments": 106,
+        "score": 204,
+        "comments": 124,
         "author": "NaOH",
         "time": 1777057269000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47897891",
+        "title": "Firefox Has Integrated Brave's Adblock Engine",
+        "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+        "score": 169,
+        "comments": 75,
+        "author": "nreece",
+        "time": 1777081653000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -740,10 +617,22 @@
         "id": "hn-47891801",
         "title": "I'm done making desktop applications (2009)",
         "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-        "score": 145,
-        "comments": 175,
+        "score": 165,
+        "comments": 183,
         "author": "claxo",
         "time": 1777045443000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-47864056",
+        "title": "Iliad fragment found in Roman-era mummy",
+        "url": "https://www.thehistoryblog.com/archives/75877",
+        "score": 160,
+        "comments": 47,
+        "author": "wise_blood",
+        "time": 1776867515000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -755,7 +644,6 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
       "36氪",
       "InfoQ",
