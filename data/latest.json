@@ -1,15 +1,15 @@
 {
-  "updateTime": 1779595730169,
-  "updateTimeStr": "2026/5/24 12:08:50",
-  "totalCount": 162,
+  "updateTime": 1779611836067,
+  "updateTimeStr": "2026/5/24 16:37:16",
+  "totalCount": 165,
   "daily": {
     "mustRead": [
       {
         "id": "hn-48248775",
         "title": "Italy moves to Airbus A330 tankers",
         "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-        "score": 240,
-        "comments": 95,
+        "score": 255,
+        "comments": 100,
         "author": "embedding-shape",
         "time": 1779552163000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-48246889",
         "title": "Making deep learning go brrrr from first principles (2022)",
         "url": "https://horace.io/brrr_intro.html",
-        "score": 157,
-        "comments": 59,
+        "score": 170,
+        "comments": 62,
         "author": "tosh",
         "time": 1779537022000,
         "source": "Hacker News",
@@ -32,8 +32,8 @@
         "id": "hn-48250980",
         "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
         "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-        "score": 28,
-        "comments": 14,
+        "score": 79,
+        "comments": 50,
         "author": "baal80spam",
         "time": 1779566953000,
         "source": "Hacker News",
@@ -44,10 +44,22 @@
         "id": "hn-48250198",
         "title": "NeuralNote",
         "url": "https://github.com/DamRsn/NeuralNote",
-        "score": 11,
+        "score": 21,
         "comments": 1,
         "author": "hyperific",
         "time": 1779562261000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-48254993",
+        "title": "Local LLMs perform better when you teach them to ask before they answer",
+        "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/",
+        "score": 9,
+        "comments": 3,
+        "author": "froh",
+        "time": 1779604834000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -55,38 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-odoo-odoo",
-        "title": "odoo/odoo",
-        "url": "https://github.com/odoo/odoo",
-        "description": "Odoo. Open Source Apps To Grow Your Business.",
-        "language": "Python",
-        "starsToday": "386 stars today",
-        "totalStars": "51,526",
-        "time": 1779595727097,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-NVlabs-LongLive",
-        "title": "NVlabs/LongLive",
-        "url": "https://github.com/NVlabs/LongLive",
-        "description": "LongLive 2.0: Infra - Long Video Gen",
-        "language": "Python",
-        "starsToday": "94 stars today",
-        "totalStars": "1,850",
-        "time": 1779595727097,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-yt-dlp-yt-dlp",
         "title": "yt-dlp/yt-dlp",
         "url": "https://github.com/yt-dlp/yt-dlp",
         "description": "A feature-rich command-line audio/video downloader",
         "language": "Python",
         "starsToday": "759 stars today",
-        "totalStars": "165,028",
-        "time": 1779595727097,
+        "totalStars": "165,138",
+        "time": 1779611832628,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +85,8 @@
         "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
         "language": "TypeScript",
         "starsToday": "241 stars today",
-        "totalStars": "6,461",
-        "time": 1779595727096,
+        "totalStars": "6,589",
+        "time": 1779611832627,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +97,8 @@
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "starsToday": "410 stars today",
-        "totalStars": "32,011",
-        "time": 1779595727096,
+        "totalStars": "32,119",
+        "time": 1779611832627,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,20 +109,32 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "language": "Unknown",
         "starsToday": "628 stars today",
-        "totalStars": "223,923",
-        "time": 1779595727096,
+        "totalStars": "224,040",
+        "time": 1779611832627,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-dotnet-skills",
-        "title": "dotnet/skills",
-        "url": "https://github.com/dotnet/skills",
-        "description": "Repository for skills to assist AI coding agents with .NET and C#",
-        "language": "C#",
-        "starsToday": "266 stars today",
-        "totalStars": "2,773",
-        "time": 1779595727095,
+        "id": "gh-odoo-odoo",
+        "title": "odoo/odoo",
+        "url": "https://github.com/odoo/odoo",
+        "description": "Odoo. Open Source Apps To Grow Your Business.",
+        "language": "Python",
+        "starsToday": "386 stars today",
+        "totalStars": "51,580",
+        "time": 1779611832627,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-NVlabs-LongLive",
+        "title": "NVlabs/LongLive",
+        "url": "https://github.com/NVlabs/LongLive",
+        "description": "LongLive 2.0: Infra - Long Video Gen",
+        "language": "Python",
+        "starsToday": "94 stars today",
+        "totalStars": "1,919",
+        "time": 1779611832627,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,8 +145,8 @@
         "description": "Chrome DevTools for coding agents",
         "language": "TypeScript",
         "starsToday": "435 stars today",
-        "totalStars": "41,375",
-        "time": 1779595727095,
+        "totalStars": "41,440",
+        "time": 1779611832626,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,8 +157,8 @@
         "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
         "language": "Python",
         "starsToday": "281 stars today",
-        "totalStars": "7,542",
-        "time": 1779595727095,
+        "totalStars": "7,716",
+        "time": 1779611832626,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +169,8 @@
         "description": "Learn it. Build it. Ship it for others.",
         "language": "Python",
         "starsToday": "1,521 stars today",
-        "totalStars": "13,958",
-        "time": 1779595727094,
+        "totalStars": "14,280",
+        "time": 1779611832625,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +181,8 @@
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
         "language": "Python",
         "starsToday": "545 stars today",
-        "totalStars": "23,182",
-        "time": 1779595727094,
+        "totalStars": "23,279",
+        "time": 1779611832625,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,13 +193,34 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "Unknown",
         "starsToday": "3,507 stars today",
-        "totalStars": "149,962",
-        "time": 1779595727094,
+        "totalStars": "150,437",
+        "time": 1779611832625,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-dotnet-skills",
+        "title": "dotnet/skills",
+        "url": "https://github.com/dotnet/skills",
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "language": "C#",
+        "starsToday": "266 stars today",
+        "totalStars": "2,805",
+        "time": 1779611832625,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/freu-cli",
+        "title": "Freu AI",
+        "url": "https://www.producthunt.com/products/freu-cli",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1779152920000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
         "title": "SignalLEMO - Ai Outreach Made Simple",
@@ -215,6 +236,24 @@
         "url": "https://www.producthunt.com/products/jamtime-ai",
         "description": "Discussion\n            |\n            Link",
         "time": 1779419879000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/suprsend",
+        "title": "SuprSend AI",
+        "url": "https://www.producthunt.com/products/suprsend",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1775109317000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/nugget-ai",
+        "title": "Nugget AI",
+        "url": "https://www.producthunt.com/products/nugget-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1779417307000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -235,36 +274,27 @@
         "time": 1779457622000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/nugget-ai",
-        "title": "Nugget AI",
-        "url": "https://www.producthunt.com/products/nugget-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1779417307000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/suprsend",
-        "title": "SuprSend AI",
-        "url": "https://www.producthunt.com/products/suprsend",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1775109317000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/tycoon-us",
-        "title": "Tycoon AI ",
-        "url": "https://www.producthunt.com/products/tycoon-us",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1779329302000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
+      {
+        "id": "devto-3735627",
+        "title": "I Built a Production-Grade E-Commerce Platform in 3 Months — GitHub Copilot Was My Co-Founder",
+        "url": "https://dev.to/syedahmershah/i-built-a-production-grade-e-commerce-platform-in-3-months-github-copilot-was-my-co-founder-11m4",
+        "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Let me be...",
+        "author": "Syed Ahmer Shah",
+        "tags": [
+          "devchallenge",
+          "githubchallenge",
+          "php",
+          "webdev"
+        ],
+        "reactions": 79,
+        "comments": 19,
+        "time": 1779569832000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
       {
         "id": "devto-3693795",
         "title": "Rediscovering Domain-Driven Design, one MCP server at a time",
@@ -295,8 +325,8 @@
           "googlecloud",
           "postgres"
         ],
-        "reactions": 70,
-        "comments": 20,
+        "reactions": 72,
+        "comments": 21,
         "time": 1779467239000,
         "source": "Dev.to",
         "category": "practice"
@@ -313,8 +343,8 @@
           "programming",
           "career"
         ],
-        "reactions": 68,
-        "comments": 58,
+        "reactions": 69,
+        "comments": 59,
         "time": 1779358741000,
         "source": "Dev.to",
         "category": "practice"
@@ -350,7 +380,7 @@
           "discuss"
         ],
         "reactions": 64,
-        "comments": 33,
+        "comments": 34,
         "time": 1779103304000,
         "source": "Dev.to",
         "category": "practice"
@@ -390,24 +420,6 @@
         "time": 1779151044000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-3694750",
-        "title": "API Calls Done Right: From Messy Fetch to Clean Data Layer",
-        "url": "https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i",
-        "description": "I've seen this file in almost every frontend project I've ever touched.  It's usually called api.js...",
-        "author": "Gavin Cettolo",
-        "tags": [
-          "typescript",
-          "javascript",
-          "webdev",
-          "beginners"
-        ],
-        "reactions": 58,
-        "comments": 51,
-        "time": 1779175800000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
@@ -422,6 +434,16 @@
         "isChina": true
       },
       {
+        "id": "36kr-https://36kr.com/newsflashes/3823019238838408?f=rss",
+        "title": "大金重工：与荷兰船东签署约10.69亿元船舶建造合同",
+        "url": "https://36kr.com/newsflashes/3823019238838408?f=rss",
+        "description": "大金重工5月24日公告，公司下属子公司唐山大金海工海洋工程有限公司，与荷兰知名船东Jumbo下属子公司正式签署新一代绿色智能多用途重吊船建造合同。本合同总金额约1.56亿美元，折合人民币约10.69亿元，两艘船舶计划于2028年、2029年分批次完工交付。",
+        "time": 1779610576000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
         "id": "infoq-https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
         "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
         "url": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
@@ -432,11 +454,11 @@
         "isChina": true
       },
       {
-        "id": "36kr-https://36kr.com/newsflashes/3822612389941383?f=rss",
-        "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
-        "url": "https://36kr.com/newsflashes/3822612389941383?f=rss",
-        "description": "华泰证券研报称，作为数据中心互联的核心组件，交换芯片用于处理数据交换和报文转发，占交换机成本比例达30%以上。华泰证券看好2026年起交换芯片在AI驱动下开启二次成长：1.万卡级以上集群需要更加稳定可靠的网络系统，推动数据中心Scale out交换机向更高容量、速率发展，Scale out交换芯片有望量价齐升；2.超节点架构或为国产算力追赶海外算力的破局之道，超节点放大集群内Scale up作用，",
-        "time": 1779588017000,
+        "id": "36kr-https://36kr.com/newsflashes/3822814415589768?f=rss",
+        "title": "周鸿祎谈马斯克大尺度预言：十年后人类都不开车了？",
+        "url": "https://36kr.com/newsflashes/3822814415589768?f=rss",
+        "description": "5月24日，周鸿祎发视频谈马斯克关于“十年后人类都不开车了”大尺度预言： 我觉得马斯克这次关于自动驾驶的判断，真正提醒我们的不是驾照以后还有没有用，而是AI的下一阶段不是在屏幕里变得更会聊天，而在真实世界里变得越来越能干活。过去AI主要改变的是信息流，接下来它要改变的是物流、人流、车流，甚至整个物理世界的运行方式。",
+        "time": 1779603347000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
@@ -480,16 +502,6 @@
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3821533415985283?f=rss",
-        "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3821533415985283?f=rss",
-        "description": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。\n只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。\n以下为圆桌对话内容，经36氪整理编辑：\n\n帮主丨36氪《AI局内人》主播（主持）\n郑鹏宇",
-        "time": 1779519947000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
       }
     ],
     "papers": []
@@ -500,8 +512,8 @@
         "id": "hn-48241890",
         "title": "Green card seekers must leave U.S. to apply, Trump administration says",
         "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-        "score": 680,
-        "comments": 1170,
+        "score": 850,
+        "comments": 1428,
         "author": "tlhunter",
         "time": 1779485232000,
         "source": "Hacker News",
@@ -512,8 +524,8 @@
         "id": "hn-48249747",
         "title": "Texas woman arrested for Facebook post about town water quality",
         "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-        "score": 663,
-        "comments": 277,
+        "score": 705,
+        "comments": 290,
         "author": "abawany",
         "time": 1779559362000,
         "source": "Hacker News",
@@ -524,8 +536,8 @@
         "id": "hn-48240419",
         "title": "Project Glasswing: An Initial Update",
         "url": "https://www.anthropic.com/research/glasswing-initial-update",
-        "score": 526,
-        "comments": 312,
+        "score": 531,
+        "comments": 313,
         "author": "louiereederson",
         "time": 1779478305000,
         "source": "Hacker News",
@@ -536,8 +548,8 @@
         "id": "hn-48242959",
         "title": "SpaceX launches Starship v3 rocket",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
-        "score": 384,
-        "comments": 254,
+        "score": 404,
+        "comments": 278,
         "author": "busymom0",
         "time": 1779493315000,
         "source": "Hacker News",
@@ -548,8 +560,8 @@
         "id": "hn-48247325",
         "title": "On The <dl> (2021)",
         "url": "https://benmyers.dev/blog/on-the-dl/",
-        "score": 367,
-        "comments": 109,
+        "score": 387,
+        "comments": 111,
         "author": "ravenical",
         "time": 1779541423000,
         "source": "Hacker News",
@@ -560,46 +572,10 @@
         "id": "hn-48250144",
         "title": "Time to talk about my writerdeck",
         "url": "https://veronicaexplains.net/my-first-writerdeck/",
-        "score": 323,
-        "comments": 184,
+        "score": 368,
+        "comments": 210,
         "author": "hggh",
         "time": 1779561937000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48247876",
-        "title": "Oura says it gets government demands for user data",
-        "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-        "score": 261,
-        "comments": 145,
-        "author": "donohoe",
-        "time": 1779545397000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48214311",
-        "title": "My two-part desk setup (2025)",
-        "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-        "score": 239,
-        "comments": 138,
-        "author": "James72689",
-        "time": 1779312074000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48247004",
-        "title": "80386 microcode disassembled",
-        "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-        "score": 229,
-        "comments": 46,
-        "author": "nand2mario",
-        "time": 1779538303000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -608,10 +584,46 @@
         "id": "hn-48247208",
         "title": "The Art of Money Getting",
         "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-        "score": 223,
-        "comments": 140,
+        "score": 277,
+        "comments": 149,
         "author": "dxs",
         "time": 1779540482000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48214311",
+        "title": "My two-part desk setup (2025)",
+        "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+        "score": 276,
+        "comments": 159,
+        "author": "James72689",
+        "time": 1779312074000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48247876",
+        "title": "Oura says it gets government demands for user data",
+        "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+        "score": 271,
+        "comments": 149,
+        "author": "donohoe",
+        "time": 1779545397000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48247004",
+        "title": "80386 microcode disassembled",
+        "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+        "score": 248,
+        "comments": 47,
+        "author": "nand2mario",
+        "time": 1779538303000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
