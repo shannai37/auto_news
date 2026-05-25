@@ -1,15 +1,15 @@
 {
-  "updateTime": 1779682830227,
-  "updateTimeStr": "2026/5/25 12:20:30",
-  "totalCount": 195,
+  "updateTime": 1779704410987,
+  "updateTimeStr": "2026/5/25 18:20:10",
+  "totalCount": 192,
   "daily": {
     "mustRead": [
       {
         "id": "hn-48256953",
         "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-        "score": 483,
-        "comments": 205,
+        "score": 569,
+        "comments": 233,
         "author": "Alifatisk",
         "time": 1779627726000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-48258684",
         "title": "Memory has grown to nearly two-thirds of AI chip component costs",
         "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-        "score": 332,
-        "comments": 357,
+        "score": 387,
+        "comments": 402,
         "author": "intelkishan",
         "time": 1779640289000,
         "source": "Hacker News",
@@ -32,10 +32,22 @@
         "id": "hn-48256912",
         "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
         "url": "https://arxiv.org/abs/2605.06445",
-        "score": 195,
-        "comments": 103,
+        "score": 242,
+        "comments": 136,
         "author": "wek",
         "time": 1779627353000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-48204632",
+        "title": "Notes about reading messages with the Python email packages",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+        "score": 6,
+        "comments": 0,
+        "author": "ankitg12",
+        "time": 1779264833000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -61,8 +73,8 @@
         "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
         "language": "Python",
         "starsToday": "197 stars today",
-        "totalStars": "62,258",
-        "time": 1779682826275,
+        "totalStars": "62,428",
+        "time": 1779704408356,
         "source": "GitHub",
         "category": "github"
       },
@@ -73,8 +85,8 @@
         "description": "Master programming by recreating your favorite technologies from scratch.",
         "language": "Markdown",
         "starsToday": "550 stars today",
-        "totalStars": "504,356",
-        "time": 1779682826275,
+        "totalStars": "504,532",
+        "time": 1779704408356,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +97,8 @@
         "description": "Repository for skills to assist AI coding agents with .NET and C#",
         "language": "C#",
         "starsToday": "183 stars today",
-        "totalStars": "2,993",
-        "time": 1779682826275,
+        "totalStars": "3,043",
+        "time": 1779704408356,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,20 +109,8 @@
         "description": "NVR with realtime local object detection for IP cameras",
         "language": "TypeScript",
         "starsToday": "181 stars today",
-        "totalStars": "32,912",
-        "time": 1779682826275,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Alishahryar1-free-claude-code",
-        "title": "Alishahryar1/free-claude-code",
-        "url": "https://github.com/Alishahryar1/free-claude-code",
-        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
-        "language": "Python",
-        "starsToday": "553 stars today",
-        "totalStars": "29,245",
-        "time": 1779682826274,
+        "totalStars": "33,023",
+        "time": 1779704408356,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +121,8 @@
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "language": "TypeScript",
         "starsToday": "3,003 stars today",
-        "totalStars": "22,811",
-        "time": 1779682826274,
+        "totalStars": "23,847",
+        "time": 1779704408355,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +133,8 @@
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "starsToday": "585 stars today",
-        "totalStars": "32,638",
-        "time": 1779682826274,
+        "totalStars": "32,880",
+        "time": 1779704408355,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,8 +145,8 @@
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
         "starsToday": "106 stars today",
-        "totalStars": "25,844",
-        "time": 1779682826274,
+        "totalStars": "25,905",
+        "time": 1779704408355,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,8 +157,8 @@
         "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
         "language": "Swift",
         "starsToday": "696 stars today",
-        "totalStars": "19,097",
-        "time": 1779682826274,
+        "totalStars": "19,248",
+        "time": 1779704408355,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +169,8 @@
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
         "starsToday": "1,173 stars today",
-        "totalStars": "27,350",
-        "time": 1779682826273,
+        "totalStars": "27,621",
+        "time": 1779704408354,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +181,8 @@
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
         "starsToday": "550 stars today",
-        "totalStars": "14,215",
-        "time": 1779682826273,
+        "totalStars": "14,501",
+        "time": 1779704408354,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,13 +193,34 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "Unknown",
         "starsToday": "2,551 stars today",
-        "totalStars": "152,643",
-        "time": 1779682826273,
+        "totalStars": "153,339",
+        "time": 1779704408354,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-earendil-works-pi",
+        "title": "earendil-works/pi",
+        "url": "https://github.com/earendil-works/pi",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "starsToday": "456 stars today",
+        "totalStars": "54,292",
+        "time": 1779704408354,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/llmtest-2",
+        "title": "LLMTest",
+        "url": "https://www.producthunt.com/products/llmtest-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1779438503000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/freu-cli",
         "title": "Freu AI",
@@ -219,24 +240,6 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/nota-ai-notes-voice",
-        "title": "Nota: AI Notes & Voice",
-        "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1779457622000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/jamtime-ai",
-        "title": "JAMtime.ai",
-        "url": "https://www.producthunt.com/products/jamtime-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1779419879000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/suprsend",
         "title": "SuprSend AI",
         "url": "https://www.producthunt.com/products/suprsend",
@@ -251,15 +254,6 @@
         "url": "https://www.producthunt.com/products/nugget-ai",
         "description": "Discussion\n            |\n            Link",
         "time": 1779417307000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/motionvid-ai",
-        "title": "motionvid.ai",
-        "url": "https://www.producthunt.com/products/motionvid-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1779363161000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -296,7 +290,7 @@
           "systemdesign"
         ],
         "reactions": 78,
-        "comments": 54,
+        "comments": 55,
         "time": 1779110229000,
         "source": "Dev.to",
         "category": "practice"
@@ -313,7 +307,7 @@
           "googlecloud",
           "postgres"
         ],
-        "reactions": 73,
+        "reactions": 76,
         "comments": 21,
         "time": 1779467239000,
         "source": "Dev.to",
@@ -331,8 +325,8 @@
           "programming",
           "career"
         ],
-        "reactions": 70,
-        "comments": 59,
+        "reactions": 72,
+        "comments": 62,
         "time": 1779358741000,
         "source": "Dev.to",
         "category": "practice"
@@ -350,8 +344,26 @@
           "performance"
         ],
         "reactions": 67,
-        "comments": 5,
+        "comments": 6,
         "time": 1779377874000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3676308",
+        "title": "Recycling made easy: a Polish recycling assistant powered by Gemma 4",
+        "url": "https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a",
+        "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  I clearly remember this scene: my...",
+        "author": "Klaudia Grzondziel",
+        "tags": [
+          "devchallenge",
+          "gemmachallenge",
+          "gemma",
+          "webdev"
+        ],
+        "reactions": 66,
+        "comments": 54,
+        "time": 1779389721000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -390,27 +402,79 @@
         "time": 1779106106000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-3676308",
-        "title": "Recycling made easy: a Polish recycling assistant powered by Gemma 4",
-        "url": "https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a",
-        "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  I clearly remember this scene: my...",
-        "author": "Klaudia Grzondziel",
-        "tags": [
-          "devchallenge",
-          "gemmachallenge",
-          "gemma",
-          "webdev"
-        ],
-        "reactions": 64,
-        "comments": 52,
-        "time": 1779389721000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
+        "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
+        "url": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1779730860000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article",
+        "title": "Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1779724800000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
+        "title": "ClickHouse实战：Agentic Coding，是“神”还是“坑”？",
+        "url": "https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1779723998000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article",
+        "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
+        "url": "https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1779723360000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article",
+        "title": "从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1779720784000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&utm_medium=article",
+        "title": "45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了",
+        "url": "https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1779719513000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&utm_medium=article",
+        "title": "OpenTofu 1.12发布，带来 Terraform 从未提供的功能",
+        "url": "https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1779714960000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article",
         "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”",
@@ -419,76 +483,6 @@
         "time": 1779708340000,
         "source": "InfoQ",
         "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
-        "title": "人工智能无法加速软件交付",
-        "url": "https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1779707997000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article",
-        "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
-        "url": "https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1779707229000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&utm_medium=article",
-        "title": "Java近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava和Google ADK",
-        "url": "https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1779706920000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article",
-        "title": "模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code",
-        "url": "https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1779706315000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article",
-        "title": "AI时代数据面临的新挑战和解决之道｜AICon上海",
-        "url": "https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1779703200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&utm_medium=article",
-        "title": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
-        "url": "https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1779700621000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3824195611365506?f=rss",
-        "title": "机构：小尺寸车载AMOLED出货量到2030年将达到150万片，增长541%",
-        "url": "https://36kr.com/newsflashes/3824195611365506?f=rss",
-        "description": "36氪获悉，Omdia最新研究显示，小尺寸车载AMOLED显示屏（5英寸以下）出货量预计到2030年将达到150万台，较2025年增长541%。随着汽车电子架构的演进，传统的小型控制屏正逐步被集中式大尺寸显示所取代，而小尺寸屏幕的需求正转向情感价值、智能交互以及差异化座舱设计美学。",
-        "time": 1779682376000,
-        "source": "36氪",
-        "category": "china-ai",
         "isChina": true
       }
     ],
@@ -611,22 +605,10 @@
         "id": "hn-48241890",
         "title": "Green card seekers must leave U.S. to apply, Trump administration says",
         "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-        "score": 1050,
-        "comments": 1846,
+        "score": 1064,
+        "comments": 1879,
         "author": "tlhunter",
         "time": 1779485232000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48237663",
-        "title": "DeepSeek makes the V4 Pro price discount permanent",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing",
-        "score": 555,
-        "comments": 498,
-        "author": "Tiberium",
-        "time": 1779465566000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -635,8 +617,8 @@
         "id": "hn-48223997",
         "title": "I spent 50 hours drawing a line graph",
         "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-        "score": 469,
-        "comments": 78,
+        "score": 544,
+        "comments": 94,
         "author": "dougdude3339",
         "time": 1779375928000,
         "source": "Hacker News",
@@ -647,8 +629,8 @@
         "id": "hn-48250144",
         "title": "Time to talk about my writerdeck",
         "url": "https://veronicaexplains.net/my-first-writerdeck/",
-        "score": 465,
-        "comments": 278,
+        "score": 482,
+        "comments": 286,
         "author": "hggh",
         "time": 1779561937000,
         "source": "Hacker News",
@@ -659,10 +641,34 @@
         "id": "hn-48253386",
         "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
         "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-        "score": 448,
-        "comments": 155,
+        "score": 476,
+        "comments": 168,
         "author": "DamnInteresting",
         "time": 1779585673000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48258015",
+        "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+        "url": "https://audiomass.co/?multitrack=1",
+        "score": 372,
+        "comments": 81,
+        "author": "pantelisk",
+        "time": 1779636343000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48263238",
+        "title": "The Eternal Sloptember",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+        "score": 331,
+        "comments": 265,
+        "author": "razin",
+        "time": 1779680844000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -671,8 +677,8 @@
         "id": "hn-48254309",
         "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
         "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-        "score": 309,
-        "comments": 187,
+        "score": 326,
+        "comments": 202,
         "author": "zdw",
         "time": 1779596092000,
         "source": "Hacker News",
@@ -683,8 +689,8 @@
         "id": "hn-48253186",
         "title": "Scammers are abusing an internal Microsoft account to send spam links",
         "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-        "score": 276,
-        "comments": 151,
+        "score": 289,
+        "comments": 162,
         "author": "spike021",
         "time": 1779583892000,
         "source": "Hacker News",
@@ -692,37 +698,25 @@
         "isAI": false
       },
       {
-        "id": "hn-48258015",
-        "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-        "url": "https://audiomass.co/?multitrack=1",
-        "score": 243,
-        "comments": 52,
-        "author": "pantelisk",
-        "time": 1779636343000,
+        "id": "hn-48259808",
+        "title": "Migrating from Go to Rust",
+        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+        "score": 285,
+        "comments": 280,
+        "author": "jabits",
+        "time": 1779647502000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
       },
       {
-        "id": "hn-48245362",
-        "title": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
-        "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
-        "score": 195,
-        "comments": 113,
-        "author": "gslin",
-        "time": 1779519289000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48255593",
-        "title": "Greg Brockman interview [video]",
-        "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-        "score": 186,
-        "comments": 190,
-        "author": "prakashqwerty",
-        "time": 1779611378000,
+        "id": "hn-48256597",
+        "title": "Childhood Computing",
+        "url": "https://susam.net/childhood-computing.html",
+        "score": 212,
+        "comments": 99,
+        "author": "blenderob",
+        "time": 1779624454000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
