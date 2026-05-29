@@ -1,6 +1,6 @@
 {
-  "updateTime": 1780027855935,
-  "updateTimeStr": "2026/5/29 12:10:55",
+  "updateTime": 1780049003916,
+  "updateTimeStr": "2026/5/29 18:03:23",
   "totalCount": 189,
   "daily": {
     "mustRead": [
@@ -8,8 +8,8 @@
         "id": "hn-48311647",
         "title": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "score": 1311,
-        "comments": 1055,
+        "score": 1533,
+        "comments": 1198,
         "author": "craigmart",
         "time": 1779986954000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-48299753",
         "title": "YouTube to automatically label AI-generated videos",
         "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-        "score": 1279,
-        "comments": 778,
+        "score": 1287,
+        "comments": 790,
         "author": "nopg",
         "time": 1779912051000,
         "source": "Hacker News",
@@ -32,8 +32,8 @@
         "id": "hn-48313048",
         "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
         "url": "https://www.anthropic.com/news/series-h",
-        "score": 290,
-        "comments": 297,
+        "score": 344,
+        "comments": 364,
         "author": "meetpateltech",
         "time": 1779991784000,
         "source": "Hacker News",
@@ -44,8 +44,8 @@
         "id": "hn-48308376",
         "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
         "url": "https://llmgame.scalex.dev",
-        "score": 268,
-        "comments": 115,
+        "score": 325,
+        "comments": 133,
         "author": "Wirbelwind",
         "time": 1779973320000,
         "source": "Hacker News",
@@ -56,8 +56,8 @@
         "id": "hn-48313810",
         "title": "Various LLM Smells",
         "url": "https://shvbsle.in/various-llm-smells/",
-        "score": 257,
-        "comments": 188,
+        "score": 308,
+        "comments": 245,
         "author": "speckx",
         "time": 1779994938000,
         "source": "Hacker News",
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-unclecode-crawl4ai",
+        "title": "unclecode/crawl4ai",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "language": "Python",
+        "starsToday": "154 stars today",
+        "totalStars": "67,191",
+        "time": 1780049000840,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-OpenMOSS-MOSS-TTS",
         "title": "OpenMOSS/MOSS-TTS",
         "url": "https://github.com/OpenMOSS/MOSS-TTS",
         "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
         "language": "Python",
         "starsToday": "71 stars today",
-        "totalStars": "2,314",
-        "time": 1780027853155,
+        "totalStars": "2,439",
+        "time": 1780049000840,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +97,8 @@
         "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
         "language": "TypeScript",
         "starsToday": "184 stars today",
-        "totalStars": "17,833",
-        "time": 1780027853155,
+        "totalStars": "17,929",
+        "time": 1780049000840,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +109,8 @@
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "language": "HTML",
         "starsToday": "65 stars today",
-        "totalStars": "3,965",
-        "time": 1780027853154,
+        "totalStars": "4,060",
+        "time": 1780049000839,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +121,8 @@
         "description": "Master programming by recreating your favorite technologies from scratch.",
         "language": "Markdown",
         "starsToday": "1,066 stars today",
-        "totalStars": "506,676",
-        "time": 1780027853154,
+        "totalStars": "506,891",
+        "time": 1780049000839,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,32 +133,8 @@
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
         "language": "TypeScript",
         "starsToday": "3,776 stars today",
-        "totalStars": "43,163",
-        "time": 1780027853154,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-unclecode-crawl4ai",
-        "title": "unclecode/crawl4ai",
-        "url": "https://github.com/unclecode/crawl4ai",
-        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-        "language": "Python",
-        "starsToday": "154 stars today",
-        "totalStars": "67,058",
-        "time": 1780027853154,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-byoungd-English-level-up-tips",
-        "title": "byoungd/English-level-up-tips",
-        "url": "https://github.com/byoungd/English-level-up-tips",
-        "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-        "language": "Unknown",
-        "starsToday": "2,019 stars today",
-        "totalStars": "48,784",
-        "time": 1780027853153,
+        "totalStars": "43,739",
+        "time": 1780049000839,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,8 +145,8 @@
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "starsToday": "1,410 stars today",
-        "totalStars": "127,970",
-        "time": 1780027853153,
+        "totalStars": "128,409",
+        "time": 1780049000838,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,32 +157,8 @@
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "starsToday": "1,730 stars today",
-        "totalStars": "211,327",
-        "time": 1780027853153,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-affaan-m-ECC",
-        "title": "affaan-m/ECC",
-        "url": "https://github.com/affaan-m/ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "starsToday": "1,385 stars today",
-        "totalStars": "197,488",
-        "time": 1780027853152,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Leonxlnx-taste-skill",
-        "title": "Leonxlnx/taste-skill",
-        "url": "https://github.com/Leonxlnx/taste-skill",
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-        "language": "Shell",
-        "starsToday": "2,234 stars today",
-        "totalStars": "26,771",
-        "time": 1780027853152,
+        "totalStars": "211,807",
+        "time": 1780049000838,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,19 +169,55 @@
         "description": "A skill file for removing AI tells from prose",
         "language": "Unknown",
         "starsToday": "761 stars today",
-        "totalStars": "6,518",
-        "time": 1780027853152,
+        "totalStars": "6,665",
+        "time": 1780049000837,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-twentyhq-twenty",
+        "title": "twentyhq/twenty",
+        "url": "https://github.com/twentyhq/twenty",
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "language": "TypeScript",
+        "starsToday": "493 stars today",
+        "totalStars": "48,097",
+        "time": 1780049000837,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-DigitalPlatDev-FreeDomain",
+        "title": "DigitalPlatDev/FreeDomain",
+        "url": "https://github.com/DigitalPlatDev/FreeDomain",
+        "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+        "language": "HTML",
+        "starsToday": "1,761 stars today",
+        "totalStars": "171,227",
+        "time": 1780049000837,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-byoungd-English-level-up-tips",
+        "title": "byoungd/English-level-up-tips",
+        "url": "https://github.com/byoungd/English-level-up-tips",
+        "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+        "language": "Unknown",
+        "starsToday": "2,019 stars today",
+        "totalStars": "49,185",
+        "time": 1780049000837,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
-        "id": "ph-https://www.producthunt.com/products/cometchat-skills",
-        "title": "Calling Skills for AI Agents",
-        "url": "https://www.producthunt.com/products/cometchat-skills",
+        "id": "ph-https://www.producthunt.com/products/firecoach",
+        "title": "Firecoach AI",
+        "url": "https://www.producthunt.com/products/firecoach",
         "description": "Discussion\n            |\n            Link",
-        "time": 1779789571000,
+        "time": 1779696793000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -227,15 +227,6 @@
         "url": "https://www.producthunt.com/products/coworker-ai",
         "description": "Discussion\n            |\n            Link",
         "time": 1778782600000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/pawse-ai",
-        "title": "Pawse.ai",
-        "url": "https://www.producthunt.com/products/pawse-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1779789777000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -260,6 +251,22 @@
         "category": "practice"
       },
       {
+        "id": "devto-3759724",
+        "title": "How Are Developers Actually Using AI At Work?",
+        "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+        "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+        "author": "Sylwia Laskowska",
+        "tags": [
+          "discuss",
+          "ai"
+        ],
+        "reactions": 102,
+        "comments": 137,
+        "time": 1779865878000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-3709803",
         "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
         "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
@@ -272,42 +279,8 @@
           "postgres"
         ],
         "reactions": 97,
-        "comments": 24,
+        "comments": 25,
         "time": 1779467239000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3759724",
-        "title": "How Are Developers Actually Using AI At Work?",
-        "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-        "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-        "author": "Sylwia Laskowska",
-        "tags": [
-          "discuss",
-          "ai"
-        ],
-        "reactions": 97,
-        "comments": 127,
-        "time": 1779865878000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3722325",
-        "title": "The Most Concerning AI Risk of 2026",
-        "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-        "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-        "author": "Sacha Greif",
-        "tags": [
-          "ai",
-          "javascript",
-          "news",
-          "webdev"
-        ],
-        "reactions": 76,
-        "comments": 39,
-        "time": 1779432584000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -324,7 +297,7 @@
           "tutorial"
         ],
         "reactions": 57,
-        "comments": 49,
+        "comments": 50,
         "time": 1779721713000,
         "source": "Dev.to",
         "category": "practice"
@@ -341,8 +314,8 @@
           "ai",
           "beginners"
         ],
-        "reactions": 40,
-        "comments": 21,
+        "reactions": 47,
+        "comments": 23,
         "time": 1779828742000,
         "source": "Dev.to",
         "category": "practice"
@@ -360,7 +333,7 @@
           "softwareengineering"
         ],
         "reactions": 38,
-        "comments": 16,
+        "comments": 18,
         "time": 1779712550000,
         "source": "Dev.to",
         "category": "practice"
@@ -377,14 +350,52 @@
           "beginners",
           "career"
         ],
-        "reactions": 35,
-        "comments": 35,
+        "reactions": 37,
+        "comments": 36,
         "time": 1779780600000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3726527",
+        "title": "AI Agent Failure Modes Beyond Hallucination",
+        "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
+        "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
+        "author": "Maxim Saplin",
+        "tags": [
+          "ai",
+          "agents",
+          "vibecoding",
+          "programming"
+        ],
+        "reactions": 32,
+        "comments": 22,
+        "time": 1779461949000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article",
+        "title": "OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？",
+        "url": "https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1780069258000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
+        "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
+        "url": "https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1780067402000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article",
         "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
@@ -443,26 +454,6 @@
         "time": 1780048800000,
         "source": "InfoQ",
         "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&utm_medium=article",
-        "title": "超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化",
-        "url": "https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1780045200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3829840530007941?f=rss",
-        "title": "OpenAI：正在调查影响用户登录和使用ChatGPT的故障",
-        "url": "https://36kr.com/newsflashes/3829840530007941?f=rss",
-        "description": "OpenAI在网站上表示，公司正在调查可能导致用户无法与ChatGPT对话、登录或创建帐户的问题。 根据网络状况监控网站Downdetector的数据，截至美东时间晚上11:04，已有约5000起相关故障的报告。（财联社）",
-        "time": 1780026915000,
-        "source": "36氪",
-        "category": "china-ai",
         "isChina": true
       }
     ],
@@ -585,34 +576,10 @@
         "id": "hn-48314136",
         "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
         "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-        "score": 709,
-        "comments": 375,
+        "score": 951,
+        "comments": 441,
         "author": "philips",
         "time": 1779996249000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48309302",
-        "title": "EU fines Temu €200M for allowing sale of illegal products",
-        "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-        "score": 314,
-        "comments": 235,
-        "author": "jjp",
-        "time": 1779977898000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48313530",
-        "title": "Building durable workflows on Postgres",
-        "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-        "score": 290,
-        "comments": 123,
-        "author": "KraftyOne",
-        "time": 1779993706000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -621,8 +588,8 @@
         "id": "hn-48314951",
         "title": "I made a million dollar product from my dorm room (2025)",
         "url": "https://nick.winans.io/blog/nice-nano/",
-        "score": 247,
-        "comments": 35,
+        "score": 404,
+        "comments": 62,
         "author": "mattrighetti",
         "time": 1779999921000,
         "source": "Hacker News",
@@ -633,8 +600,8 @@
         "id": "hn-48315968",
         "title": "GitHub bans security researcher who posted zero-day Windows exploits",
         "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-        "score": 235,
-        "comments": 119,
+        "score": 393,
+        "comments": 174,
         "author": "possibilistic",
         "time": 1780004754000,
         "source": "Hacker News",
@@ -642,13 +609,49 @@
         "isAI": false
       },
       {
-        "id": "hn-48282180",
-        "title": "Indoor Wi-Fi Roaming with OpenWRT",
-        "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-        "score": 219,
-        "comments": 111,
-        "author": "zdw",
-        "time": 1779813718000,
+        "id": "hn-48318481",
+        "title": "Cars collect a startling amount of data about you",
+        "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+        "score": 331,
+        "comments": 152,
+        "author": "1vuio0pswjnm7",
+        "time": 1780023660000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48309302",
+        "title": "EU fines Temu €200M for allowing sale of illegal products",
+        "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+        "score": 330,
+        "comments": 329,
+        "author": "jjp",
+        "time": 1779977898000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48313530",
+        "title": "Building durable workflows on Postgres",
+        "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+        "score": 314,
+        "comments": 133,
+        "author": "KraftyOne",
+        "time": 1779993706000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48317774",
+        "title": "Blue Origin's New Glenn blows up during static fire test",
+        "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+        "score": 289,
+        "comments": 287,
+        "author": "enraged_camel",
+        "time": 1780017398000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -657,10 +660,22 @@
         "id": "hn-48314002",
         "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
         "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-        "score": 187,
-        "comments": 67,
+        "score": 248,
+        "comments": 85,
         "author": "speckx",
         "time": 1779995754000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48282180",
+        "title": "Indoor Wi-Fi Roaming with OpenWRT",
+        "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+        "score": 243,
+        "comments": 120,
+        "author": "zdw",
+        "time": 1779813718000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -669,34 +684,10 @@
         "id": "hn-48312528",
         "title": "I hated writing until I learned there’s a science to it (2024)",
         "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-        "score": 172,
-        "comments": 72,
+        "score": 222,
+        "comments": 89,
         "author": "o4c",
         "time": 1779989807000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48276598",
-        "title": "News about Raspberry Pi 6 and Microcontroller Development",
-        "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-        "score": 169,
-        "comments": 131,
-        "author": "rbanffy",
-        "time": 1779782572000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48310280",
-        "title": "The Permanent Upper Crow",
-        "url": "https://permanent-upper-crow.jasonwu.ink/",
-        "score": 159,
-        "comments": 66,
-        "author": "whiteblossom",
-        "time": 1779981784000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
