@@ -1,17 +1,41 @@
 {
-  "updateTime": 1781239212332,
-  "updateTimeStr": "2026/6/12 12:40:12",
-  "totalCount": 191,
+  "updateTime": 1781259750889,
+  "updateTimeStr": "2026/6/12 18:22:30",
+  "totalCount": 193,
   "daily": {
     "mustRead": [
       {
         "id": "hn-48487029",
         "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
         "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-        "score": 686,
-        "comments": 307,
+        "score": 697,
+        "comments": 313,
         "author": "vrganj",
         "time": 1781160126000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-48500012",
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "score": 597,
+        "comments": 226,
+        "author": "xiaoyu2006",
+        "time": 1781239373000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-48498573",
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "score": 457,
+        "comments": 352,
+        "author": "lumpa",
+        "time": 1781226411000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -20,8 +44,8 @@
         "id": "hn-48489229",
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "score": 356,
-        "comments": 353,
+        "score": 426,
+        "comments": 385,
         "author": "rarisma",
         "time": 1781179502000,
         "source": "Hacker News",
@@ -32,34 +56,10 @@
         "id": "hn-48492210",
         "title": "Claude Fable 5: mid-tier results on coding tasks",
         "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-        "score": 263,
-        "comments": 120,
+        "score": 323,
+        "comments": 151,
         "author": "bugvader",
         "time": 1781193801000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-48498573",
-        "title": "Claude Fable is relentlessly proactive",
-        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "score": 230,
-        "comments": 185,
-        "author": "lumpa",
-        "time": 1781226411000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-48447598",
-        "title": "Ear Training Practice",
-        "url": "https://tonedear.com/",
-        "score": 187,
-        "comments": 92,
-        "author": "mattbit",
-        "time": 1780936687000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,8 +73,8 @@
         "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
         "language": "Go",
         "starsToday": "114 stars today",
-        "totalStars": "1,766",
-        "time": 1781239207718,
+        "totalStars": "1,922",
+        "time": 1781259747596,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,20 +85,8 @@
         "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
         "language": "Unknown",
         "starsToday": "89 stars today",
-        "totalStars": "8,026",
-        "time": 1781239207718,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-obra-superpowers",
-        "title": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "starsToday": "1,322 stars today",
-        "totalStars": "225,074",
-        "time": 1781239207717,
+        "totalStars": "8,152",
+        "time": 1781259747596,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +97,8 @@
         "description": "Fast, secure, efficient backup program",
         "language": "Go",
         "starsToday": "61 stars today",
-        "totalStars": "34,225",
-        "time": 1781239207717,
+        "totalStars": "34,292",
+        "time": 1781259747595,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +109,8 @@
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
         "language": "Shell",
         "starsToday": "1,599 stars today",
-        "totalStars": "111,754",
-        "time": 1781239207717,
+        "totalStars": "111,954",
+        "time": 1781259747595,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +121,8 @@
         "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
         "language": "Go",
         "starsToday": "507 stars today",
-        "totalStars": "5,754",
-        "time": 1781239207717,
+        "totalStars": "5,853",
+        "time": 1781259747595,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,20 +133,8 @@
         "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
         "language": "Ruby",
         "starsToday": "67 stars today",
-        "totalStars": "30,426",
-        "time": 1781239207717,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-NVIDIA-SkillSpector",
-        "title": "NVIDIA/SkillSpector",
-        "url": "https://github.com/NVIDIA/SkillSpector",
-        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-        "language": "Python",
-        "starsToday": "319 stars today",
-        "totalStars": "2,823",
-        "time": 1781239207716,
+        "totalStars": "30,531",
+        "time": 1781259747595,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +145,8 @@
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "language": "Python",
         "starsToday": "661 stars today",
-        "totalStars": "32,716",
-        "time": 1781239207716,
+        "totalStars": "32,870",
+        "time": 1781259747594,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +157,8 @@
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "language": "Unknown",
         "starsToday": "368 stars today",
-        "totalStars": "139,937",
-        "time": 1781239207716,
+        "totalStars": "140,052",
+        "time": 1781259747594,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +169,20 @@
         "description": "Desktop app to manage markdown knowledge bases",
         "language": "TypeScript",
         "starsToday": "604 stars today",
-        "totalStars": "15,470",
-        "time": 1781239207716,
+        "totalStars": "15,559",
+        "time": 1781259747594,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-obra-superpowers",
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "starsToday": "1,322 stars today",
+        "totalStars": "225,508",
+        "time": 1781259747594,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,13 +193,52 @@
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "Shell",
         "starsToday": "3,278 stars today",
-        "totalStars": "55,185",
-        "time": 1781239207715,
+        "totalStars": "55,956",
+        "time": 1781259747593,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-maziyarpanahi-openmed",
+        "title": "maziyarpanahi/openmed",
+        "url": "https://github.com/maziyarpanahi/openmed",
+        "description": "open-source healthcare ai",
+        "language": "Python",
+        "starsToday": "426 stars today",
+        "totalStars": "3,009",
+        "time": 1781259747593,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/locin-ai",
+        "title": "LocIn AI",
+        "url": "https://www.producthunt.com/products/locin-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1781208297000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/basedash",
+        "title": "Slack AI Data Analyst",
+        "url": "https://www.producthunt.com/products/basedash",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1781238906000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/shellmate-2",
+        "title": "ShellMate",
+        "url": "https://www.producthunt.com/products/shellmate-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1781203412000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/airbrush-studio",
         "title": "Airbrush Studio",
@@ -247,18 +274,26 @@
         "time": 1780281317000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/iart-ai",
-        "title": "iArt.ai",
-        "url": "https://www.producthunt.com/products/iart-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1780912597000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
+      {
+        "id": "devto-3861043",
+        "title": "The Code Works. What Could Possibly Go Wrong?",
+        "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm",
+        "description": "Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...",
+        "author": "Sylwia Laskowska",
+        "tags": [
+          "ai",
+          "webdev",
+          "discuss"
+        ],
+        "reactions": 98,
+        "comments": 79,
+        "time": 1781079995000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
       {
         "id": "devto-3834057",
         "title": "You’re a Real TypeScript Developer Only If...",
@@ -272,25 +307,8 @@
           "programming"
         ],
         "reactions": 87,
-        "comments": 38,
+        "comments": 39,
         "time": 1780909769000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3861043",
-        "title": "The Code Works. What Could Possibly Go Wrong?",
-        "url": "https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm",
-        "description": "Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...",
-        "author": "Sylwia Laskowska",
-        "tags": [
-          "ai",
-          "webdev",
-          "discuss"
-        ],
-        "reactions": 85,
-        "comments": 72,
-        "time": 1781079995000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -306,7 +324,7 @@
           "productivity",
           "discuss"
         ],
-        "reactions": 75,
+        "reactions": 78,
         "comments": 31,
         "time": 1780918809000,
         "source": "Dev.to",
@@ -324,27 +342,9 @@
           "discuss",
           "programming"
         ],
-        "reactions": 66,
-        "comments": 41,
+        "reactions": 69,
+        "comments": 48,
         "time": 1780927200000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3856153",
-        "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-        "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-        "description": "Writing a prompt isn't engineering. It's typing.  You type what you want. The AI figures out the rest...",
-        "author": "Harsh ",
-        "tags": [
-          "ai",
-          "career",
-          "programming",
-          "discuss"
-        ],
-        "reactions": 56,
-        "comments": 59,
-        "time": 1781002245000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -360,9 +360,27 @@
           "webdev",
           "a11y"
         ],
-        "reactions": 56,
+        "reactions": 64,
         "comments": 30,
         "time": 1780856298000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3856153",
+        "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
+        "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
+        "description": "Writing a prompt isn't engineering. It's typing.  You type what you want. The AI figures out the rest...",
+        "author": "Harsh ",
+        "tags": [
+          "ai",
+          "career",
+          "programming",
+          "discuss"
+        ],
+        "reactions": 62,
+        "comments": 62,
+        "time": 1781002245000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -378,8 +396,8 @@
           "discuss",
           "career"
         ],
-        "reactions": 41,
-        "comments": 4,
+        "reactions": 46,
+        "comments": 8,
         "time": 1781186783000,
         "source": "Dev.to",
         "category": "practice"
@@ -404,6 +422,46 @@
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
+        "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
+        "url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1781281821000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
+        "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
+        "url": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1781280180000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&utm_medium=article",
+        "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
+        "url": "https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1781276824000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&utm_medium=article",
+        "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
+        "url": "https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1781272800000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&utm_medium=article",
         "title": "人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇",
@@ -442,46 +500,6 @@
         "time": 1781259693000,
         "source": "InfoQ",
         "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
-        "title": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
-        "url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1781258400000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3846798967818752?f=rss",
-        "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
-        "url": "https://36kr.com/p/3846798967818752?f=rss",
-        "description": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础物料，",
-        "time": 1781236800000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3849659696337924?f=rss",
-        "title": "钉钉发布DingTalk A1豆蔻医生版",
-        "url": "https://36kr.com/newsflashes/3849659696337924?f=rss",
-        "description": "36氪获悉，钉钉正式发布DingTalk A1豆蔻医生版，售价999元。DingTalk A1豆蔻医生版深度融合豆蔻医疗大模型及豆蔻医生超级助理，为医生提供语音记录、临床决策辅助、医学文献检索等全流程AI辅助功能。",
-        "time": 1781236581000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3849648001012740?f=rss",
-        "title": "优必选携手沐曦股份共研具���智能端侧芯片",
-        "url": "https://36kr.com/newsflashes/3849648001012740?f=rss",
-        "description": "36氪获悉，据优必选消息，6月11日，沐曦股份与优必选在南京市正式签订战略合作协议，合资成立曦选创智科技（无锡）有限公司（下称“曦选创智”）布局具身智能芯片研发与量产。曦选创智注册资本1亿元，由沐曦股份、优必选、锋龙股份等上市企业联合成立，其中沐曦股份与优必选分别持股35.01%，并列第一大股东，锋龙股份持股4.7%。",
-        "time": 1781235867000,
-        "source": "36氪",
-        "category": "china-ai",
         "isChina": true
       }
     ],
@@ -604,10 +622,22 @@
         "id": "hn-48490024",
         "title": "Show HN: Homebrew 6.0.0",
         "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-        "score": 1068,
-        "comments": 248,
+        "score": 1237,
+        "comments": 290,
         "author": "mikemcquaid",
         "time": 1781184269000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48497609",
+        "title": "If you are asking for human attention, demonstrate human effort",
+        "url": "https://tombedor.dev/human-attention-and-human-effort/",
+        "score": 765,
+        "comments": 251,
+        "author": "jjfoooo4",
+        "time": 1781218915000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -616,10 +646,22 @@
         "id": "hn-48490826",
         "title": "MiMo Code is now released and open-source",
         "url": "https://mimo.xiaomi.com/mimocode",
-        "score": 446,
-        "comments": 253,
+        "score": 499,
+        "comments": 274,
         "author": "apeters",
         "time": 1781188039000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48498385",
+        "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+        "score": 473,
+        "comments": 158,
+        "author": "sam_bristow",
+        "time": 1781224691000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -628,8 +670,8 @@
         "id": "hn-48492306",
         "title": "Solar generates more energy in US than coal for first time",
         "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-        "score": 428,
-        "comments": 204,
+        "score": 463,
+        "comments": 213,
         "author": "neilfrndes",
         "time": 1781194205000,
         "source": "Hacker News",
@@ -640,46 +682,10 @@
         "id": "hn-48491830",
         "title": "Petition to Withdraw Canada's Bill C-22",
         "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-        "score": 395,
-        "comments": 135,
+        "score": 439,
+        "comments": 146,
         "author": "hmokiguess",
         "time": 1781192243000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48497609",
-        "title": "If you are asking for human attention, demonstrate human effort",
-        "url": "https://tombedor.dev/human-attention-and-human-effort/",
-        "score": 388,
-        "comments": 122,
-        "author": "jjfoooo4",
-        "time": 1781218915000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48489402",
-        "title": "Lines of code got a better publicist",
-        "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-        "score": 375,
-        "comments": 257,
-        "author": "RyeCombinator",
-        "time": 1781180802000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48442880",
-        "title": "Doing nothing at work",
-        "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-        "score": 366,
-        "comments": 130,
-        "author": "Sukram21",
-        "time": 1780909031000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -688,10 +694,34 @@
         "id": "hn-48496539",
         "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
         "url": "https://fablepool.com",
-        "score": 315,
-        "comments": 173,
+        "score": 405,
+        "comments": 217,
         "author": "matthewbarras",
         "time": 1781212650000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48442880",
+        "title": "Doing nothing at work",
+        "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+        "score": 395,
+        "comments": 135,
+        "author": "Sukram21",
+        "time": 1780909031000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48489402",
+        "title": "Lines of code got a better publicist",
+        "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+        "score": 393,
+        "comments": 276,
+        "author": "RyeCombinator",
+        "time": 1781180802000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -700,22 +730,10 @@
         "id": "hn-48474274",
         "title": "Emacs appearances in pop culture",
         "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-        "score": 285,
-        "comments": 81,
+        "score": 330,
+        "comments": 92,
         "author": "ggcr",
         "time": 1781087865000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48462070",
-        "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-        "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-        "score": 267,
-        "comments": 114,
-        "author": "josephcsible",
-        "time": 1781017303000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
