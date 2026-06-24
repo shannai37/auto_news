@@ -1,27 +1,15 @@
 {
-  "updateTime": 1782273866019,
-  "updateTimeStr": "2026/6/24 12:04:26",
-  "totalCount": 195,
+  "updateTime": 1782294009574,
+  "updateTimeStr": "2026/6/24 17:40:09",
+  "totalCount": 192,
   "daily": {
     "mustRead": [
-      {
-        "id": "hn-48645152",
-        "title": "Mistral OCR 4",
-        "url": "https://mistral.ai/news/ocr-4/",
-        "score": 439,
-        "comments": 113,
-        "author": "meetpateltech",
-        "time": 1782223399000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
       {
         "id": "hn-48646276",
         "title": "AI's Affordability Crisis",
         "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-        "score": 267,
-        "comments": 350,
+        "score": 287,
+        "comments": 379,
         "author": "ilreb",
         "time": 1782227477000,
         "source": "Hacker News",
@@ -32,22 +20,10 @@
         "id": "hn-48650837",
         "title": "Don't verify email addresses by sending spam to them",
         "url": "https://milek7.pl/mailverifyspam/",
-        "score": 155,
-        "comments": 49,
+        "score": 175,
+        "comments": 52,
         "author": "garaetjjte",
         "time": 1782246229000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-48651613",
-        "title": "Trains halted across Germany because of communication system problem",
-        "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
-        "score": 148,
-        "comments": 146,
-        "author": "sva_",
-        "time": 1782249584000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,10 +32,34 @@
         "id": "hn-48643489",
         "title": "The Low-Tech AI of Elden Ring",
         "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-        "score": 120,
-        "comments": 59,
+        "score": 148,
+        "comments": 85,
         "author": "g0xA52A2A",
         "time": 1782214850000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-48643079",
+        "title": "Apple is going to raise device prices, but when?",
+        "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+        "score": 105,
+        "comments": 82,
+        "author": "tosh",
+        "time": 1782212096000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-48654351",
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "score": 103,
+        "comments": 28,
+        "author": "ilreb",
+        "time": 1782267707000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,8 +73,8 @@
         "description": "Clone any website with one command using AI coding agents",
         "language": "TypeScript",
         "starsToday": "826 stars today",
-        "totalStars": "18,667",
-        "time": 1782273863294,
+        "totalStars": "18,851",
+        "time": 1782294005991,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +85,8 @@
         "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
         "language": "Unknown",
         "starsToday": "125 stars today",
-        "totalStars": "54,567",
-        "time": 1782273863294,
+        "totalStars": "54,656",
+        "time": 1782294005991,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +97,8 @@
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
         "language": "C",
         "starsToday": "1,300 stars today",
-        "totalStars": "13,217",
-        "time": 1782273863294,
+        "totalStars": "13,639",
+        "time": 1782294005991,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,20 +109,8 @@
         "description": "The agent that grows with you",
         "language": "Python",
         "starsToday": "936 stars today",
-        "totalStars": "201,121",
-        "time": 1782273863294,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-anthropics-claude-plugins-official",
-        "title": "anthropics/claude-plugins-official",
-        "url": "https://github.com/anthropics/claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "starsToday": "77 stars today",
-        "totalStars": "30,896",
-        "time": 1782273863293,
+        "totalStars": "201,447",
+        "time": 1782294005991,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +121,8 @@
         "description": "from vibe coding to agentic engineering - practice makes claude perfect",
         "language": "HTML",
         "starsToday": "344 stars today",
-        "totalStars": "59,606",
-        "time": 1782273863293,
+        "totalStars": "59,866",
+        "time": 1782294005990,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,8 +133,8 @@
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "language": "HTML",
         "starsToday": "128 stars today",
-        "totalStars": "7,476",
-        "time": 1782273863293,
+        "totalStars": "7,557",
+        "time": 1782294005990,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,8 +145,8 @@
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "language": "TypeScript",
         "starsToday": "1,045 stars today",
-        "totalStars": "33,302",
-        "time": 1782273863293,
+        "totalStars": "33,539",
+        "time": 1782294005990,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +157,8 @@
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
         "language": "Python",
         "starsToday": "739 stars today",
-        "totalStars": "74,033",
-        "time": 1782273863292,
+        "totalStars": "74,239",
+        "time": 1782294005989,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +169,8 @@
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "language": "TypeScript",
         "starsToday": "294 stars today",
-        "totalStars": "59,206",
-        "time": 1782273863292,
+        "totalStars": "59,392",
+        "time": 1782294005989,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,25 +181,46 @@
         "description": "macOS video editor built for AI",
         "language": "Swift",
         "starsToday": "1,630 stars today",
-        "totalStars": "8,526",
-        "time": 1782273863292,
+        "totalStars": "8,665",
+        "time": 1782294005989,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-ZhuLinsen-daily_stock_analysis",
-        "title": "ZhuLinsen/daily_stock_analysis",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "id": "gh-anthropics-claude-plugins-official",
+        "title": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "language": "Python",
-        "starsToday": "1,119 stars today",
-        "totalStars": "47,358",
-        "time": 1782273863291,
+        "starsToday": "77 stars today",
+        "totalStars": "31,000",
+        "time": 1782294005989,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-calesthio-OpenMontage",
+        "title": "calesthio/OpenMontage",
+        "url": "https://github.com/calesthio/OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "starsToday": "3,592 stars today",
+        "totalStars": "17,276",
+        "time": 1782294005988,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/crewdle",
+        "title": "Crewdle AI",
+        "url": "https://www.producthunt.com/products/crewdle",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1782143108000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/bluerails-discovery",
         "title": "Bluerails Discovery ",
@@ -222,20 +231,20 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/jotform",
-        "title": "Jotform AI App Builder",
-        "url": "https://www.producthunt.com/products/jotform",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1781616426000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/buddy-ai-note",
         "title": "Buddy AI Note",
         "url": "https://www.producthunt.com/products/buddy-ai-note",
         "description": "Discussion\n            |\n            Link",
         "time": 1781794970000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/jotform",
+        "title": "Jotform AI App Builder",
+        "url": "https://www.producthunt.com/products/jotform",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1781616426000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -274,15 +283,6 @@
         "time": 1781597103000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/plansera-ai",
-        "title": "Plansera AI",
-        "url": "https://www.producthunt.com/products/plansera-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1781847217000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
@@ -298,8 +298,8 @@
           "programming",
           "architecture"
         ],
-        "reactions": 134,
-        "comments": 67,
+        "reactions": 136,
+        "comments": 69,
         "time": 1781767504000,
         "source": "Dev.to",
         "category": "practice"
@@ -333,8 +333,8 @@
           "productivity",
           "watercooler"
         ],
-        "reactions": 47,
-        "comments": 15,
+        "reactions": 51,
+        "comments": 17,
         "time": 1782121635000,
         "source": "Dev.to",
         "category": "practice"
@@ -358,20 +358,38 @@
         "category": "practice"
       },
       {
-        "id": "devto-3896384",
-        "title": "I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why",
-        "url": "https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c",
-        "description": "A few days ago I published a post about the three-layer auth model and the invoice incident that made...",
-        "author": "Shubhra Pokhariya",
+        "id": "devto-3922930",
+        "title": "How I use premortems with Claude and Codex",
+        "url": "https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm",
+        "description": "I started using premortems for a boring reason: I did not trust the default review question.  When I...",
+        "author": "Pavel Kalo",
         "tags": [
-          "nextjs",
-          "javascript",
-          "webdev",
-          "security"
+          "ai",
+          "claude",
+          "llm",
+          "tooling"
         ],
-        "reactions": 44,
-        "comments": 17,
-        "time": 1781682966000,
+        "reactions": 43,
+        "comments": 4,
+        "time": 1781691570000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-3963551",
+        "title": "Do localhost para o mundo",
+        "url": "https://dev.to/he4rt/do-localhost-para-o-mundo-2o44",
+        "description": "Por muito tempo eu acreditei que programação e desenvolvimento de software como sinônimos. Na...",
+        "author": "Bruno Freschi",
+        "tags": [
+          "braziliandevs",
+          "career",
+          "programming",
+          "softwaredevelopment"
+        ],
+        "reactions": 43,
+        "comments": 6,
+        "time": 1782140839000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -388,49 +406,61 @@
           "career"
         ],
         "reactions": 42,
-        "comments": 9,
+        "comments": 10,
         "time": 1781902940000,
         "source": "Dev.to",
         "category": "practice"
       },
       {
-        "id": "devto-3963551",
-        "title": "Do localhost para o mundo",
-        "url": "https://dev.to/he4rt/do-localhost-para-o-mundo-2o44",
-        "description": "Por muito tempo eu acreditei que programação e desenvolvimento de software como sinônimos. Na...",
-        "author": "Bruno Freschi",
-        "tags": [
-          "braziliandevs",
-          "career",
-          "programming",
-          "softwaredevelopment"
-        ],
-        "reactions": 42,
-        "comments": 6,
-        "time": 1782140839000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-3922930",
-        "title": "How I use premortems with Claude and Codex",
-        "url": "https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm",
-        "description": "I started using premortems for a boring reason: I did not trust the default review question.  When I...",
-        "author": "Pavel Kalo",
+        "id": "devto-3964775",
+        "title": ". .. . ... . .... . .... . ... .",
+        "url": "https://dev.to/lovestaco/--2kb7",
+        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+        "author": "Athreya aka Maneshwar",
         "tags": [
           "ai",
-          "claude",
-          "llm",
-          "tooling"
+          "webdev",
+          "programming",
+          "beginners"
         ],
-        "reactions": 40,
-        "comments": 4,
-        "time": 1781691570000,
+        "reactions": 37,
+        "comments": 8,
+        "time": 1782159954000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
+        "title": "为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键",
+        "url": "https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1782321740000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article",
+        "title": "Anthropic 解释了 Claude 如何构建自己的执行框架",
+        "url": "https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1782317760000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&utm_medium=article",
+        "title": "ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架",
+        "url": "https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1782309600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&utm_medium=article",
         "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
@@ -479,36 +509,6 @@
         "time": 1782292827000,
         "source": "InfoQ",
         "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3866652371964930?f=rss",
-        "title": "恒指午间休盘涨0.04%，仙工智能涨超13%",
-        "url": "https://36kr.com/newsflashes/3866652371964930?f=rss",
-        "description": "36氪获悉，恒指午间休盘涨0.04%，恒生科技指数涨1.34%；半导体、医药生物、软件服务板块领涨，凯莱英涨超16%，华虹宏力涨16%，仙工智能涨超13%；机械、化工、有色金属板块跌幅居前，星源材质跌超12%，中国石墨跌超11%，重庆机电跌超6%；南向资金净买入33.07亿港元",
-        "time": 1782273731000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3866649515938825?f=rss",
-        "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
-        "url": "https://36kr.com/p/3866649515938825?f=rss",
-        "description": "2026年6月16日，36氪2026 WAVES 新浪潮大会在广州番禺良仓新造创意园开幕。以下这场圆桌论坛是大会首日下午的收官议题，探讨 AI 时代 OPC（One Person Company）的真实生态。\n八九十年代，一辆三轮车、一个摊位，就能撑起一门生意。今天的 OPC 看起来形似，但底层逻辑已经彻底不同。\n过去个体户的杠杆是体力、经验和地理位置，本质上是基于本地的 LBS 服务，脱不开那个",
-        "time": 1782273608000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3866622738060553?f=rss",
-        "title": "主题圆桌: 迎风而立的人，那些漂洋过海寻找的答案｜36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3866622738060553?f=rss",
-        "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆",
-        "time": 1782272288000,
-        "source": "36氪",
-        "category": "china-ai",
         "isChina": true
       }
     ],
@@ -631,46 +631,10 @@
         "id": "hn-48632884",
         "title": "Steam Machine launches today",
         "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-        "score": 1877,
-        "comments": 1646,
+        "score": 1888,
+        "comments": 1661,
         "author": "theschwa",
         "time": 1782148191000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48643426",
-        "title": "Unlimited OCR: One-shot long-horizon parsing",
-        "url": "https://github.com/baidu/Unlimited-OCR",
-        "score": 453,
-        "comments": 104,
-        "author": "ingve",
-        "time": 1782214505000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48623347",
-        "title": "The deadly rise of giant trucks and SUVs",
-        "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
-        "score": 402,
-        "comments": 670,
-        "author": "xnx",
-        "time": 1782081752000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48649435",
-        "title": "Jerry's Map",
-        "url": "http://www.jerrysmap.com/the-map",
-        "score": 364,
-        "comments": 49,
-        "author": "turtleyacht",
-        "time": 1782240022000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -679,34 +643,10 @@
         "id": "hn-48648619",
         "title": "FUTO Swipe – A new swipe typing model",
         "url": "https://swipe.futo.tech/",
-        "score": 350,
-        "comments": 101,
+        "score": 536,
+        "comments": 169,
         "author": "futohq",
         "time": 1782237022000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48643180",
-        "title": "The Coming Loop",
-        "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-        "score": 349,
-        "comments": 245,
-        "author": "ingve",
-        "time": 1782212801000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48645437",
-        "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-        "url": "https://tikz.dev/editor/",
-        "score": 348,
-        "comments": 66,
-        "author": "DominikPeters",
-        "time": 1782224661000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -715,10 +655,82 @@
         "id": "hn-48649011",
         "title": "Fired by Google for creating the Google workspace CLI",
         "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-        "score": 347,
-        "comments": 226,
+        "score": 530,
+        "comments": 306,
         "author": "justinwp",
         "time": 1782238420000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48649435",
+        "title": "Jerry's Map",
+        "url": "http://www.jerrysmap.com/the-map",
+        "score": 463,
+        "comments": 54,
+        "author": "turtleyacht",
+        "time": 1782240022000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48623347",
+        "title": "The deadly rise of giant trucks and SUVs",
+        "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
+        "score": 429,
+        "comments": 692,
+        "author": "xnx",
+        "time": 1782081752000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48645437",
+        "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+        "url": "https://tikz.dev/editor/",
+        "score": 390,
+        "comments": 71,
+        "author": "DominikPeters",
+        "time": 1782224661000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48643180",
+        "title": "The Coming Loop",
+        "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+        "score": 387,
+        "comments": 270,
+        "author": "ingve",
+        "time": 1782212801000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48648959",
+        "title": "In memory of the man who put red and green squiggles under words",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+        "score": 371,
+        "comments": 62,
+        "author": "saikatsg",
+        "time": 1782238247000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48618481",
+        "title": "Printing Gaussian Splats",
+        "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+        "score": 300,
+        "comments": 32,
+        "author": "ilnmtlbnm",
+        "time": 1782046142000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -727,22 +739,10 @@
         "id": "hn-48647486",
         "title": "The worthlessness of Vitamin D is mildly exaggerated",
         "url": "https://dynomight.net/vitamin-d/",
-        "score": 228,
-        "comments": 161,
+        "score": 294,
+        "comments": 207,
         "author": "surprisetalk",
         "time": 1782232218000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48653060",
-        "title": "Extreme Heat conference cancelled due to extreme heat warning",
-        "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
-        "score": 225,
-        "comments": 155,
-        "author": "rendx",
-        "time": 1782257203000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
