@@ -1,15 +1,27 @@
 {
-  "updateTime": 1784343222958,
-  "updateTimeStr": "2026/7/18 10:53:42",
-  "totalCount": 190,
+  "updateTime": 1784361623242,
+  "updateTimeStr": "2026/7/18 16:00:23",
+  "totalCount": 181,
   "daily": {
     "mustRead": [
+      {
+        "id": "hn-48952880",
+        "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "score": 489,
+        "comments": 309,
+        "author": "gnabgib",
+        "time": 1784327190000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
       {
         "id": "hn-48947825",
         "title": "The state of open source AI",
         "url": "https://stateofopensource.ai/",
-        "score": 380,
-        "comments": 278,
+        "score": 424,
+        "comments": 303,
         "author": "rellem",
         "time": 1784298670000,
         "source": "Hacker News",
@@ -20,22 +32,10 @@
         "id": "hn-48946303",
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "score": 378,
-        "comments": 324,
+        "score": 390,
+        "comments": 336,
         "author": "merksittich",
         "time": 1784289759000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-48952880",
-        "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-        "score": 319,
-        "comments": 205,
-        "author": "gnabgib",
-        "time": 1784327190000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +44,8 @@
         "id": "hn-48952939",
         "title": "Texas wins court order to suspend domain name for violating age-verification law",
         "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-        "score": 145,
-        "comments": 176,
+        "score": 172,
+        "comments": 200,
         "author": "letmevoteplease",
         "time": 1784327755000,
         "source": "Hacker News",
@@ -56,8 +56,8 @@
         "id": "hn-48952439",
         "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
         "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-        "score": 129,
-        "comments": 68,
+        "score": 171,
+        "comments": 98,
         "author": "hmm37",
         "time": 1784323373000,
         "source": "Hacker News",
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-openinterpreter-openinterpreter",
+        "title": "openinterpreter/openinterpreter",
+        "url": "https://github.com/openinterpreter/openinterpreter",
+        "description": "A coding agent for open models like Kimi K3",
+        "language": "Rust",
+        "starsToday": "431 stars today",
+        "totalStars": "66,523",
+        "time": 1784361618567,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-RyanCodrai-turbovec",
         "title": "RyanCodrai/turbovec",
         "url": "https://github.com/RyanCodrai/turbovec",
         "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
         "language": "Python",
         "starsToday": "280 stars today",
-        "totalStars": "13,344",
-        "time": 1784343218474,
+        "totalStars": "13,412",
+        "time": 1784361618567,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +97,8 @@
         "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
         "language": "Python",
         "starsToday": "531 stars today",
-        "totalStars": "27,398",
-        "time": 1784343218474,
+        "totalStars": "27,499",
+        "time": 1784361618567,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,80 +109,8 @@
         "description": "The open-source CapCut alternative",
         "language": "TypeScript",
         "starsToday": "1,074 stars today",
-        "totalStars": "74,929",
-        "time": 1784343218474,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-tirth8205-code-review-graph",
-        "title": "tirth8205/code-review-graph",
-        "url": "https://github.com/tirth8205/code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "starsToday": "74 stars today",
-        "totalStars": "19,780",
-        "time": 1784343218473,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-docusealco-docuseal",
-        "title": "docusealco/docuseal",
-        "url": "https://github.com/docusealco/docuseal",
-        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-        "language": "Ruby",
-        "starsToday": "91 stars today",
-        "totalStars": "17,867",
-        "time": 1784343218473,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-openinterpreter-openinterpreter",
-        "title": "openinterpreter/openinterpreter",
-        "url": "https://github.com/openinterpreter/openinterpreter",
-        "description": "A coding agent for open models like Kimi K3",
-        "language": "Rust",
-        "starsToday": "431 stars today",
-        "totalStars": "66,403",
-        "time": 1784343218473,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-github-copilot-sdk",
-        "title": "github/copilot-sdk",
-        "url": "https://github.com/github/copilot-sdk",
-        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-        "language": "Java",
-        "starsToday": "233 stars today",
-        "totalStars": "9,807",
-        "time": 1784343218472,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-anthropics-cwc-workshops",
-        "title": "anthropics/cwc-workshops",
-        "url": "https://github.com/anthropics/cwc-workshops",
-        "description": "",
-        "language": "TypeScript",
-        "starsToday": "45 stars today",
-        "totalStars": "1,602",
-        "time": 1784343218472,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-PrismML-Eng-Bonsai-demo",
-        "title": "PrismML-Eng/Bonsai-demo",
-        "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-        "description": "Bonsai Demo",
-        "language": "Shell",
-        "starsToday": "278 stars today",
-        "totalStars": "1,723",
-        "time": 1784343218472,
+        "totalStars": "75,103",
+        "time": 1784361618567,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +121,80 @@
         "description": "Protocol Buffers - Google's data interchange format",
         "language": "C++",
         "starsToday": "11 stars today",
-        "totalStars": "71,548",
-        "time": 1784343218472,
+        "totalStars": "71,564",
+        "time": 1784361618566,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-tirth8205-code-review-graph",
+        "title": "tirth8205/code-review-graph",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "starsToday": "74 stars today",
+        "totalStars": "19,883",
+        "time": 1784361618566,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-docusealco-docuseal",
+        "title": "docusealco/docuseal",
+        "url": "https://github.com/docusealco/docuseal",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+        "language": "Ruby",
+        "starsToday": "91 stars today",
+        "totalStars": "17,939",
+        "time": 1784361618566,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-github-copilot-sdk",
+        "title": "github/copilot-sdk",
+        "url": "https://github.com/github/copilot-sdk",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "starsToday": "233 stars today",
+        "totalStars": "9,837",
+        "time": 1784361618565,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-anthropics-cwc-workshops",
+        "title": "anthropics/cwc-workshops",
+        "url": "https://github.com/anthropics/cwc-workshops",
+        "description": "",
+        "language": "TypeScript",
+        "starsToday": "45 stars today",
+        "totalStars": "1,651",
+        "time": 1784361618565,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-PrismML-Eng-Bonsai-demo",
+        "title": "PrismML-Eng/Bonsai-demo",
+        "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+        "description": "Bonsai Demo",
+        "language": "Shell",
+        "starsToday": "278 stars today",
+        "totalStars": "1,761",
+        "time": 1784361618565,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-PostHog-posthog",
+        "title": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "starsToday": "438 stars today",
+        "totalStars": "36,295",
+        "time": 1784361618564,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,25 +205,31 @@
         "description": "Become a cracked AI/ML Research Engineer",
         "language": "TypeScript",
         "starsToday": "200 stars today",
-        "totalStars": "6,659",
-        "time": 1784343218471,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Nutlope-hallmark",
-        "title": "Nutlope/hallmark",
-        "url": "https://github.com/Nutlope/hallmark",
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "language": "CSS",
-        "starsToday": "1,485 stars today",
-        "totalStars": "12,114",
-        "time": 1784343218471,
+        "totalStars": "6,777",
+        "time": 1784361618564,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/docusmart-ai",
+        "title": "DocuSmart AI ",
+        "url": "https://www.producthunt.com/products/docusmart-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1773337032000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/mainichi-2",
+        "title": "Mainichi",
+        "url": "https://www.producthunt.com/products/mainichi-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1783970772000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/pebbles-ai",
         "title": "Pebbles Ai",
@@ -222,20 +240,20 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/manta-ai",
-        "title": "Manta AI",
-        "url": "https://www.producthunt.com/products/manta-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1783944036000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/chikitai",
         "title": "ChikitAI",
         "url": "https://www.producthunt.com/products/chikitai",
         "description": "Discussion\n            |\n            Link",
         "time": 1784062475000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/kit-for-ai",
+        "title": "Kit For AI",
+        "url": "https://www.producthunt.com/products/kit-for-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1784111944000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -258,20 +276,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/kit-for-ai",
-        "title": "Kit For AI",
-        "url": "https://www.producthunt.com/products/kit-for-ai",
+        "id": "ph-https://www.producthunt.com/products/manta-ai",
+        "title": "Manta AI",
+        "url": "https://www.producthunt.com/products/manta-ai",
         "description": "Discussion\n            |\n            Link",
-        "time": 1784111944000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/eddie-your-ai-video-editor",
-        "title": "Review by Eddie AI",
-        "url": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1783961101000,
+        "time": 1783944036000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -288,7 +297,7 @@
           "webdev",
           "ai"
         ],
-        "reactions": 125,
+        "reactions": 126,
         "comments": 74,
         "time": 1784051863000,
         "source": "Dev.to",
@@ -313,24 +322,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-4113945",
-        "title": "Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.",
-        "url": "https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59",
-        "description": "Better to sacrifice a part to preserve the whole. — The 36 Stratagems, Sacrifice the Plum Tree to...",
-        "author": "xulingfeng",
-        "tags": [
-          "discuss",
-          "ai",
-          "career",
-          "programming"
-        ],
-        "reactions": 56,
-        "comments": 17,
-        "time": 1783735447000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-4148515",
         "title": "Stratagems #15: Derek and Alex Shared One Server. ACL's AI Was Listening to Both.",
         "url": "https://dev.to/xulingfeng/stratagems-15-derek-and-alex-shared-one-server-acls-ai-was-listening-to-both-2j73",
@@ -342,9 +333,27 @@
           "career",
           "programming"
         ],
-        "reactions": 55,
+        "reactions": 56,
         "comments": 24,
         "time": 1784161354000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4158034",
+        "title": "Stratagems #16: Mark Left a Hole in His AI Audit. Lena Counted Every Layer.",
+        "url": "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
+        "description": "When the enemy occupies favorable terrain, don't attack head-on. Let them think they're safe, let...",
+        "author": "xulingfeng",
+        "tags": [
+          "ai",
+          "discuss",
+          "career",
+          "programming"
+        ],
+        "reactions": 45,
+        "comments": 25,
+        "time": 1784250592000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -397,7 +406,7 @@
           "tools"
         ],
         "reactions": 38,
-        "comments": 41,
+        "comments": 45,
         "time": 1783929132000,
         "source": "Dev.to",
         "category": "practice"
@@ -422,6 +431,16 @@
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article",
+        "title": "中国 AI 产业核心要素出海发展白皮书",
+        "url": "https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1784376132000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&utm_medium=article",
         "title": "为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳",
@@ -463,21 +482,21 @@
         "isChina": true
       },
       {
-        "id": "36kr-https://36kr.com/newsflashes/3900511572149890?f=rss",
-        "title": "苹果公司在日本提高iPhone售价，部分机型涨价超2万日元",
-        "url": "https://36kr.com/newsflashes/3900511572149890?f=rss",
-        "description": "苹果7月18日在日本市场上调iPhone、Apple Watch及AirPods系列产品售价，为近年来首次大范围价格调整。iPhone 17 Pro Max最高存储版本售价由32.98万日元升至35.48万日元，上涨2.5万日元；iPhone 17起售价由12.98万日元升至14.28万日元。Apple Watch Series 11、Ultra 3及AirPods系列产品也同步提价。苹果尚未公布",
-        "time": 1784342724000,
+        "id": "36kr-https://36kr.com/newsflashes/3900834871805827?f=rss",
+        "title": "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
+        "url": "https://36kr.com/newsflashes/3900834871805827?f=rss",
+        "description": "7月17日，在2026世界人工智能大会（WAIC）上，滴滴集团AI应用负责人刘佳奇发表演讲，介绍滴滴如何用AI重构出行新体验。她介绍，“AI小滴”能通过对自然语言理解，满足乘客个性化、多场景的打车需求，同时让车况佳、服务好的司机获得更多接单机会，促进供需的双向平衡。当更多个性化出行需求被AI释放，线下消费的效率与潜力也随之被激活。目前，小滴已拥有90多个标签，还陆续上线了“沿途搜”“多目的地规划”",
+        "time": 1784360065000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
       },
       {
-        "id": "36kr-https://36kr.com/newsflashes/3900510926276486?f=rss",
-        "title": "医疗AI独角兽OpenEvidence再传融资意向，潜在估值升至200亿美元",
-        "url": "https://36kr.com/newsflashes/3900510926276486?f=rss",
-        "description": "7月18日消息，据报道，有“医生版ChatGPT”之称的医疗人工智能初创公司OpenEvidence正在酝酿新一轮的融资计划。据悉，由于其在临床决策辅助和医学数据解析领域的强劲表现，外部风险投资机构正开出高达200亿美元的潜在估值，积极争取入股份额。",
-        "time": 1784341843000,
+        "id": "36kr-https://36kr.com/newsflashes/3900805390845571?f=rss",
+        "title": "B2B行业首份AI智能体全球支付白皮书发布",
+        "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+        "description": "36氪获悉，寻汇Sunrate与万事达卡在WAIC现场联合发布白皮书《超越自动化：定义智能体驱动的全球支付》。该报告系统阐述了“AI智能体”如何重塑B2B跨境支付全链路。传统模式下，企业财务需人工核验海外供应商账户、比对合同发票、择汇并承担T+2以上结算滞后期。该报告指出，AI智能体可自动提取多格式票据、匹配采购订单、基于企业需求推荐最优支付路由与换汇窗口、经合规预审后在授权额度触发支付，并自动完",
+        "time": 1784358918000,
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
@@ -491,16 +510,6 @@
         "source": "36氪",
         "category": "china-ai",
         "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3900439867147909?f=rss",
-        "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
-        "url": "https://36kr.com/p/3900439867147909?f=rss",
-        "description": "2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学家持续",
-        "time": 1784336015000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
       }
     ],
     "papers": [
@@ -510,7 +519,7 @@
         "url": "https://arxiv.org/abs/2607.14093",
         "description": "arXiv:2607.14093v1 Announce Type: new \nAbstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the propose",
         "author": "Oleksii Bychkov",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -521,7 +530,7 @@
         "url": "https://arxiv.org/abs/2607.14095",
         "description": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which",
         "author": "Pranav Yadav",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -532,7 +541,7 @@
         "url": "https://arxiv.org/abs/2607.14096",
         "description": "arXiv:2607.14096v1 Announce Type: new \nAbstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction,",
         "author": "Emiliano Massi",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -543,7 +552,7 @@
         "url": "https://arxiv.org/abs/2607.14097",
         "description": "arXiv:2607.14097v1 Announce Type: new \nAbstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived A",
         "author": "Jose A. Bird",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -554,7 +563,7 @@
         "url": "https://arxiv.org/abs/2607.14115",
         "description": "arXiv:2607.14115v1 Announce Type: new \nAbstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, wh",
         "author": "Yukun Song, Changwei Wang, Xingtian Pei, Shibiao Xu, Wenhao Xu, Shunpeng Chen, Yu Zhang, Ke Zhang, Rongtao Xu, Xuxiang Feng, Pengyang Wang",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -565,7 +574,7 @@
         "url": "https://arxiv.org/abs/2607.14126",
         "description": "arXiv:2607.14126v1 Announce Type: new \nAbstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown p",
         "author": "Maya Sarkar",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -576,7 +585,7 @@
         "url": "https://arxiv.org/abs/2607.14141",
         "description": "arXiv:2607.14141v1 Announce Type: new \nAbstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and estimating parameters are difficult. Currently, researchers must choose between relying on expert judgement or using large",
         "author": "Kumar Rahul (Indian Institute of Management Kozhikode, Kerala, India), Shovan Chowdhury (Indian Institute of Management Kozhikode, Kerala, India)",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -587,7 +596,7 @@
         "url": "https://arxiv.org/abs/2607.14144",
         "description": "arXiv:2607.14144v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge toward a shared model of reality. We propose its sequel and boundary, the Capability Convergence Hypothesis (CCH): under a fixe",
         "author": "Wenhui Chen, Jianlin Chen, Ziyao Lin, Chi Man Vong",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -598,7 +607,7 @@
         "url": "https://arxiv.org/abs/2607.14145",
         "description": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents struggle to incorporate them effectively, and retraining from scratch is often imp",
         "author": "Weiting Liu, Jieyi Bi, Wanqi Zhou, Jianfeng Feng, Yining Ma, Ai Han, Wenlian Lu",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -609,7 +618,7 @@
         "url": "https://arxiv.org/abs/2607.14149",
         "description": "arXiv:2607.14149v1 Announce Type: new \nAbstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing. Small Language Models (SLMs) offer a sustainable alternative, but prone to errors, on tasks requir",
         "author": "Dimitrios Kelesis, Konstantinos Bougiatiotis, Georgios Paliouras",
-        "time": 1784260800000,
+        "time": 1784347200000,
         "source": "arXiv",
         "category": "paper",
         "arxivCategory": "cs.AI"
@@ -622,8 +631,8 @@
         "id": "hn-48935342",
         "title": "Kimi K3: Open Frontier Intelligence",
         "url": "https://www.kimi.com/blog/kimi-k3",
-        "score": 2000,
-        "comments": 1165,
+        "score": 2022,
+        "comments": 1178,
         "author": "vincent_s",
         "time": 1784213165000,
         "source": "Hacker News",
@@ -634,10 +643,22 @@
         "id": "hn-48945241",
         "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
-        "score": 1064,
-        "comments": 646,
+        "score": 1152,
+        "comments": 689,
         "author": "nprateem",
         "time": 1784281325000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48949551",
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "url": "https://news.ycombinator.com/item?id=48949551",
+        "score": 539,
+        "comments": 53,
+        "author": "nicholasjbs",
+        "time": 1784307447000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -646,8 +667,8 @@
         "id": "hn-48946010",
         "title": "Evidence of inconsistencies in evaluation process and selection of winners",
         "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-        "score": 450,
-        "comments": 277,
+        "score": 455,
+        "comments": 282,
         "author": "twerkmeister",
         "time": 1784287800000,
         "source": "Hacker News",
@@ -658,22 +679,10 @@
         "id": "hn-48947560",
         "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
         "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-        "score": 382,
-        "comments": 237,
+        "score": 444,
+        "comments": 256,
         "author": "neversaydie",
         "time": 1784297173000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48949551",
-        "title": "Thanks HN for 15 years of support and helping me find my life's work",
-        "url": "https://news.ycombinator.com/item?id=48949551",
-        "score": 376,
-        "comments": 34,
-        "author": "nicholasjbs",
-        "time": 1784307447000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -682,34 +691,10 @@
         "id": "hn-48947717",
         "title": "Kimi K3, and what we can still learn from the pelican benchmark",
         "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-        "score": 280,
-        "comments": 149,
+        "score": 324,
+        "comments": 169,
         "author": "droidjj",
         "time": 1784298111000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48854988",
-        "title": "Camera Chase Vehicle",
-        "url": "https://transistor-man.com/gimbal_camera_rover.html",
-        "score": 211,
-        "comments": 22,
-        "author": "geerlingguy",
-        "time": 1783649875000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48947490",
-        "title": "Three ways people respond to a problem (other than solving it)",
-        "url": "https://improvesomething.today/responses-to-problems/",
-        "score": 204,
-        "comments": 115,
-        "author": "surprisetalk",
-        "time": 1784296804000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -718,8 +703,8 @@
         "id": "hn-48950122",
         "title": "Learning a few things about running SQLite",
         "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-        "score": 177,
-        "comments": 41,
+        "score": 235,
+        "comments": 60,
         "author": "surprisetalk",
         "time": 1784310341000,
         "source": "Hacker News",
@@ -727,13 +712,37 @@
         "isAI": false
       },
       {
-        "id": "hn-48947455",
-        "title": "A Road to Lisp: Which Lisp",
-        "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-        "score": 177,
-        "comments": 129,
-        "author": "silcoon",
-        "time": 1784296564000,
+        "id": "hn-48947490",
+        "title": "Three ways people respond to a problem (other than solving it)",
+        "url": "https://improvesomething.today/responses-to-problems/",
+        "score": 231,
+        "comments": 130,
+        "author": "surprisetalk",
+        "time": 1784296804000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48854988",
+        "title": "Camera Chase Vehicle",
+        "url": "https://transistor-man.com/gimbal_camera_rover.html",
+        "score": 224,
+        "comments": 22,
+        "author": "geerlingguy",
+        "time": 1783649875000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48951461",
+        "title": "The Zilog Z80 has turned 50",
+        "url": "https://goliath32.com/blog/z80.html",
+        "score": 210,
+        "comments": 70,
+        "author": "st_goliath",
+        "time": 1784317262000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
