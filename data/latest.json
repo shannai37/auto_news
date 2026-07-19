@@ -1,17 +1,29 @@
 {
-  "updateTime": 1784431504522,
-  "updateTimeStr": "2026/7/19 11:25:04",
-  "totalCount": 177,
+  "updateTime": 1784449569034,
+  "updateTimeStr": "2026/7/19 16:26:09",
+  "totalCount": 156,
   "daily": {
     "mustRead": [
       {
         "id": "hn-48957779",
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-        "score": 517,
-        "comments": 328,
+        "score": 554,
+        "comments": 355,
         "author": "mbustamanter",
         "time": 1784379652000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-48962983",
+        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+        "score": 450,
+        "comments": 203,
+        "author": "gnabgib",
+        "time": 1784412819000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -20,22 +32,10 @@
         "id": "hn-48956949",
         "title": "What AI did to stackoverflow in a graph",
         "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-        "score": 378,
-        "comments": 470,
+        "score": 403,
+        "comments": 493,
         "author": "secretslol",
         "time": 1784373166000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-48962983",
-        "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-        "score": 289,
-        "comments": 143,
-        "author": "gnabgib",
-        "time": 1784412819000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +44,8 @@
         "id": "hn-48956879",
         "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
         "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-        "score": 221,
-        "comments": 107,
+        "score": 236,
+        "comments": 115,
         "author": "couAUIA",
         "time": 1784372429000,
         "source": "Hacker News",
@@ -56,8 +56,8 @@
         "id": "hn-48959392",
         "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "url": "https://ykdojo.github.io/claude-controls-mac/",
-        "score": 190,
-        "comments": 135,
+        "score": 226,
+        "comments": 154,
         "author": "ykev",
         "time": 1784391128000,
         "source": "Hacker News",
@@ -67,110 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-HKUDS-DeepTutor",
-        "title": "HKUDS/DeepTutor",
-        "url": "https://github.com/HKUDS/DeepTutor",
-        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "language": "Python",
-        "starsToday": "370 stars today",
-        "totalStars": "27,677",
-        "time": 1784431500088,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-datawhalechina-hello-agents",
-        "title": "datawhalechina/hello-agents",
-        "url": "https://github.com/datawhalechina/hello-agents",
-        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-        "language": "Python",
-        "starsToday": "158 stars today",
-        "totalStars": "67,065",
-        "time": 1784431500088,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-anthropics-skills",
-        "title": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "starsToday": "291 stars today",
-        "totalStars": "162,461",
-        "time": 1784431500087,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-OpenSenseNova-SenseNova-U1",
-        "title": "OpenSenseNova/SenseNova-U1",
-        "url": "https://github.com/OpenSenseNova/SenseNova-U1",
-        "description": "SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles",
-        "language": "Python",
-        "starsToday": "97 stars today",
-        "totalStars": "3,998",
-        "time": 1784431500087,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-goldmansachs-gs-quant",
-        "title": "goldmansachs/gs-quant",
-        "url": "https://github.com/goldmansachs/gs-quant",
-        "description": "Python toolkit for quantitative finance",
-        "language": "Python",
-        "starsToday": "28 stars today",
-        "totalStars": "11,497",
-        "time": 1784431500087,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-agentscope-ai-agentscope",
-        "title": "agentscope-ai/agentscope",
-        "url": "https://github.com/agentscope-ai/agentscope",
-        "description": "Build and run agents you can see, understand and trust.",
-        "language": "Python",
-        "starsToday": "15 stars today",
-        "totalStars": "28,000",
-        "time": 1784431500087,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-aws-agent-toolkit-for-aws",
-        "title": "aws/agent-toolkit-for-aws",
-        "url": "https://github.com/aws/agent-toolkit-for-aws",
-        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-        "language": "Python",
-        "starsToday": "20 stars today",
-        "totalStars": "1,964",
-        "time": 1784431500086,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Mebus-cupp",
-        "title": "Mebus/cupp",
-        "url": "https://github.com/Mebus/cupp",
-        "description": "Common User Passwords Profiler (CUPP)",
-        "language": "Python",
-        "starsToday": "6 stars today",
-        "totalStars": "6,417",
-        "time": 1784431500086,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-fastapi-fastapi",
-        "title": "fastapi/fastapi",
-        "url": "https://github.com/fastapi/fastapi",
-        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-        "language": "Python",
-        "starsToday": "33 stars today",
-        "totalStars": "100,647",
-        "time": 1784431500086,
+        "id": "gh-lyogavin-airllm",
+        "title": "lyogavin/airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "starsToday": "161 stars today",
+        "totalStars": "23,450",
+        "time": 1784449565574,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +85,8 @@
         "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
         "language": "TypeScript",
         "starsToday": "203 stars today",
-        "totalStars": "1,294",
-        "time": 1784431500008,
+        "totalStars": "1,420",
+        "time": 1784449565574,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +97,8 @@
         "description": "Master programming by recreating your favorite technologies from scratch.",
         "language": "Markdown",
         "starsToday": "1,126 stars today",
-        "totalStars": "528,341",
-        "time": 1784431500008,
+        "totalStars": "528,500",
+        "time": 1784449565574,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,8 +109,104 @@
         "description": "Kimi Code CLI is your next CLI agent.",
         "language": "Python",
         "starsToday": "65 stars today",
-        "totalStars": "9,528",
-        "time": 1784431500008,
+        "totalStars": "9,617",
+        "time": 1784449565574,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-tirth8205-code-review-graph",
+        "title": "tirth8205/code-review-graph",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "starsToday": "355 stars today",
+        "totalStars": "20,360",
+        "time": 1784449565573,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-elder-plinius-G0DM0D3",
+        "title": "elder-plinius/G0DM0D3",
+        "url": "https://github.com/elder-plinius/G0DM0D3",
+        "description": "LIBERATED AI CHAT",
+        "language": "TypeScript",
+        "starsToday": "69 stars today",
+        "totalStars": "9,593",
+        "time": 1784449565573,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-ibelick-ui-skills",
+        "title": "ibelick/ui-skills",
+        "url": "https://github.com/ibelick/ui-skills",
+        "description": "Skills for Design Engineers",
+        "language": "TypeScript",
+        "starsToday": "123 stars today",
+        "totalStars": "5,226",
+        "time": 1784449565572,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-rohitg00-ai-engineering-from-scratch",
+        "title": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "starsToday": "191 stars today",
+        "totalStars": "39,268",
+        "time": 1784449565572,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Robbyant-lingbot-map",
+        "title": "Robbyant/lingbot-map",
+        "url": "https://github.com/Robbyant/lingbot-map",
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "language": "Python",
+        "starsToday": "831 stars today",
+        "totalStars": "13,216",
+        "time": 1784449565571,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-apache-ossie",
+        "title": "apache/ossie",
+        "url": "https://github.com/apache/ossie",
+        "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+        "language": "Python",
+        "starsToday": "47 stars today",
+        "totalStars": "1,340",
+        "time": 1784449565571,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-PostHog-posthog",
+        "title": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "starsToday": "338 stars today",
+        "totalStars": "36,714",
+        "time": 1784449565571,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-HKUDS-DeepTutor",
+        "title": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "starsToday": "370 stars today",
+        "totalStars": "27,745",
+        "time": 1784449565447,
         "source": "GitHub",
         "category": "github"
       }
@@ -236,6 +236,15 @@
         "url": "https://www.producthunt.com/products/pebbles-ai",
         "description": "Discussion\n            |\n            Link",
         "time": 1784001822000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/manta-ai",
+        "title": "Manta AI",
+        "url": "https://www.producthunt.com/products/manta-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1783944036000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -274,15 +283,6 @@
         "time": 1784136263000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/manta-ai",
-        "title": "Manta AI",
-        "url": "https://www.producthunt.com/products/manta-ai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1783944036000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
@@ -297,8 +297,8 @@
           "webdev",
           "ai"
         ],
-        "reactions": 136,
-        "comments": 84,
+        "reactions": 140,
+        "comments": 85,
         "time": 1784051863000,
         "source": "Dev.to",
         "category": "practice"
@@ -333,7 +333,7 @@
           "career",
           "programming"
         ],
-        "reactions": 56,
+        "reactions": 57,
         "comments": 26,
         "time": 1784161354000,
         "source": "Dev.to",
@@ -358,24 +358,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-4123578",
-        "title": "Simple Benchmark Review: Ollama on Jetson Nano",
-        "url": "https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee",
-        "description": "Previous Related Post: Part 1      This particular rabbit hole was created due to a previous...",
-        "author": "Anna Villarreal",
-        "tags": [
-          "ai",
-          "webdev",
-          "nvidia",
-          "productivity"
-        ],
-        "reactions": 41,
-        "comments": 38,
-        "time": 1783834981000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-4140016",
         "title": "I Stopped Debugging at My Desk. Here's What Changed",
         "url": "https://dev.to/shubhradev/i-stopped-debugging-at-my-desk-heres-what-changed-43n3",
@@ -387,9 +369,45 @@
           "productivity",
           "webdev"
         ],
-        "reactions": 39,
-        "comments": 34,
+        "reactions": 41,
+        "comments": 36,
         "time": 1784029392000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4130904",
+        "title": "I Could Review It. I Couldn’t Write It.",
+        "url": "https://dev.to/adamthedeveloper/i-could-review-it-i-couldnt-write-it-3gfj",
+        "description": "...now, I pride myself on being good at my job, I'm fast at catching mistakes, I'm efficient at...",
+        "author": "Adam - The Developer ✨",
+        "tags": [
+          "ai",
+          "programming",
+          "productivity",
+          "tools"
+        ],
+        "reactions": 39,
+        "comments": 46,
+        "time": 1783929132000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4138281",
+        "title": "Stop Saying You Want Ownership Mindset",
+        "url": "https://dev.to/adamthedeveloper/stop-saying-you-want-ownership-mindset-34nf",
+        "description": "My 2nd article this week, I'm supposed to keep it to just once per week but whateverrr, I've had this...",
+        "author": "Adam - The Developer ✨",
+        "tags": [
+          "productivity",
+          "programming",
+          "architecture",
+          "software"
+        ],
+        "reactions": 39,
+        "comments": 25,
+        "time": 1784008792000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -410,27 +428,19 @@
         "time": 1783997689000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-4130904",
-        "title": "I Could Review It. I Couldn’t Write It.",
-        "url": "https://dev.to/adamthedeveloper/i-could-review-it-i-couldnt-write-it-3gfj",
-        "description": "...now, I pride myself on being good at my job, I'm fast at catching mistakes, I'm efficient at...",
-        "author": "Adam - The Developer ✨",
-        "tags": [
-          "ai",
-          "programming",
-          "productivity",
-          "tools"
-        ],
-        "reactions": 38,
-        "comments": 45,
-        "time": 1783929132000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/yFAybPctMgHsNJUYMEtw?utm_source=rss&utm_medium=article",
+        "title": "寻找 AI 原生时代创业者：极客部落 OPC 入驻招募启动！",
+        "url": "https://www.infoq.cn/article/yFAybPctMgHsNJUYMEtw?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1784464459000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&utm_medium=article",
         "title": "边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统",
@@ -472,6 +482,26 @@
         "isChina": true
       },
       {
+        "id": "36kr-https://36kr.com/newsflashes/3902288636282757?f=rss",
+        "title": "中科闻歌WAIC2026发布业界首个全系决策智能产品",
+        "url": "https://36kr.com/newsflashes/3902288636282757?f=rss",
+        "description": "36氪获悉，近日，2026世界人工智能大会（WAIC2026）期间，中科闻歌发布“基、枢、核、脑、端”完整AI决策产品体系。该体系以DOMA架构为技术底座，覆盖数据治理、业务建模、模型推理与智能体执行全链路，打通从企业生产经营决策到科学发现的AI决策闭环。",
+        "time": 1784449448000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "36kr-https://36kr.com/newsflashes/3902223814150020?f=rss",
+        "title": "长三角人工智能协同投资平台共建签约",
+        "url": "https://36kr.com/newsflashes/3902223814150020?f=rss",
+        "description": "在2026世界人工智能大会分论坛“长三角人工智能产业集群发展论坛”上，长三角人工智能协同投资平台共建签约，签约方包括长三角投资公司、国家开发投资集团、上海国投公司、江苏省高投集团、浙江省国有资本公司、安徽省投资集团、浦发银行。（财联社）",
+        "time": 1784448973000,
+        "source": "36氪",
+        "category": "china-ai",
+        "isChina": true
+      },
+      {
         "id": "infoq-https://www.infoq.cn/article/r6m3xASYYfM81h9dNBRE?utm_source=rss&utm_medium=article",
         "title": "腾讯云发布ADP 4.0海外版：集成Google Workspace、Jira，定位AgentOps全生命周期管理",
         "url": "https://www.infoq.cn/article/r6m3xASYYfM81h9dNBRE?utm_source=rss&utm_medium=article",
@@ -480,171 +510,18 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&utm_medium=article",
-        "title": "腾讯发布三大具身基座模型，打通“感知—行动”闭环，工业实测成功率超95%",
-        "url": "https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1784447701000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3901996167513985?f=rss",
-        "title": "蚂蚁数科WAIC发布“智能体超级工厂”，首批预置近200个岗位级数字专家",
-        "url": "https://36kr.com/newsflashes/3901996167513985?f=rss",
-        "description": "7月19日，在2026世界人工智能大会上，蚂蚁数科发布新一代企业 AI 解决方案——智能体超级工厂核心平台 Agentar 2.0。据悉，Agentar2.0首批预置近200个岗位级数字专家模板，并提供数百个可订阅的Skills级开箱可用的智能体工具。企业可以根据具体岗位和经营需求，快速启用具备专业知识、业务流程及工具调用能力的数字专家，无需从零起步。据IDC报告最新披露，在中国智能体开发平台私有",
-        "time": 1784430945000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/newsflashes/3901850165151624?f=rss",
-        "title": "千分一创业板IPO终止审核",
-        "url": "https://36kr.com/newsflashes/3901850165151624?f=rss",
-        "description": "7月18日，据深交所网站披露，因深圳市千分一智能技术股份有限公司、保荐人撤回发行上市申请，深交所决定终止其首次公开发行股票并在创业板上市的审核。（界面）",
-        "time": 1784427310000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2607.14093",
-        "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-        "url": "https://arxiv.org/abs/2607.14093",
-        "description": "arXiv:2607.14093v1 Announce Type: new \nAbstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the propose",
-        "author": "Oleksii Bychkov",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14095",
-        "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-        "url": "https://arxiv.org/abs/2607.14095",
-        "description": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which",
-        "author": "Pranav Yadav",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14096",
-        "title": "IMEX Interaction-Based Model Explanation",
-        "url": "https://arxiv.org/abs/2607.14096",
-        "description": "arXiv:2607.14096v1 Announce Type: new \nAbstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction,",
-        "author": "Emiliano Massi",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14097",
-        "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-        "url": "https://arxiv.org/abs/2607.14097",
-        "description": "arXiv:2607.14097v1 Announce Type: new \nAbstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived A",
-        "author": "Jose A. Bird",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14115",
-        "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-        "url": "https://arxiv.org/abs/2607.14115",
-        "description": "arXiv:2607.14115v1 Announce Type: new \nAbstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, wh",
-        "author": "Yukun Song, Changwei Wang, Xingtian Pei, Shibiao Xu, Wenhao Xu, Shunpeng Chen, Yu Zhang, Ke Zhang, Rongtao Xu, Xuxiang Feng, Pengyang Wang",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14126",
-        "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-        "url": "https://arxiv.org/abs/2607.14126",
-        "description": "arXiv:2607.14126v1 Announce Type: new \nAbstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown p",
-        "author": "Maya Sarkar",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14141",
-        "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
-        "url": "https://arxiv.org/abs/2607.14141",
-        "description": "arXiv:2607.14141v1 Announce Type: new \nAbstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and estimating parameters are difficult. Currently, researchers must choose between relying on expert judgement or using large",
-        "author": "Kumar Rahul (Indian Institute of Management Kozhikode, Kerala, India), Shovan Chowdhury (Indian Institute of Management Kozhikode, Kerala, India)",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14144",
-        "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
-        "url": "https://arxiv.org/abs/2607.14144",
-        "description": "arXiv:2607.14144v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge toward a shared model of reality. We propose its sequel and boundary, the Capability Convergence Hypothesis (CCH): under a fixe",
-        "author": "Wenhui Chen, Jianlin Chen, Ziyao Lin, Chi Man Vong",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14145",
-        "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
-        "url": "https://arxiv.org/abs/2607.14145",
-        "description": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents struggle to incorporate them effectively, and retraining from scratch is often imp",
-        "author": "Weiting Liu, Jieyi Bi, Wanqi Zhou, Jianfeng Feng, Yining Ma, Ai Han, Wenlian Lu",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2607.14149",
-        "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
-        "url": "https://arxiv.org/abs/2607.14149",
-        "description": "arXiv:2607.14149v1 Announce Type: new \nAbstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing. Small Language Models (SLMs) offer a sustainable alternative, but prone to errors, on tasks requir",
-        "author": "Dimitrios Kelesis, Konstantinos Bougiatiotis, Georgios Paliouras",
-        "time": 1784347200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
       {
-        "id": "hn-48945241",
-        "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-        "url": "https://news.ycombinator.com/item?id=48945241",
-        "score": 1274,
-        "comments": 738,
-        "author": "nprateem",
-        "time": 1784281325000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-48956688",
         "title": "LG monitors silently install software through Windows Update without consent",
         "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-        "score": 1036,
-        "comments": 520,
+        "score": 1114,
+        "comments": 572,
         "author": "baranul",
         "time": 1784370079000,
         "source": "Hacker News",
@@ -655,10 +532,22 @@
         "id": "hn-48954851",
         "title": "Regressive JPEGs",
         "url": "https://maurycyz.com/projects/bad_jpeg/",
-        "score": 660,
-        "comments": 65,
+        "score": 676,
+        "comments": 68,
         "author": "vitaut",
         "time": 1784344460000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48963879",
+        "title": "Transcribe.cpp",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "score": 456,
+        "comments": 84,
+        "author": "sebjones",
+        "time": 1784421506000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -667,22 +556,10 @@
         "id": "hn-48911793",
         "title": "Speech Recognition and TTS in less than 500kb",
         "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-        "score": 312,
-        "comments": 33,
+        "score": 429,
+        "comments": 55,
         "author": "petewarden",
         "time": 1784057110000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48960218",
-        "title": "The Kimi K3 Moment",
-        "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-        "score": 307,
-        "comments": 331,
-        "author": "sbochins",
-        "time": 1784395960000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -691,10 +568,22 @@
         "id": "hn-48959090",
         "title": "If You Build It, They Will Come",
         "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-        "score": 301,
-        "comments": 113,
+        "score": 388,
+        "comments": 134,
         "author": "barry-cotter",
         "time": 1784389021000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48960218",
+        "title": "The Kimi K3 Moment",
+        "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+        "score": 360,
+        "comments": 397,
+        "author": "sbochins",
+        "time": 1784395960000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -703,22 +592,10 @@
         "id": "hn-48951461",
         "title": "The Zilog Z80 has turned 50",
         "url": "https://goliath32.com/blog/z80.html",
-        "score": 274,
-        "comments": 109,
+        "score": 279,
+        "comments": 113,
         "author": "st_goliath",
         "time": 1784317262000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48952565",
-        "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-        "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-        "score": 221,
-        "comments": 88,
-        "author": "BadChemical",
-        "time": 1784324563000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -727,8 +604,8 @@
         "id": "hn-48959143",
         "title": "Gleam Is Now on Tangled",
         "url": "https://tangled.org/gleam.run/gleam",
-        "score": 217,
-        "comments": 139,
+        "score": 231,
+        "comments": 144,
         "author": "nerdypepper",
         "time": 1784389444000,
         "source": "Hacker News",
@@ -736,13 +613,25 @@
         "isAI": false
       },
       {
-        "id": "hn-48907063",
-        "title": "Reviving a 15-year-old netbook with Arch Linux",
-        "url": "https://parksb.github.io/en/article/41.html",
-        "score": 211,
-        "comments": 154,
-        "author": "parksb",
-        "time": 1784037756000,
+        "id": "hn-48959042",
+        "title": "Elixir-lang.org has a new design",
+        "url": "https://elixir-lang.org/",
+        "score": 224,
+        "comments": 126,
+        "author": "bbg2401",
+        "time": 1784388724000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-48952565",
+        "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+        "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+        "score": 224,
+        "comments": 87,
+        "author": "BadChemical",
+        "time": 1784324563000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -754,7 +643,6 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
       "36氪",
       "InfoQ",
