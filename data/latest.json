@@ -1,6 +1,6 @@
 {
-  "updateTime": 1785036636981,
-  "updateTimeStr": "2026/7/26 11:30:36",
+  "updateTime": 1785054784325,
+  "updateTimeStr": "2026/7/26 16:33:04",
   "totalCount": 159,
   "daily": {
     "mustRead": [
@@ -8,8 +8,8 @@
         "id": "hn-49048034",
         "title": "Open-weight AI is having its Kubernetes moment",
         "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "score": 328,
-        "comments": 264,
+        "score": 373,
+        "comments": 287,
         "author": "tknaup",
         "time": 1784990989000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-49051361",
         "title": "The new rules of context engineering for Claude 5 generation models",
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "score": 192,
-        "comments": 131,
+        "score": 308,
+        "comments": 189,
         "author": "mellosouls",
         "time": 1785012155000,
         "source": "Hacker News",
@@ -32,10 +32,22 @@
         "id": "hn-49049693",
         "title": "Show HN: Brolly, a plain-text weather forecast site",
         "url": "https://brolly.sh/forecast/RWFP2qW8",
-        "score": 140,
-        "comments": 45,
+        "score": 182,
+        "comments": 56,
         "author": "jsax",
         "time": 1785000874000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49050512",
+        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "score": 172,
+        "comments": 37,
+        "author": "boveyking",
+        "time": 1785005990000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,22 +56,10 @@
         "id": "hn-49050859",
         "title": "LLM Usage in Debian: Three Proposals",
         "url": "https://www.debian.org/vote/2026/vote_002",
-        "score": 98,
-        "comments": 90,
+        "score": 143,
+        "comments": 121,
         "author": "zdw",
         "time": 1785008679000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-49052912",
-        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "score": 98,
-        "comments": 63,
-        "author": "oliculipolicula",
-        "time": 1785022370000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,26 +67,122 @@
     ],
     "tools": [
       {
+        "id": "gh-NVlabs-Sana",
+        "title": "NVlabs/Sana",
+        "url": "https://github.com/NVlabs/Sana",
+        "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+        "language": "Python",
+        "starsToday": "12 stars today",
+        "totalStars": "8,551",
+        "time": 1785054780508,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-usestrix-strix",
+        "title": "usestrix/strix",
+        "url": "https://github.com/usestrix/strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "starsToday": "210 stars today",
+        "totalStars": "44,270",
+        "time": 1785054780508,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-OpenDCAI-DataFlow",
+        "title": "OpenDCAI/DataFlow",
+        "url": "https://github.com/OpenDCAI/DataFlow",
+        "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
+        "language": "Python",
+        "starsToday": "118 stars today",
+        "totalStars": "6,995",
+        "time": 1785054780507,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-apache-superset",
+        "title": "apache/superset",
+        "url": "https://github.com/apache/superset",
+        "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+        "language": "Python",
+        "starsToday": "16 stars today",
+        "totalStars": "73,994",
+        "time": 1785054780507,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-DedSecInside-TorBot",
+        "title": "DedSecInside/TorBot",
+        "url": "https://github.com/DedSecInside/TorBot",
+        "description": "Dark Web OSINT Tool",
+        "language": "Python",
+        "starsToday": "30 stars today",
+        "totalStars": "4,444",
+        "time": 1785054780507,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-VectifyAI-PageIndex",
+        "title": "VectifyAI/PageIndex",
+        "url": "https://github.com/VectifyAI/PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "starsToday": "180 stars today",
+        "totalStars": "34,599",
+        "time": 1785054780507,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Alishahryar1-free-claude-code",
+        "title": "Alishahryar1/free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "description": "Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)",
+        "language": "Python",
+        "starsToday": "213 stars today",
+        "totalStars": "42,331",
+        "time": 1785054780507,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-andrewyng-aisuite",
+        "title": "andrewyng/aisuite",
+        "url": "https://github.com/andrewyng/aisuite",
+        "description": "Simple, unified interface to multiple Generative AI providers",
+        "language": "Python",
+        "starsToday": "77 stars today",
+        "totalStars": "15,288",
+        "time": 1785054780506,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-MODSetter-SurfSense",
+        "title": "MODSetter/SurfSense",
+        "url": "https://github.com/MODSetter/SurfSense",
+        "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "starsToday": "29 stars today",
+        "totalStars": "15,471",
+        "time": 1785054780506,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-RyanCodrai-turbovec",
         "title": "RyanCodrai/turbovec",
         "url": "https://github.com/RyanCodrai/turbovec",
         "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
         "language": "Python",
         "starsToday": "86 stars today",
-        "totalStars": "14,311",
-        "time": 1785036634441,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-palmier-io-palmier-pro",
-        "title": "palmier-io/palmier-pro",
-        "url": "https://github.com/palmier-io/palmier-pro",
-        "description": "macOS video editor built for AI",
-        "language": "Swift",
-        "starsToday": "412 stars today",
-        "totalStars": "12,257",
-        "time": 1785036634440,
+        "totalStars": "14,352",
+        "time": 1785054779552,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +193,8 @@
         "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
         "language": "TypeScript",
         "starsToday": "426 stars today",
-        "totalStars": "5,138",
-        "time": 1785036634440,
+        "totalStars": "5,251",
+        "time": 1785054779551,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,109 +205,31 @@
         "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
         "language": "Jupyter Notebook",
         "starsToday": "408 stars today",
-        "totalStars": "45,397",
-        "time": 1785036634440,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-permissionlesstech-bitchat",
-        "title": "permissionlesstech/bitchat",
-        "url": "https://github.com/permissionlesstech/bitchat",
-        "description": "bluetooth mesh chat, IRC vibes",
-        "language": "Swift",
-        "starsToday": "1,720 stars today",
-        "totalStars": "28,789",
-        "time": 1785036634439,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-mattpocock-skills",
-        "title": "mattpocock/skills",
-        "url": "https://github.com/mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "starsToday": "1,740 stars today",
-        "totalStars": "188,415",
-        "time": 1785036634439,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Automattic-harper",
-        "title": "Automattic/harper",
-        "url": "https://github.com/Automattic/harper",
-        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-        "language": "Rust",
-        "starsToday": "503 stars today",
-        "totalStars": "13,451",
-        "time": 1785036634438,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-shiyu-coder-Kronos",
-        "title": "shiyu-coder/Kronos",
-        "url": "https://github.com/shiyu-coder/Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "starsToday": "319 stars today",
-        "totalStars": "33,831",
-        "time": 1785036634438,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-obra-superpowers",
-        "title": "obra/superpowers",
-        "url": "https://github.com/obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "starsToday": "479 stars today",
-        "totalStars": "261,146",
-        "time": 1785036634438,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Pumpkin-MC-Pumpkin",
-        "title": "Pumpkin-MC/Pumpkin",
-        "url": "https://github.com/Pumpkin-MC/Pumpkin",
-        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-        "language": "Rust",
-        "starsToday": "358 stars today",
-        "totalStars": "9,739",
-        "time": 1785036634438,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-alibaba-open-code-review",
-        "title": "alibaba/open-code-review",
-        "url": "https://github.com/alibaba/open-code-review",
-        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "language": "Go",
-        "starsToday": "431 stars today",
-        "totalStars": "13,055",
-        "time": 1785036634437,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-citrolabs-ego-lite",
-        "title": "citrolabs/ego-lite",
-        "url": "https://github.com/citrolabs/ego-lite",
-        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-        "language": "JavaScript",
-        "starsToday": "986 stars today",
-        "totalStars": "3,671",
-        "time": 1785036634437,
+        "totalStars": "45,477",
+        "time": 1785054779551,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/brainfeed-scroll-better",
+        "title": "BrainFeed",
+        "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1784937665000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/purebox-ai",
+        "title": "PureBox.ai",
+        "url": "https://www.producthunt.com/products/purebox-ai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1785007384000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/second-brain-cloudflare",
         "title": "Second Brain for Mac and Windows",
@@ -222,20 +240,20 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/shellmate-2",
-        "title": "ShellMate",
-        "url": "https://www.producthunt.com/products/shellmate-2",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1784531754000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/openai",
         "title": "Health in ChatGPT",
         "url": "https://www.producthunt.com/products/openai",
         "description": "Discussion\n            |\n            Link",
         "time": 1784939916000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/shellmate-2",
+        "title": "ShellMate",
+        "url": "https://www.producthunt.com/products/shellmate-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1784531754000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -256,24 +274,6 @@
         "time": 1784776583000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/podcastorai",
-        "title": "PodcastorAI",
-        "url": "https://www.producthunt.com/products/podcastorai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1782963910000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/lapuai",
-        "title": "LapuAi",
-        "url": "https://www.producthunt.com/products/lapuai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1784670412000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
@@ -289,8 +289,8 @@
           "career",
           "programming"
         ],
-        "reactions": 108,
-        "comments": 89,
+        "reactions": 110,
+        "comments": 91,
         "time": 1784553624000,
         "source": "Dev.to",
         "category": "practice"
@@ -307,7 +307,7 @@
           "agents",
           "javascript"
         ],
-        "reactions": 103,
+        "reactions": 104,
         "comments": 98,
         "time": 1784790231000,
         "source": "Dev.to",
@@ -346,6 +346,24 @@
         "reactions": 51,
         "comments": 1,
         "time": 1784896664000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4218511",
+        "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+        "url": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
+        "description": "I have been quiet lately I know - but don't worry I haven't forgotten you all and how much you like...",
+        "author": "GrahamTheDev",
+        "tags": [
+          "javascript",
+          "webdev",
+          "programming",
+          "css"
+        ],
+        "reactions": 48,
+        "comments": 22,
+        "time": 1784846698000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -402,27 +420,39 @@
         "time": 1784571615000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-4218511",
-        "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
-        "url": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
-        "description": "I have been quiet lately I know - but don't worry I haven't forgotten you all and how much you like...",
-        "author": "GrahamTheDev",
-        "tags": [
-          "javascript",
-          "webdev",
-          "programming",
-          "css"
-        ],
-        "reactions": 42,
-        "comments": 22,
-        "time": 1784846698000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh?utm_source=rss&utm_medium=article",
+        "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
+        "url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1785078200000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd?utm_source=rss&utm_medium=article",
+        "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
+        "url": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1785074400000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA?utm_source=rss&utm_medium=article",
+        "title": "从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026",
+        "url": "https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1785060000000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA?utm_source=rss&utm_medium=article",
         "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
@@ -447,10 +477,20 @@
         "id": "36kr-https://36kr.com/p/3910880823202948?f=rss",
         "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
         "url": "https://36kr.com/p/3910880823202948?f=rss",
-        "description": "文｜温丽虹\n编辑｜张雨忻\nKimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。\n从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。\n公司刚创办，",
+        "description": "文｜温丽虹\n编辑｜张雨忻\nKimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。\n从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。\n公司刚创办",
         "time": 1784977221000,
         "source": "36氪",
         "category": "china-ai",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/video/GpMwjr8xkYwGHXLoDYs0?utm_source=rss&utm_medium=article",
+        "title": "基于 Snowflake 扩展研究数据平台 ｜ Summit 2026",
+        "url": "https://www.infoq.cn/video/GpMwjr8xkYwGHXLoDYs0?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1784977200000,
+        "source": "InfoQ",
+        "category": "practice",
         "isChina": true
       },
       {
@@ -462,46 +502,6 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5?utm_source=rss&utm_medium=article",
-        "title": "GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍",
-        "url": "https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1784970000000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article",
-        "title": "圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？",
-        "url": "https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1784966400000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "36kr-https://36kr.com/p/3910351337821318?f=rss",
-        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-        "url": "https://36kr.com/p/3910351337821318?f=rss",
-        "description": "今日热点导览\n小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患\n微信撤回消息后可删除提示字\n怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权\n菲尔兹奖得主雅各布·齐默曼将加入OpenAI\n欧盟对谷歌处以8.9亿欧元罚款\nTOP3大新闻\n宇树科技CEO王兴兴登上《时代》杂志封面\n当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代",
-        "time": 1784941072000,
-        "source": "36氪",
-        "category": "china-ai",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
-        "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
-        "url": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1784921452000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
     "papers": []
@@ -510,10 +510,10 @@
     "techNews": [
       {
         "id": "hn-49045159",
-        "title": "Android May Soon Restrict On-Device ADB",
+        "title": "Android may soon restrict on-device ADB",
         "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "score": 887,
-        "comments": 427,
+        "score": 917,
+        "comments": 448,
         "author": "shscs911",
         "time": 1784962634000,
         "source": "Hacker News",
@@ -521,49 +521,13 @@
         "isAI": false
       },
       {
-        "id": "hn-48976262",
-        "title": "Stolen Buttons",
-        "url": "https://anatolyzenkov.com/stolen-buttons",
-        "score": 620,
-        "comments": 151,
-        "author": "Gecko4072",
-        "time": 1784539422000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-49051120",
-        "title": "Did They Ghost You?",
+        "title": "Did they ghost you?",
         "url": "https://didtheyghostyou.com/",
-        "score": 322,
-        "comments": 143,
+        "score": 388,
+        "comments": 172,
         "author": "mooreds",
         "time": 1785010683000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49008396",
-        "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-        "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-        "score": 309,
-        "comments": 95,
-        "author": "hn_acker",
-        "time": 1784734184000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49006096",
-        "title": "How My Images Are Dithered",
-        "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-        "score": 221,
-        "comments": 74,
-        "author": "surprisetalk",
-        "time": 1784725229000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -572,8 +536,8 @@
         "id": "hn-49047365",
         "title": "Bitchat is now on Radicle",
         "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-        "score": 219,
-        "comments": 128,
+        "score": 238,
+        "comments": 129,
         "author": "h1watt",
         "time": 1784985529000,
         "source": "Hacker News",
@@ -581,37 +545,49 @@
         "isAI": false
       },
       {
-        "id": "hn-49050538",
-        "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-        "score": 204,
-        "comments": 122,
-        "author": "bookofjoe",
-        "time": 1785006137000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-48979836",
-        "title": "NYC Apartment Aquaponics",
-        "url": "https://erinmurphy.dev/projects/project-2/",
-        "score": 193,
+        "id": "hn-49006096",
+        "title": "How My Images Are Dithered",
+        "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+        "score": 231,
         "comments": 76,
-        "author": "mm1119",
-        "time": 1784559654000,
+        "author": "surprisetalk",
+        "time": 1784725229000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
       },
       {
-        "id": "hn-49048681",
-        "title": "The Dark Night of Mathematics",
-        "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-        "score": 176,
-        "comments": 211,
-        "author": "rmdmphilosopher",
-        "time": 1784994899000,
+        "id": "hn-49051369",
+        "title": "Turn And Face The Strange",
+        "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+        "score": 195,
+        "comments": 127,
+        "author": "subarctic",
+        "time": 1785012191000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49054224",
+        "title": "JetZero",
+        "url": "https://www.jetzero.aero",
+        "score": 187,
+        "comments": 146,
+        "author": "lisper",
+        "time": 1785034550000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49039868",
+        "title": "Show HN: I made some transistor animations",
+        "url": "https://brandonli.net/semisim/animations",
+        "score": 180,
+        "comments": 21,
+        "author": "stunningllama",
+        "time": 1784918226000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -620,10 +596,34 @@
         "id": "hn-49045446",
         "title": "MouthPad: A Tongue-Controlled Touchpad",
         "url": "https://www.augmental.tech/",
-        "score": 170,
-        "comments": 37,
+        "score": 177,
+        "comments": 39,
         "author": "ZaninAndrea",
         "time": 1784965879000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49051947",
+        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+        "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+        "score": 172,
+        "comments": 73,
+        "author": "rbanffy",
+        "time": 1785016102000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49046525",
+        "title": "The Fedora 45 Sausage Factory",
+        "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+        "score": 144,
+        "comments": 39,
+        "author": "6581",
+        "time": 1784977497000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
