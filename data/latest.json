@@ -1,15 +1,15 @@
 {
-  "updateTime": 1786844466147,
-  "updateTimeStr": "2026/8/16 09:41:06",
-  "totalCount": 153,
+  "updateTime": 1786862886511,
+  "updateTimeStr": "2026/8/16 14:48:06",
+  "totalCount": 143,
   "daily": {
     "mustRead": [
       {
         "id": "hn-49312845",
         "title": "AI has access to a vastly larger working memory than the human brain",
         "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "score": 410,
-        "comments": 368,
+        "score": 469,
+        "comments": 405,
         "author": "rzk",
         "time": 1786817582000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-49309451",
         "title": "Working with AI feels more like leadership than coding",
         "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "score": 266,
-        "comments": 172,
+        "score": 295,
+        "comments": 188,
         "author": "allenb",
         "time": 1786790381000,
         "source": "Hacker News",
@@ -32,22 +32,10 @@
         "id": "hn-49312008",
         "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
         "url": "https://www.nature.com/articles/d41586-026-02448-x",
-        "score": 156,
-        "comments": 75,
+        "score": 165,
+        "comments": 78,
         "author": "jeffreyrogers",
         "time": 1786811914000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-49307700",
-        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "url": "https://chenxiachan.github.io/thoughtdag/",
-        "score": 112,
-        "comments": 52,
-        "author": "chatchan",
-        "time": 1786768927000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,10 +44,22 @@
         "id": "hn-49313367",
         "title": "AI in drug discovery – what it is, where we stand and the path forward",
         "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "score": 86,
-        "comments": 43,
+        "score": 128,
+        "comments": 64,
         "author": "AnodicElegy",
         "time": 1786821173000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49307700",
+        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "url": "https://chenxiachan.github.io/thoughtdag/",
+        "score": 115,
+        "comments": 55,
+        "author": "chatchan",
+        "time": 1786768927000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -73,20 +73,8 @@
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
         "language": "JavaScript",
         "starsToday": "545 stars today",
-        "totalStars": "10,984",
-        "time": 1786844462841,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-altic-dev-FluidVoice",
-        "title": "altic-dev/FluidVoice",
-        "url": "https://github.com/altic-dev/FluidVoice",
-        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
-        "language": "Swift",
-        "starsToday": "104 stars today",
-        "totalStars": "10,337",
-        "time": 1786844462840,
+        "totalStars": "11,151",
+        "time": 1786862883195,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +85,8 @@
         "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
         "language": "JavaScript",
         "starsToday": "544 stars today",
-        "totalStars": "39,549",
-        "time": 1786844462840,
+        "totalStars": "39,652",
+        "time": 1786862883194,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +97,8 @@
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "language": "Python",
         "starsToday": "118 stars today",
-        "totalStars": "47,365",
-        "time": 1786844462840,
+        "totalStars": "47,483",
+        "time": 1786862883194,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +109,8 @@
         "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
         "language": "Python",
         "starsToday": "297 stars today",
-        "totalStars": "1,677",
-        "time": 1786844462839,
+        "totalStars": "1,785",
+        "time": 1786862883193,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +121,8 @@
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
         "language": "Python",
         "starsToday": "892 stars today",
-        "totalStars": "129,210",
-        "time": 1786844462839,
+        "totalStars": "129,295",
+        "time": 1786862883193,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,32 +133,20 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "language": "Python",
         "starsToday": "382 stars today",
-        "totalStars": "13,121",
-        "time": 1786844462839,
+        "totalStars": "13,177",
+        "time": 1786862883193,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-cathrynlavery-diagram-design",
-        "title": "cathrynlavery/diagram-design",
-        "url": "https://github.com/cathrynlavery/diagram-design",
-        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-        "language": "HTML",
-        "starsToday": "1,607 stars today",
-        "totalStars": "18,648",
-        "time": 1786844462838,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-cursor-plugins",
-        "title": "cursor/plugins",
-        "url": "https://github.com/cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "starsToday": "149 stars today",
-        "totalStars": "2,954",
-        "time": 1786844462838,
+        "id": "gh-altic-dev-FluidVoice",
+        "title": "altic-dev/FluidVoice",
+        "url": "https://github.com/altic-dev/FluidVoice",
+        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+        "language": "Swift",
+        "starsToday": "104 stars today",
+        "totalStars": "10,396",
+        "time": 1786862883193,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +157,8 @@
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "language": "Python",
         "starsToday": "547 stars today",
-        "totalStars": "6,078",
-        "time": 1786844462838,
+        "totalStars": "6,165",
+        "time": 1786862883192,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +169,8 @@
         "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
         "language": "Python",
         "starsToday": "434 stars today",
-        "totalStars": "72,060",
-        "time": 1786844462838,
+        "totalStars": "72,170",
+        "time": 1786862883192,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,28 +181,52 @@
         "description": "A collective list of free APIs",
         "language": "Python",
         "starsToday": "2,260 stars today",
-        "totalStars": "460,204",
-        "time": 1786844462838,
+        "totalStars": "460,515",
+        "time": 1786862883192,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-cordiverse-cordis",
+        "title": "cordiverse/cordis",
+        "url": "https://github.com/cordiverse/cordis",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "language": "TypeScript",
+        "starsToday": "599 stars today",
+        "totalStars": "4,260",
+        "time": 1786862883191,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-cathrynlavery-diagram-design",
+        "title": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "language": "HTML",
+        "starsToday": "1,607 stars today",
+        "totalStars": "18,889",
+        "time": 1786862883191,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
+        "id": "ph-https://www.producthunt.com/products/aio-geo-protocol",
+        "title": "AIO.GEO Protocol",
+        "url": "https://www.producthunt.com/products/aio-geo-protocol",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1786555287000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
         "id": "ph-https://www.producthunt.com/products/scrimba",
         "title": "Scrimba Explain",
         "url": "https://www.producthunt.com/products/scrimba",
         "description": "Discussion\n            |\n            Link",
         "time": 1785862187000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/webbrain",
-        "title": "WebBrain",
-        "url": "https://www.producthunt.com/products/webbrain",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1783928564000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -243,7 +243,7 @@
           "llm",
           "news"
         ],
-        "reactions": 101,
+        "reactions": 106,
         "comments": 68,
         "time": 1786487637000,
         "source": "Dev.to",
@@ -262,7 +262,7 @@
           "programming"
         ],
         "reactions": 68,
-        "comments": 69,
+        "comments": 73,
         "time": 1786607922000,
         "source": "Dev.to",
         "category": "practice"
@@ -297,7 +297,7 @@
           "programming",
           "productivity"
         ],
-        "reactions": 60,
+        "reactions": 62,
         "comments": 16,
         "time": 1786549986000,
         "source": "Dev.to",
@@ -322,6 +322,42 @@
         "category": "practice"
       },
       {
+        "id": "devto-4352204",
+        "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
+        "url": "https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9",
+        "description": "When a user logs out in one tab, the other tabs should follow. When they update their cart, every...",
+        "author": "Parsa Jiravand",
+        "tags": [
+          "javascript",
+          "webdev",
+          "frontend",
+          "api"
+        ],
+        "reactions": 56,
+        "comments": 14,
+        "time": 1786258961000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4352154",
+        "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
+        "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+        "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
+        "author": "nyaomaru",
+        "tags": [
+          "typescript",
+          "opensource",
+          "webdev",
+          "frontend"
+        ],
+        "reactions": 55,
+        "comments": 12,
+        "time": 1786540608000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-4372189",
         "title": "The Next Evolution of Software Developers",
         "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
@@ -338,45 +374,29 @@
         "time": 1786545401000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-4352154",
-        "title": "is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production",
-        "url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
-        "description": "Hoi hoi!  I'm @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...",
-        "author": "nyaomaru",
-        "tags": [
-          "typescript",
-          "opensource",
-          "webdev",
-          "frontend"
-        ],
-        "reactions": 52,
-        "comments": 11,
-        "time": 1786540608000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-4352204",
-        "title": "Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.",
-        "url": "https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9",
-        "description": "When a user logs out in one tab, the other tabs should follow. When they update their cart, every...",
-        "author": "Parsa Jiravand",
-        "tags": [
-          "javascript",
-          "webdev",
-          "frontend",
-          "api"
-        ],
-        "reactions": 51,
-        "comments": 14,
-        "time": 1786258961000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+        "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1786874400000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl?utm_source=rss&utm_medium=article",
+        "title": "一份数据，多种用途：Spotify 用 RAP 打通分析与在线服务",
+        "url": "https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1786874400000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
         "title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
@@ -436,140 +456,9 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/ZiLdF4HaE2o3ieYydQQv?utm_source=rss&utm_medium=article",
-        "title": "InfoQ 2026 年趋势报告：文化与方法论篇",
-        "url": "https://www.infoq.cn/article/ZiLdF4HaE2o3ieYydQQv?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1786720620000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/gkOdbZGI6RXGmN09pIeK?utm_source=rss&utm_medium=article",
-        "title": "“写代码从来都不是难点”，这是对全世界所有程序员的严重侮辱",
-        "url": "https://www.infoq.cn/article/gkOdbZGI6RXGmN09pIeK?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1786719320000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2608.12325",
-        "title": "Position: Reasoning is a Learnable Rule-Based Process",
-        "url": "https://arxiv.org/abs/2608.12325",
-        "description": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and ",
-        "author": "Rachel Lawrence, Jacqueline Maasch",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12345",
-        "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-        "url": "https://arxiv.org/abs/2608.12345",
-        "description": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r",
-        "author": "Yash Tripathi, Silu Sharma, Sai Sidhanth Manoharan Jayanthi, Shivank Garg, Lin Li",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12346",
-        "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-        "url": "https://arxiv.org/abs/2608.12346",
-        "description": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni",
-        "author": "Sarah Ball, Phil Hackemann",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12368",
-        "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-        "url": "https://arxiv.org/abs/2608.12368",
-        "description": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j",
-        "author": "Octavian M. Machidon, Alina L. Machidon, Vojko Strahovnik, Mateja Centa Strahovnik, Jonas Miklav\\v{c}i\\v{c}, Marko Robnik \\v{S}ikonja",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12371",
-        "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-        "url": "https://arxiv.org/abs/2608.12371",
-        "description": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper",
-        "author": "Sabeur Lajili, Zaki Brahmi",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12372",
-        "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-        "url": "https://arxiv.org/abs/2608.12372",
-        "description": "arXiv:2608.12372v1 Announce Type: new \nAbstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that ",
-        "author": "Vijay Keswani, Breanna K. Nguyen, Cyrus Cousins, Vincent Conitzer, Walter Sinnott-Armstrong, Jana Schaich Borg",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12373",
-        "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-        "url": "https://arxiv.org/abs/2608.12373",
-        "description": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's dec",
-        "author": "Rian Touchent (ALMAnaCH)",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12385",
-        "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-        "url": "https://arxiv.org/abs/2608.12385",
-        "description": "arXiv:2608.12385v1 Announce Type: new \nAbstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound",
-        "author": "Liming Liu, Mingze Wang, Tuo Zhao",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12389",
-        "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
-        "url": "https://arxiv.org/abs/2608.12389",
-        "description": "arXiv:2608.12389v1 Announce Type: new \nAbstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update magnitude under spars",
-        "author": "Xuefei Wang, Jun Han, Zixuan Wang, Qingkai Zeng, Xiao Wang, Ruijie Wang, Jianxin Li",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2608.12395",
-        "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
-        "url": "https://arxiv.org/abs/2608.12395",
-        "description": "arXiv:2608.12395v1 Announce Type: new \nAbstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface that brings together ",
-        "author": "Piotr Grabowski, Mohamed Alameen, Jorge Bretones, Sabina Cardell, Miguel Carmona, Gavin Edwards, Ben Grainger, Sameh Hassan, Erik Jansson, Artur Kuziakhmetov, Albert Maristany, Hebatallah Mohamed, Andriy Nikolov, Sebastian Nilsson, Mark O'Donoghue, James Pacileo, Ashiq Sultan, Alex Voegele, Michael Ughetto",
-        "time": 1786766400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
@@ -577,8 +466,8 @@
         "id": "hn-49299605",
         "title": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-        "score": 1355,
-        "comments": 772,
+        "score": 1375,
+        "comments": 775,
         "author": "erdaltoprak",
         "time": 1786719600000,
         "source": "Hacker News",
@@ -589,22 +478,10 @@
         "id": "hn-49309549",
         "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
         "url": "https://sankalp.bearblog.dev/autoresearch/",
-        "score": 393,
-        "comments": 86,
+        "score": 414,
+        "comments": 91,
         "author": "tosh",
         "time": 1786791602000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49307592",
-        "title": "The other Sean Byrne doesn't exist",
-        "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "score": 371,
-        "comments": 178,
-        "author": "rdl",
-        "time": 1786767524000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -613,10 +490,22 @@
         "id": "hn-49311651",
         "title": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-        "score": 347,
-        "comments": 240,
+        "score": 402,
+        "comments": 280,
         "author": "randycupertino",
         "time": 1786809533000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49268580",
+        "title": "Asus Bike Booster",
+        "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+        "score": 290,
+        "comments": 161,
+        "author": "wiradikusuma",
+        "time": 1786516392000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -625,8 +514,8 @@
         "id": "hn-49298035",
         "title": "RISC-V: They Should Have Known Better",
         "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "score": 232,
-        "comments": 297,
+        "score": 276,
+        "comments": 338,
         "author": "dmitrygr",
         "time": 1786711856000,
         "source": "Hacker News",
@@ -637,46 +526,10 @@
         "id": "hn-49310682",
         "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
         "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "score": 211,
-        "comments": 77,
+        "score": 247,
+        "comments": 86,
         "author": "gmays",
         "time": 1786802689000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49246366",
-        "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-        "url": "https://baselashraf81.github.io/eigendrum/",
-        "score": 204,
-        "comments": 96,
-        "author": "BaselAshraf81",
-        "time": 1786380811000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49237183",
-        "title": "The mathematical beauty of hyperbezier curves",
-        "url": "https://linebender.org/blog/hyperbezier/",
-        "score": 188,
-        "comments": 37,
-        "author": "raphlinus",
-        "time": 1786316944000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49310926",
-        "title": "A spectre is haunting Unicode",
-        "url": "https://www.dampfkraft.com/ghost-characters.html",
-        "score": 167,
-        "comments": 57,
-        "author": "sensanaty",
-        "time": 1786804444000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -685,10 +538,46 @@
         "id": "hn-49314403",
         "title": "Abdominal fat predicts heart disease risk better than BMI",
         "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-        "score": 146,
-        "comments": 110,
+        "score": 226,
+        "comments": 169,
         "author": "theanonymousone",
         "time": 1786828474000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49310926",
+        "title": "A spectre is haunting Unicode",
+        "url": "https://www.dampfkraft.com/ghost-characters.html",
+        "score": 206,
+        "comments": 71,
+        "author": "sensanaty",
+        "time": 1786804444000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49313428",
+        "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+        "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+        "score": 171,
+        "comments": 97,
+        "author": "dgellow",
+        "time": 1786821651000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49314235",
+        "title": "Cultivating a state of mind where new ideas are born (2023)",
+        "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+        "score": 141,
+        "comments": 32,
+        "author": "felixbraun",
+        "time": 1786827251000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -700,7 +589,6 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
       "InfoQ",
       "Product Hunt"
