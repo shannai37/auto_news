@@ -1,17 +1,29 @@
 {
-  "updateTime": 1787489394082,
-  "updateTimeStr": "2026/8/23 20:49:54",
-  "totalCount": 148,
+  "updateTime": 1787510146631,
+  "updateTimeStr": "2026/8/24 02:35:46",
+  "totalCount": 149,
   "daily": {
     "mustRead": [
       {
         "id": "hn-49402232",
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "score": 389,
-        "comments": 151,
+        "score": 453,
+        "comments": 184,
         "author": "felineflock",
         "time": 1787422456000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49409073",
+        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+        "url": "https://ericpardee.github.io/fire-hd-ownership/",
+        "score": 334,
+        "comments": 139,
+        "author": "dr_pardee",
+        "time": 1787494989000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -20,22 +32,10 @@
         "id": "hn-49398152",
         "title": "Munder Difflin – Agent harness to run an office of your clones",
         "url": "https://munderdiffl.in/",
-        "score": 290,
-        "comments": 125,
+        "score": 301,
+        "comments": 135,
         "author": "simonpure",
         "time": 1787392154000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-49393051",
-        "title": "A week of using Codex more than Claude",
-        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "score": 215,
-        "comments": 236,
-        "author": "speckx",
-        "time": 1787341908000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +44,8 @@
         "id": "hn-49387959",
         "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
         "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-        "score": 177,
-        "comments": 84,
+        "score": 200,
+        "comments": 110,
         "author": "olalonde",
         "time": 1787319813000,
         "source": "Hacker News",
@@ -53,13 +53,13 @@
         "isAI": true
       },
       {
-        "id": "hn-49404380",
-        "title": "NanoGPT Speedrun Frontier",
-        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "score": 115,
-        "comments": 28,
-        "author": "stared",
-        "time": 1787436867000,
+        "id": "hn-49410097",
+        "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+        "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+        "score": 184,
+        "comments": 80,
+        "author": "ed-is-ai",
+        "time": 1787502261000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,14 +67,38 @@
     ],
     "tools": [
       {
+        "id": "gh-ruvnet-ruflo",
+        "title": "ruvnet/ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "starsToday": "134 stars today",
+        "totalStars": "69,003",
+        "time": 1787510143576,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-VoltAgent-awesome-agent-skills",
+        "title": "VoltAgent/awesome-agent-skills",
+        "url": "https://github.com/VoltAgent/awesome-agent-skills",
+        "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+        "language": "Unknown",
+        "starsToday": "223 stars today",
+        "totalStars": "31,166",
+        "time": 1787510143576,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-virgiliojr94-book-to-skill",
         "title": "virgiliojr94/book-to-skill",
         "url": "https://github.com/virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": "Python",
         "starsToday": "423 stars today",
-        "totalStars": "24,340",
-        "time": 1787489392122,
+        "totalStars": "24,512",
+        "time": 1787510143576,
         "source": "GitHub",
         "category": "github"
       },
@@ -84,9 +108,9 @@
         "url": "https://github.com/dani-garcia/vaultwarden",
         "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
         "language": "Rust",
-        "starsToday": "68 stars today",
-        "totalStars": "65,874",
-        "time": 1787489392122,
+        "starsToday": "95 stars today",
+        "totalStars": "65,923",
+        "time": 1787510143576,
         "source": "GitHub",
         "category": "github"
       },
@@ -96,21 +120,9 @@
         "url": "https://github.com/anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
-        "starsToday": "190 stars today",
-        "totalStars": "721",
-        "time": 1787489392122,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-apache-maka",
-        "title": "apache/maka",
-        "url": "https://github.com/apache/maka",
-        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-        "language": "TypeScript",
-        "starsToday": "49 stars today",
-        "totalStars": "2,197",
-        "time": 1787489392121,
+        "starsToday": "257 stars today",
+        "totalStars": "840",
+        "time": 1787510143576,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +133,8 @@
         "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
         "language": "Python",
         "starsToday": "1,040 stars today",
-        "totalStars": "47,596",
-        "time": 1787489392121,
+        "totalStars": "47,804",
+        "time": 1787510143575,
         "source": "GitHub",
         "category": "github"
       },
@@ -132,9 +144,9 @@
         "url": "https://github.com/tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
         "language": "Rust",
-        "starsToday": "51 stars today",
-        "totalStars": "36,524",
-        "time": 1787489392121,
+        "starsToday": "106 stars today",
+        "totalStars": "36,630",
+        "time": 1787510143575,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,44 +157,8 @@
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
         "starsToday": "427 stars today",
-        "totalStars": "242,370",
-        "time": 1787489392121,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-ruvnet-ruflo",
-        "title": "ruvnet/ruflo",
-        "url": "https://github.com/ruvnet/ruflo",
-        "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-        "language": "TypeScript",
-        "starsToday": "134 stars today",
-        "totalStars": "68,921",
-        "time": 1787489392121,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-VoltAgent-awesome-agent-skills",
-        "title": "VoltAgent/awesome-agent-skills",
-        "url": "https://github.com/VoltAgent/awesome-agent-skills",
-        "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-        "language": "Unknown",
-        "starsToday": "237 stars today",
-        "totalStars": "31,022",
-        "time": 1787489392121,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-mattpocock-skills",
-        "title": "mattpocock/skills",
-        "url": "https://github.com/mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "starsToday": "2,448 stars today",
-        "totalStars": "233,214",
-        "time": 1787489392120,
+        "totalStars": "242,458",
+        "time": 1787510143575,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +169,8 @@
         "description": "Beautiful, Modern & Opinionated Linux",
         "language": "Shell",
         "starsToday": "803 stars today",
-        "totalStars": "28,652",
-        "time": 1787489392120,
+        "totalStars": "28,915",
+        "time": 1787510143574,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,28 +181,52 @@
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "language": "Rust",
         "starsToday": "1,008 stars today",
-        "totalStars": "14,428",
-        "time": 1787489392120,
+        "totalStars": "14,711",
+        "time": 1787510143574,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-block-buzz",
+        "title": "block/buzz",
+        "url": "https://github.com/block/buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "starsToday": "349 stars today",
+        "totalStars": "30,011",
+        "time": 1787510143574,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-apache-maka",
+        "title": "apache/maka",
+        "url": "https://github.com/apache/maka",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "starsToday": "49 stars today",
+        "totalStars": "2,260",
+        "time": 1787510143574,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
-        "id": "ph-https://www.producthunt.com/products/shogunai",
-        "title": "ShogunAI",
-        "url": "https://www.producthunt.com/products/shogunai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1787295840000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/pixelread-ai-ocr",
         "title": "PixelRead AI OCR",
         "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
         "description": "Discussion\n            |\n            Link",
         "time": 1787260911000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/shogunai",
+        "title": "ShogunAI",
+        "url": "https://www.producthunt.com/products/shogunai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1787295840000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -238,27 +238,18 @@
         "time": 1786373012000,
         "source": "Product Hunt",
         "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/bitdrift",
+        "title": "bitdrift.ai",
+        "url": "https://www.producthunt.com/products/bitdrift",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1786986739000,
+        "source": "Product Hunt",
+        "category": "ai-product"
       }
     ],
     "practice": [
-      {
-        "id": "devto-4410317",
-        "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-        "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
-        "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
-        "author": "Gamya ",
-        "tags": [
-          "devchallenge",
-          "frontendchallenge",
-          "webdev",
-          "javascript"
-        ],
-        "reactions": 88,
-        "comments": 61,
-        "time": 1786887082000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
       {
         "id": "devto-4435427",
         "title": "Greatness Is Forged by Limitation",
@@ -271,8 +262,8 @@
           "webdev",
           "career"
         ],
-        "reactions": 60,
-        "comments": 34,
+        "reactions": 66,
+        "comments": 35,
         "time": 1787144687000,
         "source": "Dev.to",
         "category": "practice"
@@ -290,7 +281,7 @@
           "ai"
         ],
         "reactions": 46,
-        "comments": 6,
+        "comments": 10,
         "time": 1786906051000,
         "source": "Dev.to",
         "category": "practice"
@@ -308,8 +299,26 @@
           "architecture"
         ],
         "reactions": 38,
-        "comments": 34,
+        "comments": 37,
         "time": 1787234580000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4435144",
+        "title": "I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.",
+        "url": "https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0",
+        "description": "I didn't want to write another \"what's new in Next.js 16.3\" post. Enough of those exist. I wanted to...",
+        "author": "Shubhra Pokhariya",
+        "tags": [
+          "nextjs",
+          "webdev",
+          "javascript",
+          "react"
+        ],
+        "reactions": 35,
+        "comments": 21,
+        "time": 1787147905000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -326,43 +335,8 @@
           "webdev"
         ],
         "reactions": 34,
-        "comments": 16,
-        "time": 1787375956000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-4435144",
-        "title": "I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.",
-        "url": "https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0",
-        "description": "I didn't want to write another \"what's new in Next.js 16.3\" post. Enough of those exist. I wanted to...",
-        "author": "Shubhra Pokhariya",
-        "tags": [
-          "nextjs",
-          "webdev",
-          "javascript",
-          "react"
-        ],
-        "reactions": 34,
         "comments": 19,
-        "time": 1787147905000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-4418148",
-        "title": "My AI Assistant Did Not Love Getting a Second Opinion",
-        "url": "https://dev.to/dannwaneri/my-ai-assistant-did-not-love-getting-a-second-opinion-dl1",
-        "description": "\"our work got checked by an external reviewer.\"  That's what Fable said after I brought Gemini...",
-        "author": "Daniel Nwaneri",
-        "tags": [
-          "ai",
-          "discuss",
-          "programming"
-        ],
-        "reactions": 28,
-        "comments": 11,
-        "time": 1786970781000,
+        "time": 1787375956000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -378,9 +352,44 @@
           "productivity",
           "python"
         ],
-        "reactions": 27,
-        "comments": 19,
+        "reactions": 28,
+        "comments": 25,
         "time": 1787137696000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4418148",
+        "title": "My AI Assistant Did Not Love Getting a Second Opinion",
+        "url": "https://dev.to/dannwaneri/my-ai-assistant-did-not-love-getting-a-second-opinion-dl1",
+        "description": "\"our work got checked by an external reviewer.\"  That's what Fable said after I brought Gemini...",
+        "author": "Daniel Nwaneri",
+        "tags": [
+          "ai",
+          "discuss",
+          "programming"
+        ],
+        "reactions": 28,
+        "comments": 13,
+        "time": 1786970781000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4425699",
+        "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
+        "url": "https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf",
+        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+        "author": "Athreya aka Maneshwar",
+        "tags": [
+          "ai",
+          "machinelearning",
+          "webdev",
+          "llm"
+        ],
+        "reactions": 27,
+        "comments": 9,
+        "time": 1787051196000,
         "source": "Dev.to",
         "category": "practice"
       }
@@ -472,23 +481,11 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-49397074",
-        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-        "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-        "score": 629,
-        "comments": 1464,
-        "author": "tartoran",
-        "time": 1787379417000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-49400408",
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "url": "https://quantumi.sh/public/labs.html",
-        "score": 422,
-        "comments": 129,
+        "score": 465,
+        "comments": 138,
         "author": "jemoka",
         "time": 1787410447000,
         "source": "Hacker News",
@@ -499,8 +496,8 @@
         "id": "hn-49351802",
         "title": "Hister – A private, full content search index that you control",
         "url": "https://hister.org/",
-        "score": 390,
-        "comments": 87,
+        "score": 454,
+        "comments": 98,
         "author": "auraham",
         "time": 1787083250000,
         "source": "Hacker News",
@@ -511,34 +508,10 @@
         "id": "hn-49402189",
         "title": "Scrap (2006)",
         "url": "https://twitter.com/moxie/status/2091218652133732491",
-        "score": 383,
-        "comments": 202,
+        "score": 402,
+        "comments": 217,
         "author": "tosh",
         "time": 1787422136000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49346854",
-        "title": "typ.ing",
-        "url": "https://typ.ing/",
-        "score": 296,
-        "comments": 92,
-        "author": "bookofjoe",
-        "time": 1787065973000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49399898",
-        "title": "A Friendly Introduction to Racket",
-        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-        "score": 242,
-        "comments": 131,
-        "author": "signa11",
-        "time": 1787407699000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -547,10 +520,46 @@
         "id": "hn-49405870",
         "title": "To become a better writer, read as much as you can",
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-        "score": 240,
-        "comments": 156,
+        "score": 379,
+        "comments": 240,
         "author": "andsoitis",
         "time": 1787455945000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49346854",
+        "title": "typ.ing",
+        "url": "https://typ.ing/",
+        "score": 345,
+        "comments": 110,
+        "author": "bookofjoe",
+        "time": 1787065973000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49402202",
+        "title": "Thinking in Python",
+        "url": "https://thinkinginpython.com/",
+        "score": 274,
+        "comments": 59,
+        "author": "pjacotg",
+        "time": 1787422249000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49399898",
+        "title": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "score": 255,
+        "comments": 152,
+        "author": "signa11",
+        "time": 1787407699000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -559,8 +568,8 @@
         "id": "hn-49399591",
         "title": "New MCP Roadmap",
         "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "score": 226,
-        "comments": 137,
+        "score": 252,
+        "comments": 152,
         "author": "pentagrama",
         "time": 1787405494000,
         "source": "Hacker News",
@@ -568,13 +577,13 @@
         "isAI": false
       },
       {
-        "id": "hn-49399524",
-        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-        "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-        "score": 218,
-        "comments": 93,
-        "author": "altmanaltman",
-        "time": 1787405046000,
+        "id": "hn-49407507",
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+        "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+        "score": 244,
+        "comments": 111,
+        "author": "raybb",
+        "time": 1787479371000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -583,8 +592,8 @@
         "id": "hn-49355659",
         "title": "RF Cafe",
         "url": "https://www.rfcafe.com/",
-        "score": 216,
-        "comments": 39,
+        "score": 238,
+        "comments": 44,
         "author": "gregsadetsky",
         "time": 1787105143000,
         "source": "Hacker News",
