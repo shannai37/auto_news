@@ -1,17 +1,17 @@
 {
-  "updateTime": 1787535671947,
-  "updateTimeStr": "2026/8/24 09:41:11",
-  "totalCount": 147,
+  "updateTime": 1787555246428,
+  "updateTimeStr": "2026/8/24 15:07:26",
+  "totalCount": 175,
   "daily": {
     "mustRead": [
       {
-        "id": "hn-49409073",
-        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "url": "https://ericpardee.github.io/fire-hd-ownership/",
-        "score": 615,
-        "comments": 266,
-        "author": "dr_pardee",
-        "time": 1787494989000,
+        "id": "hn-49411102",
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "score": 436,
+        "comments": 382,
+        "author": "naves",
+        "time": 1787508997000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -20,34 +20,10 @@
         "id": "hn-49409473",
         "title": "How Complex Systems Fail (1998)",
         "url": "https://how.complexsystems.fail/",
-        "score": 239,
-        "comments": 63,
+        "score": 297,
+        "comments": 69,
         "author": "shortcrct",
         "time": 1787498011000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-49411102",
-        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "score": 216,
-        "comments": 180,
-        "author": "naves",
-        "time": 1787508997000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-49411717",
-        "title": "Google Workspace thinks my domain is an email provider (2025)",
-        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-        "score": 184,
-        "comments": 45,
-        "author": "el1s7",
-        "time": 1787513372000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,10 +32,34 @@
         "id": "hn-49410932",
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
-        "score": 161,
-        "comments": 80,
+        "score": 286,
+        "comments": 111,
         "author": "ibobev",
         "time": 1787507992000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49411717",
+        "title": "Google Workspace thinks my domain is an email provider (2025)",
+        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+        "score": 271,
+        "comments": 81,
+        "author": "el1s7",
+        "time": 1787513372000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49411020",
+        "title": "Explain it to me like I'm ten",
+        "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+        "score": 120,
+        "comments": 47,
+        "author": "bookofjoe",
+        "time": 1787508493000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,50 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-davepoon-buildwithclaude",
-        "title": "davepoon/buildwithclaude",
-        "url": "https://github.com/davepoon/buildwithclaude",
-        "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
-        "language": "Python",
-        "starsToday": "9 stars today",
-        "totalStars": "3,322",
-        "time": 1787535667600,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-unclecode-crawl4ai",
-        "title": "unclecode/crawl4ai",
-        "url": "https://github.com/unclecode/crawl4ai",
-        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-        "language": "Python",
-        "starsToday": "153 stars today",
-        "totalStars": "79,253",
-        "time": 1787535667600,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-anthropics-claude-code",
-        "title": "anthropics/claude-code",
-        "url": "https://github.com/anthropics/claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Python",
-        "starsToday": "361 stars today",
-        "totalStars": "142,764",
-        "time": 1787535667599,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-davila7-claude-code-templates",
         "title": "davila7/claude-code-templates",
         "url": "https://github.com/davila7/claude-code-templates",
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "Python",
         "starsToday": "25 stars today",
-        "totalStars": "30,359",
-        "time": 1787535667599,
+        "totalStars": "30,363",
+        "time": 1787555242919,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +85,8 @@
         "description": "The Web framework for perfectionists with deadlines.",
         "language": "Python",
         "starsToday": "40 stars today",
-        "totalStars": "88,759",
-        "time": 1787535667599,
+        "totalStars": "88,760",
+        "time": 1787555242919,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,32 +97,32 @@
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "language": "Python",
         "starsToday": "193 stars today",
-        "totalStars": "11,415",
-        "time": 1787535667599,
+        "totalStars": "11,459",
+        "time": 1787555242919,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-elder-plinius-OBLITERATUS",
-        "title": "elder-plinius/OBLITERATUS",
-        "url": "https://github.com/elder-plinius/OBLITERATUS",
-        "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+        "id": "gh-davepoon-buildwithclaude",
+        "title": "davepoon/buildwithclaude",
+        "url": "https://github.com/davepoon/buildwithclaude",
+        "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
         "language": "Python",
-        "starsToday": "30 stars today",
-        "totalStars": "7,989",
-        "time": 1787535667598,
+        "starsToday": "9 stars today",
+        "totalStars": "3,326",
+        "time": 1787555242919,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-PostHog-posthog",
-        "title": "PostHog/posthog",
-        "url": "https://github.com/PostHog/posthog",
-        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "id": "gh-unclecode-crawl4ai",
+        "title": "unclecode/crawl4ai",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
         "language": "Python",
-        "starsToday": "293 stars today",
-        "totalStars": "38,783",
-        "time": 1787535667598,
+        "starsToday": "153 stars today",
+        "totalStars": "79,274",
+        "time": 1787555242919,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +133,8 @@
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "language": "Python",
         "starsToday": "60 stars today",
-        "totalStars": "186,834",
-        "time": 1787535667598,
+        "totalStars": "186,843",
+        "time": 1787555242918,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +145,20 @@
         "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
         "language": "Python",
         "starsToday": "38 stars today",
-        "totalStars": "18,279",
-        "time": 1787535667598,
+        "totalStars": "18,291",
+        "time": 1787555242918,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-anthropics-claude-code",
+        "title": "anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "starsToday": "361 stars today",
+        "totalStars": "142,804",
+        "time": 1787555242918,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +169,8 @@
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "starsToday": "201 stars today",
-        "totalStars": "129,408",
-        "time": 1787535667597,
+        "totalStars": "129,572",
+        "time": 1787555242917,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,37 +181,52 @@
         "description": "The agent that grows with you",
         "language": "Python",
         "starsToday": "454 stars today",
-        "totalStars": "235,023",
-        "time": 1787535667597,
+        "totalStars": "235,229",
+        "time": 1787555242917,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-elder-plinius-OBLITERATUS",
+        "title": "elder-plinius/OBLITERATUS",
+        "url": "https://github.com/elder-plinius/OBLITERATUS",
+        "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+        "language": "Python",
+        "starsToday": "30 stars today",
+        "totalStars": "7,995",
+        "time": 1787555242917,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-PostHog-posthog",
+        "title": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "starsToday": "293 stars today",
+        "totalStars": "38,795",
+        "time": 1787555242917,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
+        "id": "ph-https://www.producthunt.com/products/lucid-train",
+        "title": "Lucid Train",
+        "url": "https://www.producthunt.com/products/lucid-train",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1787504888000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
         "id": "ph-https://www.producthunt.com/products/pixelread-ai-ocr",
         "title": "PixelRead AI OCR",
         "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
         "description": "Discussion\n            |\n            Link",
         "time": 1787260911000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/shogunai",
-        "title": "ShogunAI",
-        "url": "https://www.producthunt.com/products/shogunai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1787295840000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/bitdrift",
-        "title": "bitdrift.ai",
-        "url": "https://www.producthunt.com/products/bitdrift",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1786986739000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -253,8 +244,8 @@
           "webdev",
           "career"
         ],
-        "reactions": 67,
-        "comments": 35,
+        "reactions": 71,
+        "comments": 38,
         "time": 1787144687000,
         "source": "Dev.to",
         "category": "practice"
@@ -271,27 +262,9 @@
           "llm",
           "architecture"
         ],
-        "reactions": 38,
+        "reactions": 40,
         "comments": 37,
         "time": 1787234580000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-4435144",
-        "title": "I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.",
-        "url": "https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0",
-        "description": "I didn't want to write another \"what's new in Next.js 16.3\" post. Enough of those exist. I wanted to...",
-        "author": "Shubhra Pokhariya",
-        "tags": [
-          "nextjs",
-          "webdev",
-          "javascript",
-          "react"
-        ],
-        "reactions": 38,
-        "comments": 22,
-        "time": 1787147905000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -307,9 +280,27 @@
           "javascript",
           "webdev"
         ],
-        "reactions": 37,
+        "reactions": 40,
         "comments": 21,
         "time": 1787375956000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4435144",
+        "title": "I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.",
+        "url": "https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0",
+        "description": "I didn't want to write another \"what's new in Next.js 16.3\" post. Enough of those exist. I wanted to...",
+        "author": "Shubhra Pokhariya",
+        "tags": [
+          "nextjs",
+          "webdev",
+          "javascript",
+          "react"
+        ],
+        "reactions": 39,
+        "comments": 22,
+        "time": 1787147905000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -325,9 +316,27 @@
           "productivity",
           "python"
         ],
-        "reactions": 28,
+        "reactions": 29,
         "comments": 25,
         "time": 1787137696000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4429580",
+        "title": "Engineering: Dreams, or Self-Actualization?",
+        "url": "https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok",
+        "description": "At what point did you start to think you were an engineer?  An engineer. What a lofty,...",
+        "author": "Anna Villarreal",
+        "tags": [
+          "webdev",
+          "mentalhealth",
+          "programming",
+          "software"
+        ],
+        "reactions": 29,
+        "comments": 8,
+        "time": 1787097301000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -365,27 +374,69 @@
         "time": 1787051196000,
         "source": "Dev.to",
         "category": "practice"
-      },
-      {
-        "id": "devto-4429580",
-        "title": "Engineering: Dreams, or Self-Actualization?",
-        "url": "https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok",
-        "description": "At what point did you start to think you were an engineer?  An engineer. What a lofty,...",
-        "author": "Anna Villarreal",
-        "tags": [
-          "webdev",
-          "mentalhealth",
-          "programming",
-          "software"
-        ],
-        "reactions": 27,
-        "comments": 8,
-        "time": 1787097301000,
-        "source": "Dev.to",
-        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&utm_medium=article",
+        "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
+        "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1787580000000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&utm_medium=article",
+        "title": "GitHub 公开预览 Stacked Pull Requests 功能",
+        "url": "https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1787573940000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
+        "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
+        "url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1787568240000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article",
+        "title": "完全相信AI代码的Uncle Bob，坦诚这条路还没走通",
+        "url": "https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1787566612000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/ONGSA7k86LcxFyU64N2z?utm_source=rss&utm_medium=article",
+        "title": "DeepSeek 再度调价；英伟达AI服务器涨价超 15%；“AI红娘”承诺三年不结婚就退款，前 Kimi搜索负责人创业目标：拉高10%结婚率 | AI周报",
+        "url": "https://www.infoq.cn/article/ONGSA7k86LcxFyU64N2z?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1787566276000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/6zto2Zd1cdiODGyBcf6r?utm_source=rss&utm_medium=article",
+        "title": "从现实到反馈：KDC 完整工程模型全景",
+        "url": "https://www.infoq.cn/article/6zto2Zd1cdiODGyBcf6r?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1787565600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/1pa8asW4xOs6y2GYfl8T?utm_source=rss&utm_medium=article",
         "title": "Cloudflare WriteGuard 为 MCP 服务器提供了精细化的安全控制",
@@ -405,104 +456,143 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
-        "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
-        "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1787494140000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9?utm_source=rss&utm_medium=article",
-        "title": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
-        "url": "https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1787484300000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S?utm_source=rss&utm_medium=article",
-        "title": "事故频发并不意味着可靠性下降",
-        "url": "https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1787476200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&utm_medium=article",
-        "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
-        "url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1787419020000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&utm_medium=article",
-        "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-        "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1787411700000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
-        "title": "npm 终于动手了：默认封杀 postinstall 脚本",
-        "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1787396700000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": []
+    "papers": [
+      {
+        "id": "arxiv-2608.20341",
+        "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+        "url": "https://arxiv.org/abs/2608.20341",
+        "description": "arXiv:2608.20341v1 Announce Type: new \nAbstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substan",
+        "author": "Vu Hung Nguyen, Thanh Nguyen",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20342",
+        "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+        "url": "https://arxiv.org/abs/2608.20342",
+        "description": "arXiv:2608.20342v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's termi",
+        "author": "Myron Koch (Peak Summit Labs)",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20378",
+        "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+        "url": "https://arxiv.org/abs/2608.20378",
+        "description": "arXiv:2608.20378v1 Announce Type: new \nAbstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This s",
+        "author": "Md. Hasib Ur Rahman",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20379",
+        "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+        "url": "https://arxiv.org/abs/2608.20379",
+        "description": "arXiv:2608.20379v1 Announce Type: new \nAbstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbon",
+        "author": "Neel Mokaria, Rishie Raj, Dheeraj Baiju, Xiaoqian Shen, Shraman Pramanick, Kevin Qinghong Lin, Arda Senocak, Mike Zheng Shou, Philip Torr, Mohamed Elhoseiny, Yapeng Tian, Ruohan Gao, Salman Khan, Sayan Nag, Sanjoy Chowdhury, Dinesh Manocha",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20384",
+        "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+        "url": "https://arxiv.org/abs/2608.20384",
+        "description": "arXiv:2608.20384v1 Announce Type: new \nAbstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective ",
+        "author": "Mojtaba Moattari",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20389",
+        "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+        "url": "https://arxiv.org/abs/2608.20389",
+        "description": "arXiv:2608.20389v1 Announce Type: new \nAbstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its syste",
+        "author": "Kevin Dela Rosa",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20397",
+        "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+        "url": "https://arxiv.org/abs/2608.20397",
+        "description": "arXiv:2608.20397v1 Announce Type: new \nAbstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is t",
+        "author": "Mustafa Arslan",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20398",
+        "title": "Environmental Slow AI: Design Principles for Generative Systems",
+        "url": "https://arxiv.org/abs/2608.20398",
+        "description": "arXiv:2608.20398v1 Announce Type: new \nAbstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines the maximalist valu",
+        "author": "Vanessa Utz",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20400",
+        "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+        "url": "https://arxiv.org/abs/2608.20400",
+        "description": "arXiv:2608.20400v1 Announce Type: new \nAbstract: Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicitly assume necessary evidence survives eviction, but we challenge this by isolating a pre-retrieval failure mode: structural",
+        "author": "Minkyu Song",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2608.20401",
+        "title": "World models of environment, agent and joint agent-environment systems",
+        "url": "https://arxiv.org/abs/2608.20401",
+        "description": "arXiv:2608.20401v1 Announce Type: new \nAbstract: World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as observations, rewards, states, latent or information states. We argue that there is a prior distinc",
+        "author": "Manuel Baltieri, Filippo Torresan, Yivan Zhang, Alexander Boyd, Fernando E. Rosas",
+        "time": 1787544000000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      }
+    ]
   },
   "extra": {
     "techNews": [
       {
+        "id": "hn-49413320",
+        "title": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
+        "score": 669,
+        "comments": 203,
+        "author": "schlarpc",
+        "time": 1787524864000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
         "id": "hn-49405870",
         "title": "To become a better writer, read as much as you can",
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-        "score": 429,
-        "comments": 250,
+        "score": 444,
+        "comments": 255,
         "author": "andsoitis",
         "time": 1787455945000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49409200",
-        "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-        "score": 361,
-        "comments": 138,
-        "author": "dredmorbius",
-        "time": 1787495905000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49407507",
-        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-        "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-        "score": 314,
-        "comments": 139,
-        "author": "raybb",
-        "time": 1787479371000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -511,22 +601,10 @@
         "id": "hn-49409092",
         "title": "What Is a Harness?",
         "url": "https://earendil.com/posts/what-is-a-harness/",
-        "score": 305,
-        "comments": 135,
+        "score": 410,
+        "comments": 147,
         "author": "tosh",
         "time": 1787495061000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49406539",
-        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-        "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-        "score": 304,
-        "comments": 239,
-        "author": "taubek",
-        "time": 1787467311000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -535,10 +613,34 @@
         "id": "hn-49411643",
         "title": "How I find problems to solve as a staff engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "score": 265,
-        "comments": 103,
+        "score": 380,
+        "comments": 125,
         "author": "vanpra",
         "time": 1787513009000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49407507",
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+        "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+        "score": 336,
+        "comments": 143,
+        "author": "raybb",
+        "time": 1787479371000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49406539",
+        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+        "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+        "score": 313,
+        "comments": 253,
+        "author": "taubek",
+        "time": 1787467311000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -547,8 +649,8 @@
         "id": "hn-49410362",
         "title": "A website for debloated open source alternatives",
         "url": "https://debloat.dev/",
-        "score": 264,
-        "comments": 91,
+        "score": 312,
+        "comments": 97,
         "author": "ryanvogel",
         "time": 1787504050000,
         "source": "Hacker News",
@@ -556,13 +658,13 @@
         "isAI": false
       },
       {
-        "id": "hn-49413320",
-        "title": "Everything I own, owned",
-        "url": "https://schlarp.com/posts/everything-i-own-owned/",
-        "score": 255,
-        "comments": 80,
-        "author": "schlarpc",
-        "time": 1787524864000,
+        "id": "hn-49411395",
+        "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+        "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+        "score": 234,
+        "comments": 110,
+        "author": "tchalla",
+        "time": 1787511354000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -571,8 +673,8 @@
         "id": "hn-49408550",
         "title": "Malware infects Android-based automotive head unit firmware",
         "url": "https://securelist.com/android-head-unit-malware/121106/",
-        "score": 214,
-        "comments": 106,
+        "score": 233,
+        "comments": 121,
         "author": "campuscodi",
         "time": 1787490338000,
         "source": "Hacker News",
@@ -583,8 +685,8 @@
         "id": "hn-49408858",
         "title": "My favorite nonfiction books about cults, scams, and schemes",
         "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-        "score": 196,
-        "comments": 67,
+        "score": 222,
+        "comments": 82,
         "author": "bwb",
         "time": 1787493070000,
         "source": "Hacker News",
@@ -598,6 +700,7 @@
     "sources": [
       "GitHub",
       "Hacker News",
+      "arXiv",
       "Dev.to",
       "InfoQ",
       "Product Hunt"
