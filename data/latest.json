@@ -1,41 +1,17 @@
 {
-  "updateTime": 1788433106498,
-  "updateTimeStr": "2026/9/3 18:58:26",
-  "totalCount": 180,
+  "updateTime": 1788451850844,
+  "updateTimeStr": "2026/9/4 00:10:50",
+  "totalCount": 182,
   "daily": {
     "mustRead": [
-      {
-        "id": "hn-49525378",
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "score": 1394,
-        "comments": 1357,
-        "author": "denysvitali",
-        "time": 1788285233000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
       {
         "id": "hn-49537553",
         "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-        "score": 1039,
-        "comments": 580,
+        "score": 1124,
+        "comments": 631,
         "author": "bratao",
         "time": 1788361960000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-49535284",
-        "title": "Can I opt out of my input or output data being used for training?",
-        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-        "score": 451,
-        "comments": 206,
-        "author": "teekert",
-        "time": 1788352239000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,10 +20,22 @@
         "id": "hn-49536375",
         "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
         "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "score": 434,
-        "comments": 212,
+        "score": 492,
+        "comments": 242,
         "author": "jakobgreenfeld",
         "time": 1788357599000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49535284",
+        "title": "Can I opt out of my input or output data being used for training?",
+        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+        "score": 480,
+        "comments": 232,
+        "author": "teekert",
+        "time": 1788352239000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,10 +44,22 @@
         "id": "hn-49535548",
         "title": "Aging brains blend memories together instead of just forgetting them",
         "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-        "score": 294,
-        "comments": 119,
+        "score": 330,
+        "comments": 130,
         "author": "mdp2021",
         "time": 1788353949000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49550614",
+        "title": "ChatGPT Is Throwing 404",
+        "url": "https://chatgpt.com/",
+        "score": 326,
+        "comments": 250,
+        "author": "stacktrace",
+        "time": 1788446807000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-ByteByteGoHq-system-design-101",
+        "title": "ByteByteGoHq/system-design-101",
+        "url": "https://github.com/ByteByteGoHq/system-design-101",
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "language": "Unknown",
+        "starsToday": "158 stars today",
+        "totalStars": "88,194",
+        "time": 1788451847296,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-magnitudedev-magnitude",
         "title": "magnitudedev/magnitude",
         "url": "https://github.com/magnitudedev/magnitude",
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
         "language": "TypeScript",
         "starsToday": "130 stars today",
-        "totalStars": "1,730",
-        "time": 1788433104000,
+        "totalStars": "1,831",
+        "time": 1788451847296,
         "source": "GitHub",
         "category": "github"
       },
@@ -84,9 +96,9 @@
         "url": "https://github.com/Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "language": "Python",
-        "starsToday": "799 stars today",
-        "totalStars": "45,814",
-        "time": 1788433104000,
+        "starsToday": "498 stars today",
+        "totalStars": "45,914",
+        "time": 1788451847296,
         "source": "GitHub",
         "category": "github"
       },
@@ -96,9 +108,9 @@
         "url": "https://github.com/google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "language": "Python",
-        "starsToday": "343 stars today",
-        "totalStars": "30,526",
-        "time": 1788433103999,
+        "starsToday": "1,626 stars today",
+        "totalStars": "30,603",
+        "time": 1788451847295,
         "source": "GitHub",
         "category": "github"
       },
@@ -108,9 +120,9 @@
         "url": "https://github.com/averygan/reclip",
         "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
         "language": "HTML",
-        "starsToday": "673 stars today",
-        "totalStars": "8,132",
-        "time": 1788433103999,
+        "starsToday": "123 stars today",
+        "totalStars": "8,244",
+        "time": 1788451847295,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +133,8 @@
         "description": "翻墙-科学上网",
         "language": "Kotlin",
         "starsToday": "539 stars today",
-        "totalStars": "51,855",
-        "time": 1788433103999,
+        "totalStars": "52,025",
+        "time": 1788451847295,
         "source": "GitHub",
         "category": "github"
       },
@@ -132,21 +144,9 @@
         "url": "https://github.com/addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
-        "starsToday": "280 stars today",
-        "totalStars": "91,837",
-        "time": 1788433103999,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-ByteByteGoHq-system-design-101",
-        "title": "ByteByteGoHq/system-design-101",
-        "url": "https://github.com/ByteByteGoHq/system-design-101",
-        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-        "language": "Unknown",
-        "starsToday": "158 stars today",
-        "totalStars": "88,064",
-        "time": 1788433103999,
+        "starsToday": "260 stars today",
+        "totalStars": "91,913",
+        "time": 1788451847295,
         "source": "GitHub",
         "category": "github"
       },
@@ -156,9 +156,9 @@
         "url": "https://github.com/JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
         "language": "Go",
-        "starsToday": "238 stars today",
-        "totalStars": "102,862",
-        "time": 1788433103998,
+        "starsToday": "545 stars today",
+        "totalStars": "102,962",
+        "time": 1788451847294,
         "source": "GitHub",
         "category": "github"
       },
@@ -168,21 +168,9 @@
         "url": "https://github.com/blader/humanizer",
         "description": "Agent skill that removes signs of AI-generated writing from text",
         "language": "Python",
-        "starsToday": "374 stars today",
-        "totalStars": "40,966",
-        "time": 1788433103998,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-DietrichGebert-ponytail",
-        "title": "DietrichGebert/ponytail",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "starsToday": "1,354 stars today",
-        "totalStars": "122,673",
-        "time": 1788433103997,
+        "starsToday": "1,214 stars today",
+        "totalStars": "41,219",
+        "time": 1788451847294,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +181,8 @@
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "starsToday": "277 stars today",
-        "totalStars": "173,388",
-        "time": 1788433103997,
+        "totalStars": "173,508",
+        "time": 1788451847293,
         "source": "GitHub",
         "category": "github"
       },
@@ -204,14 +192,35 @@
         "url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
-        "starsToday": "516 stars today",
-        "totalStars": "246,680",
-        "time": 1788433103997,
+        "starsToday": "749 stars today",
+        "totalStars": "246,863",
+        "time": 1788451847293,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-mattpocock-skills",
+        "title": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "starsToday": "1,576 stars today",
+        "totalStars": "246,664",
+        "time": 1788451847292,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/airtop",
+        "title": "Agent Builder by Airtop",
+        "url": "https://www.producthunt.com/products/airtop",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1787669286000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/tabbitai",
         "title": "Tabbit AI ",
@@ -222,11 +231,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/airtop",
-        "title": "Agent Builder by Airtop",
-        "url": "https://www.producthunt.com/products/airtop",
+        "id": "ph-https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+        "title": "Stitch AI by Dynamic Mockups",
+        "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
         "description": "Discussion\n            |\n            Link",
-        "time": 1787669286000,
+        "time": 1788266363000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -240,11 +249,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
-        "title": "Stitch AI by Dynamic Mockups",
-        "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+        "id": "ph-https://www.producthunt.com/products/gauth-ai-course",
+        "title": "Gauth AI Course",
+        "url": "https://www.producthunt.com/products/gauth-ai-course",
         "description": "Discussion\n            |\n            Link",
-        "time": 1788266363000,
+        "time": 1787933355000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -278,24 +287,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-4489060",
-        "title": "Velocidade de entrega e custo de manutenção pós IA",
-        "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
-        "description": "Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...",
-        "author": "Elves Santos",
-        "tags": [
-          "ai",
-          "braziliandevs",
-          "career",
-          "productivity"
-        ],
-        "reactions": 87,
-        "comments": 5,
-        "time": 1787839088000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-4522857",
         "title": "I Asked for a Portfolio but Got a Filing Cabinet",
         "url": "https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8",
@@ -307,7 +298,7 @@
           "design",
           "ux"
         ],
-        "reactions": 66,
+        "reactions": 73,
         "comments": 25,
         "time": 1788020930000,
         "source": "Dev.to",
@@ -324,27 +315,9 @@
           "beginners",
           "webdev"
         ],
-        "reactions": 63,
-        "comments": 49,
+        "reactions": 73,
+        "comments": 52,
         "time": 1788242037000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-4496903",
-        "title": "NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code",
-        "url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
-        "description": "Your AI coding agent does exactly what you ask, which isn't always what you mean. NexPath catches vague prompts before they become bugs.",
-        "author": "Sarvar Nadaf",
-        "tags": [
-          "ai",
-          "programming",
-          "showdev",
-          "discuss"
-        ],
-        "reactions": 57,
-        "comments": 37,
-        "time": 1787836913000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -367,6 +340,23 @@
         "category": "practice"
       },
       {
+        "id": "devto-4557766",
+        "title": "What do you build when you can build anything?",
+        "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
+        "description": "My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...",
+        "author": "Alexandra",
+        "tags": [
+          "ai",
+          "productivity",
+          "discuss"
+        ],
+        "reactions": 51,
+        "comments": 30,
+        "time": 1788367089000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
         "id": "devto-4539686",
         "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
         "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
@@ -379,7 +369,7 @@
           "rails"
         ],
         "reactions": 50,
-        "comments": 5,
+        "comments": 6,
         "time": 1788204098000,
         "source": "Dev.to",
         "category": "practice"
@@ -401,9 +391,37 @@
         "time": 1788360852000,
         "source": "Dev.to",
         "category": "practice"
+      },
+      {
+        "id": "devto-4543414",
+        "title": "React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is",
+        "url": "https://dev.to/shubhradev/react-19-actions-i-explained-3-hooks-without-ever-explaining-what-an-action-is-m79",
+        "description": "Three parts into this series, and if you'd asked me to define the word sitting underneath every...",
+        "author": "Shubhra Pokhariya",
+        "tags": [
+          "react",
+          "javascript",
+          "webdev",
+          "programming"
+        ],
+        "reactions": 46,
+        "comments": 15,
+        "time": 1788247835000,
+        "source": "Dev.to",
+        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&utm_medium=article",
+        "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
+        "url": "https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1788470360000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&utm_medium=article",
         "title": "从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后",
@@ -470,16 +488,6 @@
         "url": "https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article",
         "description": "点击查看原文>",
         "time": 1788452160000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f?utm_source=rss&utm_medium=article",
-        "title": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
-        "url": "https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1788444300000,
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
@@ -601,13 +609,13 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-49535752",
-        "title": "A note on subscription prices from LWN",
-        "url": "https://lwn.net/Articles/1090585/",
-        "score": 707,
-        "comments": 145,
-        "author": "rwky",
-        "time": 1788355032000,
+        "id": "hn-49548395",
+        "title": "Audacity 4.0",
+        "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "score": 709,
+        "comments": 167,
+        "author": "ClydeN",
+        "time": 1788432788000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -616,22 +624,10 @@
         "id": "hn-49541256",
         "title": "Muse Spark 1.3",
         "url": "https://developer.meta.com/ai/models/muse-spark/",
-        "score": 597,
-        "comments": 393,
+        "score": 659,
+        "comments": 432,
         "author": "bvaldivielso",
         "time": 1788377704000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49529621",
-        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-        "score": 405,
-        "comments": 266,
-        "author": "tatersolid",
-        "time": 1788304663000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -640,34 +636,10 @@
         "id": "hn-49537131",
         "title": "Google avoids a breakup of its ad tech business",
         "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-        "score": 402,
-        "comments": 285,
+        "score": 448,
+        "comments": 324,
         "author": "donohoe",
         "time": 1788360376000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49533497",
-        "title": "Commodore 64 released September 1, 1982",
-        "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-        "score": 342,
-        "comments": 177,
-        "author": "giuliomagnifico",
-        "time": 1788338203000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49529132",
-        "title": "My local model setup on an M4 Pro Mac Mini",
-        "url": "https://lws.io/blog/my-local-model-setup/",
-        "score": 307,
-        "comments": 185,
-        "author": "raybb",
-        "time": 1788301852000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -676,8 +648,8 @@
         "id": "hn-49536079",
         "title": "Biggest dark matter detector spots a single weird particle",
         "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-        "score": 304,
-        "comments": 105,
+        "score": 331,
+        "comments": 120,
         "author": "randycupertino",
         "time": 1788356429000,
         "source": "Hacker News",
@@ -685,13 +657,13 @@
         "isAI": false
       },
       {
-        "id": "hn-49536606",
-        "title": "Exit the Cave",
-        "url": "https://turtlespace.blog/p/exit-the-cave",
-        "score": 270,
-        "comments": 95,
-        "author": "akkartik",
-        "time": 1788358605000,
+        "id": "hn-49546753",
+        "title": "Pre-Release of Polars 2.0",
+        "url": "https://pola.rs/posts/announcing-polars-2/",
+        "score": 316,
+        "comments": 105,
+        "author": "komape",
+        "time": 1788418748000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -700,8 +672,8 @@
         "id": "hn-49541458",
         "title": "Fable 5.1 World Modeling",
         "url": "https://github.com/PhiloLabs/fable51-worlds",
-        "score": 265,
-        "comments": 77,
+        "score": 314,
+        "comments": 91,
         "author": "surreal_",
         "time": 1788378541000,
         "source": "Hacker News",
@@ -709,13 +681,49 @@
         "isAI": false
       },
       {
-        "id": "hn-49541519",
-        "title": "I wanna live an NPC life",
-        "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-        "score": 260,
-        "comments": 223,
-        "author": "conferza",
-        "time": 1788378773000,
+        "id": "hn-49536606",
+        "title": "Exit the Cave",
+        "url": "https://turtlespace.blog/p/exit-the-cave",
+        "score": 293,
+        "comments": 101,
+        "author": "akkartik",
+        "time": 1788358605000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49508608",
+        "title": "Reverse Engineering Unknown File Formats with ImHex",
+        "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+        "score": 243,
+        "comments": 46,
+        "author": "carlos-menezes",
+        "time": 1788177665000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49517018",
+        "title": "Wendell Berry has died",
+        "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+        "score": 227,
+        "comments": 115,
+        "author": "Curiositry",
+        "time": 1788227398000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49508405",
+        "title": "Holden's Lightning Flight",
+        "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+        "score": 206,
+        "comments": 45,
+        "author": "ColinWright",
+        "time": 1788175784000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
