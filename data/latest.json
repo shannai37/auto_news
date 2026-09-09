@@ -1,27 +1,15 @@
 {
-  "updateTime": 1788970743540,
-  "updateTimeStr": "2026/9/10 00:19:03",
-  "totalCount": 160,
+  "updateTime": 1788986745857,
+  "updateTimeStr": "2026/9/10 04:45:45",
+  "totalCount": 157,
   "daily": {
     "mustRead": [
       {
-        "id": "hn-49615537",
-        "title": "Muse – Meta’s personal AI agent",
-        "url": "https://ai.meta.com/muse/",
-        "score": 597,
-        "comments": 651,
-        "author": "yks",
-        "time": 1788895500000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
         "id": "hn-49623754",
-        "title": "Claude, change the \"Add to Cart\" button to blue",
+        "title": "Claude, change the “Add to Cart” button to blue",
         "url": "https://opusfived.dev/",
-        "score": 577,
-        "comments": 223,
+        "score": 859,
+        "comments": 355,
         "author": "matthieu_bl",
         "time": 1788946786000,
         "source": "Hacker News",
@@ -29,23 +17,11 @@
         "isAI": true
       },
       {
-        "id": "hn-49616968",
-        "title": "Tao: Open math problems being non-renewably mined by AI",
-        "url": "https://mathstodon.xyz/@tao/117237320796901560",
-        "score": 444,
-        "comments": 381,
-        "author": "_alternator_",
-        "time": 1788901252000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
         "id": "hn-49626190",
-        "title": "Tailwind Labs is joining Shopify",
+        "title": "Shopify acquires Tailwind",
         "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-        "score": 436,
-        "comments": 167,
+        "score": 728,
+        "comments": 304,
         "author": "EdwinHoksberg",
         "time": 1788960431000,
         "source": "Hacker News",
@@ -53,13 +29,37 @@
         "isAI": true
       },
       {
-        "id": "hn-49624163",
-        "title": "How An AI math breakthrough ignited a controversy",
-        "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-        "score": 198,
-        "comments": 206,
-        "author": "pseudolus",
-        "time": 1788949541000,
+        "id": "hn-49615537",
+        "title": "Muse – Meta’s personal AI agent",
+        "url": "https://ai.meta.com/muse/",
+        "score": 620,
+        "comments": 678,
+        "author": "yks",
+        "time": 1788895500000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49627370",
+        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "score": 255,
+        "comments": 96,
+        "author": "ModelForge",
+        "time": 1788964667000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-49630253",
+        "title": "AirPods 5",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "score": 234,
+        "comments": 195,
+        "author": "awad",
+        "time": 1788975564000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-OpenDCAI-GameFactory-3A",
+        "title": "OpenDCAI/GameFactory-3A",
+        "url": "https://github.com/OpenDCAI/GameFactory-3A",
+        "description": "A comprehensive open-source 3A game-generation skill and asset framework.",
+        "language": "Python",
+        "starsToday": "32 stars today",
+        "totalStars": "594",
+        "time": 1788986741429,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-github-spec-kit",
         "title": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
         "language": "Python",
         "starsToday": "320 stars today",
-        "totalStars": "134,381",
-        "time": 1788970739863,
+        "totalStars": "134,405",
+        "time": 1788986741429,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +97,8 @@
         "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
         "language": "Python",
         "starsToday": "54 stars today",
-        "totalStars": "39,713",
-        "time": 1788970739863,
+        "totalStars": "39,719",
+        "time": 1788986741429,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +109,8 @@
         "description": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.",
         "language": "Python",
         "starsToday": "54 stars today",
-        "totalStars": "6,452",
-        "time": 1788970739863,
+        "totalStars": "6,455",
+        "time": 1788986741429,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,56 +121,8 @@
         "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
         "language": "Python",
         "starsToday": "427 stars today",
-        "totalStars": "5,928",
-        "time": 1788970739863,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-smicallef-spiderfoot",
-        "title": "smicallef/spiderfoot",
-        "url": "https://github.com/smicallef/spiderfoot",
-        "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-        "language": "Python",
-        "starsToday": "69 stars today",
-        "totalStars": "21,976",
-        "time": 1788970739862,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-openai-skills",
-        "title": "openai/skills",
-        "url": "https://github.com/openai/skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "starsToday": "449 stars today",
-        "totalStars": "26,750",
-        "time": 1788970739862,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-browser-use-browser-use",
-        "title": "browser-use/browser-use",
-        "url": "https://github.com/browser-use/browser-use",
-        "description": "Agents that use the browser.",
-        "language": "Python",
-        "starsToday": "819 stars today",
-        "totalStars": "113,919",
-        "time": 1788970739862,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-OpenDCAI-GameFactory-3A",
-        "title": "OpenDCAI/GameFactory-3A",
-        "url": "https://github.com/OpenDCAI/GameFactory-3A",
-        "description": "A comprehensive open-source 3A game-generation skill and asset framework.",
-        "language": "Python",
-        "starsToday": "32 stars today",
-        "totalStars": "591",
-        "time": 1788970739862,
+        "totalStars": "5,948",
+        "time": 1788986741429,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +133,8 @@
         "description": "A collective list of free APIs",
         "language": "Python",
         "starsToday": "583 stars today",
-        "totalStars": "477,994",
-        "time": 1788970739861,
+        "totalStars": "478,084",
+        "time": 1788986741428,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +145,8 @@
         "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
         "language": "Python",
         "starsToday": "234 stars today",
-        "totalStars": "54,158",
-        "time": 1788970739861,
+        "totalStars": "54,191",
+        "time": 1788986741428,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,34 +157,61 @@
         "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
         "language": "Python",
         "starsToday": "695 stars today",
-        "totalStars": "3,610",
-        "time": 1788970739861,
+        "totalStars": "3,706",
+        "time": 1788986741428,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-freestylefly-awesome-gpt-image-2",
-        "title": "freestylefly/awesome-gpt-image-2",
-        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "language": "JavaScript",
-        "starsToday": "612 stars today",
-        "totalStars": "29,872",
-        "time": 1788970739748,
+        "id": "gh-smicallef-spiderfoot",
+        "title": "smicallef/spiderfoot",
+        "url": "https://github.com/smicallef/spiderfoot",
+        "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+        "language": "Python",
+        "starsToday": "69 stars today",
+        "totalStars": "21,985",
+        "time": 1788986741428,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-openai-skills",
+        "title": "openai/skills",
+        "url": "https://github.com/openai/skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "starsToday": "449 stars today",
+        "totalStars": "26,760",
+        "time": 1788986741428,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-browser-use-browser-use",
+        "title": "browser-use/browser-use",
+        "url": "https://github.com/browser-use/browser-use",
+        "description": "Agents that use the browser.",
+        "language": "Python",
+        "starsToday": "819 stars today",
+        "totalStars": "113,947",
+        "time": 1788986741428,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-rohitg00-ai-engineering-from-scratch",
+        "title": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "starsToday": "382 stars today",
+        "totalStars": "53,604",
+        "time": 1788986740414,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
-      {
-        "id": "ph-https://www.producthunt.com/products/openai",
-        "title": "ChatGPT Images 2.5",
-        "url": "https://www.producthunt.com/products/openai",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1788896865000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
       {
         "id": "ph-https://www.producthunt.com/products/workid-ai",
         "title": "WorkID.ai",
@@ -236,6 +227,24 @@
         "url": "https://www.producthunt.com/products/basedash",
         "description": "Discussion\n            |\n            Link",
         "time": 1788903829000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/openai",
+        "title": "ChatGPT Images 2.5",
+        "url": "https://www.producthunt.com/products/openai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1788896865000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+        "title": "Kopai",
+        "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1788803134000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -258,11 +267,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-        "title": "Kopai",
-        "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+        "id": "ph-https://www.producthunt.com/products/airuncode",
+        "title": "Airuncode",
+        "url": "https://www.producthunt.com/products/airuncode",
         "description": "Discussion\n            |\n            Link",
-        "time": 1788803134000,
+        "time": 1788736615000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -272,15 +281,6 @@
         "url": "https://www.producthunt.com/products/coldtea",
         "description": "Discussion\n            |\n            Link",
         "time": 1787918455000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/airuncode",
-        "title": "Airuncode",
-        "url": "https://www.producthunt.com/products/airuncode",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1788736615000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -299,25 +299,8 @@
           "beginners"
         ],
         "reactions": 215,
-        "comments": 111,
+        "comments": 114,
         "time": 1788417897000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-4557766",
-        "title": "What do you build when you can build anything?",
-        "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
-        "description": "My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...",
-        "author": "Alexandra",
-        "tags": [
-          "ai",
-          "productivity",
-          "discuss"
-        ],
-        "reactions": 107,
-        "comments": 61,
-        "time": 1788367089000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -333,8 +316,8 @@
           "ai",
           "mcp"
         ],
-        "reactions": 86,
-        "comments": 74,
+        "reactions": 95,
+        "comments": 75,
         "time": 1788752059000,
         "source": "Dev.to",
         "category": "practice"
@@ -369,8 +352,8 @@
           "productivity",
           "career"
         ],
-        "reactions": 69,
-        "comments": 24,
+        "reactions": 71,
+        "comments": 25,
         "time": 1788870706000,
         "source": "Dev.to",
         "category": "practice"
@@ -387,8 +370,8 @@
           "webdev",
           "agents"
         ],
-        "reactions": 47,
-        "comments": 44,
+        "reactions": 57,
+        "comments": 47,
         "time": 1788847923000,
         "source": "Dev.to",
         "category": "practice"
@@ -428,9 +411,37 @@
         "time": 1788519894000,
         "source": "Dev.to",
         "category": "practice"
+      },
+      {
+        "id": "devto-4582977",
+        "title": "Angular DataGrid: A Free, Open-Source AG Grid Alternative Built for Scale",
+        "url": "https://dev.to/hadil/angular-datagrid-a-free-open-source-ag-grid-alternative-built-for-scale-5gkm",
+        "description": "Angular has changed in recent versions, especially around how developers handle reactive state....",
+        "author": "Hadil Ben Abdallah",
+        "tags": [
+          "webdev",
+          "programming",
+          "angular",
+          "opensource"
+        ],
+        "reactions": 39,
+        "comments": 8,
+        "time": 1788858444000,
+        "source": "Dev.to",
+        "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article",
+        "title": "从 Harness 到 Loop 的持续进化",
+        "url": "https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1789002275000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article",
         "title": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
@@ -500,16 +511,6 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article",
-        "title": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
-        "url": "https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1788968284000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
     "papers": []
@@ -517,37 +518,13 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-49605915",
-        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "score": 1919,
-        "comments": 785,
-        "author": "procedurecall",
-        "time": 1788846148000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49579443",
-        "title": "We built our house for LAN parties (2024)",
-        "url": "https://lanparty.house/",
-        "score": 562,
-        "comments": 357,
-        "author": "fittingopposite",
-        "time": 1788633880000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49624603",
-        "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-        "url": "https://news.ycombinator.com/item?id=49624603",
-        "score": 304,
-        "comments": 158,
-        "author": "nickweb",
-        "time": 1788952766000,
+        "id": "hn-49630931",
+        "title": "iPhone Duo",
+        "url": "https://www.apple.com/iphone-duo/",
+        "score": 500,
+        "comments": 1132,
+        "author": "thecosmicfrog",
+        "time": 1788977743000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -556,8 +533,8 @@
         "id": "hn-49624823",
         "title": "Desert Ant Labs: local, fast models that run on device",
         "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-        "score": 249,
-        "comments": 65,
+        "score": 341,
+        "comments": 85,
         "author": "willwhitedc",
         "time": 1788953986000,
         "source": "Hacker News",
@@ -566,10 +543,10 @@
       },
       {
         "id": "hn-49624856",
-        "title": "I advertise malicious software on Google Ads",
+        "title": "How I advertise malicious software on Google Ads",
         "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-        "score": 243,
-        "comments": 140,
+        "score": 312,
+        "comments": 190,
         "author": "xlii",
         "time": 1788954201000,
         "source": "Hacker News",
@@ -577,25 +554,37 @@
         "isAI": false
       },
       {
-        "id": "hn-49617581",
-        "title": "Large language models develop novel social biases through adaptive exploration",
-        "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-        "score": 196,
-        "comments": 103,
-        "author": "paimapi",
-        "time": 1788904058000,
+        "id": "hn-49614280",
+        "title": "What do Visa and Mastercard do? An intro to card networks",
+        "url": "https://tautology.town/2026/06/01/card-networks.html",
+        "score": 199,
+        "comments": 108,
+        "author": "evakhoury",
+        "time": 1788891065000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
       },
       {
-        "id": "hn-49623937",
-        "title": "Lotus Notes and the dangers of starting from scratch",
-        "url": "https://buttondown.com/blog/lotus-notes-email",
-        "score": 129,
-        "comments": 83,
-        "author": "maguay",
-        "time": 1788948075000,
+        "id": "hn-49628493",
+        "title": "No Man's Sky Cosmos",
+        "url": "https://www.nomanssky.com/cosmos-update/",
+        "score": 186,
+        "comments": 200,
+        "author": "Limb",
+        "time": 1788968862000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49630151",
+        "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+        "score": 159,
+        "comments": 119,
+        "author": "meetpateltech",
+        "time": 1788975200000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -604,8 +593,8 @@
         "id": "hn-49586494",
         "title": "Coyote v. Acme (1990)",
         "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
-        "score": 110,
-        "comments": 46,
+        "score": 148,
+        "comments": 72,
         "author": "ChrisArchitect",
         "time": 1788702228000,
         "source": "Hacker News",
@@ -613,25 +602,37 @@
         "isAI": false
       },
       {
-        "id": "hn-49621102",
-        "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-        "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-        "score": 92,
-        "comments": 20,
-        "author": "porridgeraisin",
-        "time": 1788929026000,
+        "id": "hn-49623937",
+        "title": "Lotus Notes and the dangers of starting from scratch",
+        "url": "https://buttondown.com/blog/lotus-notes-email",
+        "score": 143,
+        "comments": 109,
+        "author": "maguay",
+        "time": 1788948075000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
       },
       {
-        "id": "hn-49580761",
-        "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-        "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-        "score": 76,
-        "comments": 30,
-        "author": "cisc",
-        "time": 1788642858000,
+        "id": "hn-49630566",
+        "title": "Apple Watch Series 12",
+        "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+        "score": 141,
+        "comments": 137,
+        "author": "Lealen",
+        "time": 1788976577000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-49628576",
+        "title": "GNU Radio in the browser",
+        "url": "https://gnuradioworld.com/",
+        "score": 134,
+        "comments": 18,
+        "author": "kristianpaul",
+        "time": 1788969186000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
