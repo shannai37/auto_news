@@ -1,15 +1,15 @@
 {
-  "updateTime": 1791584916327,
-  "updateTimeStr": "2026/10/10 06:28:36",
-  "totalCount": 172,
+  "updateTime": 1791609459393,
+  "updateTimeStr": "2026/10/10 13:17:39",
+  "totalCount": 143,
   "daily": {
     "mustRead": [
       {
         "id": "hn-50018817",
         "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
         "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-        "score": 357,
-        "comments": 153,
+        "score": 390,
+        "comments": 171,
         "author": "franze",
         "time": 1791543828000,
         "source": "Hacker News",
@@ -20,22 +20,10 @@
         "id": "hn-50018350",
         "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
         "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "score": 295,
-        "comments": 197,
+        "score": 326,
+        "comments": 207,
         "author": "trakkstar",
         "time": 1791540026000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-50002665",
-        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-        "score": 262,
-        "comments": 127,
-        "author": "pyduan",
-        "time": 1791443254000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +32,8 @@
         "id": "hn-50023450",
         "title": "Typesafe AI raises $870M at $7.5B",
         "url": "https://typesafe.ai/blog/series-ai",
-        "score": 204,
-        "comments": 164,
+        "score": 322,
+        "comments": 235,
         "author": "tosh",
         "time": 1791565351000,
         "source": "Hacker News",
@@ -53,13 +41,25 @@
         "isAI": true
       },
       {
-        "id": "hn-50013902",
-        "title": "OpenAI, the Partition Principle, and Mathematics",
-        "url": "https://karagila.org/2026/openai-pp/",
-        "score": 193,
-        "comments": 295,
-        "author": "md224",
-        "time": 1791502183000,
+        "id": "hn-50019056",
+        "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+        "score": 130,
+        "comments": 69,
+        "author": "piratebroadcast",
+        "time": 1791545780000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-50027118",
+        "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+        "score": 120,
+        "comments": 96,
+        "author": "Zambyte",
+        "time": 1791583235000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,26 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-tirth8205-code-review-graph",
-        "title": "tirth8205/code-review-graph",
-        "url": "https://github.com/tirth8205/code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "starsToday": "28 stars today",
-        "totalStars": "32,007",
-        "time": 1791584912281,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-K-Dense-AI-scientific-agent-skills",
         "title": "K-Dense-AI/scientific-agent-skills",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
         "language": "Python",
-        "starsToday": "134 stars today",
-        "totalStars": "48,164",
-        "time": 1791584912281,
+        "starsToday": "130 stars today",
+        "totalStars": "48,200",
+        "time": 1791609456034,
         "source": "GitHub",
         "category": "github"
       },
@@ -96,9 +84,9 @@
         "url": "https://github.com/bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "language": "Python",
-        "starsToday": "238 stars today",
-        "totalStars": "53,186",
-        "time": 1791584912281,
+        "starsToday": "229 stars today",
+        "totalStars": "53,244",
+        "time": 1791609456034,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,32 +97,8 @@
         "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
         "language": "Python",
         "starsToday": "51 stars today",
-        "totalStars": "47,730",
-        "time": 1791584912281,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-unslothai-unsloth",
-        "title": "unslothai/unsloth",
-        "url": "https://github.com/unslothai/unsloth",
-        "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
-        "language": "Python",
-        "starsToday": "140 stars today",
-        "totalStars": "77,646",
-        "time": 1791584912280,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-headroomlabs-ai-headroom",
-        "title": "headroomlabs-ai/headroom",
-        "url": "https://github.com/headroomlabs-ai/headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "starsToday": "120 stars today",
-        "totalStars": "74,839",
-        "time": 1791584912280,
+        "totalStars": "47,745",
+        "time": 1791609456034,
         "source": "GitHub",
         "category": "github"
       },
@@ -144,9 +108,9 @@
         "url": "https://github.com/hugohe3/ppt-master",
         "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
         "language": "Python",
-        "starsToday": "308 stars today",
-        "totalStars": "58,708",
-        "time": 1791584912280,
+        "starsToday": "372 stars today",
+        "totalStars": "58,825",
+        "time": 1791609456033,
         "source": "GitHub",
         "category": "github"
       },
@@ -156,9 +120,45 @@
         "url": "https://github.com/datawhalechina/hello-agents",
         "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
         "language": "Python",
-        "starsToday": "193 stars today",
-        "totalStars": "82,248",
-        "time": 1791584912280,
+        "starsToday": "205 stars today",
+        "totalStars": "82,295",
+        "time": 1791609456033,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-tirth8205-code-review-graph",
+        "title": "tirth8205/code-review-graph",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "starsToday": "27 stars today",
+        "totalStars": "32,012",
+        "time": 1791609456033,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-unslothai-unsloth",
+        "title": "unslothai/unsloth",
+        "url": "https://github.com/unslothai/unsloth",
+        "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+        "language": "Python",
+        "starsToday": "132 stars today",
+        "totalStars": "77,659",
+        "time": 1791609456032,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-headroomlabs-ai-headroom",
+        "title": "headroomlabs-ai/headroom",
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "starsToday": "104 stars today",
+        "totalStars": "74,854",
+        "time": 1791609456032,
         "source": "GitHub",
         "category": "github"
       },
@@ -168,9 +168,9 @@
         "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
         "description": "",
         "language": "Python",
-        "starsToday": "147 stars today",
-        "totalStars": "1,188",
-        "time": 1791584912279,
+        "starsToday": "114 stars today",
+        "totalStars": "1,200",
+        "time": 1791609456031,
         "source": "GitHub",
         "category": "github"
       },
@@ -180,9 +180,9 @@
         "url": "https://github.com/ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
-        "starsToday": "388 stars today",
-        "totalStars": "56,112",
-        "time": 1791584912279,
+        "starsToday": "389 stars today",
+        "totalStars": "56,154",
+        "time": 1791609456031,
         "source": "GitHub",
         "category": "github"
       },
@@ -192,9 +192,9 @@
         "url": "https://github.com/storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "language": "Rust",
-        "starsToday": "3,723 stars today",
-        "totalStars": "11,258",
-        "time": 1791584911371,
+        "starsToday": "3,752 stars today",
+        "totalStars": "12,017",
+        "time": 1791609455792,
         "source": "GitHub",
         "category": "github"
       },
@@ -204,14 +204,24 @@
         "url": "https://github.com/Robbyant/lingbot-map",
         "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
         "language": "Python",
-        "starsToday": "109 stars today",
-        "totalStars": "17,668",
-        "time": 1791584911371,
+        "starsToday": "110 stars today",
+        "totalStars": "17,784",
+        "time": 1791609455792,
         "source": "GitHub",
         "category": "github"
       }
     ],
-    "products": [],
+    "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/mailwell-2",
+        "title": "Mailwell",
+        "url": "https://www.producthunt.com/products/mailwell-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1791330454000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      }
+    ],
     "practice": [
       {
         "id": "devto-4793133",
@@ -261,7 +271,7 @@
           "productivity",
           "ai"
         ],
-        "reactions": 68,
+        "reactions": 69,
         "comments": 27,
         "time": 1791356366000,
         "source": "Dev.to",
@@ -333,8 +343,8 @@
           "agents",
           "discuss"
         ],
-        "reactions": 60,
-        "comments": 84,
+        "reactions": 61,
+        "comments": 88,
         "time": 1791180145000,
         "source": "Dev.to",
         "category": "practice"
@@ -351,14 +361,34 @@
           "ai",
           "machinelearning"
         ],
-        "reactions": 53,
-        "comments": 57,
+        "reactions": 56,
+        "comments": 60,
         "time": 1791442815000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&utm_medium=article",
+        "title": "企业AI 走向生产环境，如何避免新一轮技术锁定",
+        "url": "https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1791637702000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+        "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1791626400000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&utm_medium=article",
         "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
@@ -418,161 +448,18 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/BEgaPOXCCtDaPGJiCtSi?utm_source=rss&utm_medium=article",
-        "title": "乱序 HTML 流技术从 JavaScript 框架转移到浏览器中",
-        "url": "https://www.infoq.cn/article/BEgaPOXCCtDaPGJiCtSi?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1791559800000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/ZxZMY50COGlUNHLSAEUo?utm_source=rss&utm_medium=article",
-        "title": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
-        "url": "https://www.infoq.cn/article/ZxZMY50COGlUNHLSAEUo?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1791554595000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2610.10541",
-        "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-        "url": "https://arxiv.org/abs/2610.10541",
-        "description": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsui",
-        "author": "Marcelo Valentim Silva, Hannes Herrmann, Valerie Maxville",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10549",
-        "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-        "url": "https://arxiv.org/abs/2610.10549",
-        "description": "arXiv:2610.10549v1 Announce Type: new \nAbstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a ",
-        "author": "Yipeng Li, Ashutosh Hathidara, Jane Lo, Harshavardhan Abichandani, Gunraj Singh, Atin Ghosh",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10590",
-        "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-        "url": "https://arxiv.org/abs/2610.10590",
-        "description": "arXiv:2610.10590v1 Announce Type: new \nAbstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at i",
-        "author": "Jan-Peter Franke",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10611",
-        "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-        "url": "https://arxiv.org/abs/2610.10611",
-        "description": "arXiv:2610.10611v1 Announce Type: new \nAbstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with h",
-        "author": "Chien-Ping Lu",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10629",
-        "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-        "url": "https://arxiv.org/abs/2610.10629",
-        "description": "arXiv:2610.10629v1 Announce Type: new \nAbstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it ",
-        "author": "Ravil Akhtyamov",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10635",
-        "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-        "url": "https://arxiv.org/abs/2610.10635",
-        "description": "arXiv:2610.10635v1 Announce Type: new \nAbstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigator, this \\emph{instruction gap} drops success rate ",
-        "author": "Xi Chen, Zhe Liu, Xiaogang Xu, Jiafei Xu, Chunyi Zhou, Yuan Su, Rui Zeng, Tianyu Du, Kelu Yao, Chao Li, Shouling Ji",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10786",
-        "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-        "url": "https://arxiv.org/abs/2610.10786",
-        "description": "arXiv:2610.10786v1 Announce Type: new \nAbstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. Yet assumptions made during planning may be invalidated by the environment, too",
-        "author": "Syamantak Kumar, Jiang Guo, Hassan Hamad, Hideo Kobayashi, Yi Xiang, Yezhou Yang, Yanjun Qi, Daniele Bonadiman, Jiarong Jiang",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10805",
-        "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-        "url": "https://arxiv.org/abs/2610.10805",
-        "description": "arXiv:2610.10805v1 Announce Type: new \nAbstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI. Conventional machine learning and AI systems are largely developed under the ",
-        "author": "Jingyao Wu, Mohammad Tariqul Islam, Per R{\\aa}dberg Nagb{\\o}l, Julie Gerlings, Giovanni Leoni, Georgiana Fryza, Lars Pilegaard Thomsen, Jakob Mainz",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10833",
-        "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-        "url": "https://arxiv.org/abs/2610.10833",
-        "description": "arXiv:2610.10833v1 Announce Type: new \nAbstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productively. We evaluate Qwen3.6-27B on five competitions from MLE-Bench Lite and Qwen3",
-        "author": "Aaron Wang, Neelabh Madan, Vlad Sobal, Matthew Trager, Michael Kleinman, Elman Mansimov, Wei Xia, Stefano Soatto",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.10857",
-        "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-        "url": "https://arxiv.org/abs/2610.10857",
-        "description": "arXiv:2610.10857v1 Announce Type: new \nAbstract: Behavior cloning (BC) in non-Markovian environments is a challenging problem because policies have to reason over contextual information over long horizons. Existing policy architectures rely on recurrent or attention-based mechanisms to capture long-",
-        "author": "Prabin Kumar Rath, Omkar Patil, Nakul Gopalan",
-        "time": 1791518400000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
       {
-        "id": "hn-50000488",
-        "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-        "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-        "score": 1072,
-        "comments": 938,
-        "author": "jonotime",
-        "time": 1791418488000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-50019911",
         "title": "Cloudflare acquires Deno",
         "url": "https://deno.com/blog/cloudflare",
-        "score": 969,
-        "comments": 509,
+        "score": 1132,
+        "comments": 580,
         "author": "ilreb",
         "time": 1791551028000,
         "source": "Hacker News",
@@ -580,49 +467,13 @@
         "isAI": false
       },
       {
-        "id": "hn-50008427",
-        "title": "Whistle: Speech to Text in 16.9 MB",
-        "url": "https://cactuscompute.com/blog/whistle",
-        "score": 914,
-        "comments": 176,
-        "author": "gmays",
-        "time": 1791478779000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49995495",
-        "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-        "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-        "score": 913,
-        "comments": 552,
-        "author": "ck2",
-        "time": 1791392190000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-49986882",
-        "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-        "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-        "score": 887,
-        "comments": 199,
-        "author": "soheilpro",
-        "time": 1791337263000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50003796",
-        "title": "Yes, and",
-        "url": "https://htmx.org/essays/yes-and/",
-        "score": 720,
-        "comments": 285,
-        "author": "Michelangelo11",
-        "time": 1791452898000,
+        "id": "hn-50000488",
+        "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+        "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+        "score": 1091,
+        "comments": 959,
+        "author": "jonotime",
+        "time": 1791418488000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -631,34 +482,10 @@
         "id": "hn-50018088",
         "title": "Sorry, I'm in a meeting",
         "url": "https://iminafleeting.com/",
-        "score": 687,
-        "comments": 218,
+        "score": 825,
+        "comments": 246,
         "author": "splintersio",
         "time": 1791537708000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50009295",
-        "title": "Theranos.world",
-        "url": "https://www.theranos.world/",
-        "score": 542,
-        "comments": 199,
-        "author": "kbyatnal",
-        "time": 1791481909000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50020014",
-        "title": "Our $445M Series D",
-        "url": "https://oxide.computer/blog/our-445m-series-d",
-        "score": 539,
-        "comments": 233,
-        "author": "ahlCVA",
-        "time": 1791551567000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -667,10 +494,82 @@
         "id": "hn-50022292",
         "title": "Triple-A Minesweeper",
         "url": "https://minesweeper.mikelacher.com/",
-        "score": 421,
-        "comments": 92,
+        "score": 791,
+        "comments": 153,
         "author": "robin_reala",
         "time": 1791561065000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50020014",
+        "title": "Our $445M Series D",
+        "url": "https://oxide.computer/blog/our-445m-series-d",
+        "score": 627,
+        "comments": 287,
+        "author": "ahlCVA",
+        "time": 1791551567000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50026555",
+        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+        "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+        "score": 498,
+        "comments": 278,
+        "author": "gumby",
+        "time": 1791580019000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50018420",
+        "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+        "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+        "score": 454,
+        "comments": 236,
+        "author": "Anon84",
+        "time": 1791540731000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50024499",
+        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+        "url": "https://carrierexplode.com/",
+        "score": 254,
+        "comments": 32,
+        "author": "simplyalec",
+        "time": 1791569455000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50028275",
+        "title": "REA Reverse – Engineer Anything",
+        "url": "https://rea.tools/",
+        "score": 232,
+        "comments": 75,
+        "author": "modinfo",
+        "time": 1791592627000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50017357",
+        "title": "Programming Isn't Special",
+        "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+        "score": 193,
+        "comments": 215,
+        "author": "ingve",
+        "time": 1791531876000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -682,9 +581,9 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
-      "InfoQ"
+      "InfoQ",
+      "Product Hunt"
     ]
   }
 }
