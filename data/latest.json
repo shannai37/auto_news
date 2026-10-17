@@ -1,15 +1,15 @@
 {
-  "updateTime": 1792209081974,
-  "updateTimeStr": "2026/10/17 11:51:21",
-  "totalCount": 181,
+  "updateTime": 1792232701823,
+  "updateTimeStr": "2026/10/17 18:25:01",
+  "totalCount": 153,
   "daily": {
     "mustRead": [
       {
         "id": "hn-50122800",
         "title": "Claude reveals ECDSA curve origins",
         "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "score": 741,
-        "comments": 283,
+        "score": 876,
+        "comments": 326,
         "author": "ahlCVA",
         "time": 1792176959000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-50121179",
         "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
         "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "score": 434,
-        "comments": 371,
+        "score": 507,
+        "comments": 429,
         "author": "speckx",
         "time": 1792170518000,
         "source": "Hacker News",
@@ -32,8 +32,8 @@
         "id": "hn-50122951",
         "title": "How the Claude Code team does code review",
         "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "score": 263,
-        "comments": 251,
+        "score": 350,
+        "comments": 329,
         "author": "pretext",
         "time": 1792177487000,
         "source": "Hacker News",
@@ -41,13 +41,13 @@
         "isAI": true
       },
       {
-        "id": "hn-50122112",
-        "title": "Anthropic assigned highest junk credit rating in June",
-        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-        "score": 229,
-        "comments": 71,
-        "author": "JumpCrisscross",
-        "time": 1792174302000,
+        "id": "hn-50122878",
+        "title": "You could have invented transformers from memory",
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "score": 312,
+        "comments": 72,
+        "author": "speckx",
+        "time": 1792177277000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,8 +56,8 @@
         "id": "hn-50122431",
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
-        "score": 224,
-        "comments": 62,
+        "score": 292,
+        "comments": 72,
         "author": "Anon84",
         "time": 1792175555000,
         "source": "Hacker News",
@@ -67,14 +67,26 @@
     ],
     "tools": [
       {
+        "id": "gh-google-artemis",
+        "title": "google/artemis",
+        "url": "https://github.com/google/artemis",
+        "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+        "language": "Python",
+        "starsToday": "226 stars today",
+        "totalStars": "12,105",
+        "time": 1792232698037,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-earthtojake-text-to-cad",
         "title": "earthtojake/text-to-cad",
         "url": "https://github.com/earthtojake/text-to-cad",
         "description": "Give your agent CAD superpowers.",
         "language": "Python",
         "starsToday": "290 stars today",
-        "totalStars": "21,035",
-        "time": 1792209078462,
+        "totalStars": "21,124",
+        "time": 1792232698037,
         "source": "GitHub",
         "category": "github"
       },
@@ -85,8 +97,8 @@
         "description": "A suite of tools for UniFi network management",
         "language": "Python",
         "starsToday": "35 stars today",
-        "totalStars": "685",
-        "time": 1792209078461,
+        "totalStars": "689",
+        "time": 1792232698036,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +109,8 @@
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "language": "Python",
         "starsToday": "749 stars today",
-        "totalStars": "132,178",
-        "time": 1792209078461,
+        "totalStars": "132,233",
+        "time": 1792232698036,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +121,8 @@
         "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
         "language": "Python",
         "starsToday": "517 stars today",
-        "totalStars": "28,788",
-        "time": 1792209078461,
+        "totalStars": "28,928",
+        "time": 1792232698036,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,8 +133,8 @@
         "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
         "language": "Python",
         "starsToday": "539 stars today",
-        "totalStars": "70,343",
-        "time": 1792209078461,
+        "totalStars": "70,468",
+        "time": 1792232698036,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +145,8 @@
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "language": "Python",
         "starsToday": "207 stars today",
-        "totalStars": "52,435",
-        "time": 1792209078461,
+        "totalStars": "52,483",
+        "time": 1792232698036,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,20 +157,8 @@
         "description": "Odoo. Open Source Apps To Grow Your Business.",
         "language": "Python",
         "starsToday": "32 stars today",
-        "totalStars": "55,099",
-        "time": 1792209078461,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-google-artemis",
-        "title": "google/artemis",
-        "url": "https://github.com/google/artemis",
-        "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.",
-        "language": "Python",
-        "starsToday": "226 stars today",
-        "totalStars": "12,058",
-        "time": 1792209078461,
+        "totalStars": "55,104",
+        "time": 1792232698036,
         "source": "GitHub",
         "category": "github"
       },
@@ -169,8 +169,8 @@
         "description": "TokenSpeed is a speed-of-light LLM inference engine.",
         "language": "Python",
         "starsToday": "308 stars today",
-        "totalStars": "2,673",
-        "time": 1792209078460,
+        "totalStars": "2,679",
+        "time": 1792232698035,
         "source": "GitHub",
         "category": "github"
       },
@@ -181,8 +181,8 @@
         "description": "liberating known unknowns",
         "language": "C",
         "starsToday": "40 stars today",
-        "totalStars": "366",
-        "time": 1792209078460,
+        "totalStars": "371",
+        "time": 1792232698035,
         "source": "GitHub",
         "category": "github"
       },
@@ -193,8 +193,8 @@
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "language": "Python",
         "starsToday": "898 stars today",
-        "totalStars": "48,692",
-        "time": 1792209078327,
+        "totalStars": "49,052",
+        "time": 1792232697958,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,13 +205,22 @@
         "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
         "language": "JavaScript",
         "starsToday": "538 stars today",
-        "totalStars": "23,857",
-        "time": 1792209078327,
+        "totalStars": "24,194",
+        "time": 1792232697958,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/train-with-pasta",
+        "title": "Train with Pasta",
+        "url": "https://www.producthunt.com/products/train-with-pasta",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1791908487000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/gbrain",
         "title": "GBrain Tools",
@@ -229,15 +238,6 @@
         "time": 1791401802000,
         "source": "Product Hunt",
         "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/mermaid",
-        "title": "Mermaid",
-        "url": "https://www.producthunt.com/products/mermaid",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1792019173000,
-        "source": "Product Hunt",
-        "category": "ai-product"
       }
     ],
     "practice": [
@@ -253,8 +253,8 @@
           "javascript",
           "webdev"
         ],
-        "reactions": 149,
-        "comments": 93,
+        "reactions": 152,
+        "comments": 96,
         "time": 1791961548000,
         "source": "Dev.to",
         "category": "practice"
@@ -271,8 +271,8 @@
           "ai",
           "writing"
         ],
-        "reactions": 139,
-        "comments": 90,
+        "reactions": 140,
+        "comments": 94,
         "time": 1791903454000,
         "source": "Dev.to",
         "category": "practice"
@@ -290,26 +290,8 @@
           "typescript"
         ],
         "reactions": 107,
-        "comments": 53,
+        "comments": 54,
         "time": 1791647398000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
-        "id": "devto-4827496",
-        "title": "What Do You Drink While You Work?",
-        "url": "https://dev.to/xulingfeng/what-do-you-drink-while-you-work-17bm",
-        "description": "I wrote a fiction series with six characters. Each one drinks a different coffee.  I didn't plan it...",
-        "author": "xulingfeng",
-        "tags": [
-          "discuss",
-          "career",
-          "programming",
-          "webdev"
-        ],
-        "reactions": 106,
-        "comments": 214,
-        "time": 1791623267000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -325,8 +307,8 @@
           "jokes",
           "programming"
         ],
-        "reactions": 83,
-        "comments": 51,
+        "reactions": 90,
+        "comments": 60,
         "time": 1792135642000,
         "source": "Dev.to",
         "category": "practice"
@@ -361,7 +343,7 @@
           "webdev",
           "programming"
         ],
-        "reactions": 63,
+        "reactions": 64,
         "comments": 8,
         "time": 1791992125000,
         "source": "Dev.to",
@@ -379,14 +361,42 @@
           "learning",
           "webdev"
         ],
-        "reactions": 60,
+        "reactions": 61,
         "comments": 18,
         "time": 1791920856000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4840607",
+        "title": "Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.",
+        "url": "https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna",
+        "description": "Every \"7 local models that replace Claude Code\" list opens the same way: a table of SWE-bench scores,...",
+        "author": "Rudratosh Shastri",
+        "tags": [
+          "ai",
+          "llm",
+          "coding",
+          "opensource"
+        ],
+        "reactions": 59,
+        "comments": 85,
+        "time": 1791848624000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
+        "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1792249200000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
         "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
@@ -456,130 +466,9 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/yZh3MeRrBa7IbsB1PrUp?utm_source=rss&utm_medium=article",
-        "title": "谷歌的 Android 安全状态库支持组件级安全校验",
-        "url": "https://www.infoq.cn/article/yZh3MeRrBa7IbsB1PrUp?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1792160220000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2610.20665",
-        "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-        "url": "https://arxiv.org/abs/2610.20665",
-        "description": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across si",
-        "author": "Ningxin Pan, Hanyu Li, Yeqing Shen, Ning Ding, Yehui Tang, Wentao Zhang",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20667",
-        "title": "Evaluating Model Capabilities After Benchmark Saturation",
-        "url": "https://arxiv.org/abs/2610.20667",
-        "description": "arXiv:2610.20667v1 Announce Type: new \nAbstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. ",
-        "author": "Morio Hamada, Jehyeok Yeon, Matteo Migliarini, Justin Olive, Magda Dubois",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20669",
-        "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-        "url": "https://arxiv.org/abs/2610.20669",
-        "description": "arXiv:2610.20669v1 Announce Type: new \nAbstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluatio",
-        "author": "Jaehyeon Kim, Ziseok Lee, Siyoung Choi, Kyungsu Kim",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20675",
-        "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-        "url": "https://arxiv.org/abs/2610.20675",
-        "description": "arXiv:2610.20675v1 Announce Type: new \nAbstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.",
-        "author": "Zhanke Zhou, Zongze Li, Weikai Huang, Xuan Li, Chentao Cao, Xiao Feng, Xiangyu Lu, Jinbo Hu, Yi Xie, Nico Pelleriti, Shiyang Liu, Menghan Lu, Max Zimmer, Brando Miranda, Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20676",
-        "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-        "url": "https://arxiv.org/abs/2610.20676",
-        "description": "arXiv:2610.20676v1 Announce Type: new \nAbstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks ac",
-        "author": "Adarsh Agrawal (Independent Researcher)",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20679",
-        "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-        "url": "https://arxiv.org/abs/2610.20679",
-        "description": "arXiv:2610.20679v1 Announce Type: new \nAbstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce Counterfactual Neighb",
-        "author": "Tianshi Wang, Jingsong Wang, Fengling Li, Jingjing Li, Xin Li, Lei Zhu",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20681",
-        "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-        "url": "https://arxiv.org/abs/2610.20681",
-        "description": "arXiv:2610.20681v1 Announce Type: new \nAbstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic computation for in",
-        "author": "Gaolei He, Jinhui Li, Ruobing Zuo, Xia Zeng, Zhengfeng Yang",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20685",
-        "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-        "url": "https://arxiv.org/abs/2610.20685",
-        "description": "arXiv:2610.20685v1 Announce Type: new \nAbstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2G-SR, a framework for ",
-        "author": "Letian Huang, Xiangyu Wang, Haowei Lin, Di He",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20764",
-        "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-        "url": "https://arxiv.org/abs/2610.20764",
-        "description": "arXiv:2610.20764v1 Announce Type: new \nAbstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We ",
-        "author": "Ahsan Adeel, Talha Bin Riaz",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2610.20780",
-        "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-        "url": "https://arxiv.org/abs/2610.20780",
-        "description": "arXiv:2610.20780v1 Announce Type: new \nAbstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a l",
-        "author": "Bolin Shen, Yushun Dong",
-        "time": 1792123200000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
@@ -587,8 +476,8 @@
         "id": "hn-50112657",
         "title": "Tesla Roadster",
         "url": "https://www.tesla.com/roadster",
-        "score": 1271,
-        "comments": 2267,
+        "score": 1440,
+        "comments": 2520,
         "author": "shekhar101",
         "time": 1792114365000,
         "source": "Hacker News",
@@ -599,8 +488,8 @@
         "id": "hn-50065859",
         "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
         "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-        "score": 829,
-        "comments": 246,
+        "score": 839,
+        "comments": 250,
         "author": "johnnyApplePRNG",
         "time": 1791858773000,
         "source": "Hacker News",
@@ -611,22 +500,10 @@
         "id": "hn-50117746",
         "title": "I love software rendering",
         "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-        "score": 307,
-        "comments": 194,
+        "score": 324,
+        "comments": 204,
         "author": "speckx",
         "time": 1792155128000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50118981",
-        "title": "Waymo in Toronto",
-        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-        "score": 296,
-        "comments": 398,
-        "author": "ChrisArchitect",
-        "time": 1792161857000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -635,8 +512,8 @@
         "id": "hn-50118320",
         "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
         "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "score": 281,
-        "comments": 129,
+        "score": 321,
+        "comments": 161,
         "author": "antipaul",
         "time": 1792158228000,
         "source": "Hacker News",
@@ -644,13 +521,13 @@
         "isAI": false
       },
       {
-        "id": "hn-50077225",
-        "title": "Yet another way to invoke functions without parentheses",
-        "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-        "score": 244,
-        "comments": 102,
-        "author": "aragonite",
-        "time": 1791919518000,
+        "id": "hn-50118981",
+        "title": "Waymo in Toronto",
+        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+        "score": 310,
+        "comments": 411,
+        "author": "ChrisArchitect",
+        "time": 1792161857000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -659,8 +536,8 @@
         "id": "hn-50120224",
         "title": "JPEG XL vs. AVIF for web use-cases",
         "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "score": 218,
-        "comments": 154,
+        "score": 263,
+        "comments": 183,
         "author": "farlight",
         "time": 1792167122000,
         "source": "Hacker News",
@@ -668,13 +545,37 @@
         "isAI": false
       },
       {
-        "id": "hn-50124251",
-        "title": "I never authorized an integration that scans my secrets",
-        "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-        "score": 204,
-        "comments": 165,
-        "author": "trvrprkr",
-        "time": 1792182821000,
+        "id": "hn-50106747",
+        "title": "Ultramarine 1 Flash",
+        "url": "https://www.paperinstruments.com/ultramarine",
+        "score": 251,
+        "comments": 71,
+        "author": "i_rush_carriers",
+        "time": 1792083961000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50077225",
+        "title": "Yet another way to invoke functions without parentheses",
+        "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+        "score": 249,
+        "comments": 101,
+        "author": "aragonite",
+        "time": 1791919518000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50127274",
+        "title": "Butlerian Jihad",
+        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "score": 234,
+        "comments": 125,
+        "author": "wetwater",
+        "time": 1792203668000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -683,22 +584,10 @@
         "id": "hn-50122034",
         "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
         "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-        "score": 186,
-        "comments": 150,
+        "score": 224,
+        "comments": 199,
         "author": "7402",
         "time": 1792173977000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50118977",
-        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-        "url": "https://calif.io/research/big-fish",
-        "score": 170,
-        "comments": 48,
-        "author": "rs_rs_rs_rs_rs",
-        "time": 1792161842000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -710,7 +599,6 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
       "InfoQ",
       "Product Hunt"
