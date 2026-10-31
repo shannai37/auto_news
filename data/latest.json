@@ -1,15 +1,15 @@
 {
-  "updateTime": 1793398019841,
-  "updateTimeStr": "2026/10/31 06:06:59",
-  "totalCount": 149,
+  "updateTime": 1793422635270,
+  "updateTimeStr": "2026/10/31 12:57:15",
+  "totalCount": 159,
   "daily": {
     "mustRead": [
       {
         "id": "hn-50289418",
         "title": "We're releasing the weights of Mistral Large 4",
         "url": "https://mistral.ai/news/mistral-large-4-oss/",
-        "score": 1666,
-        "comments": 433,
+        "score": 1688,
+        "comments": 435,
         "author": "kuberwastaken",
         "time": 1793283201000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-50300683",
         "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
         "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "score": 677,
-        "comments": 433,
+        "score": 843,
+        "comments": 508,
         "author": "_chall",
         "time": 1793344152000,
         "source": "Hacker News",
@@ -32,8 +32,8 @@
         "id": "hn-50305693",
         "title": "AI isn't replacing SREs, it's deskilling them",
         "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "score": 437,
-        "comments": 322,
+        "score": 538,
+        "comments": 404,
         "author": "dorianniemiec",
         "time": 1793375538000,
         "source": "Hacker News",
@@ -44,8 +44,8 @@
         "id": "hn-50296486",
         "title": "We ran AI agent swarms in Minecraft and Mindustry",
         "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "score": 389,
-        "comments": 162,
+        "score": 400,
+        "comments": 164,
         "author": "sandslash",
         "time": 1793310028000,
         "source": "Hacker News",
@@ -53,13 +53,13 @@
         "isAI": true
       },
       {
-        "id": "hn-50307219",
-        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-        "score": 239,
-        "comments": 177,
-        "author": "petethomas",
-        "time": 1793381245000,
+        "id": "hn-50309647",
+        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+        "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+        "score": 264,
+        "comments": 145,
+        "author": "apress",
+        "time": 1793391810000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,38 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-lightpanda-io-browser",
-        "title": "lightpanda-io/browser",
-        "url": "https://github.com/lightpanda-io/browser",
-        "description": "Lightpanda: the headless browser designed for AI and automation",
-        "language": "Zig",
-        "starsToday": "559 stars today",
-        "totalStars": "38,284",
-        "time": 1793398016683,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-JetBrains-thinkrail",
-        "title": "JetBrains/thinkrail",
-        "url": "https://github.com/JetBrains/thinkrail",
-        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-        "language": "TypeScript",
-        "starsToday": "717 stars today",
-        "totalStars": "6,529",
-        "time": 1793398016682,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-togg53192-cmd-jailbreaks",
         "title": "togg53192-cmd/jailbreaks",
         "url": "https://github.com/togg53192-cmd/jailbreaks",
         "description": "LIST OF ALL MY JAILBREAKS",
         "language": "Unknown",
-        "starsToday": "2,053 stars today",
-        "totalStars": "10,831",
-        "time": 1793398016682,
+        "starsToday": "2,055 stars today",
+        "totalStars": "11,380",
+        "time": 1793422630450,
         "source": "GitHub",
         "category": "github"
       },
@@ -108,9 +84,45 @@
         "url": "https://github.com/obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
-        "starsToday": "1,255 stars today",
-        "totalStars": "309,372",
-        "time": 1793398016682,
+        "starsToday": "1,259 stars today",
+        "totalStars": "309,532",
+        "time": 1793422630450,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-lightpanda-io-browser",
+        "title": "lightpanda-io/browser",
+        "url": "https://github.com/lightpanda-io/browser",
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "language": "Zig",
+        "starsToday": "626 stars today",
+        "totalStars": "38,541",
+        "time": 1793422630450,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-anthropics-skills",
+        "title": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "starsToday": "295 stars today",
+        "totalStars": "185,443",
+        "time": 1793422630449,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-JetBrains-thinkrail",
+        "title": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "starsToday": "722 stars today",
+        "totalStars": "6,650",
+        "time": 1793422630449,
         "source": "GitHub",
         "category": "github"
       },
@@ -120,9 +132,9 @@
         "url": "https://github.com/mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
-        "starsToday": "889 stars today",
-        "totalStars": "307,412",
-        "time": 1793398016681,
+        "starsToday": "876 stars today",
+        "totalStars": "307,610",
+        "time": 1793422630448,
         "source": "GitHub",
         "category": "github"
       },
@@ -132,9 +144,9 @@
         "url": "https://github.com/pingdotgg/t3code",
         "description": "",
         "language": "TypeScript",
-        "starsToday": "920 stars today",
-        "totalStars": "32,662",
-        "time": 1793398016681,
+        "starsToday": "930 stars today",
+        "totalStars": "32,937",
+        "time": 1793422630448,
         "source": "GitHub",
         "category": "github"
       },
@@ -145,32 +157,8 @@
         "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
         "language": "Python",
         "starsToday": "2,282 stars today",
-        "totalStars": "51,703",
-        "time": 1793398016681,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-anthropics-skills",
-        "title": "anthropics/skills",
-        "url": "https://github.com/anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "starsToday": "287 stars today",
-        "totalStars": "185,245",
-        "time": 1793398016681,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-CopilotKit-OpenBot",
-        "title": "CopilotKit/OpenBot",
-        "url": "https://github.com/CopilotKit/OpenBot",
-        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "language": "TypeScript",
-        "starsToday": "707 stars today",
-        "totalStars": "8,726",
-        "time": 1793398016680,
+        "totalStars": "51,925",
+        "time": 1793422630448,
         "source": "GitHub",
         "category": "github"
       },
@@ -180,9 +168,9 @@
         "url": "https://github.com/Renhuai123/ziwei-doushu",
         "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
         "language": "TypeScript",
-        "starsToday": "1,146 stars today",
-        "totalStars": "11,155",
-        "time": 1793398016680,
+        "starsToday": "1,126 stars today",
+        "totalStars": "11,443",
+        "time": 1793422630447,
         "source": "GitHub",
         "category": "github"
       },
@@ -192,9 +180,9 @@
         "url": "https://github.com/expo/skills",
         "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
         "language": "Shell",
-        "starsToday": "108 stars today",
-        "totalStars": "3,866",
-        "time": 1793398016680,
+        "starsToday": "38 stars today",
+        "totalStars": "3,918",
+        "time": 1793422630447,
         "source": "GitHub",
         "category": "github"
       },
@@ -204,9 +192,21 @@
         "url": "https://github.com/macro-inc/macro",
         "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
         "language": "Rust",
-        "starsToday": "117 stars today",
-        "totalStars": "5,835",
-        "time": 1793398016680,
+        "starsToday": "57 stars today",
+        "totalStars": "5,916",
+        "time": 1793422630447,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-pbakaus-impeccable",
+        "title": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "starsToday": "2,300 stars today",
+        "totalStars": "97,275",
+        "time": 1793422630446,
         "source": "GitHub",
         "category": "github"
       }
@@ -231,20 +231,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/assemblyai",
-        "title": "AssemblyAI",
-        "url": "https://www.producthunt.com/products/assemblyai",
+        "id": "ph-https://www.producthunt.com/products/floot",
+        "title": "Floot in ChatGPT",
+        "url": "https://www.producthunt.com/products/floot",
         "description": "Discussion\n            |\n            Link",
-        "time": 1793226924000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/ifttt",
-        "title": "IFTTT.ai",
-        "url": "https://www.producthunt.com/products/ifttt",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1793211981000,
+        "time": 1793218450000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -258,11 +249,20 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/floot",
-        "title": "Floot in ChatGPT",
-        "url": "https://www.producthunt.com/products/floot",
+        "id": "ph-https://www.producthunt.com/products/ifttt",
+        "title": "IFTTT.ai",
+        "url": "https://www.producthunt.com/products/ifttt",
         "description": "Discussion\n            |\n            Link",
-        "time": 1793218450000,
+        "time": 1793211981000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
+      {
+        "id": "ph-https://www.producthunt.com/products/assemblyai",
+        "title": "AssemblyAI",
+        "url": "https://www.producthunt.com/products/assemblyai",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1793226924000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -281,8 +281,26 @@
           "career"
         ],
         "reactions": 110,
-        "comments": 78,
+        "comments": 81,
         "time": 1793119577000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4943245",
+        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
+        "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
+        "description": "JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...",
+        "author": "Sylwia Laskowska",
+        "tags": [
+          "javascript",
+          "webdev",
+          "node",
+          "programming"
+        ],
+        "reactions": 98,
+        "comments": 68,
+        "time": 1793304533000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -305,24 +323,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-4943245",
-        "title": "Yes, {} + [] = 0. No, JavaScript Isn’t Broken",
-        "url": "https://dev.to/sylwia-lask/yes-0-no-javascript-isnt-broken-14ob",
-        "description": "JavaScript is a legendary programming language. Created in the mid-1990s in just 10 days, it was born...",
-        "author": "Sylwia Laskowska",
-        "tags": [
-          "javascript",
-          "webdev",
-          "node",
-          "programming"
-        ],
-        "reactions": 90,
-        "comments": 55,
-        "time": 1793304533000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-4883971",
         "title": "MCP Token Cost: I Cut My MCP Server From 15 Tools to 4",
         "url": "https://dev.to/aws-builders/mcp-token-cost-i-cut-my-mcp-server-from-15-tools-to-4-cek",
@@ -341,24 +341,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-4921112",
-        "title": "Your secrets don't need a git commit to leak into an AI tool",
-        "url": "https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2",
-        "description": "Most of us have the \"don't commit secrets\" reflex drilled in. Pre-commit hooks, secret scanners in...",
-        "author": "Dimitris Kyrkos ",
-        "tags": [
-          "security",
-          "ai",
-          "programming",
-          "discuss"
-        ],
-        "reactions": 68,
-        "comments": 99,
-        "time": 1793011677000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-4929852",
         "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
         "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
@@ -370,9 +352,27 @@
           "halloween",
           "promptengineering"
         ],
-        "reactions": 66,
-        "comments": 62,
+        "reactions": 70,
+        "comments": 63,
         "time": 1793257359000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-4921112",
+        "title": "Your secrets don't need a git commit to leak into an AI tool",
+        "url": "https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2",
+        "description": "Most of us have the \"don't commit secrets\" reflex drilled in. Pre-commit hooks, secret scanners in...",
+        "author": "Dimitris Kyrkos ",
+        "tags": [
+          "security",
+          "ai",
+          "programming",
+          "discuss"
+        ],
+        "reactions": 70,
+        "comments": 101,
+        "time": 1793011677000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -388,7 +388,7 @@
           "ai",
           "webdev"
         ],
-        "reactions": 59,
+        "reactions": 60,
         "comments": 11,
         "time": 1793376227000,
         "source": "Dev.to",
@@ -414,6 +414,26 @@
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
+        "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1793440800000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+        "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1793433600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article",
         "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
@@ -473,50 +493,129 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article",
-        "title": "2026年AI技术演进与2027年趋势前瞻报告",
-        "url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1793371296000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/cyfZ34rycDPzIrzohosZ?utm_source=rss&utm_medium=article",
-        "title": "NestJS 12：ESM 包、标准模式验证和原生可观测性",
-        "url": "https://www.infoq.cn/article/cyfZ34rycDPzIrzohosZ?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1793365200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": []
+    "papers": [
+      {
+        "id": "arxiv-2610.37720",
+        "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+        "url": "https://arxiv.org/abs/2610.37720",
+        "description": "arXiv:2610.37720v1 Announce Type: new \nAbstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert cop",
+        "author": "Jiaming Hu, Zhida Jiang, Zhaolong Xing, Yu Li, Zhen Chen, Ke Zhang",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37731",
+        "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+        "url": "https://arxiv.org/abs/2610.37731",
+        "description": "arXiv:2610.37731v1 Announce Type: new \nAbstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We constr",
+        "author": "Exauc\\'e Luweh Adjim Ngarti (AIRSEA), \\'Elise Arnaud (AIRSEA), L\\'eo Nicoletti (Mines Saint-\\'Etienne MSE, LIMOS, FAYOL-ENSMSE, FAYOL-ENSMSE), Victor Trappler (Mines Saint-\\'Etienne MSE, LIMOS, FAYOL-ENSMSE, FAYOL-ENSMSE), Arthur Vidard (AIRSEA)",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37732",
+        "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+        "url": "https://arxiv.org/abs/2610.37732",
+        "description": "arXiv:2610.37732v1 Announce Type: new \nAbstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as ",
+        "author": "Xiaolu Ding, Kai Yang, Dongdong Liu",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37739",
+        "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+        "url": "https://arxiv.org/abs/2610.37739",
+        "description": "arXiv:2610.37739v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFronti",
+        "author": "Jiarui Yao, Ruida Wang, Tong Zhang",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37786",
+        "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+        "url": "https://arxiv.org/abs/2610.37786",
+        "description": "arXiv:2610.37786v1 Announce Type: new \nAbstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-a",
+        "author": "Tianci Xie, Zikun Cai, Chaoyun Zhang, Pinxue Guo, Bingxuan Li, Rui Zheng, Hang Yan",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37809",
+        "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2610.37809",
+        "description": "arXiv:2610.37809v1 Announce Type: new \nAbstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: it can miss errors, and",
+        "author": "Michal Orzechowski, Rund Tawfiq, Tomasz Kosciolek",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37830",
+        "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+        "url": "https://arxiv.org/abs/2610.37830",
+        "description": "arXiv:2610.37830v1 Announce Type: new \nAbstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain an",
+        "author": "Abhinav Goel, Agostino Capponi, Alfio Gliozzo, Chaitya Shah",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37849",
+        "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+        "url": "https://arxiv.org/abs/2610.37849",
+        "description": "arXiv:2610.37849v1 Announce Type: new \nAbstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact wording of a message, w",
+        "author": "Kevin Yandoka Denamgana\\\"i",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37851",
+        "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+        "url": "https://arxiv.org/abs/2610.37851",
+        "description": "arXiv:2610.37851v1 Announce Type: new \nAbstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introdu",
+        "author": "Chi-Lam Poon, Michael Goneos, Zezheng Song, Xi Chen",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      },
+      {
+        "id": "arxiv-2610.37859",
+        "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+        "url": "https://arxiv.org/abs/2610.37859",
+        "description": "arXiv:2610.37859v1 Announce Type: new \nAbstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of opera",
+        "author": "Thomson Yen, Gilbert Yang, Naimeng Ye, Minghui Chen, Dong Xia, Tianyi Shen, Yechan Jeon, Yaqin Chen, Daksh Mittal, Fangyu Wu, Hongseok Namkoong",
+        "time": 1793419200000,
+        "source": "arXiv",
+        "category": "paper",
+        "arxivCategory": "cs.AI"
+      }
+    ]
   },
   "extra": {
     "techNews": [
       {
-        "id": "hn-50296470",
-        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-        "score": 1717,
-        "comments": 1206,
-        "author": "Tiberium",
-        "time": 1793309939000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-50305025",
         "title": "Northflank Breached",
         "url": "https://status.northflank.com",
-        "score": 303,
-        "comments": 226,
+        "score": 394,
+        "comments": 292,
         "author": "js4ever",
         "time": 1793373031000,
         "source": "Hacker News",
@@ -527,22 +626,10 @@
         "id": "hn-50303172",
         "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
         "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-        "score": 284,
-        "comments": 200,
+        "score": 381,
+        "comments": 262,
         "author": "domhudson",
         "time": 1793364601000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50304419",
-        "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-        "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
-        "score": 258,
-        "comments": 245,
-        "author": "brandonb",
-        "time": 1793370464000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -551,58 +638,10 @@
         "id": "hn-50301854",
         "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
         "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-        "score": 245,
-        "comments": 46,
+        "score": 284,
+        "comments": 56,
         "author": "swq115",
         "time": 1793354775000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50273104",
-        "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-        "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-        "score": 231,
-        "comments": 37,
-        "author": "surprisetalk",
-        "time": 1793193605000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50270651",
-        "title": "Astroterm: A Planetarium for Your Terminal",
-        "url": "https://github.com/da-luce/astroterm",
-        "score": 226,
-        "comments": 26,
-        "author": "nvmdbljstm",
-        "time": 1793176195000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50305573",
-        "title": "The federated code forge",
-        "url": "https://tangled.org/blog/forge/",
-        "score": 190,
-        "comments": 66,
-        "author": "zlliang",
-        "time": 1793375069000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50263127",
-        "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-        "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
-        "score": 184,
-        "comments": 54,
-        "author": "benbreen",
-        "time": 1793123697000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -611,10 +650,82 @@
         "id": "hn-50307190",
         "title": "My favourite PowerMac is a Nintendo Wii",
         "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "score": 173,
-        "comments": 49,
+        "score": 269,
+        "comments": 77,
         "author": "DHowett",
         "time": 1793381115000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50305573",
+        "title": "The federated code forge",
+        "url": "https://tangled.org/blog/forge/",
+        "score": 253,
+        "comments": 82,
+        "author": "zlliang",
+        "time": 1793375069000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50273104",
+        "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+        "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+        "score": 240,
+        "comments": 37,
+        "author": "surprisetalk",
+        "time": 1793193605000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50305637",
+        "title": "Florilegium: Procedural Flowers in LaTeX",
+        "url": "https://github.com/kevinraymond/florilegium",
+        "score": 234,
+        "comments": 43,
+        "author": "nanna",
+        "time": 1793375292000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50270651",
+        "title": "Astroterm: A Planetarium for Your Terminal",
+        "url": "https://github.com/da-luce/astroterm",
+        "score": 230,
+        "comments": 27,
+        "author": "nvmdbljstm",
+        "time": 1793176195000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50263837",
+        "title": "Breaking the open web won't stop the bad bots",
+        "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+        "score": 220,
+        "comments": 101,
+        "author": "raybb",
+        "time": 1793126575000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50306442",
+        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "url": "https://github.com/dbreunig/nesformer",
+        "score": 219,
+        "comments": 118,
+        "author": "dbreunig",
+        "time": 1793378422000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -626,6 +737,7 @@
     "sources": [
       "GitHub",
       "Hacker News",
+      "arXiv",
       "Dev.to",
       "InfoQ",
       "Product Hunt"
