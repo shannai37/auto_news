@@ -1,15 +1,15 @@
 {
-  "updateTime": 1794525863890,
-  "updateTimeStr": "2026/11/13 07:24:23",
-  "totalCount": 152,
+  "updateTime": 1794549533768,
+  "updateTimeStr": "2026/11/13 13:58:53",
+  "totalCount": 150,
   "daily": {
     "mustRead": [
       {
         "id": "hn-50465829",
         "title": "Anthropic IPO",
         "url": "https://ipo.anthropic.com/us/",
-        "score": 782,
-        "comments": 768,
+        "score": 879,
+        "comments": 842,
         "author": "josephljohnston",
         "time": 1794484001000,
         "source": "Hacker News",
@@ -20,22 +20,10 @@
         "id": "hn-50471431",
         "title": "Gemini 4 Hydrogen",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-        "score": 421,
-        "comments": 280,
+        "score": 498,
+        "comments": 319,
         "author": "dvaplima",
         "time": 1794506508000,
-        "source": "Hacker News",
-        "category": "ai-news",
-        "isAI": true
-      },
-      {
-        "id": "hn-50468888",
-        "title": "I'm making LLMs work on small and old devices",
-        "url": "https://github.com/hyperionaidev/smolmaxxing/",
-        "score": 259,
-        "comments": 87,
-        "author": "mrashad74",
-        "time": 1794496990000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,10 +32,22 @@
         "id": "hn-50472260",
         "title": "Gemini 4 Hydrogen and Orchestrator",
         "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-        "score": 227,
-        "comments": 57,
+        "score": 366,
+        "comments": 100,
         "author": "jonbaer",
         "time": 1794509521000,
+        "source": "Hacker News",
+        "category": "ai-news",
+        "isAI": true
+      },
+      {
+        "id": "hn-50468888",
+        "title": "I'm making LLMs work on small and old devices",
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "score": 320,
+        "comments": 107,
+        "author": "mrashad74",
+        "time": 1794496990000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -56,8 +56,8 @@
         "id": "hn-50474883",
         "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
         "url": "https://unemploymentlabs.com/checkpoint-forensics",
-        "score": 71,
-        "comments": 15,
+        "score": 240,
+        "comments": 62,
         "author": "firloop",
         "time": 1794520571000,
         "source": "Hacker News",
@@ -67,14 +67,62 @@
     ],
     "tools": [
       {
+        "id": "gh-TheAlgorithms-Python",
+        "title": "TheAlgorithms/Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "description": "All Algorithms implemented in Python",
+        "language": "Python",
+        "starsToday": "43 stars today",
+        "totalStars": "226,071",
+        "time": 1794549528083,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
         "id": "gh-davila7-claude-code-templates",
         "title": "davila7/claude-code-templates",
         "url": "https://github.com/davila7/claude-code-templates",
         "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
         "language": "Python",
-        "starsToday": "91 stars today",
-        "totalStars": "33,429",
-        "time": 1794525859919,
+        "starsToday": "102 stars today",
+        "totalStars": "33,441",
+        "time": 1794549528083,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-Qiskit-qiskit",
+        "title": "Qiskit/qiskit",
+        "url": "https://github.com/Qiskit/qiskit",
+        "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+        "language": "Python",
+        "starsToday": "3 stars today",
+        "totalStars": "7,970",
+        "time": 1794549528083,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-oaustegard-claude-skills",
+        "title": "oaustegard/claude-skills",
+        "url": "https://github.com/oaustegard/claude-skills",
+        "description": "My collection of Claude skills",
+        "language": "Python",
+        "starsToday": "34 stars today",
+        "totalStars": "376",
+        "time": 1794549528082,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-rlaope-oh-my-hermes",
+        "title": "rlaope/oh-my-hermes",
+        "url": "https://github.com/rlaope/oh-my-hermes",
+        "description": "⚚ The ultrawork agent with AI coworkers wired into you",
+        "language": "Python",
+        "starsToday": "79 stars today",
+        "totalStars": "5,571",
+        "time": 1794549528082,
         "source": "GitHub",
         "category": "github"
       },
@@ -84,9 +132,9 @@
         "url": "https://github.com/NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
         "language": "Python",
-        "starsToday": "302 stars today",
-        "totalStars": "25,695",
-        "time": 1794525859918,
+        "starsToday": "297 stars today",
+        "totalStars": "25,735",
+        "time": 1794549528082,
         "source": "GitHub",
         "category": "github"
       },
@@ -96,9 +144,9 @@
         "url": "https://github.com/mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
-        "starsToday": "119 stars today",
-        "totalStars": "67,438",
-        "time": 1794525859918,
+        "starsToday": "112 stars today",
+        "totalStars": "67,461",
+        "time": 1794549528082,
         "source": "GitHub",
         "category": "github"
       },
@@ -109,8 +157,8 @@
         "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
         "language": "Python",
         "starsToday": "98 stars today",
-        "totalStars": "168,923",
-        "time": 1794525859918,
+        "totalStars": "168,938",
+        "time": 1794549528082,
         "source": "GitHub",
         "category": "github"
       },
@@ -120,81 +168,9 @@
         "url": "https://github.com/figma/mcp-server-guide",
         "description": "A guide on how to use the Figma MCP server",
         "language": "Python",
-        "starsToday": "5 stars today",
+        "starsToday": "4 stars today",
         "totalStars": "2,181",
-        "time": 1794525859918,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-TheAlgorithms-Python",
-        "title": "TheAlgorithms/Python",
-        "url": "https://github.com/TheAlgorithms/Python",
-        "description": "All Algorithms implemented in Python",
-        "language": "Python",
-        "starsToday": "41 stars today",
-        "totalStars": "226,061",
-        "time": 1794525859918,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-pallets-flask",
-        "title": "pallets/flask",
-        "url": "https://github.com/pallets/flask",
-        "description": "The Python micro framework for building web applications.",
-        "language": "Python",
-        "starsToday": "61 stars today",
-        "totalStars": "75,112",
-        "time": 1794525859917,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-rlaope-oh-my-hermes",
-        "title": "rlaope/oh-my-hermes",
-        "url": "https://github.com/rlaope/oh-my-hermes",
-        "description": "⚚ The ultrawork agent with AI coworkers wired into you",
-        "language": "Python",
-        "starsToday": "100 stars today",
-        "totalStars": "5,558",
-        "time": 1794525859917,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-python-cpython",
-        "title": "python/cpython",
-        "url": "https://github.com/python/cpython",
-        "description": "The Python programming language",
-        "language": "Python",
-        "starsToday": "70 stars today",
-        "totalStars": "78,197",
-        "time": 1794525859916,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-homeassistant-ai-ha-mcp",
-        "title": "homeassistant-ai/ha-mcp",
-        "url": "https://github.com/homeassistant-ai/ha-mcp",
-        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "language": "Python",
-        "starsToday": "691 stars today",
-        "totalStars": "7,685",
-        "time": 1794525859916,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-oaustegard-claude-skills",
-        "title": "oaustegard/claude-skills",
-        "url": "https://github.com/oaustegard/claude-skills",
-        "description": "My collection of Claude skills",
-        "language": "Python",
-        "starsToday": "40 stars today",
-        "totalStars": "367",
-        "time": 1794525859916,
+        "time": 1794549528082,
         "source": "GitHub",
         "category": "github"
       },
@@ -204,14 +180,47 @@
         "url": "https://github.com/openai/whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "language": "Python",
-        "starsToday": "118 stars today",
-        "totalStars": "112,603",
-        "time": 1794525859915,
+        "starsToday": "113 stars today",
+        "totalStars": "112,623",
+        "time": 1794549528081,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-ZhuLinsen-daily_stock_analysis",
+        "title": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "starsToday": "1,294 stars today",
+        "totalStars": "71,129",
+        "time": 1794549528081,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-fastapi-fastapi",
+        "title": "fastapi/fastapi",
+        "url": "https://github.com/fastapi/fastapi",
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "language": "Python",
+        "starsToday": "82 stars today",
+        "totalStars": "104,678",
+        "time": 1794549528081,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/adobe-ai-assistant",
+        "title": "Adobe AI Assistant",
+        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1794336939000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/plurai",
         "title": "Plurai Simulation",
@@ -231,15 +240,6 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/adobe-ai-assistant",
-        "title": "Adobe AI Assistant",
-        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1794336939000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/airwave-2",
         "title": "AirWave",
         "url": "https://www.producthunt.com/products/airwave-2",
@@ -249,34 +249,16 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-        "title": "ScroogeFrog AI ",
-        "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+        "id": "ph-https://www.producthunt.com/products/kippy-ai",
+        "title": "Kippy AI",
+        "url": "https://www.producthunt.com/products/kippy-ai",
         "description": "Discussion\n            |\n            Link",
-        "time": 1792397502000,
+        "time": 1794136624000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
     ],
     "practice": [
-      {
-        "id": "devto-4985077",
-        "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
-        "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
-        "description": "From a multi-agent testing experiment to a broader discussion about how engineering teams should...",
-        "author": "xulingfeng",
-        "tags": [
-          "discuss",
-          "ai",
-          "programming",
-          "career"
-        ],
-        "reactions": 133,
-        "comments": 76,
-        "time": 1793928452000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
       {
         "id": "devto-4998424",
         "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️",
@@ -289,8 +271,8 @@
           "csharp",
           "programming"
         ],
-        "reactions": 127,
-        "comments": 40,
+        "reactions": 129,
+        "comments": 41,
         "time": 1794238254000,
         "source": "Dev.to",
         "category": "practice"
@@ -308,7 +290,7 @@
           "architecture"
         ],
         "reactions": 126,
-        "comments": 34,
+        "comments": 35,
         "time": 1794240745000,
         "source": "Dev.to",
         "category": "practice"
@@ -325,8 +307,8 @@
           "career",
           "programming"
         ],
-        "reactions": 102,
-        "comments": 81,
+        "reactions": 107,
+        "comments": 88,
         "time": 1794386115000,
         "source": "Dev.to",
         "category": "practice"
@@ -361,8 +343,8 @@
           "rust",
           "ai"
         ],
-        "reactions": 82,
-        "comments": 11,
+        "reactions": 89,
+        "comments": 14,
         "time": 1794497450000,
         "source": "Dev.to",
         "category": "practice"
@@ -379,8 +361,8 @@
           "agents",
           "typescript"
         ],
-        "reactions": 80,
-        "comments": 50,
+        "reactions": 86,
+        "comments": 58,
         "time": 1794471276000,
         "source": "Dev.to",
         "category": "practice"
@@ -397,14 +379,82 @@
           "gamedev",
           "machinelearning"
         ],
-        "reactions": 76,
-        "comments": 82,
+        "reactions": 79,
+        "comments": 84,
         "time": 1794163579000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-5012963",
+        "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
+        "url": "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan",
+        "description": "A few years ago (three years at most), one of the biggest challenges QA Engineers faced was: how do...",
+        "author": "Alicia Marianne Gonçalves",
+        "tags": [
+          "ai",
+          "testing",
+          "python",
+          "agents"
+        ],
+        "reactions": 75,
+        "comments": 24,
+        "time": 1794351148000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&utm_medium=article",
+        "title": "应用只是冰山一角：构建大规模移动应用基础设施需要什么",
+        "url": "https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1794574800000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&utm_medium=article",
+        "title": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "url": "https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1794569294000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article",
+        "title": "Docker 呼吁通过隔离与治理保障智能体安全",
+        "url": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1794567600000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&utm_medium=article",
+        "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1794564000000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
+        "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1794561420000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe?utm_source=rss&utm_medium=article",
         "title": "LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务",
@@ -434,56 +484,6 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article",
-        "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-        "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1794481200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&utm_medium=article",
-        "title": "Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
-        "url": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1794480305000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&utm_medium=article",
-        "title": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
-        "url": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1794479012000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/kIw9Wp2uSgCwrsgicIZ0?utm_source=rss&utm_medium=article",
-        "title": "让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
-        "url": "https://www.infoq.cn/article/kIw9Wp2uSgCwrsgicIZ0?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1794478859000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd?utm_source=rss&utm_medium=article",
-        "title": "从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
-        "url": "https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1794477600000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
     "papers": []
@@ -494,8 +494,8 @@
         "id": "hn-50467087",
         "title": "Jensen Huang resigns",
         "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-        "score": 2696,
-        "comments": 2577,
+        "score": 3248,
+        "comments": 2990,
         "author": "lldb",
         "time": 1794491549000,
         "source": "Hacker News",
@@ -506,22 +506,10 @@
         "id": "hn-50450488",
         "title": "Tim Peters has died",
         "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-        "score": 1391,
-        "comments": 185,
+        "score": 1404,
+        "comments": 184,
         "author": "ayhanfuat",
         "time": 1794380597000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50438261",
-        "title": "Socratic Tutor",
-        "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-        "score": 646,
-        "comments": 153,
-        "author": "tosh",
-        "time": 1794305902000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -530,34 +518,10 @@
         "id": "hn-50471731",
         "title": "Service degradation on Microsoft 365",
         "url": "https://status.cloud.microsoft/",
-        "score": 391,
-        "comments": 381,
+        "score": 677,
+        "comments": 637,
         "author": "dkpk",
         "time": 1794507648000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50425017",
-        "title": "A live tree of systemd jobs on the boot console",
-        "url": "https://codeberg.org/wvhulle/bootvine",
-        "score": 347,
-        "comments": 137,
-        "author": "orhunp_",
-        "time": 1794229364000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50465352",
-        "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
-        "url": "https://pron.github.io/posts/correctness-and-complexity",
-        "score": 345,
-        "comments": 164,
-        "author": "AriFordsham",
-        "time": 1794479306000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -566,8 +530,8 @@
         "id": "hn-50472038",
         "title": "Rust 1.100",
         "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-        "score": 288,
-        "comments": 136,
+        "score": 557,
+        "comments": 224,
         "author": "mbStavola",
         "time": 1794508745000,
         "source": "Hacker News",
@@ -578,10 +542,34 @@
         "id": "hn-50470488",
         "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
         "url": "https://github.com/simpsoka/zigzag",
-        "score": 261,
-        "comments": 106,
+        "score": 434,
+        "comments": 166,
         "author": "simpsoka",
         "time": 1794502962000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50465352",
+        "title": "Writing correct software is hard and math alone won’t help us (2016)",
+        "url": "https://pron.github.io/posts/correctness-and-complexity",
+        "score": 361,
+        "comments": 175,
+        "author": "AriFordsham",
+        "time": 1794479306000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50477231",
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "score": 322,
+        "comments": 250,
+        "author": "lavendermon",
+        "time": 1794536184000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -590,8 +578,8 @@
         "id": "hn-50469994",
         "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
         "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-        "score": 260,
-        "comments": 198,
+        "score": 291,
+        "comments": 224,
         "author": "CharlesW",
         "time": 1794500953000,
         "source": "Hacker News",
@@ -602,10 +590,22 @@
         "id": "hn-50467618",
         "title": "Abandoned Quake 4 expansion finished by modders and now playable",
         "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-        "score": 230,
-        "comments": 78,
+        "score": 255,
+        "comments": 91,
         "author": "klaussilveira",
         "time": 1794493129000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50472490",
+        "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+        "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+        "score": 253,
+        "comments": 110,
+        "author": "cybermango",
+        "time": 1794510333000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
