@@ -1,15 +1,15 @@
 {
-  "updateTime": 1795218688237,
-  "updateTimeStr": "2026/11/21 07:51:28",
-  "totalCount": 185,
+  "updateTime": 1795242804637,
+  "updateTimeStr": "2026/11/21 14:33:24",
+  "totalCount": 153,
   "daily": {
     "mustRead": [
       {
         "id": "hn-50574968",
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
-        "score": 2276,
-        "comments": 1544,
+        "score": 2508,
+        "comments": 1733,
         "author": "iamronaldo",
         "time": 1795184181000,
         "source": "Hacker News",
@@ -17,13 +17,13 @@
         "isAI": true
       },
       {
-        "id": "hn-50572503",
-        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "url": "https://architectlabs.com/blog/frostbite",
-        "score": 609,
-        "comments": 318,
-        "author": "shioyama",
-        "time": 1795168901000,
+        "id": "hn-50576855",
+        "title": "I'll never buy Framework hardware again",
+        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "score": 783,
+        "comments": 570,
+        "author": "unchar1",
+        "time": 1795190790000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -32,8 +32,8 @@
         "id": "hn-50572355",
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
         "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-        "score": 602,
-        "comments": 287,
+        "score": 652,
+        "comments": 306,
         "author": "sammatilda",
         "time": 1795167799000,
         "source": "Hacker News",
@@ -41,25 +41,25 @@
         "isAI": true
       },
       {
-        "id": "hn-50577901",
-        "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-        "score": 244,
-        "comments": 180,
-        "author": "cdrnsf",
-        "time": 1795193967000,
+        "id": "hn-50572503",
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "score": 639,
+        "comments": 332,
+        "author": "shioyama",
+        "time": 1795168901000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
       },
       {
-        "id": "hn-50572448",
-        "title": "What people are building, discovered through new domains",
-        "url": "https://startups.novumsignals.com/",
-        "score": 154,
-        "comments": 72,
-        "author": "walterschnitzel",
-        "time": 1795168473000,
+        "id": "hn-50563148",
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "score": 554,
+        "comments": 270,
+        "author": "cybermango",
+        "time": 1795109444000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,26 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-microsoft-markitdown",
-        "title": "microsoft/markitdown",
-        "url": "https://github.com/microsoft/markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "starsToday": "280 stars today",
-        "totalStars": "197,254",
-        "time": 1795218684304,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-SWE-agent-mini-swe-agent",
         "title": "SWE-agent/mini-swe-agent",
         "url": "https://github.com/SWE-agent/mini-swe-agent",
         "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
         "language": "Python",
-        "starsToday": "62 stars today",
-        "totalStars": "9,898",
-        "time": 1795218684304,
+        "starsToday": "66 stars today",
+        "totalStars": "9,910",
+        "time": 1795242800961,
         "source": "GitHub",
         "category": "github"
       },
@@ -97,8 +85,8 @@
         "description": "A PyTorch native platform for training generative AI models",
         "language": "Python",
         "starsToday": "4 stars today",
-        "totalStars": "5,932",
-        "time": 1795218684304,
+        "totalStars": "5,934",
+        "time": 1795242800961,
         "source": "GitHub",
         "category": "github"
       },
@@ -108,9 +96,9 @@
         "url": "https://github.com/awslabs/cli-agent-orchestrator",
         "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
         "language": "Python",
-        "starsToday": "8 stars today",
-        "totalStars": "1,608",
-        "time": 1795218684304,
+        "starsToday": "11 stars today",
+        "totalStars": "1,614",
+        "time": 1795242800961,
         "source": "GitHub",
         "category": "github"
       },
@@ -121,44 +109,8 @@
         "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
         "language": "Python",
         "starsToday": "7 stars today",
-        "totalStars": "3,127",
-        "time": 1795218684304,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Imbad0202-academic-research-skills",
-        "title": "Imbad0202/academic-research-skills",
-        "url": "https://github.com/Imbad0202/academic-research-skills",
-        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "language": "Python",
-        "starsToday": "144 stars today",
-        "totalStars": "57,883",
-        "time": 1795218684303,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-wshobson-agents",
-        "title": "wshobson/agents",
-        "url": "https://github.com/wshobson/agents",
-        "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
-        "language": "Python",
-        "starsToday": "38 stars today",
-        "totalStars": "42,742",
-        "time": 1795218684303,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-apache-airflow",
-        "title": "apache/airflow",
-        "url": "https://github.com/apache/airflow",
-        "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-        "language": "Python",
-        "starsToday": "28 stars today",
-        "totalStars": "47,579",
-        "time": 1795218684303,
+        "totalStars": "3,128",
+        "time": 1795242800961,
         "source": "GitHub",
         "category": "github"
       },
@@ -168,21 +120,57 @@
         "url": "https://github.com/zhouxiaoka/autoclip",
         "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
         "language": "Python",
-        "starsToday": "983 stars today",
-        "totalStars": "12,154",
-        "time": 1795218684302,
+        "starsToday": "979 stars today",
+        "totalStars": "12,349",
+        "time": 1795242800960,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-Tracer-Cloud-opensre",
-        "title": "Tracer-Cloud/opensre",
-        "url": "https://github.com/Tracer-Cloud/opensre",
-        "description": "The open-source agent for CI/CD reliability.",
+        "id": "gh-Imbad0202-academic-research-skills",
+        "title": "Imbad0202/academic-research-skills",
+        "url": "https://github.com/Imbad0202/academic-research-skills",
+        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "language": "Python",
-        "starsToday": "465 stars today",
-        "totalStars": "13,589",
-        "time": 1795218684146,
+        "starsToday": "146 stars today",
+        "totalStars": "57,905",
+        "time": 1795242800960,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-wshobson-agents",
+        "title": "wshobson/agents",
+        "url": "https://github.com/wshobson/agents",
+        "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
+        "language": "Python",
+        "starsToday": "41 stars today",
+        "totalStars": "42,753",
+        "time": 1795242800960,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-apache-airflow",
+        "title": "apache/airflow",
+        "url": "https://github.com/apache/airflow",
+        "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+        "language": "Python",
+        "starsToday": "30 stars today",
+        "totalStars": "47,583",
+        "time": 1795242800960,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-microsoft-markitdown",
+        "title": "microsoft/markitdown",
+        "url": "https://github.com/microsoft/markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "starsToday": "281 stars today",
+        "totalStars": "197,290",
+        "time": 1795242800960,
         "source": "GitHub",
         "category": "github"
       },
@@ -192,9 +180,9 @@
         "url": "https://github.com/toeverything/AFFiNE",
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
         "language": "TypeScript",
-        "starsToday": "686 stars today",
-        "totalStars": "75,780",
-        "time": 1795218684146,
+        "starsToday": "676 stars today",
+        "totalStars": "75,921",
+        "time": 1795242800864,
         "source": "GitHub",
         "category": "github"
       },
@@ -205,37 +193,31 @@
         "description": "The only downloader you need. 下载器的集大成者。",
         "language": "Python",
         "starsToday": "1,082 stars today",
-        "totalStars": "13,675",
-        "time": 1795218684146,
+        "totalStars": "13,916",
+        "time": 1795242800864,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-cathrynlavery-diagram-design",
+        "title": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "starsToday": "636 stars today",
+        "totalStars": "69,421",
+        "time": 1795242800863,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
       {
-        "id": "ph-https://www.producthunt.com/products/aiteam-space",
-        "title": "aiteam.space",
-        "url": "https://www.producthunt.com/products/aiteam-space",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1794348877000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/mailpipe-2",
         "title": "Mailpipe",
         "url": "https://www.producthunt.com/products/mailpipe-2",
         "description": "Discussion\n            |\n            Link",
         "time": 1795148035000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/inkrail",
-        "title": "Inkrail",
-        "url": "https://www.producthunt.com/products/inkrail",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1795077968000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
@@ -249,20 +231,20 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/ai-call",
-        "title": "AI Call",
-        "url": "https://www.producthunt.com/products/ai-call",
+        "id": "ph-https://www.producthunt.com/products/aiteam-space",
+        "title": "aiteam.space",
+        "url": "https://www.producthunt.com/products/aiteam-space",
         "description": "Discussion\n            |\n            Link",
-        "time": 1794748298000,
+        "time": 1794348877000,
         "source": "Product Hunt",
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/ai-gateway-6",
-        "title": "AI Gateway",
-        "url": "https://www.producthunt.com/products/ai-gateway-6",
+        "id": "ph-https://www.producthunt.com/products/inkrail",
+        "title": "Inkrail",
+        "url": "https://www.producthunt.com/products/inkrail",
         "description": "Discussion\n            |\n            Link",
-        "time": 1794424116000,
+        "time": 1795077968000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -280,8 +262,8 @@
           "productivity",
           "agents"
         ],
-        "reactions": 197,
-        "comments": 177,
+        "reactions": 205,
+        "comments": 182,
         "time": 1794990765000,
         "source": "Dev.to",
         "category": "practice"
@@ -298,8 +280,8 @@
           "opensource",
           "programming"
         ],
-        "reactions": 105,
-        "comments": 27,
+        "reactions": 108,
+        "comments": 28,
         "time": 1795022872000,
         "source": "Dev.to",
         "category": "practice"
@@ -316,8 +298,8 @@
           "career",
           "programming"
         ],
-        "reactions": 104,
-        "comments": 51,
+        "reactions": 105,
+        "comments": 55,
         "time": 1795059310000,
         "source": "Dev.to",
         "category": "practice"
@@ -335,7 +317,7 @@
           "showdev"
         ],
         "reactions": 84,
-        "comments": 44,
+        "comments": 45,
         "time": 1794715228000,
         "source": "Dev.to",
         "category": "practice"
@@ -352,7 +334,7 @@
           "productivity",
           "security"
         ],
-        "reactions": 82,
+        "reactions": 84,
         "comments": 29,
         "time": 1794803679000,
         "source": "Dev.to",
@@ -388,8 +370,8 @@
           "devops",
           "discuss"
         ],
-        "reactions": 74,
-        "comments": 56,
+        "reactions": 77,
+        "comments": 57,
         "time": 1794930344000,
         "source": "Dev.to",
         "category": "practice"
@@ -407,13 +389,43 @@
           "discuss"
         ],
         "reactions": 69,
-        "comments": 40,
+        "comments": 41,
         "time": 1794914775000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+        "title": "智能体 AI 架构：当前挑战与未来机遇",
+        "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1795258800000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+        "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1795255200000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+        "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1795255200000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article",
         "title": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
@@ -463,150 +475,9 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&utm_medium=article",
-        "title": "AI 漫剧不缺作品，缺什么？｜QLab直播",
-        "url": "https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1795194869000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/AH8deOIGb5hMHRPIKfrf?utm_source=rss&utm_medium=article",
-        "title": "Grab 通过安全策略应对 AI 生成代码变更激增，提升移动端 App 稳定性",
-        "url": "https://www.infoq.cn/article/AH8deOIGb5hMHRPIKfrf?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1795183200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&utm_medium=article",
-        "title": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
-        "url": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1795179600000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
-    "papers": [
-      {
-        "id": "arxiv-2611.23322",
-        "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-        "url": "https://arxiv.org/abs/2611.23322",
-        "description": "arXiv:2611.23322v1 Announce Type: new \nAbstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side ",
-        "author": "Aydin Mohseni",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23365",
-        "title": "Training Language Models for Introspective Oversight",
-        "url": "https://arxiv.org/abs/2611.23365",
-        "description": "arXiv:2611.23365v1 Announce Type: new \nAbstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not tra",
-        "author": "Alex Lin Wang, Linus Yifeng Tang, Dami Choi, Neil Chowdhury",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23375",
-        "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-        "url": "https://arxiv.org/abs/2611.23375",
-        "description": "arXiv:2611.23375v1 Announce Type: new \nAbstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them",
-        "author": "Al\\'an Aspuru-Guzik, Varinia Bernales",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23398",
-        "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-        "url": "https://arxiv.org/abs/2611.23398",
-        "description": "arXiv:2611.23398v1 Announce Type: new \nAbstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machi",
-        "author": "Yuanlin Wen, Elan Markowitz, Zubo Gu, Sami Abu-El-Haija, Bryan Perozzi, Mikhail Galkin, Ali Parviz, Aayush Gupta, Venkata Chivukula, Griffin Hadfield, Aravind Akella, Daniel J. Frame, Vahab Mirrokni, Amin Vahdat",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23410",
-        "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-        "url": "https://arxiv.org/abs/2611.23410",
-        "description": "arXiv:2611.23410v1 Announce Type: new \nAbstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap,",
-        "author": "Jiarui Cui, Boxun Yan",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23445",
-        "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-        "url": "https://arxiv.org/abs/2611.23445",
-        "description": "arXiv:2611.23445v2 Announce Type: new \nAbstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue a",
-        "author": "Michael Schroeder",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23454",
-        "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-        "url": "https://arxiv.org/abs/2611.23454",
-        "description": "arXiv:2611.23454v1 Announce Type: new \nAbstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real clinical notes are rarel",
-        "author": "Carla Teixeira Lopes, Daniel F\\'elix",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23456",
-        "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-        "url": "https://arxiv.org/abs/2611.23456",
-        "description": "arXiv:2611.23456v1 Announce Type: new \nAbstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging. Generated questions must satisfy multiple constraints: mathematical correctness, curriculum al",
-        "author": "Quy P. Nguyen, Duong Q. Nguyen, Dinh P. T. Nguyen, Truong-Giang T. Le, Truong A. Bui, Vi H. Vo, Quang-Thinh Bui, My-Phuong Ngo, Trong N. Do, Thao P. Le, Phuc M. Nguyen, H. Nguyen-Xuan",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23476",
-        "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-        "url": "https://arxiv.org/abs/2611.23476",
-        "description": "arXiv:2611.23476v1 Announce Type: new \nAbstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders o",
-        "author": "Minghe Zhang, Xuetao Kang, Yifei Ming, Yanfei Chen, Han Yu, Yufan Zhuang, Chen-Yu Lee",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      },
-      {
-        "id": "arxiv-2611.23480",
-        "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-        "url": "https://arxiv.org/abs/2611.23480",
-        "description": "arXiv:2611.23480v1 Announce Type: new \nAbstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods. In this retrospective study, six VLMs read 100 emergency CT and MRI examinati",
-        "author": "Jonathan Lichtle, Aymen Meddeb, Antonin Birot, Ibrahima Niang, Lisa Gastaud, Riyad Hanafi, Sofiane Dujardin, Corentin Selomme, Guillaume Cachard, Aghiles Hamroun, Gr\\'egory Kuchcinski, Su Hwan Kim, Bastien Le Guellec",
-        "time": 1795150800000,
-        "source": "arXiv",
-        "category": "paper",
-        "arxivCategory": "cs.AI"
-      }
-    ]
+    "papers": []
   },
   "extra": {
     "techNews": [
@@ -614,8 +485,8 @@
         "id": "hn-50579568",
         "title": "Hurried Announcement: Alessandro Masullo GRH",
         "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-        "score": 1360,
-        "comments": 630,
+        "score": 1847,
+        "comments": 848,
         "author": "jasondavies",
         "time": 1795199594000,
         "source": "Hacker News",
@@ -626,46 +497,10 @@
         "id": "hn-50581260",
         "title": "Inkling 2 Mini",
         "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "score": 545,
-        "comments": 90,
+        "score": 871,
+        "comments": 162,
         "author": "jasondavies",
         "time": 1795205539000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50572348",
-        "title": "Signal Is Serious About Protecting Your Privacy",
-        "url": "https://signal.org/blog/protecting-your-privacy/",
-        "score": 480,
-        "comments": 290,
-        "author": "dotcoma",
-        "time": 1795167736000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50575644",
-        "title": "Why there are still no non-WebKit browsers on iOS",
-        "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-        "score": 322,
-        "comments": 190,
-        "author": "lapcat",
-        "time": 1795187011000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50577265",
-        "title": "Language Models Can Rewrite Their Own Weights",
-        "url": "https://arxiv.org/abs/2611.21885",
-        "score": 317,
-        "comments": 106,
-        "author": "lwhsiao",
-        "time": 1795192146000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -674,10 +509,22 @@
         "id": "hn-50578358",
         "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
         "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-        "score": 297,
-        "comments": 117,
+        "score": 397,
+        "comments": 164,
         "author": "archon1410",
         "time": 1795195296000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50577265",
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "score": 381,
+        "comments": 116,
+        "author": "lwhsiao",
+        "time": 1795192146000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -686,8 +533,8 @@
         "id": "hn-50579331",
         "title": "We promoted developers into architects without informing them",
         "url": "https://manidoraisamy.com/developer-to-architect.html",
-        "score": 250,
-        "comments": 160,
+        "score": 377,
+        "comments": 218,
         "author": "QueensGambit",
         "time": 1795198671000,
         "source": "Hacker News",
@@ -698,10 +545,22 @@
         "id": "hn-50576232",
         "title": "Finite-time blow-up for the Navier–Stokes equations",
         "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-        "score": 245,
-        "comments": 77,
+        "score": 273,
+        "comments": 86,
         "author": "trotro",
         "time": 1795188871000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50581438",
+        "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+        "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+        "score": 270,
+        "comments": 144,
+        "author": "ftchd",
+        "time": 1795206161000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -710,8 +569,8 @@
         "id": "hn-50526023",
         "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
         "url": "https://kobi.music/research/dettato",
-        "score": 224,
-        "comments": 48,
+        "score": 266,
+        "comments": 56,
         "author": "hidude562",
         "time": 1794877385000,
         "source": "Hacker News",
@@ -719,13 +578,25 @@
         "isAI": false
       },
       {
-        "id": "hn-50581438",
-        "title": "Nvidia accounting under SEC investigation, sources say",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-        "score": 191,
-        "comments": 91,
-        "author": "ftchd",
-        "time": 1795206161000,
+        "id": "hn-50581084",
+        "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+        "url": "https://scottaaronson.blog/?p=10344",
+        "score": 265,
+        "comments": 238,
+        "author": "stratos123",
+        "time": 1795204987000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50572822",
+        "title": "The Making of Oxygene",
+        "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+        "score": 205,
+        "comments": 76,
+        "author": "hggh",
+        "time": 1795171270000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -737,7 +608,6 @@
     "sources": [
       "GitHub",
       "Hacker News",
-      "arXiv",
       "Dev.to",
       "InfoQ",
       "Product Hunt"
