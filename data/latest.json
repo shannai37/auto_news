@@ -1,15 +1,15 @@
 {
-  "updateTime": 1795327255399,
-  "updateTimeStr": "2026/11/22 14:00:55",
-  "totalCount": 157,
+  "updateTime": 1795375022599,
+  "updateTimeStr": "2026/11/23 03:17:02",
+  "totalCount": 154,
   "daily": {
     "mustRead": [
       {
         "id": "hn-50574968",
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
-        "score": 2867,
-        "comments": 2046,
+        "score": 2896,
+        "comments": 2078,
         "author": "iamronaldo",
         "time": 1795184181000,
         "source": "Hacker News",
@@ -20,8 +20,8 @@
         "id": "hn-50582069",
         "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-        "score": 839,
-        "comments": 192,
+        "score": 1285,
+        "comments": 274,
         "author": "rafaelc",
         "time": 1795208592000,
         "source": "Hacker News",
@@ -29,13 +29,13 @@
         "isAI": true
       },
       {
-        "id": "hn-50583274",
-        "title": "NINLIVE: The Nine Inch Nails live archive",
-        "url": "https://ninlive.com/",
-        "score": 366,
-        "comments": 104,
-        "author": "CharlesW",
-        "time": 1795213847000,
+        "id": "hn-50597612",
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "score": 619,
+        "comments": 699,
+        "author": "happosai",
+        "time": 1795337854000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -44,8 +44,8 @@
         "id": "hn-50546587",
         "title": "LLMs can read and write executables byte by byte from a hex dump",
         "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-        "score": 224,
-        "comments": 144,
+        "score": 308,
+        "comments": 176,
         "author": "fortran77",
         "time": 1795011358000,
         "source": "Hacker News",
@@ -53,13 +53,13 @@
         "isAI": true
       },
       {
-        "id": "hn-50586292",
-        "title": "ClawDOS – An AI coding agent for DOS",
-        "url": "http://ricapar.net/ClawDOS/",
-        "score": 162,
-        "comments": 51,
-        "author": "Ricapar",
-        "time": 1795239481000,
+        "id": "hn-50599762",
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "url": "https://github.com/gulivan/worker755",
+        "score": 173,
+        "comments": 45,
+        "author": "ivantgam",
+        "time": 1795355818000,
         "source": "Hacker News",
         "category": "ai-news",
         "isAI": true
@@ -67,62 +67,14 @@
     ],
     "tools": [
       {
-        "id": "gh-awslabs-cli-agent-orchestrator",
-        "title": "awslabs/cli-agent-orchestrator",
-        "url": "https://github.com/awslabs/cli-agent-orchestrator",
-        "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
-        "language": "Python",
-        "starsToday": "14 stars today",
-        "totalStars": "1,622",
-        "time": 1795327249050,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-vllm-project-vllm-ascend",
-        "title": "vllm-project/vllm-ascend",
-        "url": "https://github.com/vllm-project/vllm-ascend",
-        "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-        "language": "Python",
-        "starsToday": "3 stars today",
-        "totalStars": "3,128",
-        "time": 1795327249050,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-apache-airflow",
-        "title": "apache/airflow",
-        "url": "https://github.com/apache/airflow",
-        "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-        "language": "Python",
-        "starsToday": "16 stars today",
-        "totalStars": "47,590",
-        "time": 1795327249049,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-microsoft-markitdown",
-        "title": "microsoft/markitdown",
-        "url": "https://github.com/microsoft/markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "starsToday": "182 stars today",
-        "totalStars": "197,642",
-        "time": 1795327249049,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
         "id": "gh-SWE-agent-mini-swe-agent",
         "title": "SWE-agent/mini-swe-agent",
         "url": "https://github.com/SWE-agent/mini-swe-agent",
         "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
         "language": "Python",
-        "starsToday": "37 stars today",
-        "totalStars": "9,945",
-        "time": 1795327249049,
+        "starsToday": "35 stars today",
+        "totalStars": "9,967",
+        "time": 1795375019518,
         "source": "GitHub",
         "category": "github"
       },
@@ -133,8 +85,44 @@
         "description": "A PyTorch native platform for training generative AI models",
         "language": "Python",
         "starsToday": "9 stars today",
-        "totalStars": "5,940",
-        "time": 1795327249049,
+        "totalStars": "5,950",
+        "time": 1795375019518,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-awslabs-cli-agent-orchestrator",
+        "title": "awslabs/cli-agent-orchestrator",
+        "url": "https://github.com/awslabs/cli-agent-orchestrator",
+        "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+        "language": "Python",
+        "starsToday": "11 stars today",
+        "totalStars": "1,632",
+        "time": 1795375019518,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-vllm-project-vllm-ascend",
+        "title": "vllm-project/vllm-ascend",
+        "url": "https://github.com/vllm-project/vllm-ascend",
+        "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+        "language": "Python",
+        "starsToday": "3 stars today",
+        "totalStars": "3,132",
+        "time": 1795375019518,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-zhouxiaoka-autoclip",
+        "title": "zhouxiaoka/autoclip",
+        "url": "https://github.com/zhouxiaoka/autoclip",
+        "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+        "language": "Python",
+        "starsToday": "640 stars today",
+        "totalStars": "13,347",
+        "time": 1795375019517,
         "source": "GitHub",
         "category": "github"
       },
@@ -144,9 +132,9 @@
         "url": "https://github.com/Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "language": "Python",
-        "starsToday": "99 stars today",
-        "totalStars": "58,019",
-        "time": 1795327249048,
+        "starsToday": "121 stars today",
+        "totalStars": "58,089",
+        "time": 1795375019517,
         "source": "GitHub",
         "category": "github"
       },
@@ -157,20 +145,44 @@
         "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
         "language": "Python",
         "starsToday": "39 stars today",
-        "totalStars": "42,781",
-        "time": 1795327249048,
+        "totalStars": "42,790",
+        "time": 1795375019517,
         "source": "GitHub",
         "category": "github"
       },
       {
-        "id": "gh-zhouxiaoka-autoclip",
-        "title": "zhouxiaoka/autoclip",
-        "url": "https://github.com/zhouxiaoka/autoclip",
-        "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+        "id": "gh-apache-airflow",
+        "title": "apache/airflow",
+        "url": "https://github.com/apache/airflow",
+        "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
         "language": "Python",
-        "starsToday": "683 stars today",
-        "totalStars": "12,975",
-        "time": 1795327249047,
+        "starsToday": "16 stars today",
+        "totalStars": "47,599",
+        "time": 1795375019517,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-microsoft-markitdown",
+        "title": "microsoft/markitdown",
+        "url": "https://github.com/microsoft/markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "starsToday": "466 stars today",
+        "totalStars": "197,842",
+        "time": 1795375019517,
+        "source": "GitHub",
+        "category": "github"
+      },
+      {
+        "id": "gh-toeverything-AFFiNE",
+        "title": "toeverything/AFFiNE",
+        "url": "https://github.com/toeverything/AFFiNE",
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "language": "TypeScript",
+        "starsToday": "537 stars today",
+        "totalStars": "76,706",
+        "time": 1795375019294,
         "source": "GitHub",
         "category": "github"
       },
@@ -180,9 +192,9 @@
         "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
         "description": "The only downloader you need. 下载器的集大成者。",
         "language": "Python",
-        "starsToday": "779 stars today",
-        "totalStars": "14,594",
-        "time": 1795327248906,
+        "starsToday": "690 stars today",
+        "totalStars": "15,007",
+        "time": 1795375019294,
         "source": "GitHub",
         "category": "github"
       },
@@ -190,28 +202,25 @@
         "id": "gh-mjmirza-app-store-compliance",
         "title": "mjmirza/app-store-compliance",
         "url": "https://github.com/mjmirza/app-store-compliance",
-        "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+        "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
         "language": "Shell",
-        "starsToday": "720 stars today",
-        "totalStars": "3,525",
-        "time": 1795327248905,
-        "source": "GitHub",
-        "category": "github"
-      },
-      {
-        "id": "gh-Tracer-Cloud-opensre",
-        "title": "Tracer-Cloud/opensre",
-        "url": "https://github.com/Tracer-Cloud/opensre",
-        "description": "The open-source agent for CI/CD reliability.",
-        "language": "Python",
-        "starsToday": "450 stars today",
-        "totalStars": "14,073",
-        "time": 1795327248905,
+        "starsToday": "617 stars today",
+        "totalStars": "3,857",
+        "time": 1795375019293,
         "source": "GitHub",
         "category": "github"
       }
     ],
     "products": [
+      {
+        "id": "ph-https://www.producthunt.com/products/waitfeed-2",
+        "title": "WaitFeed",
+        "url": "https://www.producthunt.com/products/waitfeed-2",
+        "description": "Discussion\n            |\n            Link",
+        "time": 1795204866000,
+        "source": "Product Hunt",
+        "category": "ai-product"
+      },
       {
         "id": "ph-https://www.producthunt.com/products/glassmail",
         "title": "Glassmail",
@@ -231,47 +240,11 @@
         "category": "ai-product"
       },
       {
-        "id": "ph-https://www.producthunt.com/products/waitfeed-2",
-        "title": "WaitFeed",
-        "url": "https://www.producthunt.com/products/waitfeed-2",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1795204866000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
         "id": "ph-https://www.producthunt.com/products/supermailbox",
         "title": "SuperMailbox",
         "url": "https://www.producthunt.com/products/supermailbox",
         "description": "Discussion\n            |\n            Link",
         "time": 1794656731000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/mailpipe-2",
-        "title": "Mailpipe",
-        "url": "https://www.producthunt.com/products/mailpipe-2",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1795148035000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/aiteam-space",
-        "title": "aiteam.space",
-        "url": "https://www.producthunt.com/products/aiteam-space",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1794348877000,
-        "source": "Product Hunt",
-        "category": "ai-product"
-      },
-      {
-        "id": "ph-https://www.producthunt.com/products/greatai-review",
-        "title": "greatai Review",
-        "url": "https://www.producthunt.com/products/greatai-review",
-        "description": "Discussion\n            |\n            Link",
-        "time": 1795150605000,
         "source": "Product Hunt",
         "category": "ai-product"
       }
@@ -289,8 +262,8 @@
           "productivity",
           "agents"
         ],
-        "reactions": 229,
-        "comments": 195,
+        "reactions": 239,
+        "comments": 212,
         "time": 1794990765000,
         "source": "Dev.to",
         "category": "practice"
@@ -307,8 +280,8 @@
           "opensource",
           "programming"
         ],
-        "reactions": 119,
-        "comments": 29,
+        "reactions": 120,
+        "comments": 30,
         "time": 1795022872000,
         "source": "Dev.to",
         "category": "practice"
@@ -325,9 +298,27 @@
           "career",
           "programming"
         ],
-        "reactions": 113,
+        "reactions": 115,
         "comments": 55,
         "time": 1795059310000,
+        "source": "Dev.to",
+        "category": "practice"
+      },
+      {
+        "id": "devto-5080715",
+        "title": "The Chairs Are Back. The Coffee Is On. ☕",
+        "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
+        "description": "Welcome to The Third Cup.           The Renovation Is Done. We're Open Again!   Finally, the...",
+        "author": "xulingfeng",
+        "tags": [
+          "community",
+          "discuss",
+          "ai",
+          "writing"
+        ],
+        "reactions": 98,
+        "comments": 46,
+        "time": 1795260269000,
         "source": "Dev.to",
         "category": "practice"
       },
@@ -350,24 +341,6 @@
         "category": "practice"
       },
       {
-        "id": "devto-5080715",
-        "title": "The Chairs Are Back. The Coffee Is On. ☕",
-        "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
-        "description": "Welcome to The Third Cup.           The Renovation Is Done. We're Open Again!   Finally, the...",
-        "author": "xulingfeng",
-        "tags": [
-          "community",
-          "discuss",
-          "ai",
-          "writing"
-        ],
-        "reactions": 88,
-        "comments": 37,
-        "time": 1795260269000,
-        "source": "Dev.to",
-        "category": "practice"
-      },
-      {
         "id": "devto-5058432",
         "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
         "url": "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7",
@@ -380,7 +353,7 @@
           "discuss"
         ],
         "reactions": 86,
-        "comments": 63,
+        "comments": 69,
         "time": 1794930344000,
         "source": "Dev.to",
         "category": "practice"
@@ -415,14 +388,44 @@
           "beginners",
           "programming"
         ],
-        "reactions": 78,
-        "comments": 19,
+        "reactions": 79,
+        "comments": 22,
         "time": 1795191697000,
         "source": "Dev.to",
         "category": "practice"
       }
     ],
     "china": [
+      {
+        "id": "infoq-https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article",
+        "title": "财务团队的 AI 蓝图",
+        "url": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1795370098000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article",
+        "title": "打造 AI 优先的销售与营销运营体系",
+        "url": "https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1795369309000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
+      {
+        "id": "infoq-https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article",
+        "title": "智能体企业新前沿：驱动高效智能",
+        "url": "https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article",
+        "description": "点击查看原文>",
+        "time": 1795369108000,
+        "source": "InfoQ",
+        "category": "practice",
+        "isChina": true
+      },
       {
         "id": "infoq-https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&utm_medium=article",
         "title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
@@ -472,36 +475,6 @@
         "source": "InfoQ",
         "category": "practice",
         "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
-        "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
-        "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1795255200000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article",
-        "title": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
-        "url": "https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1795200494000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
-      },
-      {
-        "id": "infoq-https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
-        "title": "AI 来了，团队究竟怎么变？",
-        "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
-        "description": "点击查看原文>",
-        "time": 1795200234000,
-        "source": "InfoQ",
-        "category": "practice",
-        "isChina": true
       }
     ],
     "papers": []
@@ -509,23 +482,11 @@
   "extra": {
     "techNews": [
       {
-        "id": "hn-50579568",
-        "title": "Hurried Announcement: Alessandro Masullo GRH",
-        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-        "score": 2402,
-        "comments": 1166,
-        "author": "jasondavies",
-        "time": 1795199594000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
         "id": "hn-50581260",
         "title": "Inkling 2 Mini",
         "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "score": 1399,
-        "comments": 285,
+        "score": 1442,
+        "comments": 291,
         "author": "jasondavies",
         "time": 1795205539000,
         "source": "Hacker News",
@@ -536,10 +497,22 @@
         "id": "hn-50589618",
         "title": "Lean verification of the Riemann Hypothesis",
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-        "score": 931,
-        "comments": 791,
+        "score": 1186,
+        "comments": 981,
         "author": "g-b-r",
         "time": 1795271805000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50596133",
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "score": 1029,
+        "comments": 614,
+        "author": "zdw",
+        "time": 1795320296000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -548,34 +521,10 @@
         "id": "hn-50576012",
         "title": "Slopstrap – Make your site look hastily vibecoded",
         "url": "https://slopstrap.mikelacher.com/",
-        "score": 689,
-        "comments": 128,
+        "score": 758,
+        "comments": 140,
         "author": "mlacher",
         "time": 1795188251000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50583761",
-        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-        "url": "https://news.ycombinator.com/item?id=50583761",
-        "score": 662,
-        "comments": 754,
-        "author": "LetThingsBeDiff",
-        "time": 1795216712000,
-        "source": "Hacker News",
-        "category": "tech",
-        "isAI": false
-      },
-      {
-        "id": "hn-50579331",
-        "title": "We promoted developers into architects without informing them",
-        "url": "https://manidoraisamy.com/developer-to-architect.html",
-        "score": 595,
-        "comments": 318,
-        "author": "QueensGambit",
-        "time": 1795198671000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
@@ -584,8 +533,8 @@
         "id": "hn-50588982",
         "title": "Detonating a pile of lead azide",
         "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "score": 578,
-        "comments": 375,
+        "score": 687,
+        "comments": 418,
         "author": "beginning_end",
         "time": 1795267394000,
         "source": "Hacker News",
@@ -596,8 +545,8 @@
         "id": "hn-50587875",
         "title": "My monitor was cutting my download speed by 75%",
         "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-        "score": 542,
-        "comments": 262,
+        "score": 673,
+        "comments": 311,
         "author": "soheilpro",
         "time": 1795257392000,
         "source": "Hacker News",
@@ -605,25 +554,49 @@
         "isAI": false
       },
       {
-        "id": "hn-50578358",
-        "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-        "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-        "score": 541,
-        "comments": 242,
-        "author": "archon1410",
-        "time": 1795195296000,
+        "id": "hn-50591853",
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "score": 550,
+        "comments": 131,
+        "author": "k__",
+        "time": 1795284139000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
       },
       {
-        "id": "hn-50575644",
-        "title": "Why there are still no non-WebKit browsers on iOS",
-        "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-        "score": 535,
-        "comments": 284,
-        "author": "lapcat",
-        "time": 1795187011000,
+        "id": "hn-50594911",
+        "title": "Sandwich Simulator",
+        "url": "https://stulle.app/",
+        "score": 486,
+        "comments": 169,
+        "author": "subdomain",
+        "time": 1795306079000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50583028",
+        "title": "Getting the mind to steer the body to steer you",
+        "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+        "score": 379,
+        "comments": 146,
+        "author": "jger15",
+        "time": 1795212665000,
+        "source": "Hacker News",
+        "category": "tech",
+        "isAI": false
+      },
+      {
+        "id": "hn-50587208",
+        "title": "GnuPG Security Advisory for GPGME",
+        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "score": 263,
+        "comments": 115,
+        "author": "gdgghhhhh",
+        "time": 1795249978000,
         "source": "Hacker News",
         "category": "tech",
         "isAI": false
